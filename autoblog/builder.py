@@ -4,6 +4,7 @@ The Korean site lives at the root. Each language in config["translations"] (e.g.
 own site under /<lang>/, holding the posts that carry that translation (post["en"], post["ja"]).
 """
 import json
+import re
 import shutil
 from datetime import datetime, timezone
 from html import escape
@@ -295,6 +296,15 @@ def _banner_html(cfg: dict) -> str:
     )
 
 
+def _insert_mid(body_html: str, block: str) -> str:
+    """Put block before the middle <h2> of the body; short posts (under 3 sections) are left as is."""
+    heads = [m.start() for m in re.finditer(r"<h2[ >]", body_html)]
+    if not block or len(heads) < 3:
+        return body_html
+    at = heads[len(heads) // 2]
+    return body_html[:at] + block + body_html[at:]
+
+
 def _related(posts: list[dict], post: dict, n: int = 3) -> list[dict]:
     others = [p for p in posts if p["slug"] != post["slug"]]
     same = [p for p in others if post_category(p) == post_category(post)]
@@ -304,6 +314,8 @@ def _related(posts: list[dict], post: dict, n: int = 3) -> list[dict]:
 def _render_post(cfg: dict, post: dict, posts: list[dict]) -> str:
     url = f"{cfg['site_url']}/{post_path(post)}"
     body_html = markdown.markdown(post["body_markdown"], extensions=["tables", "fenced_code", "sane_lists"])
+    if _is_ko(cfg):
+        body_html = _insert_mid(body_html, _banner_html(cfg))
     # Coupang only ships within Korea, so affiliate blocks appear on the Korean site only.
     has_affiliate = _is_ko(cfg) and bool(post.get("products") or cfg.get("coupang_banner"))
     disclosure = f'<p class="disclosure">{escape(cfg["coupang_disclosure"])}</p>' if has_affiliate else ""
