@@ -30,19 +30,19 @@ def compose(post: dict, url: str) -> str:
     return body + tail
 
 
-def refresh_token(token: str) -> None:
-    """Extend the long-lived token's lifetime; warn if Meta hands back a different token."""
+def refresh_token(token: str) -> str | None:
+    """Extend the long-lived token's lifetime. Returns the new token if Meta issued a different one."""
     query = urllib.parse.urlencode({"grant_type": "th_refresh_token", "access_token": token})
     try:
         with urllib.request.urlopen(f"{API}/refresh_access_token?{query}", timeout=30) as resp:
             data = json.load(resp)
     except urllib.error.URLError as exc:
         print(f"[threads] token refresh failed: {exc}")
-        return
+        return None
     days = int(data.get("expires_in", 0)) // 86400
     print(f"[threads] token valid for ~{days} more days")
-    if data.get("access_token") and data["access_token"] != token:
-        print("[threads] WARNING: Meta issued a new token; update the THREADS_ACCESS_TOKEN secret.")
+    new = data.get("access_token")
+    return new if new and new != token else None
 
 
 def share(post: dict, url: str, token: str) -> str:

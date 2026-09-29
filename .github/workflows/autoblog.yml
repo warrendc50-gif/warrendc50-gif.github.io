@@ -83,8 +83,25 @@ jobs:
         if: github.event_name == 'workflow_dispatch' || steps.gen.outputs.generated != '0' && github.event_name == 'schedule'
         env:
           THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          THREADS_TOKEN_FILE: ${{ runner.temp }}/threads_token
         run: |
           python -m autoblog share
           git add data
           git diff --cached --quiet || git commit -m "autoblog: record Threads shares"
           git push
+
+      # Meta returns a new token on refresh; store it so the ~60-day token never expires.
+      # Needs SECRETS_PAT: a fine-grained token for this repo with "Secrets: Read and write".
+      - name: Save refreshed Threads token
+        if: always() && (github.event_name == 'workflow_dispatch' || steps.gen.outputs.generated != '0' && github.event_name == 'schedule')
+        env:
+          GH_TOKEN: ${{ secrets.SECRETS_PAT }}
+          TOKEN_FILE: ${{ runner.temp }}/threads_token
+        run: |
+          [ -s "$TOKEN_FILE" ] || exit 0
+          if [ -z "$GH_TOKEN" ]; then
+            echo "::warning::Threads token was refreshed but SECRETS_PAT is not set; the new token was not saved."
+          else
+            gh secret set THREADS_ACCESS_TOKEN -R "$GITHUB_REPOSITORY" < "$TOKEN_FILE"
+          fi
+          rm -f "$TOKEN_FILE"

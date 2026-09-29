@@ -12,6 +12,7 @@ import os
 import re
 import sys
 from datetime import datetime, timedelta, timezone
+from pathlib import Path
 
 from . import coupang, threads, topics
 from .builder import build_site, load_posts, post_path
@@ -125,7 +126,17 @@ def share(cfg: dict, limit: int = 2) -> int:
     if not token:
         print("[threads] THREADS_ACCESS_TOKEN not set, skipping")
         return 0
-    threads.refresh_token(token)
+    new_token = threads.refresh_token(token)
+    if new_token:
+        token = new_token
+        # Hand the refreshed token to the workflow, which stores it back into the secret.
+        out = os.environ.get("THREADS_TOKEN_FILE")
+        if out:
+            print(f"::add-mask::{new_token}")
+            Path(out).write_text(new_token, encoding="utf-8")
+            print("[threads] refreshed token saved for the secret update step")
+        else:
+            print("[threads] WARNING: Meta issued a new token; update the THREADS_ACCESS_TOKEN secret.")
     state = topics.load_state()
     shared = set(state.setdefault("threads_shared", []))
     pending = [p for p in load_posts() if p["slug"] not in shared]
