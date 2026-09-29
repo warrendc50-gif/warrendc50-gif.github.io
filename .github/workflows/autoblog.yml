@@ -1,0 +1,90 @@
+name: autoblog
+
+on:
+  schedule:
+    # GitHub cron is often late or skipped, so check hourly; a post is written only when the
+    # current slot (config.json publish_hours_kst, default 07:00 / 19:00 KST) has none yet.
+    - cron: "23 * * * *"
+  workflow_dispatch:
+    inputs:
+      count:
+        description: "이번에 생성할 글 수"
+        default: "1"
+  push:
+    branches: [main, claude/zen-pascal-k5i0k2]
+    paths: ["autoblog/**", "static/**", "content/**", "config.json", ".github/workflows/autoblog.yml"]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: autoblog
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Generate posts
+        id: gen
+        if: github.event_name != 'push'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          COUPANG_ACCESS_KEY: ${{ secrets.COUPANG_ACCESS_KEY }}
+          COUPANG_SECRET_KEY: ${{ secrets.COUPANG_SECRET_KEY }}
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            python -m autoblog generate --if-due
+          else
+            python -m autoblog generate --count "${{ github.event.inputs.count || '1' }}"
+          fi
+
+      - name: Commit new posts
+        if: github.event_name == 'workflow_dispatch' || steps.gen.outputs.generated != '0' && github.event_name == 'schedule'
+        run: |
+          git config user.name "autoblog-bot"
+          git config user.email "autoblog-bot@users.noreply.github.com"
+          git add content data
+          git diff --cached --quiet || git commit -m "autoblog: new post $(date -u +%F)"
+          git push
+
+      - name: Build site
+        if: github.event_name != 'schedule' || steps.gen.outputs.generated != '0'
+        env:
+          SITE_URL: ${{ vars.SITE_URL }}
+          ADSENSE_CLIENT: ${{ vars.ADSENSE_CLIENT }}
+        run: python -m autoblog build
+
+      - if: github.event_name != 'schedule' || steps.gen.outputs.generated != '0'
+        uses: actions/configure-pages@v5
+      - if: github.event_name != 'schedule' || steps.gen.outputs.generated != '0'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+      - id: deploy
+        if: github.event_name != 'schedule' || steps.gen.outputs.generated != '0'
+        uses: actions/deploy-pages@v4
+
+      - name: Share to Threads
+        if: github.event_name == 'workflow_dispatch' || steps.gen.outputs.generated != '0' && github.event_name == 'schedule'
+        env:
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+        run: |
+          python -m autoblog share
+          git add data
+          git diff --cached --quiet || git commit -m "autoblog: record Threads shares"
+          git push

@@ -1,0 +1,41 @@
+{
+  "site_title": "생활 꿀팁 노트",
+  "site_description": "직접 겪은 직장생활 이야기와 매일 업데이트되는 생활·절약 정보",
+  "hero_title": "직장인의 일과 생활 노트",
+  "author_name": "평범한 직장인",
+  "author_bio": "회사를 다니며 겪고 느낀 직장생활 이야기와, 살림에 바로 쓰는 생활 정보를 기록합니다.",
+  "categories": {
+    "work": {
+      "name": "직장생활 이야기",
+      "emoji": "✍️",
+      "desc": "회사를 다니며 직접 겪고 느낀 이야기"
+    },
+    "life": {
+      "name": "생활 꿀팁",
+      "emoji": "💡",
+      "desc": "살림과 절약에 바로 쓰는 실용 정보"
+    }
+  },
+  "site_url": "",
+  "language": "ko",
+  "niche": "생활 꿀팁, 가성비 IT 기기, 살림 절약 노하우",
+  "posts_per_run": 1,
+  "publish_hours_kst": [
+    7,
+    19
+  ],
+  "model": "claude-opus-5",
+  "adsense_client": "",
+  "naver_site_verification": "",
+  "google_site_verification": "",
+  "coupang_disclosure": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
+  "coupang_products_per_post": 3,
+  "coupang_banner": {
+    "id": 1033451,
+    "template": "carousel",
+    "trackingCode": "AF8654921",
+    "width": "680",
+    "height": "140",
+    "tsource": ""
+  }
+}
