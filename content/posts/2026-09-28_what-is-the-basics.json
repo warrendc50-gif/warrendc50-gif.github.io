@@ -12,5 +12,29 @@
   "topic": "기본 (직접 작성)",
   "author": "human",
   "date": "2026-09-28T11:00:00+00:00",
-  "products": []
+  "products": [],
+  "en": {
+    "title": "I Still Don't Get It: What Does \"The Basics\" Even Mean at Work?",
+    "description": "\"That person doesn't even have the basics down.\" Should we really say that? After years in the workforce, I still can't define \"the basics\" \tu2014 and why I think it comes down to attitude.",
+    "tags": [
+      "work life",
+      "office life",
+      "workplace attitude",
+      "leadership",
+      "career advice"
+    ],
+    "body_markdown": "> \"That employee doesn't even have the basics down. I mean, the basics are the basics, right...?\"\n\nIf you've spent any time in an office, you've probably heard some version of this. And yet, after all these years on the job, I still don't really know **what \"the basics\" are**. I wish someone would just spell it out for me, because the basics remain surprisingly hard to pin down.\n\n## Who decides what counts as basic?\n\nFor an engineer, is a grounding in electronics the basics? For a writer, is it grammar? And for an office worker \\u2014 is it, broadly speaking, the company rulebook?\n\nThe more I think about it, the harder it gets. For one thing, **the standard is different for every person.** You can't hold everyone to the same yardstick and declare, \"This is the baseline.\"\n\nSomething that gets a pass for a new hire can become a \"basic\" that a senior colleague is never forgiven for missing. The very same mistake might get a shrug and a \"hey, it happens\" from one person, and a \"they don't even have the basics down\" for another.\n\n## Nobody knows the entire rulebook\n\nIf the basics for an office worker really are the company rules, then none of us has them. No one can know every rule in the handbook. We're never trained that way, either.\n\nCompany rules are more like a constitution \\u2014 **they mark out the boundaries for situations that plain common sense can't settle.** You look them up when you need them; you don't walk around with them memorized line by line. Sure, some people probably do know them all...\n\n## So for me, the basics come down to attitude\n\nWhich brings me to this: in the end, I think the real measure of \"the basics\" is **attitude**. Specifically, **the attitude you bring to the work.**\n\nKnowledge varies from person to person and from one level of experience to the next. Nobody can know all the rules. But the way someone approaches their work \\u2014 that's visible in anyone, whether they're a first-year hire or a twenty-year veteran.\n\n## Let's stop saying \"they don't have the basics\"\n\nThat's why I believe **\"they don't have the basics\" is something we should never say about anyone.**\n\n\"I wish their attitude were a bit better\" \\u2014 fine, maybe. But \"they don't even have the basics down\" sounds like a rejection of the whole person. For the one hearing it, that cuts deep.\n\n---\n\nWill I finally understand the basics by the time I retire?\n\nFor now, it seems I still don't know what they are."
+  },
+  "ja": {
+    "title": "いまだに分からない「基本」——会社員にとって“基本”とは何だろう",
+    "description": "「あの人は基本ができてない」——その言葉、気軽に使っていいのだろうか。長く働いても分からない“基本”。人によって違う基準と、結局それは仕事への態度だという話。",
+    "tags": [
+      "会社員",
+      "職場の悩み",
+      "仕事の態度",
+      "リーダーシップ",
+      "働き方"
+    ],
+    "body_markdown": "> 「あの社員は基本ができてない。基本くらいはやらないとダメだろう……」\n\n会社で一度は耳にしたことがあるセリフだと思う。ところが、それなりに長く会社に通っている今でも、私は**「基本」が何なのか**よく分からない。誰かがきっぱり決めてくれたらいいのに、基本というのは相変わらず難しい。\n\n## 基本は誰が決めるのだろう\n\nエンジニアにとっては電子工学の知識が基本なのだろうか。文章を書く人には文法が基本なのだろうか。だとすれば会社員の基本は、大きく捉えれば社内規定（社規）ということになるのだろうか。\n\n考えるほどに難しい。まず、**基準が人によって違う。** 誰にでも同じ物差しを当てて「これが基本だ」と言うことはできない。\n\n新人には許されることが、シニアには許されない「基本」になったりもする。同じミスでも、誰がやったかによって「まあ、そういうこともあるよね」になったり、「基本ができてないな」になったりする。\n\n## 社内規定を全部知っている人はいない\n\n会社員の基本が社内規定だとしたら、私たちはみんな基本ができていない人だ。会社の規定をすべて把握することなんてできない。そんな教育を受けるわけでもない。\n\n社内規定とは、一般的な常識のレベルでは解決できないときに**線引きをしてくれる憲法のようなもの**だ。必要なときに調べるものであって、いちいち全部暗記して持ち歩くものではない。もちろん、全部知っている人もいるのだろうけれど……。\n\n## だから私が思う基本は「態度」\n\nそこで思うのは、基本の基準は結局**態度**なのではないか、ということだ。**仕事に向き合う態度。**\n\n知識は人によって、年次によって違う。ルールはすべて把握できない。けれど、仕事に向き合う態度だけは、新人であれシニアであれ、誰にでも見えるものだ。\n\n## 「基本がない」とは言わないでおこう\n\nだから私は、**「基本がない」という言葉は誰に対しても言ってはいけない言葉**だと思っている。\n\n「態度が少し残念だ」くらいならまだしも、「基本ができてない」という言葉は、その人の全部を否定しているように聞こえる。言われた側にとっては、あまりにも大きな傷になる言葉だ。\n\n---\n\nいまだに分からないこの「基本」を、退職する頃には分かるようになるのだろうか。\n\nどうやら私は、まだ基本を知らないらしい。"
+  }
 }
