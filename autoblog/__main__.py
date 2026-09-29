@@ -138,6 +138,7 @@ def share(cfg: dict, limit: int = 2) -> int:
         else:
             print("[threads] WARNING: Meta issued a new token; update the THREADS_ACCESS_TOKEN secret.")
     state = topics.load_state()
+    first_run = not state.get("threads_shared")
     shared = set(state.setdefault("threads_shared", []))
     pending = [p for p in load_posts() if p["slug"] not in shared]
     # Newest first; cap per run so enabling this on an existing site doesn't flood the feed.
@@ -152,9 +153,11 @@ def share(cfg: dict, limit: int = 2) -> int:
         state["threads_shared"].append(post["slug"])
         done += 1
         print(f"[threads] shared {post['slug']} -> {media_id}")
-    # Older posts beyond the cap are marked shared so they are never posted later out of order.
-    for post in pending[limit:]:
-        state["threads_shared"].append(post["slug"])
+    # When sharing is first enabled, the existing backlog beyond the cap is marked shared so it is
+    # never posted later out of order. After that, leftovers wait for the next run instead.
+    if first_run:
+        for post in pending[limit:]:
+            state["threads_shared"].append(post["slug"])
     topics.save_state(state)
     return done
 
