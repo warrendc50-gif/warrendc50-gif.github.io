@@ -18,6 +18,7 @@
   → data/topics.txt 에서 안 쓴 주제 선택 (비면 Claude가 새 주제 20개 생성)
   → Claude가 글 작성 (SEO 제목·메타설명·FAQ 포함)
   → 쿠팡 파트너스 API로 관련 상품 검색 → 제휴 링크 카드 삽입 + 대가성 문구 표기
+  → Claude가 영어·일본어로 번역 (번역 안 된 예전 글도 한 번에 최대 20건씩 채움)
   → content/posts/*.json 커밋
   → public/ 에 HTML·sitemap.xml·rss.xml·robots.txt·ads.txt·개인정보처리방침 생성
   → GitHub Pages 배포
@@ -43,6 +44,8 @@
 
 - `config.json` — 사이트 이름, 분야(`niche`), 하루 글 수(`posts_per_run`), 모델
 - `data/topics.txt` — 쓰고 싶은 주제를 한 줄에 하나씩 추가
+- `config.json` 의 `translations` — 번역할 언어와 언어별 사이트 이름·소개. 영어는 `/en/`, 일본어는 `/ja/` 에 게시되고
+  hreflang 태그로 검색엔진에 언어별 페이지가 연결됩니다. 쿠팡 상품·계산기는 한국어 사이트에만 나옵니다.
 
 ## 로컬 실행
 

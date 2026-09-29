@@ -1,4 +1,8 @@
-"""Builds the static site (HTML, sitemap, RSS, robots.txt, ads.txt) into public/."""
+"""Builds the static site (HTML, sitemap, RSS, robots.txt, ads.txt) into public/.
+
+The Korean site lives at the root. Each language in config["translations"] (e.g. en, ja) gets its
+own site under /<lang>/, holding the posts that carry that translation (post["en"], post["ja"]).
+"""
 import json
 import shutil
 from datetime import datetime, timezone
@@ -19,7 +23,7 @@ CSS = """
   --card:#23252a;--accent:#5eead4;--accent-soft:#12302c;--work:#fbbf24;--work-soft:#33260f;--life:#5eead4;--life-soft:#12302c}}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--fg);-webkit-font-smoothing:antialiased;
-  font:17px/1.8 "Pretendard Variable",Pretendard,-apple-system,"Apple SD Gothic Neo","Noto Sans KR",sans-serif;word-break:keep-all}
+  font:17px/1.8 "Pretendard Variable",Pretendard,-apple-system,"Apple SD Gothic Neo","Noto Sans KR","Hiragino Sans","Noto Sans JP",sans-serif;word-break:keep-all}
 .wrap{max-width:760px;margin:0 auto;padding:0 16px}
 a{color:var(--accent)}
 .site-header{position:sticky;top:0;z-index:10;background:color-mix(in srgb,var(--bg) 88%,transparent);
@@ -79,7 +83,61 @@ footer .links{display:flex;flex-wrap:wrap;gap:6px 14px;margin-top:6px}
 .ad{margin:24px 0;min-height:1px}
 .cp-banner{margin:36px 0;overflow:hidden}
 .cp-banner iframe{max-width:100%}
+.nav a.lang{border:1px solid var(--line)}
 """
+
+# UI strings per site language. Content strings (site title, categories...) come from config.json,
+# with English overrides under config["en"].
+UI = {
+    "ko": {"min_read": "{}분 읽기", "no_posts": "아직 글이 없습니다.", "about": "소개",
+           "privacy": "개인정보처리방침", "related": "함께 읽으면 좋은 글", "see_all": "전체 보기 →",
+           "category": "카테고리", "all_posts": "전체 글 {}편"},
+    "en": {"min_read": "{} min read", "no_posts": "No posts yet.", "about": "About",
+           "privacy": "Privacy Policy", "related": "You might also like", "see_all": "See all →",
+           "category": "Category", "all_posts": "{} posts"},
+    "ja": {"min_read": "{}分で読めます", "no_posts": "まだ記事がありません。", "about": "このブログについて",
+           "privacy": "プライバシーポリシー", "related": "あわせて読みたい", "see_all": "すべて見る →",
+           "category": "カテゴリー", "all_posts": "全{}件"},
+}
+LANG_LABEL = {"ko": "한국어", "en": "English", "ja": "日本語"}
+# Characters per minute of reading, for the "N min read" label.
+READ_SPEED = {"ko": 500, "en": 1200, "ja": 600}
+
+
+def _t(cfg: dict, key: str) -> str:
+    return UI[cfg["language"]][key]
+
+
+def _is_ko(cfg: dict) -> bool:
+    return cfg["language"] == "ko"
+
+
+def _root(cfg: dict) -> str:
+    """URL of the Korean (root) site, whichever language cfg is for."""
+    return cfg.get("root_url", cfg["site_url"])
+
+
+def _lang_home(cfg: dict, lang: str) -> str:
+    return _root(cfg) if lang == "ko" else f"{_root(cfg)}/{lang}"
+
+
+def site_languages(cfg: dict) -> list[str]:
+    return ["ko", *cfg.get("translations", {})]
+
+
+def lang_config(cfg: dict, lang: str) -> dict:
+    """Config for the /<lang>/ site: texts from cfg["translations"][lang], URLs under /<lang>."""
+    return {**cfg, **cfg["translations"][lang], "language": lang,
+            "site_url": f"{cfg['site_url']}/{lang}", "root_url": cfg["site_url"]}
+
+
+def lang_posts(posts: list[dict], lang: str) -> list[dict]:
+    """Posts that have a translation into lang, with the translated fields swapped in."""
+    return [{**p, **p[lang], "lang": lang} for p in posts if p.get(lang)]
+
+
+def post_languages(cfg: dict, post: dict) -> list[str]:
+    return ["ko", *(lang for lang in cfg.get("translations", {}) if post.get(lang))]
 
 
 def load_posts() -> list[dict]:
@@ -97,7 +155,7 @@ def post_category(post: dict) -> str:
 
 
 def _reading_minutes(post: dict) -> int:
-    return max(1, round(len(post["body_markdown"]) / 500))
+    return max(1, round(len(post["body_markdown"]) / READ_SPEED[post.get("lang", "ko")]))
 
 
 def _badge(cfg: dict, key: str) -> str:
@@ -106,11 +164,11 @@ def _badge(cfg: dict, key: str) -> str:
 
 def _cards(cfg: dict, posts: list[dict]) -> str:
     if not posts:
-        return '<p class="meta">아직 글이 없습니다.</p>'
+        return f'<p class="meta">{_t(cfg, "no_posts")}</p>'
     return '<div class="cards">' + "".join(
         f'<a class="card" href="{cfg["site_url"]}/{post_path(p)}">{_badge(cfg, post_category(p))}'
         f'<h3>{escape(p["title"])}</h3><p>{escape(p["description"])}</p>'
-        f'<span class="meta">{p["date"][:10]} · {_reading_minutes(p)}분 읽기</span></a>'
+        f'<span class="meta">{p["date"][:10]} · {_t(cfg, "min_read").format(_reading_minutes(p))}</span></a>'
         for p in posts
     ) + "</div>"
 
@@ -142,7 +200,8 @@ def _verification_meta(cfg: dict) -> str:
 def _nav_links(cfg: dict, current: str) -> str:
     base = cfg["site_url"]
     items = [(key, f"{base}/category/{key}/", c["name"]) for key, c in cfg["categories"].items()]
-    items.append(("tools", f"{base}/tools/", "계산기"))
+    if _is_ko(cfg):  # the calculators are Korea-specific (KRW, pyeong), so they stay Korean-only
+        items.append(("tools", f"{base}/tools/", "계산기"))
     return "".join(
         f'<a href="{href}"{" class=on" if key == current else ""}>{escape(name)}</a>'
         for key, href, name in items
@@ -150,9 +209,23 @@ def _nav_links(cfg: dict, current: str) -> str:
 
 
 def _page(cfg: dict, title: str, body: str, *, description: str = "", canonical: str = "",
-          extra_head: str = "", nav: str = "") -> str:
+          extra_head: str = "", nav: str = "", path: str = "", langs: list[str] | None = None) -> str:
+    """path: the page's path relative to each language's home. langs: the languages this page
+    exists in (default: all). They get hreflang links; the language switcher sends the other
+    languages to their home page."""
     description = description or cfg["site_description"]
     canonical = canonical or cfg["site_url"] + "/"
+    langs = site_languages(cfg) if langs is None else langs
+    hreflang = ""
+    if len(langs) > 1:
+        hreflang = "".join(f'<link rel="alternate" hreflang="{lang}" href="{_lang_home(cfg, lang)}/{path}">\n'
+                           for lang in langs)
+        hreflang += f'<link rel="alternate" hreflang="x-default" href="{_lang_home(cfg, "ko")}/{path}">\n'
+    switcher = "".join(
+        f'<a class="lang" href="{_lang_home(cfg, lang)}/{path if lang in langs else ""}" hreflang="{lang}">'
+        f'{LANG_LABEL[lang]}</a>'
+        for lang in site_languages(cfg) if lang != cfg["language"]
+    )
     site_title = escape(cfg["site_title"])
     full_title = escape(title) if title == cfg["site_title"] else f"{escape(title)} | {site_title}"
     return f"""<!doctype html>
@@ -168,7 +241,7 @@ def _page(cfg: dict, title: str, body: str, *, description: str = "", canonical:
 <meta property="og:description" content="{escape(description)}">
 <meta property="og:url" content="{escape(canonical)}">
 <meta property="og:type" content="website">
-<link rel="stylesheet" href="{FONT_CSS}">
+{hreflang}<link rel="stylesheet" href="{FONT_CSS}">
 {_verification_meta(cfg)}<style>{CSS}{TOOL_CSS}</style>
 {_adsense_head(cfg)}
 {extra_head}
@@ -176,7 +249,7 @@ def _page(cfg: dict, title: str, body: str, *, description: str = "", canonical:
 <body>
 <header class="site-header"><div class="wrap">
 <a class="brand" href="{cfg['site_url']}/"><span class="mark">{site_title[:1]}</span>{site_title}</a>
-<nav class="nav">{_nav_links(cfg, nav)}</nav>
+<nav class="nav">{_nav_links(cfg, nav)}{switcher}</nav>
 </div></header>
 <main class="wrap">
 {body}
@@ -184,9 +257,10 @@ def _page(cfg: dict, title: str, body: str, *, description: str = "", canonical:
 <footer><div class="wrap">
 <div>© {datetime.now(timezone.utc).year} {site_title}</div>
 <div class="links">
-<a href="{cfg['site_url']}/about/">소개</a>
-<a href="{cfg['site_url']}/privacy/">개인정보처리방침</a>
+<a href="{cfg['site_url']}/about/">{_t(cfg, "about")}</a>
+<a href="{cfg['site_url']}/privacy/">{_t(cfg, "privacy")}</a>
 <a href="{cfg['site_url']}/rss.xml">RSS</a>
+{f'<a href="{escape(cfg["youtube_url"])}" rel="me noopener" target="_blank">YouTube</a>' if cfg.get("youtube_url") else ""}
 </div>
 </div></footer>
 </body>
@@ -230,7 +304,8 @@ def _related(posts: list[dict], post: dict, n: int = 3) -> list[dict]:
 def _render_post(cfg: dict, post: dict, posts: list[dict]) -> str:
     url = f"{cfg['site_url']}/{post_path(post)}"
     body_html = markdown.markdown(post["body_markdown"], extensions=["tables", "fenced_code", "sane_lists"])
-    has_affiliate = bool(post.get("products") or cfg.get("coupang_banner"))
+    # Coupang only ships within Korea, so affiliate blocks appear on the Korean site only.
+    has_affiliate = _is_ko(cfg) and bool(post.get("products") or cfg.get("coupang_banner"))
     disclosure = f'<p class="disclosure">{escape(cfg["coupang_disclosure"])}</p>' if has_affiliate else ""
     tags = "".join(f"<span>#{escape(t)}</span>" for t in post.get("tags", []))
     category = post_category(post)
@@ -242,23 +317,25 @@ def _render_post(cfg: dict, post: dict, posts: list[dict]) -> str:
         "datePublished": post["date"],
         "mainEntityOfPage": url,
         "keywords": post.get("tags", []),
+        "inLanguage": cfg["language"],
     }, ensure_ascii=False)
     body = f"""
 <article>
 <div class="post-head">{_badge(cfg, category)}
 <h1>{escape(post['title'])}</h1>
-<p class="meta">{post['date'][:10]} · {_reading_minutes(post)}분 읽기</p></div>
+<p class="meta">{post['date'][:10]} · {_t(cfg, "min_read").format(_reading_minutes(post))}</p></div>
 {disclosure}
 {body_html}
 {'<div class="tags">' + tags + '</div>' if tags else ''}
-{_products_html(cfg, post.get('products', []))}
+{_products_html(cfg, post.get('products', [])) if _is_ko(cfg) else ''}
 {_author_box(cfg)}
-{_banner_html(cfg)}
+{_banner_html(cfg) if _is_ko(cfg) else ''}
 </article>
-<div class="section-head"><h2>함께 읽으면 좋은 글</h2></div>
+<div class="section-head"><h2>{_t(cfg, "related")}</h2></div>
 {_cards(cfg, _related(posts, post))}
 """
     return _page(cfg, post["title"], body, description=post["description"], canonical=url, nav=category,
+                 path=post_path(post), langs=post_languages(cfg, post),
                  extra_head=f'<script type="application/ld+json">{json_ld}</script>')
 
 
@@ -270,9 +347,9 @@ def _render_index(cfg: dict, posts: list[dict]) -> str:
         chosen = [p for p in posts if post_category(p) == key][:limit]
         sections.append(
             f'<div class="section-head"><h2>{c["emoji"]} {escape(c["name"])}</h2>'
-            f'<a href="{base}/category/{key}/">전체 보기 →</a></div>{_cards(cfg, chosen)}'
+            f'<a href="{base}/category/{key}/">{_t(cfg, "see_all")}</a></div>{_cards(cfg, chosen)}'
         )
-        if key == "work":
+        if key == "work" and _is_ko(cfg):
             sections.append(f'<div class="section-head"><h2>🧮 생활 계산기</h2>'
                             f'<a href="{base}/tools/">전체 보기 →</a></div>{tool_list_html(base)}')
     body = f"""<section class="hero">
@@ -288,15 +365,64 @@ def _render_index(cfg: dict, posts: list[dict]) -> str:
 def _render_category(cfg: dict, key: str, posts: list[dict]) -> str:
     c = cfg["categories"][key]
     chosen = [p for p in posts if post_category(p) == key]
-    body = (f'<section class="hero"><span class="kicker">{c["emoji"]} 카테고리</span>'
+    body = (f'<section class="hero"><span class="kicker">{c["emoji"]} {_t(cfg, "category")}</span>'
             f'<h1>{escape(c["name"])}</h1><p>{escape(c["desc"])}</p></section>'
-            f'<div class="section-head"><h2>전체 글 {len(chosen)}편</h2></div>{_cards(cfg, chosen)}')
+            f'<div class="section-head"><h2>{_t(cfg, "all_posts").format(len(chosen))}</h2></div>'
+            f'{_cards(cfg, chosen)}')
     return _page(cfg, c["name"], body, description=c["desc"],
-                 canonical=f"{cfg['site_url']}/category/{key}/", nav=key)
+                 canonical=f"{cfg['site_url']}/category/{key}/", nav=key, path=f"category/{key}/")
+
+
+FOREIGN_STATIC_PAGES = {
+    "en": lambda name, bio, work: {
+        "about": ("About", f"""<h1>About</h1>
+<p>{bio}</p>
+<p>This is the English edition of a Korean blog. Posts are translated from Korean with the help of AI tools.
+Stories under '{work}' are written by the author from personal experience; the practical tips are researched
+and drafted with AI assistance. Prices, specs and policies change, and many details are specific to Korea,
+so please check official sources before you buy or apply anything.</p>"""),
+        "privacy": ("Privacy Policy", f"""<h1>Privacy Policy</h1>
+<p>{name} has no accounts or comments and does not directly collect visitors' personal information.</p>
+<h2>Advertising and cookies</h2>
+<p>This site may show third-party ads such as Google AdSense. Google and other third-party vendors use cookies to
+serve ads based on your prior visits. You can opt out of personalized advertising in
+<a href="https://adssettings.google.com" rel="nofollow">Google Ads Settings</a>.</p>"""),
+    },
+    "ja": lambda name, bio, work: {
+        "about": ("このブログについて", f"""<h1>このブログについて</h1>
+<p>{bio}</p>
+<p>このサイトは韓国語ブログの日本語版です。記事はAIツールの助けを借りて韓国語から翻訳しています。
+「{work}」の記事は筆者が実際に経験したことをもとに書いたもので、暮らしのヒントはAIの支援を受けて作成しています。
+価格・仕様・制度は変わることがあり、韓国特有の内容も多いため、購入や利用の前に必ず公式情報をご確認ください。</p>"""),
+        "privacy": ("プライバシーポリシー", f"""<h1>プライバシーポリシー</h1>
+<p>{name}には会員登録やコメント機能がなく、訪問者の個人情報を直接収集することはありません。</p>
+<h2>広告とCookie</h2>
+<p>当サイトではGoogle AdSenseなどの第三者配信の広告を掲載することがあります。Googleなどの第三者配信事業者は
+Cookieを使用して、ユーザーの過去のアクセス情報に基づいて広告を配信します。
+<a href="https://adssettings.google.com" rel="nofollow">Googleの広告設定</a>でパーソナライズ広告を無効にできます。</p>"""),
+    },
+}
 
 
 def _static_pages(cfg: dict) -> dict[str, tuple[str, str]]:
     name = escape(cfg["site_title"])
+    if not _is_ko(cfg):
+        work = escape(cfg["categories"]["work"]["name"])
+        return FOREIGN_STATIC_PAGES[cfg["language"]](name, escape(cfg["author_bio"]), work)
+    return {
+            "about": ("About", f"""<h1>About</h1>
+<p>{escape(cfg['author_bio'])}</p>
+<p>This is the English edition of a Korean blog. Posts are translated from Korean with the help of AI tools.
+Stories under '{escape(cfg['categories']['work']['name'])}' are written by the author from personal experience;
+the practical tips are researched and drafted with AI assistance. Prices, specs and policies change, and many
+details are specific to Korea, so please check official sources before you buy or apply anything.</p>"""),
+            "privacy": ("Privacy Policy", f"""<h1>Privacy Policy</h1>
+<p>{name} has no accounts or comments and does not directly collect visitors' personal information.</p>
+<h2>Advertising and cookies</h2>
+<p>This site may show third-party ads such as Google AdSense. Google and other third-party vendors use cookies to
+serve ads based on your prior visits. You can opt out of personalized advertising in
+<a href="https://adssettings.google.com" rel="nofollow">Google Ads Settings</a>.</p>"""),
+        }
     return {
         "about": ("소개", f"""<h1>소개</h1>
 <p>{escape(cfg['author_bio'])}</p>
@@ -318,38 +444,16 @@ def _write(path: Path, content: str) -> None:
     path.write_text(content, encoding="utf-8")
 
 
-def build_site(cfg: dict) -> int:
-    posts = load_posts()
-    if PUBLIC_DIR.exists():
-        shutil.rmtree(PUBLIC_DIR)
-    PUBLIC_DIR.mkdir(parents=True)
+def _build_lang(cfg: dict, posts: list[dict], out: Path) -> list[str]:
+    """Render one language's pages into out/ and return their URLs for the sitemap."""
     base = cfg["site_url"]
-
-    _write(PUBLIC_DIR / "index.html", _render_index(cfg, posts))
+    _write(out / "index.html", _render_index(cfg, posts))
     for post in posts:
-        _write(PUBLIC_DIR / post_path(post) / "index.html", _render_post(cfg, post, posts))
+        _write(out / post_path(post) / "index.html", _render_post(cfg, post, posts))
     for key in cfg["categories"]:
-        _write(PUBLIC_DIR / "category" / key / "index.html", _render_category(cfg, key, posts))
-    affiliate = ""
-    if cfg.get("coupang_banner"):
-        affiliate = f'<p class="disclosure">{escape(cfg["coupang_disclosure"])}</p>{_banner_html(cfg)}'
-    for tool in TOOLS:
-        _write(PUBLIC_DIR / "tools" / tool["slug"] / "index.html",
-               _page(cfg, tool["title"], render_tool_body(tool) + affiliate, nav="tools",
-                     description=tool["description"], canonical=f"{base}/tools/{tool['slug']}/"))
-    _write(PUBLIC_DIR / "tools" / "index.html",
-           _page(cfg, "생활 계산기", '<section class="hero"><span class="kicker">🧮 도구</span><h1>생활 계산기</h1>'
-                 '<p>숫자만 넣으면 바로 계산되는 생활 계산기 모음</p></section>' + tool_list_html(base),
-                 canonical=f"{base}/tools/", nav="tools"))
+        _write(out / "category" / key / "index.html", _render_category(cfg, key, posts))
     for slug, (title, body) in _static_pages(cfg).items():
-        _write(PUBLIC_DIR / slug / "index.html", _page(cfg, title, body, canonical=f"{base}/{slug}/"))
-
-    urls = [f"{base}/", f"{base}/tools/"] + [f"{base}/category/{k}/" for k in cfg["categories"]] + [f"{base}/tools/{t['slug']}/" for t in TOOLS] \
-        + [f"{base}/{post_path(p)}" for p in posts]
-    sitemap = "".join(f"<url><loc>{escape(u)}</loc></url>" for u in urls)
-    _write(PUBLIC_DIR / "sitemap.xml",
-           f'<?xml version="1.0" encoding="UTF-8"?>\n'
-           f'<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{sitemap}</urlset>\n')
+        _write(out / slug / "index.html", _page(cfg, title, body, canonical=f"{base}/{slug}/", path=f"{slug}/"))
 
     items = "".join(
         f"<item><title>{escape(p['title'])}</title><link>{base}/{post_path(p)}</link>"
@@ -357,10 +461,41 @@ def build_site(cfg: dict) -> int:
         f"<pubDate>{datetime.fromisoformat(p['date']).strftime('%a, %d %b %Y %H:%M:%S +0000')}</pubDate></item>"
         for p in posts[:30]
     )
-    _write(PUBLIC_DIR / "rss.xml",
+    _write(out / "rss.xml",
            f'<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0"><channel>'
            f"<title>{escape(cfg['site_title'])}</title><link>{base}/</link>"
            f"<description>{escape(cfg['site_description'])}</description>{items}</channel></rss>\n")
+    return [f"{base}/"] + [f"{base}/category/{k}/" for k in cfg["categories"]] \
+        + [f"{base}/{post_path(p)}" for p in posts]
+
+
+def build_site(cfg: dict) -> int:
+    posts = load_posts()
+    if PUBLIC_DIR.exists():
+        shutil.rmtree(PUBLIC_DIR)
+    PUBLIC_DIR.mkdir(parents=True)
+    base = cfg["site_url"]
+
+    urls = _build_lang(cfg, posts, PUBLIC_DIR)
+    for lang in cfg.get("translations", {}):
+        urls += _build_lang(lang_config(cfg, lang), lang_posts(posts, lang), PUBLIC_DIR / lang)
+    affiliate = ""
+    if cfg.get("coupang_banner"):
+        affiliate = f'<p class="disclosure">{escape(cfg["coupang_disclosure"])}</p>{_banner_html(cfg)}'
+    for tool in TOOLS:
+        _write(PUBLIC_DIR / "tools" / tool["slug"] / "index.html",
+               _page(cfg, tool["title"], render_tool_body(tool) + affiliate, nav="tools",
+                     description=tool["description"], canonical=f"{base}/tools/{tool['slug']}/", langs=["ko"]))
+    _write(PUBLIC_DIR / "tools" / "index.html",
+           _page(cfg, "생활 계산기", '<section class="hero"><span class="kicker">🧮 도구</span><h1>생활 계산기</h1>'
+                 '<p>숫자만 넣으면 바로 계산되는 생활 계산기 모음</p></section>' + tool_list_html(base),
+                 canonical=f"{base}/tools/", nav="tools", langs=["ko"]))
+
+    urls += [f"{base}/tools/"] + [f"{base}/tools/{t['slug']}/" for t in TOOLS]
+    sitemap = "".join(f"<url><loc>{escape(u)}</loc></url>" for u in urls)
+    _write(PUBLIC_DIR / "sitemap.xml",
+           f'<?xml version="1.0" encoding="UTF-8"?>\n'
+           f'<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{sitemap}</urlset>\n')
 
     _write(PUBLIC_DIR / "robots.txt", f"User-agent: *\nAllow: /\nSitemap: {base}/sitemap.xml\n")
     if cfg.get("adsense_client"):

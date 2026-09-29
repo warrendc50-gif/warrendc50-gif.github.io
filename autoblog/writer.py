@@ -31,6 +31,34 @@ POST_SCHEMA = {
     "additionalProperties": False,
 }
 
+LANGUAGE_NAMES = {"en": "English", "ja": "Japanese"}
+
+TRANSLATE_SYSTEM_PROMPT = """You translate posts from a Korean lifestyle blog into natural, fluent {language}
+for international readers.
+
+Rules:
+- Write idiomatic {language}, not a word-for-word translation. Keep the author's voice: personal essays stay
+  personal and informal; practical guides stay clear and scannable.
+- Keep the Markdown structure (headings, lists, tables). Do not add a # title to the body.
+- Readers may not know Korea. Briefly explain Korea-specific terms, services and customs the first time
+  (e.g. "hoesik (after-work team dinners)", "pyeong (about 3.3 m²)").
+- Keep prices in Korean won; you may add a rough figure in the reader's currency in parentheses. Never invent new facts, numbers,
+  products or claims that are not in the original.
+- Drop sentences that only make sense for Korean shoppers, such as references to Coupang product links.
+- Write the title, description and tags in {language} too, as people searching in {language} would phrase them."""
+
+TRANSLATION_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "title": {"type": "string", "description": "SEO-friendly title in the target language"},
+        "description": {"type": "string", "description": "Meta description (under 160 characters)"},
+        "tags": {"type": "array", "items": {"type": "string"}},
+        "body_markdown": {"type": "string"},
+    },
+    "required": ["title", "description", "tags", "body_markdown"],
+    "additionalProperties": False,
+}
+
 TOPICS_SCHEMA = {
     "type": "object",
     "properties": {"topics": {"type": "array", "items": {"type": "string"}}},
@@ -72,6 +100,17 @@ class Writer:
             "마지막에는 핵심 요약(3~5줄)과 자주 묻는 질문(FAQ) 2~3개를 넣으세요."
         )
         return self._ask_json(prompt, POST_SCHEMA, system=SYSTEM_PROMPT)
+
+    def translate_post(self, post: dict, lang: str) -> dict:
+        language = LANGUAGE_NAMES[lang]
+        prompt = (
+            f"Translate this Korean blog post into {language}.\n\n"
+            f"Title: {post['title']}\n"
+            f"Description: {post['description']}\n"
+            f"Tags: {', '.join(post.get('tags', []))}\n\n"
+            f"Body (Markdown):\n{post['body_markdown']}"
+        )
+        return self._ask_json(prompt, TRANSLATION_SCHEMA, system=TRANSLATE_SYSTEM_PROMPT.format(language=language))
 
     def suggest_topics(self, niche: str, used: list[str], count: int = 20) -> list[str]:
         recent = "\n".join(f"- {t}" for t in used[-100:]) or "(없음)"

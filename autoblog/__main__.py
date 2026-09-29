@@ -1,6 +1,7 @@
 """CLI entry point.
 
-  python -m autoblog generate   # write N new posts with Claude (needs ANTHROPIC_API_KEY)
+  python -m autoblog generate   # write N new posts with Claude (needs ANTHROPIC_API_KEY),
+                                # then translate posts into the languages in config "translations"
   python -m autoblog build      # build static site into public/
   python -m autoblog run        # generate + build (what the daily GitHub Action runs)
   python -m autoblog share      # post not-yet-shared posts to Threads (after deploy)
@@ -89,7 +90,34 @@ def generate(cfg: dict, count: int) -> int:
         topics.mark_used(topic)
         written += 1
         print(f"[write] saved {out.name} ({len(post['products'])} products)")
+    translate_missing(writer, list(cfg.get("translations", {})))
     return written
+
+
+def translate_missing(writer, languages: list[str], limit: int = 20) -> int:
+    """Add missing translations (post["en"], post["ja"], ...) to posts, newest first.
+
+    Runs after each generation, so new posts get translated right away and older posts are
+    backfilled a few at a time. A failed translation is skipped and retried on the next run.
+    """
+    done = 0
+    for path in sorted(POSTS_DIR.glob("*.json"), reverse=True):
+        if done >= limit:
+            break
+        post = json.loads(path.read_text(encoding="utf-8"))
+        for lang in languages:
+            if post.get(lang) or done >= limit:
+                continue
+            try:
+                post[lang] = writer.translate_post(post, lang)
+            except Exception as exc:
+                print(f"[translate] {lang} failed for {path.name}: {exc}", file=sys.stderr)
+                continue
+            # Save after each language so a later failure doesn't lose finished work.
+            path.write_text(json.dumps(post, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+            done += 1
+            print(f"[translate] {lang} {path.name} -> {post[lang]['title']}")
+    return done
 
 
 def share(cfg: dict, limit: int = 2) -> int:
