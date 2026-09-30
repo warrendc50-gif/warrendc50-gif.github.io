@@ -15,7 +15,7 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 from . import coupang, threads, topics
-from .builder import build_site, load_posts, post_path
+from .builder import build_site, is_broadcast, load_posts, post_path
 from .config import POSTS_DIR, load_config
 
 
@@ -124,7 +124,7 @@ def translate_missing(writer, languages: list[str], limit: int = 20) -> int:
     return done
 
 
-VMIX_QA_LINE = "vMix 관련해서 궁금한 점은 댓글로 질문 주시면 답해 드릴게요."
+VMIX_QA_LINE = "vMix·방송 관련해서 궁금한 점은 댓글로 질문 주시면 답해 드릴게요."
 
 
 def share(cfg: dict, limit: int = 2) -> int:
@@ -162,7 +162,7 @@ def share(cfg: dict, limit: int = 2) -> int:
                 intro = writer.threads_text(post)
             except Exception as exc:  # fall back to title + summary
                 print(f"[threads] intro generation failed for {post['slug']}: {exc}", file=sys.stderr)
-        if any("vmix" in t.lower() for t in post.get("tags", [])):
+        if is_broadcast(post):
             intro = (intro or f"{post['title']}\n\n{post['description']}") + "\n\n" + VMIX_QA_LINE
         try:
             media_id = threads.share(post, url, token, intro)

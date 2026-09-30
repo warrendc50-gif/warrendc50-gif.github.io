@@ -57,6 +57,7 @@ h3{font-size:19px;margin:32px 0 8px}
 .badge{display:inline-block;font-size:12px;font-weight:700;padding:3px 8px;border-radius:6px}
 .badge.work{color:var(--work);background:var(--work-soft)}
 .badge.life{color:var(--life);background:var(--life-soft)}
+.badge.broadcast{color:#7c3aed;background:rgba(124,58,237,.12)}
 .qa{background:var(--surface);border:1px solid var(--accent);border-radius:14px;padding:14px 18px;margin:28px 0 0}
 .qa a{font-weight:600;white-space:nowrap}
 .author{display:flex;gap:14px;align-items:center;background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:16px 18px;margin:28px 0}
@@ -95,15 +96,15 @@ UI = {
     "ko": {"min_read": "{}분 읽기", "no_posts": "아직 글이 없습니다.", "about": "소개",
            "privacy": "개인정보처리방침", "related": "함께 읽으면 좋은 글", "see_all": "전체 보기 →",
            "category": "카테고리", "all_posts": "전체 글 {}편",
-           "qa": "vMix 관련해서 궁금한 점은 쓰레드로 질문해 주시면 답해 드립니다.", "qa_link": "쓰레드에서 질문하기 →"},
+           "qa": "vMix·방송 관련해서 궁금한 점은 쓰레드로 질문해 주시면 답해 드립니다.", "qa_link": "쓰레드에서 질문하기 →"},
     "en": {"min_read": "{} min read", "no_posts": "No posts yet.", "about": "About",
            "privacy": "Privacy Policy", "related": "You might also like", "see_all": "See all →",
            "category": "Category", "all_posts": "{} posts",
-           "qa": "Questions about vMix? Ask me on Threads and I'll answer.", "qa_link": "Ask on Threads →"},
+           "qa": "Questions about vMix or broadcasting? Ask me on Threads and I'll answer.", "qa_link": "Ask on Threads →"},
     "ja": {"min_read": "{}分で読めます", "no_posts": "まだ記事がありません。", "about": "このブログについて",
            "privacy": "プライバシーポリシー", "related": "あわせて読みたい", "see_all": "すべて見る →",
            "category": "カテゴリー", "all_posts": "全{}件",
-           "qa": "vMixについての質問はThreadsでどうぞ。お答えします。", "qa_link": "Threadsで質問する →"},
+           "qa": "vMixや放送についての質問はThreadsでどうぞ。お答えします。", "qa_link": "Threadsで質問する →"},
 }
 LANG_LABEL = {"ko": "한국어", "en": "English", "ja": "日本語"}
 # Characters per minute of reading, for the "N min read" label.
@@ -179,9 +180,13 @@ def _cards(cfg: dict, posts: list[dict]) -> str:
     ) + "</div>"
 
 
+def is_broadcast(post: dict) -> bool:
+    return post_category(post) == "broadcast" or any("vmix" in t.lower() for t in post.get("tags", []))
+
+
 def _qa_box(cfg: dict, post: dict) -> str:
     """vMix posts invite questions on Threads, since the blog has no comments."""
-    if not cfg.get("threads_url") or not any("vmix" in t.lower() for t in post.get("tags", [])):
+    if not cfg.get("threads_url") or not is_broadcast(post):
         return ""
     return (f'<div class="qa">💬 {_t(cfg, "qa")} '
             f'<a href="{escape(cfg["threads_url"])}" target="_blank" rel="noopener">{_t(cfg, "qa_link")}</a></div>')
@@ -366,12 +371,17 @@ def _render_post(cfg: dict, post: dict, posts: list[dict]) -> str:
                  extra_head=f'<script type="application/ld+json">{json_ld}</script>')
 
 
+# Cards per category on the home page; categories not listed show 4.
+HOME_LIMITS = {"work": 4, "life": 6}
+
+
 def _render_index(cfg: dict, posts: list[dict]) -> str:
     base = cfg["site_url"]
     sections = []
-    for key, limit in (("work", 4), ("life", 6)):
-        c = cfg["categories"][key]
-        chosen = [p for p in posts if post_category(p) == key][:limit]
+    for key, c in cfg["categories"].items():
+        chosen = [p for p in posts if post_category(p) == key][:HOME_LIMITS.get(key, 4)]
+        if not chosen and key != "work":
+            continue
         sections.append(
             f'<div class="section-head"><h2>{c["emoji"]} {escape(c["name"])}</h2>'
             f'<a href="{base}/category/{key}/">{_t(cfg, "see_all")}</a></div>{_cards(cfg, chosen)}'

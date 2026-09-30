@@ -14,6 +14,11 @@
       "name": "생활 꿀팁",
       "emoji": "💡",
       "desc": "살림과 절약에 바로 쓰는 실용 정보"
+    },
+    "broadcast": {
+      "name": "영상·방송 노트",
+      "emoji": "🎬",
+      "desc": "vMix, 방송 송출, 현장 음향 노하우"
     }
   },
   "site_url": "",
@@ -59,6 +64,11 @@
           "name": "Everyday Tips",
           "emoji": "💡",
           "desc": "Practical tips for saving money and running a household"
+        },
+        "broadcast": {
+          "name": "Video & Broadcast Notes",
+          "emoji": "🎬",
+          "desc": "Know-how on vMix, live streaming and broadcast audio"
         }
       }
     },
@@ -79,6 +89,11 @@
           "name": "暮らしのヒント",
           "emoji": "💡",
           "desc": "節約や家事にすぐ役立つ実用情報"
+        },
+        "broadcast": {
+          "name": "映像・放送ノート",
+          "emoji": "🎬",
+          "desc": "vMix、配信、放送音響の現場ノウハウ"
         }
       }
     }
