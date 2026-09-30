@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300" font-family="'Noto Sans KR','Malgun Gothic','Apple SD Gothic Neo',sans-serif">
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#3b6fd8"/>
+    </marker>
+    <marker id="g" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#8a94a3"/>
+    </marker>
+  </defs>
+  <rect width="900" height="300" rx="14" fill="#ffffff"/>
+
+  <!-- stage labels -->
+  <g font-size="13" font-weight="700" text-anchor="middle">
+    <rect x="110" y="18" width="310" height="26" rx="13" fill="#fef7e0"/>
+    <text x="265" y="36" fill="#9a6b00">입력단: 트림 · 게인 (한 번 맞추고 고정)</text>
+    <rect x="560" y="18" width="250" height="26" rx="13" fill="#e8f0fe"/>
+    <text x="685" y="36" fill="#2f5bb7">출력단: 페이더 (라이브 중 조작)</text>
+  </g>
+
+  <g font-size="14" fill="#1f2937" text-anchor="middle">
+    <rect x="15" y="70" width="90" height="60" rx="8" fill="#f4f6f8" stroke="#cfd6dd"/>
+    <text x="60" y="97" font-weight="700">마이크</text>
+    <text x="60" y="116" font-size="12" fill="#5b6572">소스</text>
+
+    <rect x="125" y="70" width="100" height="60" rx="8" fill="#fef7e0" stroke="#e0b100" stroke-width="1.5"/>
+    <text x="175" y="95" font-weight="700">프리앰프</text>
+    <text x="175" y="114" font-size="12" fill="#5b6572">아날로그 게인</text>
+
+    <rect x="245" y="70" width="70" height="60" rx="8" fill="#f4f6f8" stroke="#cfd6dd"/>
+    <text x="280" y="105" font-weight="700">ADC</text>
+
+    <rect x="335" y="70" width="100" height="60" rx="8" fill="#fef7e0" stroke="#e0b100" stroke-width="1.5"/>
+    <text x="385" y="95" font-weight="700">디지털 트림</text>
+    <text x="385" y="114" font-size="12" fill="#5b6572">미세 정렬</text>
+
+    <rect x="455" y="70" width="130" height="60" rx="8" fill="#f4f6f8" stroke="#cfd6dd"/>
+    <text x="520" y="95" font-weight="700" font-size="13">EQ · 컴프 · 게이트</text>
+    <text x="520" y="114" font-size="12" fill="#5b6572">채널 프로세싱</text>
+
+    <rect x="605" y="70" width="90" height="60" rx="8" fill="#e8f0fe" stroke="#3b6fd8" stroke-width="1.5"/>
+    <text x="650" y="105" font-weight="700">페이더</text>
+
+    <rect x="715" y="70" width="170" height="60" rx="8" fill="#f4f6f8" stroke="#cfd6dd"/>
+    <text x="800" y="95" font-weight="700">믹스 버스</text>
+    <text x="800" y="114" font-size="12" fill="#5b6572">메인 · 포스트페이더 AUX</text>
+
+    <rect x="560" y="200" width="200" height="54" rx="8" fill="#f4f6f8" stroke="#cfd6dd"/>
+    <text x="660" y="223" font-weight="700">프리페이더 AUX · 다이렉트 아웃</text>
+    <text x="660" y="242" font-size="12" fill="#5b6572">페이더 영향 없음</text>
+  </g>
+
+  <g stroke="#3b6fd8" stroke-width="2.5" marker-end="url(#a)">
+    <path d="M107,100 L119,100"/><path d="M227,100 L239,100"/><path d="M317,100 L329,100"/>
+    <path d="M437,100 L449,100"/><path d="M587,100 L599,100"/><path d="M697,100 L709,100"/>
+  </g>
+  <path d="M592,100 L592,165 L620,165 L620,194" fill="none" stroke="#8a94a3" stroke-width="2" stroke-dasharray="6 5" marker-end="url(#g)"/>
+  <text x="598" y="158" font-size="12" fill="#5b6572">페이더 앞에서 분기</text>
+
+  <text x="450" y="284" text-anchor="middle" font-size="13" fill="#5b6572">레벨이 낮으면 가능한 한 앞단(프리앰프)에서 키웁니다. 트림은 뒤의 모든 출력에 영향을 줍니다.</text>
+</svg>
