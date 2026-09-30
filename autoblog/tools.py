@@ -213,6 +213,104 @@ function calc(e) {
 <p>아파트 "34평형"은 보통 공용면적을 포함한 공급면적 기준이라, 전용면적(약 84㎡ ≈ 25.4평)과 다릅니다.</p>
 """,
     },
+    {
+        "slug": "exchange-rate",
+        "title": "환율 계산기",
+        "summary": "최신 환율로 원화 ↔ 달러·엔·유로 등 변환",
+        "description": "최신 환율을 자동으로 불러와 원화와 달러·엔·유로·위안 등 주요 외화를 바로 변환합니다. 1,000원·10,000원 단위 변환표도 함께 보여 줍니다.",
+        "form": """
+<div class="row">
+  <div><label for="cur">통화</label><select id="cur"></select></div>
+  <div><label for="dir">변환 방향</label><select id="dir">
+    <option value="k2f">원화 → 외화</option><option value="f2k">외화 → 원화</option></select></div>
+</div>
+<label for="amt" id="amtlab">금액 (원)</label><input id="amt" inputmode="decimal" value="10,000">
+<label for="rate" id="ratelab">적용 환율 (원)</label><input id="rate" inputmode="decimal">
+<p id="src" style="font-size:13px;color:var(--muted);margin:6px 0 0">환율을 불러오는 중입니다…</p>
+<div class="result" id="out"></div>
+<div id="tbl"></div>
+""",
+        "script": """
+// [이름, 표시 단위(엔·동·루피아는 100 단위로 고시), 소수 자릿수]
+const CUR = {
+  USD: ['미국 달러', 1, 2], JPY: ['일본 엔', 100, 0], EUR: ['유로', 1, 2], CNY: ['중국 위안', 1, 2],
+  GBP: ['영국 파운드', 1, 2], HKD: ['홍콩 달러', 1, 2], TWD: ['대만 달러', 1, 0], VND: ['베트남 동', 100, 0],
+  THB: ['태국 바트', 1, 2], PHP: ['필리핀 페소', 1, 2], SGD: ['싱가포르 달러', 1, 2], AUD: ['호주 달러', 1, 2],
+  CAD: ['캐나다 달러', 1, 2], CHF: ['스위스 프랑', 1, 2], MYR: ['말레이시아 링깃', 1, 2], IDR: ['인도네시아 루피아', 100, 0],
+};
+$('cur').innerHTML = Object.entries(CUR).map(([c, [n]]) => `<option value="${c}">${n} (${c})</option>`).join('');
+let rates = null;  // 1원당 외화 금액
+
+const unitName = c => (CUR[c][1] === 100 ? '100' : '1') + ' ' + c;
+function setRate() {
+  const c = $('cur').value;
+  $('ratelab').textContent = `적용 환율 (${unitName(c)}당 원)`;
+  if (rates && rates[c]) $('rate').value = fmt(CUR[c][1] / rates[c], 2);
+}
+
+async function loadRates() {
+  const sources = [
+    ['https://open.er-api.com/v6/latest/KRW', d => [d.rates, d.time_last_update_utc,
+      '<a href="https://www.exchangerate-api.com" target="_blank" rel="nofollow noopener">Rates By Exchange Rate API</a>']],
+    ['https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/krw.json', d => [
+      Object.fromEntries(Object.entries(d.krw).map(([k, v]) => [k.toUpperCase(), v])), d.date, 'fawazahmed0/currency-api']],
+  ];
+  for (const [url, parse] of sources) {
+    try {
+      const res = await fetch(url);
+      if (!res.ok) continue;
+      const [r, when, credit] = parse(await res.json());
+      if (!r || !r.USD) continue;
+      rates = r;
+      const d = new Date(when);
+      const date = isNaN(d) ? when : d.toLocaleString('ko-KR', {dateStyle: 'medium', timeStyle: 'short'});
+      $('src').innerHTML = `기준: ${date} 고시 환율 · ${credit}`;
+      setRate(); calc();
+      return;
+    } catch (e) { /* 다음 소스로 */ }
+  }
+  $('src').textContent = '환율을 불러오지 못했습니다. 적용 환율을 직접 입력하세요.';
+}
+
+function calc(e) {
+  if (e && e.target && e.target.id === 'cur') setRate();
+  const c = $('cur').value, [name, unit, dp] = CUR[c];
+  const toWon = $('dir').value === 'f2k';
+  $('amtlab').textContent = toWon ? `금액 (${c})` : '금액 (원)';
+  const perOne = num('rate') / unit;  // 외화 1단위당 원
+  if (!perOne) {
+    $('out').innerHTML = '<p>환율을 불러오는 중입니다…</p>';
+    $('tbl').innerHTML = '';
+    return;
+  }
+  const f = v => fmt(v, dp) + ' ' + c;
+  const a = num('amt');
+  $('out').innerHTML = toWon
+    ? `<p>${f(a)} = <b>${won(a * perOne)}</b></p>`
+    : `<p>${won(a)} = <b>${f(a / perOne)}</b></p>`;
+  const kr = [1000, 5000, 10000, 50000, 100000, 1000000];
+  const fx = unit === 100 ? [100, 1000, 5000, 10000, 50000, 100000] : [1, 10, 50, 100, 500, 1000];
+  const rows = kr.map((k, i) => `<tr><td>${won(k)}</td><td>${f(k / perOne)}</td>` +
+    `<td>${f(fx[i])}</td><td>${won(fx[i] * perOne)}</td></tr>`).join('');
+  $('tbl').innerHTML = `<h3 style="margin:20px 0 8px">${name} 기본 변환표</h3>
+    <table><tr><th>원화</th><th>${c}</th><th>${c}</th><th>원화</th></tr>${rows}</table>`;
+}
+loadRates();
+""",
+        "notes": """
+<h2>이 계산기의 환율은</h2>
+<p>무료 환율 API가 하루 한 번 이상 갱신하는 <strong>기준 환율(중간값)</strong>을 사용합니다.
+실시간 외환시장 시세나 은행이 고시하는 매매기준율과는 조금 차이가 날 수 있습니다.
+은행 앱에서 본 환율로 계산하고 싶다면 <strong>적용 환율</strong> 칸에 직접 입력하세요.</p>
+<h2>실제로 환전할 때는 수수료가 붙습니다</h2>
+<ul>
+<li><strong>현찰 살 때·팔 때</strong>: 은행은 기준 환율에 보통 1~2% 안팎의 수수료(스프레드)를 더하거나 뺍니다. 통화와 은행에 따라 다릅니다.</li>
+<li><strong>환전 우대</strong>: 은행 앱·모바일 환전을 쓰면 이 수수료를 50~90%까지 깎아 주는 경우가 많습니다.</li>
+<li><strong>해외 카드 결제</strong>: 결제 금액에 국제 브랜드 수수료와 카드사 해외 이용 수수료가 더해질 수 있습니다.</li>
+</ul>
+<p>일본 엔, 베트남 동, 인도네시아 루피아는 국내 은행 고시 방식에 맞춰 <strong>100단위</strong> 기준 환율로 보여 줍니다.</p>
+""",
+    },
 ]
 
 

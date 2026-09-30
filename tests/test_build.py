@@ -41,6 +41,8 @@ def test_build_site_with_sample_post(tmp_path, monkeypatch):
     tool = (public_dir / "tools/loan-interest/index.html").read_text(encoding="utf-8")
     assert "대출 이자 계산기" in tool and "function calc()" in tool
     assert "tools/pyeong-converter/" in (public_dir / "sitemap.xml").read_text(encoding="utf-8")
+    fx = (public_dir / "tools/exchange-rate/index.html").read_text(encoding="utf-8")
+    assert "환율 계산기" in fx and "open.er-api.com" in fx
 
 
 def test_translated_sites(tmp_path, monkeypatch):
