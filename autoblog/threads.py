@@ -24,10 +24,10 @@ def _post(path: str, params: dict) -> dict:
         raise RuntimeError(f"{exc} {exc.read().decode(errors='replace')[:500]}") from None
 
 
-def compose(post: dict, url: str) -> str:
-    """Title + summary + link, trimmed to the Threads length limit."""
+def compose(post: dict, url: str, intro: str | None = None) -> str:
+    """Intro (or title + summary) + link, trimmed to the Threads length limit."""
     tail = f"\n\n👉 {url}"
-    body = f"{post['title']}\n\n{post['description']}"
+    body = intro or f"{post['title']}\n\n{post['description']}"
     room = MAX_CHARS - len(tail)
     if len(body) > room:
         body = body[: room - 1].rstrip() + "…"
@@ -50,11 +50,11 @@ def refresh_token(token: str) -> str | None:
     return new if new and new != token else None
 
 
-def share(post: dict, url: str, token: str) -> str:
+def share(post: dict, url: str, token: str, intro: str | None = None) -> str:
     """Create and publish a text post with a link preview. Returns the Threads media id."""
     container = _post("/v1.0/me/threads", {
         "media_type": "TEXT",
-        "text": compose(post, url),
+        "text": compose(post, url, intro),
         "link_attachment": url,
         "access_token": token,
     })

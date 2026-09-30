@@ -124,6 +124,9 @@ def translate_missing(writer, languages: list[str], limit: int = 20) -> int:
     return done
 
 
+VMIX_QA_LINE = "vMix 관련해서 궁금한 점은 댓글로 질문 주시면 답해 드릴게요."
+
+
 def share(cfg: dict, limit: int = 2) -> int:
     token = os.environ.get("THREADS_ACCESS_TOKEN")
     if not token:
@@ -145,11 +148,24 @@ def share(cfg: dict, limit: int = 2) -> int:
     shared = set(state.setdefault("threads_shared", []))
     pending = [p for p in load_posts() if p["slug"] not in shared]
     # Newest first; cap per run so enabling this on an existing site doesn't flood the feed.
+    # Claude writes a short, varied intro per post; without an API key the title + summary is used.
+    writer = None
+    if os.environ.get("ANTHROPIC_API_KEY"):
+        from .writer import Writer
+        writer = Writer(cfg.get("translate_model") or cfg["model"])
     done = 0
     for post in pending[:limit]:
         url = f"{cfg['site_url']}/{post_path(post)}"
+        intro = None
+        if writer:
+            try:
+                intro = writer.threads_text(post)
+            except Exception as exc:  # fall back to title + summary
+                print(f"[threads] intro generation failed for {post['slug']}: {exc}", file=sys.stderr)
+        if any("vmix" in t.lower() for t in post.get("tags", [])):
+            intro = (intro or f"{post['title']}\n\n{post['description']}") + "\n\n" + VMIX_QA_LINE
         try:
-            media_id = threads.share(post, url, token)
+            media_id = threads.share(post, url, token, intro)
         except Exception as exc:  # one failed share shouldn't block the rest of the run
             print(f"[threads] failed to share {post['slug']}: {exc}", file=sys.stderr)
             continue

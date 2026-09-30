@@ -57,6 +57,8 @@ h3{font-size:19px;margin:32px 0 8px}
 .badge{display:inline-block;font-size:12px;font-weight:700;padding:3px 8px;border-radius:6px}
 .badge.work{color:var(--work);background:var(--work-soft)}
 .badge.life{color:var(--life);background:var(--life-soft)}
+.qa{background:var(--surface);border:1px solid var(--accent);border-radius:14px;padding:14px 18px;margin:28px 0 0}
+.qa a{font-weight:600;white-space:nowrap}
 .author{display:flex;gap:14px;align-items:center;background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:16px 18px;margin:28px 0}
 .author .avatar{flex:none;display:grid;place-items:center;width:48px;height:48px;border-radius:50%;background:var(--work-soft);font-size:22px}
 .author b{display:block;font-size:15px}
@@ -92,13 +94,16 @@ footer .links{display:flex;flex-wrap:wrap;gap:6px 14px;margin-top:6px}
 UI = {
     "ko": {"min_read": "{}분 읽기", "no_posts": "아직 글이 없습니다.", "about": "소개",
            "privacy": "개인정보처리방침", "related": "함께 읽으면 좋은 글", "see_all": "전체 보기 →",
-           "category": "카테고리", "all_posts": "전체 글 {}편"},
+           "category": "카테고리", "all_posts": "전체 글 {}편",
+           "qa": "vMix 관련해서 궁금한 점은 쓰레드로 질문해 주시면 답해 드립니다.", "qa_link": "쓰레드에서 질문하기 →"},
     "en": {"min_read": "{} min read", "no_posts": "No posts yet.", "about": "About",
            "privacy": "Privacy Policy", "related": "You might also like", "see_all": "See all →",
-           "category": "Category", "all_posts": "{} posts"},
+           "category": "Category", "all_posts": "{} posts",
+           "qa": "Questions about vMix? Ask me on Threads and I'll answer.", "qa_link": "Ask on Threads →"},
     "ja": {"min_read": "{}分で読めます", "no_posts": "まだ記事がありません。", "about": "このブログについて",
            "privacy": "プライバシーポリシー", "related": "あわせて読みたい", "see_all": "すべて見る →",
-           "category": "カテゴリー", "all_posts": "全{}件"},
+           "category": "カテゴリー", "all_posts": "全{}件",
+           "qa": "vMixについての質問はThreadsでどうぞ。お答えします。", "qa_link": "Threadsで質問する →"},
 }
 LANG_LABEL = {"ko": "한국어", "en": "English", "ja": "日本語"}
 # Characters per minute of reading, for the "N min read" label.
@@ -172,6 +177,14 @@ def _cards(cfg: dict, posts: list[dict]) -> str:
         f'<span class="meta">{p["date"][:10]} · {_t(cfg, "min_read").format(_reading_minutes(p))}</span></a>'
         for p in posts
     ) + "</div>"
+
+
+def _qa_box(cfg: dict, post: dict) -> str:
+    """vMix posts invite questions on Threads, since the blog has no comments."""
+    if not cfg.get("threads_url") or not any("vmix" in t.lower() for t in post.get("tags", [])):
+        return ""
+    return (f'<div class="qa">💬 {_t(cfg, "qa")} '
+            f'<a href="{escape(cfg["threads_url"])}" target="_blank" rel="noopener">{_t(cfg, "qa_link")}</a></div>')
 
 
 def _author_box(cfg: dict) -> str:
@@ -262,6 +275,7 @@ def _page(cfg: dict, title: str, body: str, *, description: str = "", canonical:
 <a href="{cfg['site_url']}/privacy/">{_t(cfg, "privacy")}</a>
 <a href="{cfg['site_url']}/rss.xml">RSS</a>
 {f'<a href="{escape(cfg["youtube_url"])}" rel="me noopener" target="_blank">YouTube</a>' if cfg.get("youtube_url") else ""}
+{f'<a href="{escape(cfg["threads_url"])}" rel="me noopener" target="_blank">Threads</a>' if cfg.get("threads_url") else ""}
 </div>
 </div></footer>
 </body>
@@ -340,6 +354,7 @@ def _render_post(cfg: dict, post: dict, posts: list[dict]) -> str:
 {body_html}
 {'<div class="tags">' + tags + '</div>' if tags else ''}
 {_products_html(cfg, post.get('products', [])) if _is_ko(cfg) else ''}
+{_qa_box(cfg, post)}
 {_author_box(cfg)}
 {_banner_html(cfg) if _is_ko(cfg) else ''}
 </article>

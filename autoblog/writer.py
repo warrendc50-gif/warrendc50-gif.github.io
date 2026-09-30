@@ -59,6 +59,23 @@ TRANSLATION_SCHEMA = {
     "additionalProperties": False,
 }
 
+THREADS_SYSTEM_PROMPT = """당신은 블로그 운영자 본인으로서 새 글을 쓰레드(Threads)에 소개하는 짧은 글을 씁니다.
+운영자는 회사를 오래 다닌 평범한 한국 직장인이고, 영상·방송 제작(vMix)에도 익숙합니다.
+
+원칙:
+- 한국어 2~4문장, 250자 이내. 링크는 붙이지 않습니다(시스템이 따로 붙입니다).
+- 첫 문장은 공감되는 상황, 솔직한 한마디, 또는 질문으로 시작합니다. 매번 같은 틀을 쓰지 않습니다.
+- 글의 핵심 한두 가지를 구체적으로 알려 주되, 전부 요약하지는 않습니다.
+- 광고 문구, 과장, 낚시성 표현, 이모지 남발을 하지 않습니다. 해시태그는 쓰지 않거나 1개까지만.
+- 직접 쓴 에세이라면 글쓴이의 말투와 생각을 살립니다."""
+
+THREADS_SCHEMA = {
+    "type": "object",
+    "properties": {"text": {"type": "string"}},
+    "required": ["text"],
+    "additionalProperties": False,
+}
+
 TOPICS_SCHEMA = {
     "type": "object",
     "properties": {"topics": {"type": "array", "items": {"type": "string"}}},
@@ -111,6 +128,14 @@ class Writer:
             f"Body (Markdown):\n{post['body_markdown']}"
         )
         return self._ask_json(prompt, TRANSLATION_SCHEMA, system=TRANSLATE_SYSTEM_PROMPT.format(language=language))
+
+    def threads_text(self, post: dict) -> str:
+        kind = "운영자가 직접 쓴 에세이" if post.get("author") == "human" else "정보성 글"
+        prompt = (
+            f"글 종류: {kind}\n제목: {post['title']}\n설명: {post['description']}\n\n"
+            f"본문:\n{post['body_markdown'][:4000]}"
+        )
+        return self._ask_json(prompt, THREADS_SCHEMA, system=THREADS_SYSTEM_PROMPT)["text"].strip()
 
     def suggest_topics(self, niche: str, used: list[str], count: int = 20) -> list[str]:
         recent = "\n".join(f"- {t}" for t in used[-100:]) or "(없음)"

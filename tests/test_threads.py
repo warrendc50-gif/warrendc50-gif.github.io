@@ -21,3 +21,9 @@ def test_share_creates_then_publishes(monkeypatch):
     assert media_id == "media-9"
     assert calls[0][0] == "/v1.0/me/threads" and calls[0][1]["link_attachment"] == "https://x/p/"
     assert calls[1] == ("/v1.0/me/threads_publish", {"creation_id": "container-1", "access_token": "tok"})
+
+
+def test_compose_uses_intro_when_given():
+    post = {"title": "제목", "description": "설명"}
+    text = threads.compose(post, "https://x/p/", "회사에서 이런 사람 보신 적 있나요?")
+    assert text == "회사에서 이런 사람 보신 적 있나요?\n\n👉 https://x/p/"
