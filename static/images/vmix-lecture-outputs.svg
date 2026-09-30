@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 330" width="900" height="330" font-family="'Noto Sans KR','Malgun Gothic','Apple SD Gothic Neo',sans-serif">
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#3b6fd8"/>
+    </marker>
+  </defs>
+  <rect width="900" height="330" rx="14" fill="#ffffff"/>
+
+  <g font-size="14" font-weight="700" fill="#1f2937" text-anchor="middle">
+    <text x="120" y="34">Source (보낼 화면)</text>
+    <text x="330" y="34">OUTPUT</text>
+    <text x="540" y="34">나가는 길</text>
+    <text x="770" y="34">받는 곳</text>
+  </g>
+
+  <g font-size="14" fill="#1f2937" text-anchor="middle">
+    <!-- row 1 -->
+    <rect x="20" y="52" width="200" height="54" rx="8" fill="#fef7e0" stroke="#e0b100"/>
+    <text x="120" y="84" font-weight="700">PGM (Output)</text>
+    <rect x="260" y="52" width="140" height="54" rx="8" fill="#e8f0fe" stroke="#3b6fd8" stroke-width="1.5"/>
+    <text x="330" y="84" font-weight="700">OUTPUT 1</text>
+    <rect x="440" y="52" width="200" height="54" rx="8" fill="#f4f6f8" stroke="#cfd6dd"/>
+    <text x="540" y="84">Stream + External 1</text>
+    <rect x="680" y="52" width="200" height="54" rx="8" fill="#f4f6f8" stroke="#cfd6dd"/>
+    <text x="780" y="76">유튜브 스트리밍</text>
+    <text x="780" y="95" font-size="12" fill="#5b6572">입구·강사 모니터</text>
+
+    <!-- row 2 -->
+    <rect x="20" y="120" width="200" height="54" rx="8" fill="#f4f6f8" stroke="#cfd6dd"/>
+    <text x="120" y="152" font-weight="700">MultiView</text>
+    <rect x="260" y="120" width="140" height="54" rx="8" fill="#e8f0fe" stroke="#3b6fd8" stroke-width="1.5"/>
+    <text x="330" y="152" font-weight="700">OUTPUT 2</text>
+    <rect x="440" y="120" width="200" height="54" rx="8" fill="#f4f6f8" stroke="#cfd6dd"/>
+    <text x="540" y="152">External 2</text>
+    <rect x="680" y="120" width="200" height="54" rx="8" fill="#f4f6f8" stroke="#cfd6dd"/>
+    <text x="780" y="152">카메라 감독 모니터</text>
+
+    <!-- row 3 -->
+    <rect x="20" y="188" width="200" height="54" rx="8" fill="#f4f6f8" stroke="#cfd6dd"/>
+    <text x="120" y="212" font-weight="700">INPUT · 강사 노트북</text>
+    <text x="120" y="231" font-size="12" fill="#5b6572">HDMI 또는 SDI 변환 입력</text>
+    <rect x="260" y="188" width="140" height="54" rx="8" fill="#e8f0fe" stroke="#3b6fd8" stroke-width="1.5"/>
+    <text x="330" y="220" font-weight="700">OUTPUT 3</text>
+    <rect x="440" y="188" width="200" height="54" rx="8" fill="#f4f6f8" stroke="#cfd6dd"/>
+    <text x="540" y="220">External 3</text>
+    <rect x="680" y="188" width="200" height="54" rx="8" fill="#f4f6f8" stroke="#cfd6dd"/>
+    <text x="780" y="220">빔 프로젝터</text>
+
+    <!-- row 4 -->
+    <rect x="20" y="256" width="200" height="54" rx="8" fill="#fef7e0" stroke="#e0b100"/>
+    <text x="120" y="288" font-weight="700">PGM (Output)</text>
+    <rect x="260" y="256" width="140" height="54" rx="8" fill="#e8f0fe" stroke="#3b6fd8" stroke-width="1.5"/>
+    <text x="330" y="288" font-weight="700">OUTPUT 4</text>
+    <rect x="440" y="256" width="200" height="54" rx="8" fill="#f4f6f8" stroke="#cfd6dd"/>
+    <text x="540" y="288">External 4 (SDI)</text>
+    <rect x="680" y="256" width="200" height="54" rx="8" fill="#f4f6f8" stroke="#cfd6dd"/>
+    <text x="780" y="288">외부 녹화기</text>
+  </g>
+
+  <g stroke="#3b6fd8" stroke-width="2.5" marker-end="url(#a)">
+    <path d="M222,79 L254,79"/><path d="M402,79 L434,79"/><path d="M642,79 L674,79"/>
+    <path d="M222,147 L254,147"/><path d="M402,147 L434,147"/><path d="M642,147 L674,147"/>
+    <path d="M222,215 L254,215"/><path d="M402,215 L434,215"/><path d="M642,215 L674,215"/>
+    <path d="M222,283 L254,283"/><path d="M402,283 L434,283"/><path d="M642,283 L674,283"/>
+  </g>
+</svg>

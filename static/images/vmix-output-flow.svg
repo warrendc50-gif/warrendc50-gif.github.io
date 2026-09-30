@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" width="900" height="380" font-family="'Noto Sans KR','Malgun Gothic','Apple SD Gothic Neo',sans-serif">
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#3b6fd8"/>
+    </marker>
+    <marker id="r" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#d93025"/>
+    </marker>
+  </defs>
+  <rect width="900" height="380" rx="14" fill="#ffffff"/>
+
+  <!-- blocked direct path -->
+  <path d="M120,92 C120,20 780,20 780,92" fill="none" stroke="#d93025" stroke-width="2.5" stroke-dasharray="7 6" marker-end="url(#r)"/>
+  <circle cx="450" cy="40" r="15" fill="#fff" stroke="#d93025" stroke-width="2.5"/>
+  <path d="M443,33 L457,47 M457,33 L443,47" stroke="#d93025" stroke-width="3" stroke-linecap="round"/>
+  <text x="450" y="76" text-anchor="middle" font-size="15" font-weight="700" fill="#d93025">INPUT은 밖으로 바로 못 나갑니다</text>
+
+  <!-- columns -->
+  <g font-size="15" font-weight="700" fill="#1f2937" text-anchor="middle">
+    <text x="120" y="118">INPUT (입력)</text>
+    <text x="450" y="118">OUTPUT 1~4</text>
+    <text x="780" y="118">밖으로 나가는 곳</text>
+  </g>
+
+  <g font-size="14" fill="#1f2937" text-anchor="middle">
+    <!-- inputs -->
+    <rect x="20" y="132" width="200" height="44" rx="8" fill="#f4f6f8" stroke="#cfd6dd"/>
+    <text x="120" y="159">INPUT 1 · 카메라</text>
+    <rect x="20" y="186" width="200" height="44" rx="8" fill="#f4f6f8" stroke="#cfd6dd"/>
+    <text x="120" y="213">INPUT 2 · 카메라</text>
+    <rect x="20" y="240" width="200" height="44" rx="8" fill="#f4f6f8" stroke="#cfd6dd"/>
+    <text x="120" y="267">INPUT 3 · 강사 노트북</text>
+    <rect x="20" y="294" width="200" height="44" rx="8" fill="#f4f6f8" stroke="#cfd6dd"/>
+    <text x="120" y="321">INPUT 4 · 웹페이지·안내 문구</text>
+
+    <!-- outputs -->
+    <rect x="345" y="132" width="210" height="44" rx="8" fill="#e8f0fe" stroke="#3b6fd8" stroke-width="1.5"/>
+    <text x="450" y="159" font-weight="700">OUTPUT 1</text>
+    <rect x="345" y="186" width="210" height="44" rx="8" fill="#e8f0fe" stroke="#3b6fd8" stroke-width="1.5"/>
+    <text x="450" y="213" font-weight="700">OUTPUT 2</text>
+    <rect x="345" y="240" width="210" height="44" rx="8" fill="#e8f0fe" stroke="#3b6fd8" stroke-width="1.5"/>
+    <text x="450" y="267" font-weight="700">OUTPUT 3</text>
+    <rect x="345" y="294" width="210" height="44" rx="8" fill="#e8f0fe" stroke="#3b6fd8" stroke-width="1.5"/>
+    <text x="450" y="321" font-weight="700">OUTPUT 4</text>
+
+    <!-- destinations -->
+    <rect x="680" y="132" width="200" height="44" rx="8" fill="#f4f6f8" stroke="#cfd6dd"/>
+    <text x="780" y="159">Stream · Record</text>
+    <rect x="680" y="186" width="200" height="44" rx="8" fill="#f4f6f8" stroke="#cfd6dd"/>
+    <text x="780" y="206">External 1~4</text>
+    <text x="780" y="223" font-size="12" fill="#5b6572">SDI·HDMI 출력 카드</text>
+    <rect x="680" y="240" width="200" height="44" rx="8" fill="#f4f6f8" stroke="#cfd6dd"/>
+    <text x="780" y="267">NDI · OMT · SRT</text>
+    <rect x="680" y="294" width="200" height="44" rx="8" fill="#f4f6f8" stroke="#cfd6dd"/>
+    <text x="780" y="321">모니터 · 녹화기 · 다른 PC</text>
+  </g>
+
+  <!-- flow arrows -->
+  <path d="M228,235 L337,235" stroke="#3b6fd8" stroke-width="3" marker-end="url(#a)"/>
+  <path d="M563,235 L672,235" stroke="#3b6fd8" stroke-width="3" marker-end="url(#a)"/>
+  <text x="282" y="224" text-anchor="middle" font-size="12" fill="#3b6fd8">Source로 지정</text>
+
+  <text x="450" y="364" text-anchor="middle" font-size="13" fill="#5b6572">각 OUTPUT의 Source: PGM(Output) · Preview · MultiView · 특정 INPUT 중에서 고름</text>
+</svg>
