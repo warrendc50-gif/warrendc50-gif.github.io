@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
     inputs:
       count:
-        description: "이번에 생성할 글 수"
+        description: "이번에 생성할 글 수 (0 = 글 작성 없이 배포·쓰레드 공유만)"
         default: "1"
   push:
     branches: [main, claude/zen-pascal-k5i0k2]
@@ -41,7 +41,7 @@ jobs:
 
       - name: Generate posts
         id: gen
-        if: github.event_name != 'push'
+        if: github.event_name != 'push' && github.event.inputs.count != '0'
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           COUPANG_ACCESS_KEY: ${{ secrets.COUPANG_ACCESS_KEY }}
