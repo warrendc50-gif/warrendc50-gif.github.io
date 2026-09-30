@@ -92,7 +92,9 @@ def generate(cfg: dict, count: int) -> int:
         written += 1
         print(f"[write] saved {out.name} ({len(post['products'])} products)")
     translator = Writer(cfg.get("translate_model") or cfg["model"])
-    translate_missing(translator, list(cfg.get("translations", {})))
+    # A language with "auto_translate": false keeps its site but gets no new translations.
+    languages = [lang for lang, t in cfg.get("translations", {}).items() if t.get("auto_translate", True)]
+    translate_missing(translator, languages)
     return written
 
 

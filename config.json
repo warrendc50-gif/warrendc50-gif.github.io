@@ -42,6 +42,7 @@
   },
   "translations": {
     "en": {
+      "auto_translate": false,
       "site_title": "Everyday Life Notes",
       "site_description": "Stories from a Korean office worker's life, plus practical everyday tips for saving money and choosing gadgets.",
       "hero_title": "Work and Life Notes from a Korean Office Worker",
