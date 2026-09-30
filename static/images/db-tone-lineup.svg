@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 250" width="900" height="250" font-family="'Noto Sans KR','Malgun Gothic','Apple SD Gothic Neo',sans-serif">
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#3b6fd8"/>
+    </marker>
+  </defs>
+  <rect width="900" height="250" rx="14" fill="#ffffff"/>
+  <text x="450" y="32" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2937">소스 → 목적지 방향으로, 한 구간씩, 받는 쪽을 맞춘다</text>
+
+  <g font-size="14" fill="#1f2937" text-anchor="middle">
+    <rect x="20" y="60" width="170" height="80" rx="8" fill="#fef7e0" stroke="#e0b100" stroke-width="1.5"/>
+    <text x="105" y="88" font-weight="700">톤 제너레이터</text>
+    <text x="105" y="110" font-size="13">1 kHz 사인파</text>
+    <text x="105" y="128" font-size="13" fill="#9a6b00">−18 dBFS (EBU)</text>
+
+    <rect x="250" y="60" width="170" height="80" rx="8" fill="#f4f6f8" stroke="#cfd6dd"/>
+    <text x="335" y="95" font-weight="700">장비 A</text>
+    <text x="335" y="118" font-size="12" fill="#5b6572">예: 스테이지박스</text>
+
+    <rect x="480" y="60" width="170" height="80" rx="8" fill="#f4f6f8" stroke="#cfd6dd"/>
+    <text x="565" y="95" font-weight="700">장비 B</text>
+    <text x="565" y="118" font-size="12" fill="#5b6572">예: 콘솔</text>
+
+    <rect x="710" y="60" width="170" height="80" rx="8" fill="#f4f6f8" stroke="#cfd6dd"/>
+    <text x="795" y="95" font-weight="700">장비 C</text>
+    <text x="795" y="118" font-size="12" fill="#5b6572">예: 송출·녹음</text>
+  </g>
+  <g stroke="#3b6fd8" stroke-width="2.5" marker-end="url(#a)">
+    <path d="M192,100 L244,100"/><path d="M422,100 L474,100"/><path d="M652,100 L704,100"/>
+  </g>
+
+  <g font-size="12" text-anchor="middle">
+    <rect x="265" y="152" width="140" height="44" rx="6" fill="#e3f4e8"/>
+    <text x="335" y="170" fill="#1e8e3e" font-weight="700">입력 미터 −18 확인</text>
+    <text x="335" y="187" fill="#5b6572">틀리면 A의 입력으로 보정</text>
+    <rect x="495" y="152" width="140" height="44" rx="6" fill="#e3f4e8"/>
+    <text x="565" y="170" fill="#1e8e3e" font-weight="700">입력 미터 −18 확인</text>
+    <text x="565" y="187" fill="#5b6572">틀리면 B의 트림으로 보정</text>
+    <rect x="725" y="152" width="140" height="44" rx="6" fill="#e3f4e8"/>
+    <text x="795" y="170" fill="#1e8e3e" font-weight="700">입력 미터 −18 확인</text>
+    <text x="795" y="187" fill="#5b6572">틀리면 C의 입력으로 보정</text>
+  </g>
+  <text x="450" y="232" text-anchor="middle" font-size="13" fill="#5b6572">경로의 게인은 모두 유니티(0 dB), EQ·컴프·리미터는 바이패스. 페이더로 맞추지 않습니다.</text>
+</svg>

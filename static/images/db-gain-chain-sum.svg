@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200" font-family="'Noto Sans KR','Malgun Gothic','Apple SD Gothic Neo',sans-serif">
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#3b6fd8"/>
+    </marker>
+  </defs>
+  <rect width="900" height="200" rx="14" fill="#ffffff"/>
+  <g font-size="14" fill="#1f2937" text-anchor="middle">
+    <rect x="20" y="40" width="140" height="70" rx="8" fill="#f4f6f8" stroke="#cfd6dd"/>
+    <text x="90" y="68" font-weight="700">마이크 출력</text>
+    <text x="90" y="92" font-size="18" font-weight="700" fill="#3b6fd8">−50 dBu</text>
+
+    <rect x="200" y="40" width="140" height="70" rx="8" fill="#fef7e0" stroke="#e0b100" stroke-width="1.5"/>
+    <text x="270" y="68" font-weight="700">프리앰프</text>
+    <text x="270" y="92" font-size="18" font-weight="700" fill="#9a6b00">+56 dB</text>
+
+    <rect x="380" y="40" width="140" height="70" rx="8" fill="#fef7e0" stroke="#e0b100" stroke-width="1.5"/>
+    <text x="450" y="68" font-weight="700">트림</text>
+    <text x="450" y="92" font-size="18" font-weight="700" fill="#9a6b00">−2 dB</text>
+
+    <rect x="560" y="40" width="140" height="70" rx="8" fill="#e8f0fe" stroke="#3b6fd8" stroke-width="1.5"/>
+    <text x="630" y="68" font-weight="700">페이더</text>
+    <text x="630" y="92" font-size="18" font-weight="700" fill="#2f5bb7">0 dB</text>
+
+    <rect x="740" y="40" width="140" height="70" rx="8" fill="#e3f4e8" stroke="#1e8e3e" stroke-width="1.5"/>
+    <text x="810" y="68" font-weight="700">출력</text>
+    <text x="810" y="92" font-size="18" font-weight="700" fill="#1e8e3e">+4 dBu</text>
+  </g>
+  <g stroke="#3b6fd8" stroke-width="2.5" marker-end="url(#a)">
+    <path d="M162,75 L194,75"/><path d="M342,75 L374,75"/><path d="M522,75 L554,75"/><path d="M702,75 L734,75"/>
+  </g>
+  <text x="450" y="152" text-anchor="middle" font-size="20" font-weight="700" fill="#1f2937">−50 + 56 − 2 + 0 = +4 dBu</text>
+  <text x="450" y="180" text-anchor="middle" font-size="13" fill="#5b6572">배율은 곱해야 하지만, dB로 바꾸면 게인 단계는 그냥 더하면 됩니다.</text>
+</svg>

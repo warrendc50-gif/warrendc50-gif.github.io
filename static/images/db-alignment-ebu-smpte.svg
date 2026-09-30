@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" width="900" height="400" font-family="'Noto Sans KR','Malgun Gothic','Apple SD Gothic Neo',sans-serif">
+  <rect width="900" height="400" rx="14" fill="#ffffff"/>
+
+  <g font-size="16" font-weight="700" fill="#1f2937" text-anchor="middle">
+    <text x="225" y="38">EBU (유럽, R68)</text>
+    <text x="675" y="38">SMPTE (미국, RP155)</text>
+  </g>
+  <g font-size="12" fill="#5b6572" text-anchor="middle">
+    <text x="150" y="62">디지털 (dBFS)</text><text x="300" y="62">아날로그 (dBu)</text>
+    <text x="600" y="62">디지털 (dBFS)</text><text x="750" y="62">아날로그 (dBu)</text>
+  </g>
+
+  <!-- EBU bar: 0 dBFS y=80, 6 px/dB; -18 -> 188; -40 -> 320 -->
+  <rect x="205" y="80" width="40" height="108" fill="#fde2e0"/>
+  <rect x="205" y="188" width="40" height="132" fill="#e3f4e8"/>
+  <rect x="205" y="80" width="40" height="240" fill="none" stroke="#8a94a3"/>
+  <!-- SMPTE bar: -20 -> 200 -->
+  <rect x="655" y="80" width="40" height="120" fill="#fde2e0"/>
+  <rect x="655" y="200" width="40" height="120" fill="#e3f4e8"/>
+  <rect x="655" y="80" width="40" height="240" fill="none" stroke="#8a94a3"/>
+
+  <g stroke-width="2.5">
+    <path d="M190,80 L260,80" stroke="#d93025"/>
+    <path d="M190,188 L260,188" stroke="#1e8e3e"/>
+    <path d="M640,80 L710,80" stroke="#d93025"/>
+    <path d="M640,200 L710,200" stroke="#1e8e3e"/>
+  </g>
+
+  <g font-size="15" font-weight="700" text-anchor="end">
+    <text x="184" y="85" fill="#d93025">0 dBFS</text>
+    <text x="184" y="193" fill="#1e8e3e">−18 dBFS</text>
+    <text x="634" y="85" fill="#d93025">0 dBFS</text>
+    <text x="634" y="205" fill="#1e8e3e">−20 dBFS</text>
+  </g>
+  <g font-size="15" font-weight="700">
+    <text x="266" y="85" fill="#d93025">+18 dBu</text>
+    <text x="266" y="193" fill="#1e8e3e">0 dBu</text>
+    <text x="716" y="85" fill="#d93025">+24 dBu</text>
+    <text x="716" y="205" fill="#1e8e3e">+4 dBu</text>
+  </g>
+  <g font-size="12" fill="#5b6572">
+    <text x="266" y="101">최대(클리핑)</text>
+    <text x="266" y="209">정렬(기준 톤) 레벨</text>
+    <text x="716" y="101">최대(클리핑)</text>
+    <text x="716" y="221">정렬(기준 톤) 레벨</text>
+  </g>
+
+  <!-- headroom brackets -->
+  <g fill="none" stroke="#9a6b00" stroke-width="1.5">
+    <path d="M110,82 L100,82 L100,186 L110,186"/>
+    <path d="M560,82 L550,82 L550,198 L560,198"/>
+  </g>
+  <g font-size="13" font-weight="700" fill="#9a6b00" text-anchor="middle">
+    <text x="70" y="130">헤드룸</text><text x="70" y="148">18 dB</text>
+    <text x="520" y="136">헤드룸</text><text x="520" y="154">20 dB</text>
+  </g>
+
+  <text x="450" y="352" text-anchor="middle" font-size="14" fill="#1f2937">같은 기준 톤이라도 EBU는 −18 dBFS, SMPTE는 −20 dBFS. 섞어 쓰면 정확히 2 dB가 어긋납니다.</text>
+  <text x="450" y="376" text-anchor="middle" font-size="12" fill="#5b6572">※ 컨버터마다 0 dBFS에 해당하는 아날로그 레벨 설정(+18 / +24 dBu 등)이 다를 수 있으니 장비 설정을 확인하세요.</text>
+</svg>

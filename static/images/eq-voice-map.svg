@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 370" width="900" height="370" font-family="'Noto Sans KR','Malgun Gothic','Apple SD Gothic Neo',sans-serif">
+<rect width="900" height="370" rx="14" fill="#ffffff"/>
+<text x="450" y="34" font-size="16" fill="#1f2937" text-anchor="middle" font-weight="700">목소리 주파수 지도</text>
+<rect x="40" y="60" width="820" height="250" fill="#fbfcfd" stroke="#e6e9ee"/>
+<line x1="40" y1="310.0" x2="860" y2="310.0" stroke="#8a94a3" stroke-width="1.4"/>
+<line x1="40.0" y1="60" x2="40.0" y2="310" stroke="#e6e9ee"/>
+<line x1="148.8" y1="60" x2="148.8" y2="310" stroke="#e6e9ee"/>
+<line x1="231.1" y1="60" x2="231.1" y2="310" stroke="#e6e9ee"/>
+<line x1="313.3" y1="60" x2="313.3" y2="310" stroke="#e6e9ee"/>
+<line x1="422.1" y1="60" x2="422.1" y2="310" stroke="#e6e9ee"/>
+<line x1="504.4" y1="60" x2="504.4" y2="310" stroke="#e6e9ee"/>
+<line x1="586.7" y1="60" x2="586.7" y2="310" stroke="#e6e9ee"/>
+<line x1="695.4" y1="60" x2="695.4" y2="310" stroke="#e6e9ee"/>
+<line x1="777.7" y1="60" x2="777.7" y2="310" stroke="#e6e9ee"/>
+<line x1="860.0" y1="60" x2="860.0" y2="310" stroke="#e6e9ee"/>
+<text x="40.0" y="330" font-size="11" fill="#5b6572" text-anchor="middle">20</text>
+<text x="148.8" y="330" font-size="11" fill="#5b6572" text-anchor="middle">50</text>
+<text x="231.1" y="330" font-size="11" fill="#5b6572" text-anchor="middle">100</text>
+<text x="313.3" y="330" font-size="11" fill="#5b6572" text-anchor="middle">200</text>
+<text x="422.1" y="330" font-size="11" fill="#5b6572" text-anchor="middle">500</text>
+<text x="504.4" y="330" font-size="11" fill="#5b6572" text-anchor="middle">1k</text>
+<text x="586.7" y="330" font-size="11" fill="#5b6572" text-anchor="middle">2k</text>
+<text x="695.4" y="330" font-size="11" fill="#5b6572" text-anchor="middle">5k</text>
+<text x="777.7" y="330" font-size="11" fill="#5b6572" text-anchor="middle">10k</text>
+<text x="860.0" y="330" font-size="11" fill="#5b6572" text-anchor="middle">20k</text>
+<rect x="40.0" y="80" width="164.6" height="32" rx="6" fill="#e6e9ee" stroke="#cfd6dd"/>
+<text x="122.3" y="94" font-size="12" fill="#1f2937" text-anchor="middle" font-weight="700">럼블·진동</text>
+<text x="122.3" y="107" font-size="10" fill="#5b6572" text-anchor="middle">HPF로 제거</text>
+<rect x="211.8" y="118" width="89.1" height="32" rx="6" fill="#dbe7fd" stroke="#cfd6dd"/>
+<text x="256.3" y="132" font-size="12" fill="#1f2937" text-anchor="middle" font-weight="700">남성 기본음</text>
+<text x="256.3" y="145" font-size="10" fill="#5b6572" text-anchor="middle">약 85~180 Hz</text>
+<rect x="277.3" y="156" width="78.0" height="32" rx="6" fill="#fde2ef" stroke="#cfd6dd"/>
+<text x="316.3" y="170" font-size="12" fill="#1f2937" text-anchor="middle" font-weight="700">여성 기본음</text>
+<text x="316.3" y="183" font-size="10" fill="#5b6572" text-anchor="middle">약 165~255 Hz</text>
+<rect x="231.1" y="194" width="108.8" height="32" rx="6" fill="#fef1d6" stroke="#cfd6dd"/>
+<text x="285.4" y="208" font-size="12" fill="#1f2937" text-anchor="middle" font-weight="700">몸통·따뜻함</text>
+<text x="285.4" y="221" font-size="10" fill="#5b6572" text-anchor="middle">과하면 붕붕</text>
+<rect x="339.8" y="232" width="82.3" height="32" rx="6" fill="#fde2e0" stroke="#cfd6dd"/>
+<text x="381.0" y="246" font-size="12" fill="#1f2937" text-anchor="middle" font-weight="700">먹먹함</text>
+<text x="381.0" y="259" font-size="10" fill="#5b6572" text-anchor="middle">살짝 컷</text>
+<rect x="455.0" y="232" width="78.0" height="32" rx="6" fill="#f1e7fd" stroke="#cfd6dd"/>
+<text x="494.0" y="246" font-size="12" fill="#1f2937" text-anchor="middle" font-weight="700">콧소리</text>
+<text x="494.0" y="259" font-size="10" fill="#5b6572" text-anchor="middle">과하면 컷</text>
+<rect x="586.7" y="194" width="108.8" height="32" rx="6" fill="#e3f4e8" stroke="#cfd6dd"/>
+<text x="641.1" y="208" font-size="12" fill="#1f2937" text-anchor="middle" font-weight="700">명료도·존재감</text>
+<text x="641.1" y="221" font-size="10" fill="#5b6572" text-anchor="middle">자음이 또렷해짐</text>
+<rect x="691.3" y="156" width="78.0" height="32" rx="6" fill="#fde8d7" stroke="#cfd6dd"/>
+<text x="730.3" y="170" font-size="12" fill="#1f2937" text-anchor="middle" font-weight="700">치찰음 (ㅅ·ㅆ)</text>
+<text x="730.3" y="183" font-size="10" fill="#5b6572" text-anchor="middle">디에서로 관리</text>
+<rect x="777.7" y="118" width="82.3" height="32" rx="6" fill="#e0f2f5" stroke="#cfd6dd"/>
+<text x="818.9" y="132" font-size="12" fill="#1f2937" text-anchor="middle" font-weight="700">공기감</text>
+<text x="818.9" y="145" font-size="10" fill="#5b6572" text-anchor="middle">밝고 트인 느낌</text>
+<text x="450" y="352" font-size="12" fill="#5b6572" text-anchor="middle">Hz · 명료도는 2~5 kHz, 답답함은 250~500 Hz에서 결정되는 경우가 많습니다</text>
+</svg>
