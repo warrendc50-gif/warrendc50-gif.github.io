@@ -91,7 +91,8 @@ def generate(cfg: dict, count: int) -> int:
         topics.mark_used(topic)
         written += 1
         print(f"[write] saved {out.name} ({len(post['products'])} products)")
-    translate_missing(writer, list(cfg.get("translations", {})))
+    translator = Writer(cfg.get("translate_model") or cfg["model"])
+    translate_missing(translator, list(cfg.get("translations", {})))
     return written
 
 

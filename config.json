@@ -25,7 +25,8 @@
     7,
     19
   ],
-  "model": "claude-opus-5",
+  "model": "claude-opus-5-5",
+  "translate_model": "claude-sonnet-5-5",
   "adsense_client": "",
   "naver_site_verification": "8dacc6220ed8307cc36150d0e94bc3793181754c",
   "google_site_verification": "",

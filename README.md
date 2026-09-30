@@ -42,7 +42,7 @@
 
 ## 맞춤 설정
 
-- `config.json` — 사이트 이름, 분야(`niche`), 하루 글 수(`posts_per_run`), 모델
+- `config.json` — 사이트 이름, 분야(`niche`), 하루 글 수(`posts_per_run`), 글 작성 모델(`model`), 번역 모델(`translate_model`)
 - `data/topics.txt` — 쓰고 싶은 주제를 한 줄에 하나씩 추가
 - `config.json` 의 `translations` — 번역할 언어와 언어별 사이트 이름·소개. 영어는 `/en/`, 일본어는 `/ja/` 에 게시되고
   hreflang 태그로 검색엔진에 언어별 페이지가 연결됩니다. 쿠팡 상품·계산기는 한국어 사이트에만 나옵니다.
