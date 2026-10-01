@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 290" width="900" height="290" font-family="'Noto Sans KR','Malgun Gothic','Apple SD Gothic Neo',sans-serif">
+<rect width="900" height="290" rx="14" fill="#ffffff"/>
+<text x="225" y="34" font-size="16" fill="#1f2937" text-anchor="middle" font-weight="700">프로그레시브 (p)</text>
+<text x="640" y="34" font-size="16" fill="#1f2937" text-anchor="middle" font-weight="700">인터레이스 (i)</text>
+<rect x="135" y="55" width="180" height="130" rx="6" fill="#f8fafc" stroke="#cfd6dd"/>
+<line x1="145" y1="65.0" x2="305" y2="65.0" stroke="#1e8e3e" stroke-width="5" stroke-linecap="round"/>
+<line x1="145" y1="75.0" x2="305" y2="75.0" stroke="#1e8e3e" stroke-width="5" stroke-linecap="round"/>
+<line x1="145" y1="85.0" x2="305" y2="85.0" stroke="#1e8e3e" stroke-width="5" stroke-linecap="round"/>
+<line x1="145" y1="95.0" x2="305" y2="95.0" stroke="#1e8e3e" stroke-width="5" stroke-linecap="round"/>
+<line x1="145" y1="105.0" x2="305" y2="105.0" stroke="#1e8e3e" stroke-width="5" stroke-linecap="round"/>
+<line x1="145" y1="115.0" x2="305" y2="115.0" stroke="#1e8e3e" stroke-width="5" stroke-linecap="round"/>
+<line x1="145" y1="125.0" x2="305" y2="125.0" stroke="#1e8e3e" stroke-width="5" stroke-linecap="round"/>
+<line x1="145" y1="135.0" x2="305" y2="135.0" stroke="#1e8e3e" stroke-width="5" stroke-linecap="round"/>
+<line x1="145" y1="145.0" x2="305" y2="145.0" stroke="#1e8e3e" stroke-width="5" stroke-linecap="round"/>
+<line x1="145" y1="155.0" x2="305" y2="155.0" stroke="#1e8e3e" stroke-width="5" stroke-linecap="round"/>
+<line x1="145" y1="165.0" x2="305" y2="165.0" stroke="#1e8e3e" stroke-width="5" stroke-linecap="round"/>
+<line x1="145" y1="175.0" x2="305" y2="175.0" stroke="#1e8e3e" stroke-width="5" stroke-linecap="round"/>
+<text x="225.0" y="205" font-size="13" fill="#1f2937" text-anchor="middle" font-weight="700">한 장에 전체 줄</text>
+<text x="225.0" y="222" font-size="11" fill="#5b6572" text-anchor="middle">1080p = 1080줄을 한 번에</text>
+<rect x="470" y="55" width="130" height="130" rx="6" fill="#f8fafc" stroke="#cfd6dd"/>
+<line x1="480" y1="65.0" x2="590" y2="65.0" stroke="#3b6fd8" stroke-width="5" stroke-linecap="round"/>
+<line x1="480" y1="85.0" x2="590" y2="85.0" stroke="#3b6fd8" stroke-width="5" stroke-linecap="round"/>
+<line x1="480" y1="105.0" x2="590" y2="105.0" stroke="#3b6fd8" stroke-width="5" stroke-linecap="round"/>
+<line x1="480" y1="125.0" x2="590" y2="125.0" stroke="#3b6fd8" stroke-width="5" stroke-linecap="round"/>
+<line x1="480" y1="145.0" x2="590" y2="145.0" stroke="#3b6fd8" stroke-width="5" stroke-linecap="round"/>
+<line x1="480" y1="165.0" x2="590" y2="165.0" stroke="#3b6fd8" stroke-width="5" stroke-linecap="round"/>
+<text x="535.0" y="205" font-size="13" fill="#1f2937" text-anchor="middle" font-weight="700">필드 1: 홀수 줄</text>
+<text x="535.0" y="222" font-size="11" fill="#5b6572" text-anchor="middle">540줄</text>
+<text x="622" y="125" font-size="26" fill="#5b6572" text-anchor="middle">+</text>
+<rect x="645" y="55" width="130" height="130" rx="6" fill="#f8fafc" stroke="#cfd6dd"/>
+<line x1="655" y1="75.0" x2="765" y2="75.0" stroke="#e8710a" stroke-width="5" stroke-linecap="round"/>
+<line x1="655" y1="95.0" x2="765" y2="95.0" stroke="#e8710a" stroke-width="5" stroke-linecap="round"/>
+<line x1="655" y1="115.0" x2="765" y2="115.0" stroke="#e8710a" stroke-width="5" stroke-linecap="round"/>
+<line x1="655" y1="135.0" x2="765" y2="135.0" stroke="#e8710a" stroke-width="5" stroke-linecap="round"/>
+<line x1="655" y1="155.0" x2="765" y2="155.0" stroke="#e8710a" stroke-width="5" stroke-linecap="round"/>
+<line x1="655" y1="175.0" x2="765" y2="175.0" stroke="#e8710a" stroke-width="5" stroke-linecap="round"/>
+<text x="710.0" y="205" font-size="13" fill="#1f2937" text-anchor="middle" font-weight="700">필드 2: 짝수 줄</text>
+<text x="710.0" y="222" font-size="11" fill="#5b6572" text-anchor="middle">540줄</text>
+<line x1="450" y1="45" x2="450" y2="240" stroke="#e6e9ee" stroke-width="2"/>
+<text x="450" y="272" font-size="12" fill="#5b6572" text-anchor="middle">인터레이스는 반쪽 화면(필드) 두 장을 번갈아 보내 한 프레임을 만듭니다. 움직이는 장면을 멈춰 보면 줄무늬(코밍)가 생길 수 있습니다</text>
+</svg>
