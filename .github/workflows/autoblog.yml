@@ -44,7 +44,9 @@ jobs:
 
       - name: Generate posts
         id: gen
-        if: github.event_name != 'push' && github.event.inputs.count != '0'
+        # Schedule runs have no inputs, and Actions coerces the missing value to 0 so it equals '0';
+        # check the event first so scheduled runs still generate.
+        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && github.event.inputs.count != '0')
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           COUPANG_ACCESS_KEY: ${{ secrets.COUPANG_ACCESS_KEY }}
