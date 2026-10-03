@@ -10,6 +10,9 @@ on:
       count:
         description: "이번에 생성할 글 수 (0 = 글 작성 없이 배포·쓰레드 공유만)"
         default: "1"
+      share_only:
+        description: "이 글(slug)만 쓰레드에 공유 (비우면 대기 중인 글을 순서대로)"
+        default: ""
   push:
     branches: [main, claude/zen-pascal-k5i0k2]
     paths: ["autoblog/**", "static/**", "content/**", "config.json", ".github/workflows/autoblog.yml"]
@@ -84,6 +87,7 @@ jobs:
         env:
           THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SHARE_ONLY: ${{ github.event.inputs.share_only }}
           THREADS_TOKEN_FILE: ${{ runner.temp }}/threads_token
         run: |
           python -m autoblog share

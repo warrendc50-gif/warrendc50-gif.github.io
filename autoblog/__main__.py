@@ -147,6 +147,9 @@ def share(cfg: dict, limit: int = 2) -> int:
     first_run = not state.get("threads_shared")
     shared = set(state.setdefault("threads_shared", []))
     pending = [p for p in load_posts() if p["slug"] not in shared]
+    only = os.environ.get("SHARE_ONLY", "").strip()
+    if only:  # manual run that shares one specific post (other pending posts wait)
+        pending = [p for p in pending if p["slug"] == only]
     # Newest first; cap per run so enabling this on an existing site doesn't flood the feed.
     # Claude writes a short, varied intro per post; without an API key the title + summary is used.
     writer = None
