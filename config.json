@@ -90,7 +90,7 @@
       }
     }
   },
-  "coupang_banner_paused": {
+  "coupang_banner": {
     "id": 1033451,
     "template": "carousel",
     "trackingCode": "AF8654921",
