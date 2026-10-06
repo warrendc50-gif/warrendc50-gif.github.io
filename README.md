@@ -1,6 +1,6 @@
 # mon — 자동 수익형 블로그
 
-매일 Claude가 정보성 글을 2편(07시·19시 KST 무렵)씩 쓰고, 정적 사이트로 만들어 GitHub Pages에 자동 게시합니다.
+매일 Claude가 정보성 글을 1편(07시 KST 무렵, config.json publish_hours_kst)씩 쓰고, 정적 사이트로 만들어 GitHub Pages에 자동 게시합니다.
 서버 비용은 0원(GitHub Actions + Pages)이며, 수익은 **본인 명의** 계정으로 들어옵니다.
 
 | 수익원 | 방식 | 지급 |
