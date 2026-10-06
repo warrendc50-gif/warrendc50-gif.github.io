@@ -22,6 +22,7 @@ def test_build_site_with_sample_post(tmp_path, monkeypatch):
 
     cfg = config.load_config()
     cfg["adsense_client"] = "ca-pub-1234567890"
+    cfg["coupang_banner"] = cfg.get("coupang_banner_paused")
     cfg["naver_site_verification"] = "abc123"
     assert builder.build_site(cfg) == 1
 

@@ -38,14 +38,6 @@
   "google_site_verification": "",
   "coupang_disclosure": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
   "coupang_products_per_post": 3,
-  "coupang_banner": {
-    "id": 1033451,
-    "template": "carousel",
-    "trackingCode": "AF8654921",
-    "width": "680",
-    "height": "140",
-    "tsource": ""
-  },
   "translations": {
     "en": {
       "auto_translate": false,
@@ -97,5 +89,13 @@
         }
       }
     }
+  },
+  "coupang_banner_paused": {
+    "id": 1033451,
+    "template": "carousel",
+    "trackingCode": "AF8654921",
+    "width": "680",
+    "height": "140",
+    "tsource": ""
   }
 }
