@@ -6,6 +6,7 @@ Without it, sharing is skipped.
 """
 import json
 import os
+import time
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -58,8 +59,30 @@ def share(post: dict, url: str, token: str, intro: str | None = None) -> str:
         "link_attachment": url,
         "access_token": token,
     })
+    _wait_until_ready(container["id"], token)
     published = _post("/v1.0/me/threads_publish", {
         "creation_id": container["id"],
         "access_token": token,
     })
     return published["id"]
+
+
+def _wait_until_ready(container_id: str, token: str, timeout: float = 60, interval: float = 5) -> None:
+    """Threads processes a new container asynchronously (link previews especially); publishing
+    before it reaches FINISHED fails with "Media Not Found". Poll its status until ready."""
+    query = urllib.parse.urlencode({"fields": "status,error_message", "access_token": token})
+    deadline = time.monotonic() + timeout
+    while True:
+        try:
+            with urllib.request.urlopen(f"{API}/v1.0/{container_id}?{query}", timeout=30) as resp:
+                info = json.load(resp)
+        except urllib.error.URLError as exc:
+            info = {"status": f"unknown ({exc})"}
+        status = info.get("status")
+        if status in ("FINISHED", "PUBLISHED"):
+            return
+        if status in ("ERROR", "EXPIRED"):
+            raise RuntimeError(f"Threads container {container_id} {status}: {info.get('error_message')}")
+        if time.monotonic() >= deadline:
+            return  # try publishing anyway; the caller reports any failure
+        time.sleep(interval)
