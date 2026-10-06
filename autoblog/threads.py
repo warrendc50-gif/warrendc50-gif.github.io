@@ -53,12 +53,22 @@ def refresh_token(token: str) -> str | None:
 
 def share(post: dict, url: str, token: str, intro: str | None = None) -> str:
     """Create and publish a text post with a link preview. Returns the Threads media id."""
-    container = _post("/v1.0/me/threads", {
-        "media_type": "TEXT",
-        "text": compose(post, url, intro),
-        "link_attachment": url,
-        "access_token": token,
-    })
+    try:
+        return _create_and_publish(post, url, token, intro, link_preview=True)
+    except Exception as exc:
+        # Threads sometimes can't build the link preview card ("Invalid Link Attachment",
+        # "Media Not Found"). The URL is already in the text, so retry without the card.
+        if "link" not in str(exc).lower() and "media not found" not in str(exc).lower():
+            raise
+        print(f"[threads] link preview failed for {post.get('slug')}, retrying without it: {exc}")
+        return _create_and_publish(post, url, token, intro, link_preview=False)
+
+
+def _create_and_publish(post: dict, url: str, token: str, intro: str | None, link_preview: bool) -> str:
+    params = {"media_type": "TEXT", "text": compose(post, url, intro), "access_token": token}
+    if link_preview:
+        params["link_attachment"] = url
+    container = _post("/v1.0/me/threads", params)
     _wait_until_ready(container["id"], token)
     published = _post("/v1.0/me/threads_publish", {
         "creation_id": container["id"],

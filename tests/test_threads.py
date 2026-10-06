@@ -37,3 +37,19 @@ def test_share_waits_for_container(monkeypatch):
     monkeypatch.setattr(threads, "_wait_until_ready", lambda cid, tok: waited.append(cid))
     assert threads.share({"title": "t", "description": "d"}, "https://x/p/", "tok") == "m1"
     assert waited == ["c1"]
+
+
+def test_share_retries_without_link_preview(monkeypatch):
+    calls = []
+
+    def fake_post(path, params):
+        calls.append((path, dict(params)))
+        if path.endswith("/threads_publish") and len(calls) == 2:
+            raise RuntimeError("HTTP Error 400 ... Invalid Link Attachment")
+        return {"id": "c%d" % len(calls)} if path.endswith("/threads") else {"id": "m1"}
+
+    monkeypatch.setattr(threads, "_post", fake_post)
+    monkeypatch.setattr(threads, "_wait_until_ready", lambda cid, tok: None)
+    assert threads.share({"title": "t", "description": "d", "slug": "s"}, "https://x/p/", "tok") == "m1"
+    assert "link_attachment" in calls[0][1]
+    assert "link_attachment" not in calls[2][1] and "https://x/p/" in calls[2][1]["text"]
