@@ -44,6 +44,8 @@ def test_build_site_with_sample_post(tmp_path, monkeypatch):
     assert "tools/pyeong-converter/" in (public_dir / "sitemap.xml").read_text(encoding="utf-8")
     fx = (public_dir / "tools/exchange-rate/index.html").read_text(encoding="utf-8")
     assert "환율 계산기" in fx and "open.er-api.com" in fx
+    card = (public_dir / "tools/card-statement-lookup/index.html").read_text(encoding="utf-8")
+    assert "카드 내역 가맹점명 검색기" in card and "우아한형제들" in card and "search.naver.com" in card
 
 
 def test_translated_sites(tmp_path, monkeypatch):
