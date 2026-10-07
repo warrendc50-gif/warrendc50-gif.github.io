@@ -21,6 +21,16 @@ TOOL_CSS = """
   color:var(--fg);text-decoration:none}
 .tool .btns a:hover{border-color:var(--accent);color:var(--accent)}
 .tool .btns a.pri{background:var(--accent);border-color:var(--accent);color:#fff}
+.tool .btns button{font:inherit;font-size:14px;padding:7px 12px;border-radius:8px;border:1px solid var(--line);
+  background:var(--surface);color:var(--fg);cursor:pointer}
+.tool .btns button:hover{border-color:var(--accent);color:var(--accent)}
+.tool .sug{display:flex;flex-wrap:wrap;gap:6px;margin-top:6px}
+.tool .sug button{font:inherit;font-size:13px;padding:5px 10px;border-radius:999px;border:1px solid var(--line);
+  background:var(--surface);color:var(--fg);cursor:pointer}
+.tool .sug button:hover{border-color:var(--accent);color:var(--accent)}
+.tool .sug .lab{font-size:12px;color:var(--muted);align-self:center}
+.tool .hit.ex{opacity:.65}
+.tool .hit.ex .raw::before{content:"예시 · ";color:var(--accent)}
 .dict-filter{width:100%;font:inherit;padding:8px 12px;border:1px solid var(--line);border-radius:8px;
   background:var(--bg);color:var(--fg);margin:8px 0 12px}
 .tool .row{display:grid;grid-template-columns:1fr 1fr;gap:12px}
@@ -332,10 +342,12 @@ loadRates();
         "description": "카드 명세서의 낯선 가맹점명(법인명·결제대행사·영문 표기)을 붙여 넣으면 어떤 서비스의 결제인지 알려 주고, 네이버·구글·지도 검색 링크를 바로 만들어 줍니다.",
         "form": """
 <label for="q">카드 내역을 붙여 넣으세요 (여러 줄 가능)</label>
-<textarea id="q" placeholder="예) (주)우아한형제들 23,500원&#10;KCP_엔에이치엔케이씨피&#10;GOOGLE *YouTubePremium&#10;APPLE.COM/BILL">(주)우아한형제들 23,500원
-APPLE.COM/BILL 14,900원
-에스씨케이컴퍼니 강남역점</textarea>
-<p style="font-size:13px;color:var(--muted);margin:6px 0 0">입력한 내용은 이 브라우저 안에서만 처리되고 서버로 보내지 않습니다.</p>
+<textarea id="q" placeholder="예) (주)우아한형제들 23,500원&#10;APPLE.COM/BILL 14,900원&#10;에스씨케이컴퍼니 강남역점&#10;KCP_엔에이치엔케이씨피" autocomplete="off" spellcheck="false"></textarea>
+<div id="sug" class="sug" hidden></div>
+<div class="btns" style="margin-top:10px;align-items:center">
+  <button type="button" id="clear">초기화</button>
+  <span style="font-size:13px;color:var(--muted)">입력한 내용은 이 브라우저 안에서만 처리되고 서버로 보내지 않습니다.</span>
+</div>
 <div id="out"></div>
 """,
         "script": r"""
@@ -520,9 +532,11 @@ function lookup(raw) {
 }
 const enc = encodeURIComponent;
 const btn = (href, label, pri) => `<a class="${pri ? 'pri' : ''}" href="${href}" target="_blank" rel="noopener nofollow">${label}</a>`;
+const EXAMPLES = ['(주)우아한형제들 23,500원', 'APPLE.COM/BILL 14,900원', '에스씨케이컴퍼니 강남역점', 'KCP_엔에이치엔케이씨피'];
 function calc() {
-  const lines = $('q').value.split(/\n/).map(l => l.trim()).filter(Boolean);
-  if (!lines.length) { $('out').innerHTML = ''; return; }
+  let lines = $('q').value.split(/\n/).map(l => l.trim()).filter(Boolean);
+  const isExample = !lines.length;
+  if (isExample) lines = EXAMPLES;  // 비어 있으면 예시 결과를 흐리게 보여 줍니다
   $('out').innerHTML = lines.map(raw => {
     const hit = lookup(raw);
     let kw = clean(raw.replace(PG_PREFIX, '')).replace(/\*/g, ' ').trim() || raw;
@@ -530,7 +544,7 @@ function calc() {
     const head = hit
       ? `<div class="name">${esc(hit.name)}<span class="cat">${esc(hit.cat)}</span></div><p class="desc">${esc(hit.desc)}</p>`
       : `<div class="name">${esc(kw)}</div><p class="desc">사전에 없는 가맹점입니다. 아래 검색으로 상호를 확인하고, 지도에서 결제한 날 갔던 곳인지 맞춰 보세요.</p>`;
-    return `<div class="hit"><div class="raw">${esc(raw)}</div>${head}<div class="btns">
+    return `<div class="hit${isExample ? ' ex' : ''}"><div class="raw">${esc(raw)}</div>${head}<div class="btns">
       ${btn('https://search.naver.com/search.naver?query=' + enc(kw), '네이버 검색', true)}
       ${btn('https://www.google.com/search?q=' + enc(kw + ' 결제'), '구글 검색')}
       ${btn('https://map.naver.com/p/search/' + enc(kw), '네이버 지도')}
@@ -538,7 +552,44 @@ function calc() {
     </div></div>`;
   }).join('');
 }
-$('q').addEventListener('input', calc);
+$('q').addEventListener('input', () => { calc(); suggest(); });
+$('q').addEventListener('click', suggest);
+$('q').addEventListener('keyup', e => { if (/^Arrow|^Home|^End/.test(e.key)) suggest(); });
+$('q').addEventListener('blur', () => setTimeout(() => $('sug').hidden = true, 150));
+$('clear').addEventListener('click', () => { $('q').value = ''; $('sug').hidden = true; calc(); $('q').focus(); });
+
+// 자동완성: 커서가 있는 줄에 맞는 사전 이름을 제안하고, 누르면 그 줄을 바꿉니다.
+function currentLine() {
+  const el = $('q'), v = el.value, pos = el.selectionStart;
+  const start = v.lastIndexOf('\n', pos - 1) + 1;
+  let end = v.indexOf('\n', pos); if (end < 0) end = v.length;
+  return {start, end, text: v.slice(start, end)};
+}
+function suggest() {
+  const {start, end, text} = currentLine();
+  const q = norm(text);
+  const box = $('sug');
+  if (q.length < 1) { box.hidden = true; return; }
+  const seen = new Set();
+  const items = [];
+  for (const [keys, name] of DICT) {
+    const ks = keys.split('|');
+    const hit = norm(name).includes(q) || ks.some(k => norm(k).includes(q) || (k.length >= 3 && q.includes(norm(k))));
+    if (hit && !seen.has(name)) { seen.add(name); items.push(name); }
+    if (items.length >= 8) break;
+  }
+  if (!items.length || (items.length === 1 && items[0] === text.trim())) { box.hidden = true; return; }
+  box.innerHTML = '<span class="lab">혹시 이곳인가요?</span>' + items.map(n => `<button type="button">${n.replace(/&/g, '&amp;').replace(/</g, '&lt;')}</button>`).join('');
+  box.hidden = false;
+  box.querySelectorAll('button').forEach(b => b.addEventListener('mousedown', e => {
+    e.preventDefault();  // 텍스트 영역 포커스를 유지
+    const el = $('q'), v = el.value;
+    el.value = v.slice(0, start) + b.textContent + v.slice(end);
+    const caret = start + b.textContent.length;
+    el.setSelectionRange(caret, caret);
+    box.hidden = true; calc();
+  }));
+}
 // 아래 "자주 나오는 이름" 표
 const rows = DICT.map(([k, name, cat, desc]) => `<tr><td>${name}</td><td>${cat}</td><td>${desc}</td></tr>`).join('');
 $('dict').innerHTML = `<table><tr><th>표시 이름</th><th>분류</th><th>설명</th></tr>${rows}</table>`;
