@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 450" width="900" height="450" font-family="'Noto Sans KR','Malgun Gothic','Apple SD Gothic Neo',sans-serif">
+<rect width="900" height="450" rx="14" fill="#ffffff"/>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#5b6572"/></marker><marker id="b" viewBox="0 0 10 10" refX="1" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M10,0 L0,5 L10,10 z" fill="#5b6572"/></marker></defs>
+<text x="450.0" y="32" font-size="16" fill="#1f2937" text-anchor="middle" font-weight="700">끊김·밀림 진단 순서: 상태 표시줄부터 읽고 원인별로 내려갑니다</text>
+<rect x="20" y="56" width="860" height="64" rx="10" fill="#eef0f3" stroke="#1f2937" stroke-width="1.5"/>
+<text x="450.0" y="80" font-size="14" fill="#1f2937" text-anchor="middle" font-weight="700">① 상태 표시줄 먼저 읽기 — Render Time · FPS · GPU Mem · CPU</text>
+<text x="450.0" y="102" font-size="12" fill="#1f2937" text-anchor="middle">어디서 보나: vMix 창 상단 상태 표시줄, 자세한 수치는 Settings → Performance · 어느 값이 튀는지로 아래 ②~⑤ 중 하나를 고릅니다</text>
+<rect x="20" y="170" width="206" height="158" rx="10" fill="#e3ecfb" stroke="#1a56c4" stroke-width="1.5"/>
+<text x="123.0" y="194" font-size="14" fill="#1a56c4" text-anchor="middle" font-weight="700">② 렌더 드롭</text>
+<text x="123.0" y="216" font-size="12" fill="#1f2937" text-anchor="middle">Render Time 높음 · FPS 떨어짐</text>
+<text x="123.0" y="233" font-size="12" fill="#1f2937" text-anchor="middle">GPU 한계 → 입력 해상도 낮추기</text>
+<text x="123.0" y="250" font-size="12" fill="#1f2937" text-anchor="middle">파일 코덱 변환 (4K H.264 등)</text>
+<text x="123.0" y="267" font-size="12" fill="#1f2937" text-anchor="middle">브라우저 입력 수 줄이기</text>
+<text x="123.0" y="301" font-size="12" fill="#1f2937" text-anchor="middle">어디서 보나:</text>
+<text x="123.0" y="318" font-size="12" fill="#1f2937" text-anchor="middle">Settings → Performance</text>
+<path d="M123.0,120 L123.0,170" stroke="#5b6572" stroke-width="1.8" fill="none" marker-end="url(#a)"/>
+<rect x="87.7" y="134.0" width="71" height="22" rx="11" fill="#ffffff" stroke="#d5dae1"/>
+<text x="123.0" y="149.0" font-size="11" fill="#5b6572" text-anchor="middle" font-weight="700">렌더 드롭</text>
+<rect x="238" y="170" width="206" height="158" rx="10" fill="#fdf0e1" stroke="#b35c00" stroke-width="1.5"/>
+<text x="341.0" y="194" font-size="14" fill="#b35c00" text-anchor="middle" font-weight="700">③ 소스 드롭</text>
+<text x="341.0" y="216" font-size="12" fill="#1f2937" text-anchor="middle">특정 입력만 끊기거나 검게 됨</text>
+<text x="341.0" y="233" font-size="12" fill="#1f2937" text-anchor="middle">캡처카드 드라이버 재설치</text>
+<text x="341.0" y="250" font-size="12" fill="#1f2937" text-anchor="middle">USB 포트 바꾸기 (3.0 이상)</text>
+<text x="341.0" y="267" font-size="12" fill="#1f2937" text-anchor="middle">케이블 교체 · 길이 줄이기</text>
+<text x="341.0" y="301" font-size="12" fill="#1f2937" text-anchor="middle">어디서 보나:</text>
+<text x="341.0" y="318" font-size="12" fill="#1f2937" text-anchor="middle">입력 속성 (우클릭)</text>
+<path d="M341.0,120 L341.0,170" stroke="#5b6572" stroke-width="1.8" fill="none" marker-end="url(#a)"/>
+<rect x="305.7" y="134.0" width="71" height="22" rx="11" fill="#ffffff" stroke="#d5dae1"/>
+<text x="341.0" y="149.0" font-size="11" fill="#5b6572" text-anchor="middle" font-weight="700">소스 드롭</text>
+<rect x="456" y="170" width="206" height="158" rx="10" fill="#e3f4e8" stroke="#1e8e3e" stroke-width="1.5"/>
+<text x="559.0" y="194" font-size="14" fill="#1e8e3e" text-anchor="middle" font-weight="700">④ 오디오 싱크</text>
+<text x="559.0" y="216" font-size="12" fill="#1f2937" text-anchor="middle">입과 소리가 어긋남</text>
+<text x="559.0" y="233" font-size="12" fill="#1f2937" text-anchor="middle">Audio Delay 로 ms 단위 보정</text>
+<text x="559.0" y="250" font-size="12" fill="#1f2937" text-anchor="middle">샘플레이트 48 kHz 로 통일</text>
+<text x="559.0" y="267" font-size="12" fill="#1f2937" text-anchor="middle">NDI 입력 버퍼 확인</text>
+<text x="559.0" y="301" font-size="12" fill="#1f2937" text-anchor="middle">어디서 보나:</text>
+<text x="559.0" y="318" font-size="12" fill="#1f2937" text-anchor="middle">입력 속성 → 오디오 탭</text>
+<path d="M559.0,120 L559.0,170" stroke="#5b6572" stroke-width="1.8" fill="none" marker-end="url(#a)"/>
+<rect x="517.9" y="134.0" width="82" height="22" rx="11" fill="#ffffff" stroke="#d5dae1"/>
+<text x="559.0" y="149.0" font-size="11" fill="#5b6572" text-anchor="middle" font-weight="700">오디오 싱크</text>
+<rect x="674" y="170" width="206" height="158" rx="10" fill="#eef0f3" stroke="#1f2937" stroke-width="1.5"/>
+<text x="777.0" y="194" font-size="14" fill="#1f2937" text-anchor="middle" font-weight="700">⑤ 네트워크</text>
+<text x="777.0" y="216" font-size="12" fill="#1f2937" text-anchor="middle">송출만 끊기고 화면은 정상</text>
+<text x="777.0" y="233" font-size="12" fill="#1f2937" text-anchor="middle">업로드 회선의 50~70% 만 사용</text>
+<text x="777.0" y="250" font-size="12" fill="#1f2937" text-anchor="middle">백업 회선 (LTE·테더링) 준비</text>
+<text x="777.0" y="267" font-size="12" fill="#1f2937" text-anchor="middle">비트레이트 한 단계 낮추기</text>
+<text x="777.0" y="301" font-size="12" fill="#1f2937" text-anchor="middle">어디서 보나:</text>
+<text x="777.0" y="318" font-size="12" fill="#1f2937" text-anchor="middle">Streaming Statistics</text>
+<path d="M777.0,120 L777.0,170" stroke="#5b6572" stroke-width="1.8" fill="none" marker-end="url(#a)"/>
+<rect x="743.7" y="134.0" width="67" height="22" rx="11" fill="#ffffff" stroke="#d5dae1"/>
+<text x="777.0" y="149.0" font-size="11" fill="#5b6572" text-anchor="middle" font-weight="700">네트워크</text>
+<rect x="20" y="344" width="860" height="90" rx="10" fill="#fff7f7" stroke="#d9572b" stroke-width="1.5"/>
+<text x="36" y="370" font-size="13" fill="#d9572b" font-weight="700">진단 전에 먼저 걷어낼 세 가지</text>
+<text x="36" y="394" font-size="12" fill="#1f2937">① 노트북 절전 모드 → 전원 옵션 &#x27;고성능&#x27;, USB 선택적 절전 해제   ② USB 2.0 포트에 꽂힌 캡처카드 → 파란색(3.0) 포트로</text>
+<text x="36" y="415" font-size="12" fill="#1f2937">③ 테스트는 녹화 + 스트림 + NDI 출력을 전부 켜고 — 하나만 켜고 멀쩡하다고 넘어가면 본 방송에서 터집니다</text>
+</svg>

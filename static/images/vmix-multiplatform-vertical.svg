@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" width="900" height="480" font-family="'Noto Sans KR','Malgun Gothic','Apple SD Gothic Neo',sans-serif">
+<rect width="900" height="480" rx="14" fill="#ffffff"/>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#5b6572"/></marker><marker id="b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#5b6572"/></marker></defs>
+<text x="450.0" y="30" font-size="16" fill="#1f2937" text-anchor="middle" font-weight="700">가로·세로 동시 송출: Output 1 은 16:9, Output 2 는 9:16 레이어 캔버스로</text>
+<rect x="20" y="56" width="520" height="228" rx="10" fill="#fbfbfc" stroke="#9aa3ad" stroke-width="1.5" stroke-dasharray="6,4"/>
+<text x="30" y="74" font-size="12" fill="#5b6572" text-anchor="start" font-weight="700">vMix (4K 에디션 이상: Output 2~4 에 소스 지정 가능)</text>
+<rect x="36" y="86" width="234" height="82" rx="10" fill="#e3f4e8" stroke="#1e8e3e" stroke-width="1.5"/>
+<text x="153.0" y="107" font-size="14" fill="#1e8e3e" text-anchor="middle" font-weight="700">Program (16:9)</text>
+<text x="153.0" y="126" font-size="12" fill="#1f2937" text-anchor="middle">메인 스위칭 화면 1920×1080</text>
+<text x="153.0" y="143" font-size="12" fill="#1f2937" text-anchor="middle">→ Output 1</text>
+<rect x="36" y="186" width="234" height="86" rx="10" fill="#e3ecfb" stroke="#1a56c4" stroke-width="1.5"/>
+<text x="153.0" y="207" font-size="14" fill="#1a56c4" text-anchor="middle" font-weight="700">세로 캔버스 (9:16)</text>
+<text x="153.0" y="226" font-size="12" fill="#1f2937" text-anchor="middle">Layers 입력 1080×1920</text>
+<text x="153.0" y="243" font-size="12" fill="#1f2937" text-anchor="middle">카메라 레이어 + 세로용 자막</text>
+<text x="153.0" y="260" font-size="12" fill="#1f2937" text-anchor="middle">→ Output 2 소스로 지정</text>
+<rect x="310" y="86" width="214" height="186" rx="10" fill="#fdf0e1" stroke="#b35c00" stroke-width="1.5"/>
+<text x="417.0" y="107" font-size="14" fill="#b35c00" text-anchor="middle" font-weight="700">Streaming Settings</text>
+<text x="417.0" y="126" font-size="12" fill="#1f2937" text-anchor="middle">1: 유튜브 · Output 1 · 6 Mbps</text>
+<text x="417.0" y="143" font-size="12" fill="#1f2937" text-anchor="middle">2: 인스타 · Output 2 · 4 Mbps</text>
+<text x="417.0" y="160" font-size="12" fill="#1f2937" text-anchor="middle">3: 틱톡 · Output 2 · 4 Mbps</text>
+<text x="417.0" y="177" font-size="12" fill="#1f2937" text-anchor="middle">2·3 번은 Aspect Ratio 9:16</text>
+<text x="417.0" y="194" font-size="12" fill="#1f2937" text-anchor="middle">(Crop 이 아니라 세로 캔버스를</text>
+<text x="417.0" y="211" font-size="12" fill="#1f2937" text-anchor="middle">그대로 보냄)</text>
+<path d="M270,127 L310,127" stroke="#5b6572" stroke-width="1.8" fill="none" marker-end="url(#a)"/>
+<path d="M270,229 L310,229" stroke="#5b6572" stroke-width="1.8" fill="none" marker-end="url(#a)"/>
+<rect x="580" y="64" width="300" height="60" rx="10" fill="#e3f4e8" stroke="#1e8e3e" stroke-width="1.5"/>
+<text x="730.0" y="85" font-size="14" fill="#1e8e3e" text-anchor="middle" font-weight="700">유튜브 · 16:9</text>
+<text x="730.0" y="104" font-size="12" fill="#1f2937" text-anchor="middle">Output 1 · 1080p · 6 Mbps</text>
+<rect x="580" y="140" width="300" height="60" rx="10" fill="#e3ecfb" stroke="#1a56c4" stroke-width="1.5"/>
+<text x="730.0" y="161" font-size="14" fill="#1a56c4" text-anchor="middle" font-weight="700">인스타그램 라이브 · 9:16</text>
+<text x="730.0" y="180" font-size="12" fill="#1f2937" text-anchor="middle">Output 2 · 1080×1920 · 4 Mbps</text>
+<rect x="580" y="216" width="300" height="60" rx="10" fill="#e3ecfb" stroke="#1a56c4" stroke-width="1.5"/>
+<text x="730.0" y="237" font-size="14" fill="#1a56c4" text-anchor="middle" font-weight="700">틱톡 라이브 · 9:16</text>
+<text x="730.0" y="256" font-size="12" fill="#1f2937" text-anchor="middle">Output 2 · 1080×1920 · 4 Mbps</text>
+<path d="M524,110 L580,94" stroke="#5b6572" stroke-width="1.8" fill="none" marker-end="url(#a)"/>
+<path d="M524,170 L580,170" stroke="#5b6572" stroke-width="1.8" fill="none" marker-end="url(#a)"/>
+<path d="M524,230 L580,246" stroke="#5b6572" stroke-width="1.8" fill="none" marker-end="url(#a)"/>
+<rect x="20" y="298" width="420" height="66" rx="10" fill="#fdf0e1" stroke="#b35c00" stroke-width="1.5"/>
+<text x="230.0" y="319" font-size="14" fill="#b35c00" text-anchor="middle" font-weight="700">회선 계산</text>
+<text x="230.0" y="338" font-size="12" fill="#1f2937" text-anchor="middle">6 + 4 + 4 Mbps = 14 Mbps (송출 합)</text>
+<text x="230.0" y="355" font-size="12" fill="#1f2937" text-anchor="middle">→ 업로드 최소 25~30 Mbps (합의 2배 여유)</text>
+<rect x="460" y="298" width="420" height="66" rx="10" fill="#eef0f3" stroke="#1f2937" stroke-width="1.5"/>
+<text x="670.0" y="319" font-size="14" fill="#1f2937" text-anchor="middle" font-weight="700">에디션 확인</text>
+<text x="670.0" y="338" font-size="12" fill="#1f2937" text-anchor="middle">Output 2~4 에 별도 소스 지정 = 4K 에디션 이상</text>
+<text x="670.0" y="355" font-size="12" fill="#1f2937" text-anchor="middle">HD 에디션은 Output 1 만 → 세로는 PC 한 대 더 (NDI 전달)</text>
+<rect x="20" y="378" width="860" height="90" rx="10" fill="#fff7f7" stroke="#d9572b" stroke-width="1.5"/>
+<text x="36" y="404" font-size="13" fill="#d9572b" text-anchor="start" font-weight="700">자주 하는 실수</text>
+<text x="36" y="426" font-size="12" fill="#1f2937" text-anchor="start">① 가로 화면을 그대로 세로 플랫폼에 — 위아래 검은 띠, 모바일에서 손톱만 한 화면</text>
+<text x="36" y="444" font-size="12" fill="#1f2937" text-anchor="start">② 세로 출력에서 자막 잘림 — 가로용 타이틀을 9:16 안전 영역(가운데 1080 폭)에 다시 배치</text>
+<text x="36" y="462" font-size="12" fill="#1f2937" text-anchor="start">③ 송출 합이 회선 초과 — 14 Mbps 를 20 Mbps 업로드 회선으로 보내면 셋 다 같이 끊김</text>
+</svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" width="900" height="480" font-family="'Noto Sans KR','Malgun Gothic','Apple SD Gothic Neo',sans-serif">
+<rect width="900" height="480" rx="14" fill="#ffffff"/>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#5b6572"/></marker><marker id="b" viewBox="0 0 10 10" refX="1" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M10,0 L0,5 L10,10 z" fill="#5b6572"/></marker></defs>
+<text x="450.0" y="32" font-size="16" fill="#1f2937" text-anchor="middle" font-weight="700">vMix Call 리턴 피드와 마이너스 원(Mix Minus)</text>
+<rect x="20" y="58" width="280" height="196" rx="10" fill="#e3ecfb" stroke="#1a56c4" stroke-width="1.5"/>
+<text x="160.0" y="82" font-size="14" fill="#1a56c4" text-anchor="middle" font-weight="700">vMix (호스트 PC)</text>
+<rect x="36" y="94" width="248" height="32" rx="10" fill="#eef0f3" stroke="#1f2937" stroke-width="1.5"/>
+<text x="160.0" y="120" font-size="12" fill="#1f2937" text-anchor="middle">Call 입력: 게스트 카메라·마이크</text>
+<rect x="36" y="132" width="248" height="32" rx="10" fill="#eef0f3" stroke="#1f2937" stroke-width="1.5"/>
+<text x="160.0" y="158" font-size="12" fill="#1f2937" text-anchor="middle">Program (Output 1) = 송출 화면</text>
+<rect x="36" y="170" width="248" height="32" rx="10" fill="#eef0f3" stroke="#1f2937" stroke-width="1.5"/>
+<text x="160.0" y="196" font-size="12" fill="#1f2937" text-anchor="middle">Master 버스 = 송출 오디오 (A~G 보조)</text>
+<text x="160" y="230" font-size="11" fill="#5b6572" text-anchor="middle">게스트당 약 2 Mbps 양방향 (4명 = 8 Mbps)</text>
+<rect x="600" y="58" width="280" height="196" rx="10" fill="#fdf0e1" stroke="#b35c00" stroke-width="1.5"/>
+<text x="740.0" y="82" font-size="14" fill="#b35c00" text-anchor="middle" font-weight="700">게스트 (브라우저)</text>
+<text x="740.0" y="104" font-size="12" fill="#1f2937" text-anchor="middle">크롬·엣지에서 Call 링크로 접속</text>
+<text x="740.0" y="121" font-size="12" fill="#1f2937" text-anchor="middle">카메라·마이크 선택 후 입장</text>
+<text x="740.0" y="138" font-size="12" fill="#1f2937" text-anchor="middle">리턴 피드로 Program 영상 + 소리 시청</text>
+<text x="740.0" y="155" font-size="12" fill="#1f2937" text-anchor="middle">본인 목소리는 빠진 소리를 들음</text>
+<text x="740.0" y="189" font-size="12" fill="#1f2937" text-anchor="middle">권장: 다운 2 Mbps / 업 600 kbps 이상</text>
+<path d="M600,118 L300,118" stroke="#5b6572" stroke-width="1.8" fill="none" marker-end="url(#a)"/>
+<rect x="330.2" y="89.0" width="240" height="22" rx="11" fill="#ffffff" stroke="#d5dae1"/>
+<text x="450.0" y="104.0" font-size="11" fill="#5b6572" text-anchor="middle" font-weight="700">게스트 카메라·마이크 → vMix Call 입력</text>
+<path d="M300,188 L600,188" stroke="#5b6572" stroke-width="1.8" fill="none" marker-end="url(#a)"/>
+<rect x="342.8" y="159.0" width="214" height="22" rx="11" fill="#ffffff" stroke="#d5dae1"/>
+<text x="450.0" y="174.0" font-size="11" fill="#5b6572" text-anchor="middle" font-weight="700">리턴 피드 (Return Feed) → 게스트</text>
+<text x="450" y="208" font-size="11" fill="#5b6572" text-anchor="middle">Video: Output 1 · Audio: Master</text>
+<text x="450" y="224" font-size="11" fill="#5b6572" text-anchor="middle">Auto Mix Minus 켜면 본인 소리 자동 제외</text>
+<rect x="20" y="270" width="420" height="96" rx="10" fill="#eef0f3" stroke="#1f2937" stroke-width="1.5"/>
+<text x="34" y="294" font-size="14" fill="#1f2937" text-anchor="start" font-weight="700">리턴 피드 설정 (Call 입력 우클릭 → 속성)</text>
+<text x="34" y="316" font-size="12" fill="#1f2937" text-anchor="start">Return Feed Video Source: Output 1 (Program) 또는 다른 Output</text>
+<text x="34" y="333" font-size="12" fill="#1f2937" text-anchor="start">Return Feed Audio Source: Master / Bus A~G 중 선택</text>
+<text x="34" y="350" font-size="12" fill="#1f2937" text-anchor="start">Auto Mix Minus: 게스트 본인 마이크 소리를 리턴에서 자동 제외</text>
+<rect x="460" y="270" width="420" height="96" rx="10" fill="#e3f4e8" stroke="#1e8e3e" stroke-width="1.5"/>
+<text x="474" y="294" font-size="14" fill="#1e8e3e" text-anchor="start" font-weight="700">대역폭 권장치</text>
+<text x="474" y="316" font-size="12" fill="#1f2937" text-anchor="start">게스트: 다운로드 2 Mbps / 업로드 600 kbps 이상 (유선 권장)</text>
+<text x="474" y="333" font-size="12" fill="#1f2937" text-anchor="start">vMix 측: 게스트 1명당 약 2 Mbps 양방향 → 인원수만큼 합산</text>
+<text x="474" y="350" font-size="12" fill="#1f2937" text-anchor="start">스트리밍 업로드와 합쳐서 회선의 50~70% 이내로</text>
+<rect x="20" y="380" width="860" height="90" rx="10" fill="#fff7f7" stroke="#d9572b" stroke-width="1.5"/>
+<text x="36" y="406" font-size="13" fill="#d9572b" font-weight="700">에코·접속 불량이 나면 먼저 볼 것</text>
+<text x="36" y="430" font-size="12" fill="#1f2937">① 리턴 오디오에 게스트 본인 목소리 포함 → 에코·하울링. Auto Mix Minus 또는 게스트 전용 버스(Bus A)로 본인 소리 제외</text>
+<text x="36" y="451" font-size="12" fill="#1f2937">② 사파리·회사 보안망에서 접속 실패 → 크롬·엣지 권장, 방화벽(UDP) 열리는지 사전 테스트   ③ 게스트 화질 1080p 고정 → 에디션·회선 확인</text>
+</svg>

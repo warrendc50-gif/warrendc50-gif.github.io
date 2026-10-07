@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" width="900" height="480" font-family="'Noto Sans KR','Malgun Gothic','Apple SD Gothic Neo',sans-serif">
+<rect width="900" height="480" rx="14" fill="#ffffff"/>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#5b6572"/></marker><marker id="b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#5b6572"/></marker></defs>
+<text x="450.0" y="30" font-size="16" fill="#1f2937" text-anchor="middle" font-weight="700">SRT Caller · Listener · Rendezvous: 누가 포트를 여는지가 전부입니다</text>
+<text x="450" y="66" font-size="13" fill="#1f2937" text-anchor="middle" font-weight="700">① 현장 = Caller → vMix = Listener  ·  vMix 쪽 공유기에 포트포워딩</text>
+<rect x="20" y="74" width="200" height="48" rx="10" fill="#eef0f3" stroke="#1f2937" stroke-width="1.5"/>
+<text x="120.0" y="95" font-size="13" fill="#1f2937" text-anchor="middle" font-weight="700">현장 카메라/인코더</text>
+<text x="120.0" y="114" font-size="12" fill="#1f2937" text-anchor="middle">Caller: 밖으로 연결</text>
+<rect x="680" y="74" width="200" height="48" rx="10" fill="#e3ecfb" stroke="#1a56c4" stroke-width="1.5"/>
+<text x="780.0" y="95" font-size="13" fill="#1a56c4" text-anchor="middle" font-weight="700">vMix</text>
+<text x="780.0" y="114" font-size="12" fill="#1f2937" text-anchor="middle">Listener: 포트 열고 대기</text>
+<ellipse cx="450" cy="98" rx="90" ry="22" fill="#f7f8fa" stroke="#9aa3ad" stroke-width="1.5" stroke-dasharray="4,3"/>
+<text x="450" y="103" font-size="13" fill="#1f2937" text-anchor="middle" font-weight="700">인터넷</text>
+<path d="M220,98 L360,98" stroke="#5b6572" stroke-width="1.8" fill="none" marker-end="url(#a)"/>
+<path d="M540,98 L680,98" stroke="#5b6572" stroke-width="1.8" fill="none" marker-end="url(#a)"/>
+<rect x="803.7" y="52" width="69" height="22" rx="11" fill="#ffffff" stroke="#d9572b"/>
+<text x="838" y="67" font-size="11" fill="#d9572b" text-anchor="middle" font-weight="700">포트 열림</text>
+<text x="450" y="146" font-size="13" fill="#1f2937" text-anchor="middle" font-weight="700">② 현장 = Listener ← vMix = Caller  ·  현장 쪽 공유기에 포트포워딩</text>
+<rect x="20" y="154" width="200" height="48" rx="10" fill="#eef0f3" stroke="#1f2937" stroke-width="1.5"/>
+<text x="120.0" y="175" font-size="13" fill="#1f2937" text-anchor="middle" font-weight="700">현장 카메라/인코더</text>
+<text x="120.0" y="194" font-size="12" fill="#1f2937" text-anchor="middle">Listener: 포트 열고 대기</text>
+<rect x="680" y="154" width="200" height="48" rx="10" fill="#e3ecfb" stroke="#1a56c4" stroke-width="1.5"/>
+<text x="780.0" y="175" font-size="13" fill="#1a56c4" text-anchor="middle" font-weight="700">vMix</text>
+<text x="780.0" y="194" font-size="12" fill="#1f2937" text-anchor="middle">Caller: 밖으로 연결</text>
+<ellipse cx="450" cy="178" rx="90" ry="22" fill="#f7f8fa" stroke="#9aa3ad" stroke-width="1.5" stroke-dasharray="4,3"/>
+<text x="450" y="183" font-size="13" fill="#1f2937" text-anchor="middle" font-weight="700">인터넷</text>
+<path d="M360,178 L220,178" stroke="#5b6572" stroke-width="1.8" fill="none" marker-end="url(#a)"/>
+<path d="M680,178 L540,178" stroke="#5b6572" stroke-width="1.8" fill="none" marker-end="url(#a)"/>
+<rect x="143.7" y="132" width="69" height="22" rx="11" fill="#ffffff" stroke="#d9572b"/>
+<text x="178" y="147" font-size="11" fill="#d9572b" text-anchor="middle" font-weight="700">포트 열림</text>
+<text x="450" y="226" font-size="13" fill="#1f2937" text-anchor="middle" font-weight="700">③ Rendezvous  ·  양쪽이 같은 포트로 동시에 나감, 포트포워딩 없이도 뚫릴 때가 많음</text>
+<rect x="20" y="234" width="200" height="48" rx="10" fill="#eef0f3" stroke="#1f2937" stroke-width="1.5"/>
+<text x="120.0" y="255" font-size="13" fill="#1f2937" text-anchor="middle" font-weight="700">현장 카메라/인코더</text>
+<text x="120.0" y="274" font-size="12" fill="#1f2937" text-anchor="middle">Rendezvous: 같은 포트</text>
+<rect x="680" y="234" width="200" height="48" rx="10" fill="#e3ecfb" stroke="#1a56c4" stroke-width="1.5"/>
+<text x="780.0" y="255" font-size="13" fill="#1a56c4" text-anchor="middle" font-weight="700">vMix</text>
+<text x="780.0" y="274" font-size="12" fill="#1f2937" text-anchor="middle">Rendezvous: 같은 포트</text>
+<ellipse cx="450" cy="258" rx="90" ry="22" fill="#f7f8fa" stroke="#9aa3ad" stroke-width="1.5" stroke-dasharray="4,3"/>
+<text x="450" y="263" font-size="13" fill="#1f2937" text-anchor="middle" font-weight="700">인터넷</text>
+<path d="M220,258 L360,258" stroke="#5b6572" stroke-width="1.8" fill="none" marker-start="url(#b)" marker-end="url(#b)"/>
+<path d="M540,258 L680,258" stroke="#5b6572" stroke-width="1.8" fill="none" marker-start="url(#b)" marker-end="url(#b)"/>
+<rect x="143.7" y="212" width="69" height="22" rx="11" fill="#ffffff" stroke="#d9572b"/>
+<text x="178" y="227" font-size="11" fill="#d9572b" text-anchor="middle" font-weight="700">같은 포트</text>
+<rect x="803.7" y="212" width="69" height="22" rx="11" fill="#ffffff" stroke="#d9572b"/>
+<text x="838" y="227" font-size="11" fill="#d9572b" text-anchor="middle" font-weight="700">같은 포트</text>
+<rect x="20" y="300" width="420" height="70" rx="10" fill="#fdf0e1" stroke="#b35c00" stroke-width="1.5"/>
+<text x="230.0" y="321" font-size="14" fill="#b35c00" text-anchor="middle" font-weight="700">Latency 설정 공식</text>
+<text x="230.0" y="340" font-size="12" fill="#1f2937" text-anchor="middle">RTT × 3~4 (국내 120~300 ms, 해외 500 ms 이상)</text>
+<text x="230.0" y="357" font-size="12" fill="#1f2937" text-anchor="middle">양쪽 값이 다르면 큰 쪽이 적용됨 — 핑으로 RTT 먼저 측정</text>
+<rect x="460" y="300" width="420" height="70" rx="10" fill="#e3f4e8" stroke="#1e8e3e" stroke-width="1.5"/>
+<text x="670.0" y="321" font-size="14" fill="#1e8e3e" text-anchor="middle" font-weight="700">Passphrase · Stream ID</text>
+<text x="670.0" y="340" font-size="12" fill="#1f2937" text-anchor="middle">Passphrase 10~79자, 양쪽 동일하게 (AES 암호화)</text>
+<text x="670.0" y="357" font-size="12" fill="#1f2937" text-anchor="middle">Stream ID 는 서버·게이트웨이가 요구할 때만, 그대로 복사</text>
+<rect x="20" y="384" width="860" height="88" rx="10" fill="#fff7f7" stroke="#d9572b" stroke-width="1.5"/>
+<text x="36" y="410" font-size="13" fill="#d9572b" text-anchor="start" font-weight="700">연결이 안 될 때 가장 흔한 세 가지</text>
+<text x="36" y="432" font-size="12" fill="#1f2937" text-anchor="start">① 양쪽 다 Caller — 아무도 포트를 안 열어 연결 자체가 시작되지 않음</text>
+<text x="36" y="450" font-size="12" fill="#1f2937" text-anchor="start">② Latency 를 너무 짧게 — 재전송 여유가 없어 끊김·블록 깨짐 (RTT × 3 미만 금지)</text>
+<text x="36" y="468" font-size="12" fill="#1f2937" text-anchor="start">③ 포트포워딩 없는 Listener — 공유기 안쪽이면 밖에서 못 들어옴 (UDP 포트를 vMix PC IP 로)</text>
+</svg>

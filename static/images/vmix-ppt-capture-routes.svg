@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" width="900" height="480" font-family="'Noto Sans KR','Malgun Gothic','Apple SD Gothic Neo',sans-serif">
+<rect width="900" height="480" rx="14" fill="#ffffff"/>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#5b6572"/></marker><marker id="b" viewBox="0 0 10 10" refX="1" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M10,0 L0,5 L10,10 z" fill="#5b6572"/></marker></defs>
+<text x="450.0" y="32" font-size="16" fill="#1f2937" text-anchor="middle" font-weight="700">발표자 PPT를 vMix로 가져오는 세 가지 길</text>
+<rect x="200" y="58" width="480" height="90" rx="10" fill="#e3ecfb" stroke="#1a56c4" stroke-width="1.5"/>
+<text x="440.0" y="82" font-size="14" fill="#1a56c4" text-anchor="middle" font-weight="700">A. HDMI 캡처카드</text>
+<text x="440.0" y="104" font-size="12" fill="#1f2937" text-anchor="middle">지연 거의 없음 · 화질 그대로 (해상도·프레임 유지)</text>
+<text x="440.0" y="121" font-size="12" fill="#1f2937" text-anchor="middle">발표자 노트는 노트북 디스플레이 &#x27;확장&#x27;으로 분리해 송출 화면과 따로</text>
+<text x="440.0" y="138" font-size="12" fill="#1f2937" text-anchor="middle">캡처카드와 HDMI 케이블이 필요, 노트북 소리는 HDMI 오디오로 같이 받음</text>
+<path d="M170,103.0 L200,103.0" stroke="#5b6572" stroke-width="1.8" fill="none" marker-end="url(#a)"/>
+<path d="M680,103.0 L720,103.0" stroke="#5b6572" stroke-width="1.8" fill="none" marker-end="url(#a)"/>
+<rect x="200" y="158" width="480" height="90" rx="10" fill="#fdf0e1" stroke="#b35c00" stroke-width="1.5"/>
+<text x="440.0" y="182" font-size="14" fill="#b35c00" text-anchor="middle" font-weight="700">B. NDI Screen Capture (vMix Desktop Capture 설치)</text>
+<text x="440.0" y="204" font-size="12" fill="#1f2937" text-anchor="middle">같은 네트워크면 케이블 불필요 · 발표자 노트북에 작은 프로그램만 설치</text>
+<text x="440.0" y="221" font-size="12" fill="#1f2937" text-anchor="middle">유선 기가비트 권장, 무선이면 끊김 · 네트워크 부하가 늘어남</text>
+<text x="440.0" y="238" font-size="12" fill="#1f2937" text-anchor="middle">지연 1~2프레임, 화면 전체 또는 창 단위로 선택 가능</text>
+<path d="M170,203.0 L200,203.0" stroke="#5b6572" stroke-width="1.8" fill="none" marker-end="url(#a)"/>
+<path d="M680,203.0 L720,203.0" stroke="#5b6572" stroke-width="1.8" fill="none" marker-end="url(#a)"/>
+<rect x="200" y="258" width="480" height="90" rx="10" fill="#e3f4e8" stroke="#1e8e3e" stroke-width="1.5"/>
+<text x="440.0" y="282" font-size="14" fill="#1e8e3e" text-anchor="middle" font-weight="700">C. vMix PowerPoint 입력</text>
+<text x="440.0" y="304" font-size="12" fill="#1f2937" text-anchor="middle">vMix PC에 PowerPoint 설치 필요 · PPT 파일을 vMix가 직접 열어 보여줌</text>
+<text x="440.0" y="321" font-size="12" fill="#1f2937" text-anchor="middle">슬라이드 쇼 제어를 vMix에서 (발표자 노트북이 없어도 진행 가능)</text>
+<text x="440.0" y="338" font-size="12" fill="#1f2937" text-anchor="middle">애니메이션·전환 효과 일부가 원본과 다르게 보일 수 있음</text>
+<path d="M170,303.0 L200,303.0" stroke="#5b6572" stroke-width="1.8" fill="none" marker-end="url(#a)"/>
+<path d="M680,303.0 L720,303.0" stroke="#5b6572" stroke-width="1.8" fill="none" marker-end="url(#a)"/>
+<rect x="20" y="58" width="150" height="290" rx="10" fill="#eef0f3" stroke="#1f2937" stroke-width="1.5"/>
+<text x="95.0" y="82" font-size="14" fill="#1f2937" text-anchor="middle" font-weight="700">발표자 노트북</text>
+<text x="95.0" y="104" font-size="12" fill="#1f2937" text-anchor="middle">PowerPoint</text>
+<text x="95.0" y="121" font-size="12" fill="#1f2937" text-anchor="middle">슬라이드 쇼 화면</text>
+<text x="95.0" y="138" font-size="12" fill="#1f2937" text-anchor="middle">+ 발표자 노트</text>
+<text x="95.0" y="172" font-size="12" fill="#1f2937" text-anchor="middle">HDMI 출력</text>
+<text x="95.0" y="189" font-size="12" fill="#1f2937" text-anchor="middle">또는 네트워크</text>
+<rect x="720" y="58" width="160" height="290" rx="10" fill="#eef0f3" stroke="#1f2937" stroke-width="1.5"/>
+<text x="800.0" y="82" font-size="14" fill="#1f2937" text-anchor="middle" font-weight="700">vMix</text>
+<text x="800.0" y="104" font-size="12" fill="#1f2937" text-anchor="middle">입력(Input)으로 받아</text>
+<text x="800.0" y="121" font-size="12" fill="#1f2937" text-anchor="middle">Program에 띄우고</text>
+<text x="800.0" y="138" font-size="12" fill="#1f2937" text-anchor="middle">녹화·송출</text>
+<text x="800.0" y="172" font-size="12" fill="#1f2937" text-anchor="middle">캡처 / NDI /</text>
+<text x="800.0" y="189" font-size="12" fill="#1f2937" text-anchor="middle">PowerPoint 입력</text>
+<rect x="20" y="364" width="860" height="112" rx="10" fill="#fff7f7" stroke="#d9572b" stroke-width="1.5"/>
+<text x="36" y="390" font-size="13" fill="#d9572b" font-weight="700">현장에서 자주 터지는 세 가지 (사전에 확인)</text>
+<text x="36" y="414" font-size="12" fill="#1f2937">① 발표자 노트가 송출에 노출 → 노트북 디스플레이를 &#x27;복제&#x27;가 아닌 &#x27;확장&#x27;으로, 슬라이드 쇼 모니터를 캡처카드 쪽으로 지정</text>
+<text x="36" y="435" font-size="12" fill="#1f2937">② 노트북 소리가 송출에 안 들어감 → 캡처카드 입력의 오디오를 켜거나, 노트북 오디오를 별도 입력으로 받아 Master에 보냄</text>
+<text x="36" y="456" font-size="12" fill="#1f2937">③ PPT 애니메이션 끊김 → 캡처 프레임레이트·NDI 대역 확인, 중요한 애니메이션은 영상 파일로 미리 렌더해 재생</text>
+</svg>

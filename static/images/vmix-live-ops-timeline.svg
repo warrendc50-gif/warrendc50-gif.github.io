@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" width="900" height="400" font-family="'Noto Sans KR','Malgun Gothic','Apple SD Gothic Neo',sans-serif">
+<rect width="900" height="400" rx="14" fill="#ffffff"/>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#5b6572"/></marker><marker id="b" viewBox="0 0 10 10" refX="1" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M10,0 L0,5 L10,10 z" fill="#5b6572"/></marker></defs>
+<text x="450.0" y="32" font-size="16" fill="#1f2937" text-anchor="middle" font-weight="700">현장 운영 타임라인: 전날부터 종료 후까지</text>
+<path d="M30,84 L872,84" stroke="#5b6572" stroke-width="2" fill="none" marker-end="url(#a)"/>
+<circle cx="102.0" cy="84" r="7" fill="#eef0f3" stroke="#1f2937" stroke-width="2"/>
+<text x="102.0" y="70" font-size="12" fill="#5b6572" text-anchor="middle" font-weight="700">D-1</text>
+<path d="M102.0,91 L102.0,118" stroke="#5b6572" stroke-width="1.8" fill="none" marker-end="url(#a)"/>
+<rect x="20" y="118" width="164" height="160" rx="10" fill="#eef0f3" stroke="#1f2937" stroke-width="1.5"/>
+<text x="102.0" y="142" font-size="14" fill="#1f2937" text-anchor="middle" font-weight="700">전날</text>
+<text x="102.0" y="164" font-size="12" fill="#1f2937" text-anchor="middle">장비 목록 체크</text>
+<text x="102.0" y="181" font-size="12" fill="#1f2937" text-anchor="middle">케이블 여분까지 포함</text>
+<text x="102.0" y="198" font-size="12" fill="#1f2937" text-anchor="middle">프리셋 열어 입력 확인</text>
+<text x="102.0" y="215" font-size="12" fill="#1f2937" text-anchor="middle">노트북 전원 옵션 고성능</text>
+<text x="102.0" y="232" font-size="12" fill="#1f2937" text-anchor="middle">현장 네트워크 정보 받기</text>
+<circle cx="276.0" cy="84" r="7" fill="#e3ecfb" stroke="#1a56c4" stroke-width="2"/>
+<text x="276.0" y="70" font-size="12" fill="#5b6572" text-anchor="middle" font-weight="700">-60분</text>
+<path d="M276.0,91 L276.0,118" stroke="#5b6572" stroke-width="1.8" fill="none" marker-end="url(#a)"/>
+<rect x="194" y="118" width="164" height="160" rx="10" fill="#e3ecfb" stroke="#1a56c4" stroke-width="1.5"/>
+<text x="276.0" y="142" font-size="14" fill="#1a56c4" text-anchor="middle" font-weight="700">도착 후 60분</text>
+<text x="276.0" y="164" font-size="12" fill="#1f2937" text-anchor="middle">순서가 중요</text>
+<text x="276.0" y="181" font-size="12" fill="#1f2937" text-anchor="middle">전원 → 네트워크 →</text>
+<text x="276.0" y="198" font-size="12" fill="#1f2937" text-anchor="middle">영상 → 오디오 →</text>
+<text x="276.0" y="215" font-size="12" fill="#1f2937" text-anchor="middle">송출 테스트</text>
+<text x="276.0" y="232" font-size="12" fill="#1f2937" text-anchor="middle">앞 단계가 안 되면</text>
+<text x="276.0" y="249" font-size="12" fill="#1f2937" text-anchor="middle">다음으로 넘어가지 않기</text>
+<circle cx="450.0" cy="84" r="7" fill="#fdf0e1" stroke="#b35c00" stroke-width="2"/>
+<text x="450.0" y="70" font-size="12" fill="#5b6572" text-anchor="middle" font-weight="700">-20분</text>
+<path d="M450.0,91 L450.0,118" stroke="#5b6572" stroke-width="1.8" fill="none" marker-end="url(#a)"/>
+<rect x="368" y="118" width="164" height="160" rx="10" fill="#fdf0e1" stroke="#b35c00" stroke-width="1.5"/>
+<text x="450.0" y="142" font-size="14" fill="#b35c00" text-anchor="middle" font-weight="700">리허설</text>
+<text x="450.0" y="164" font-size="12" fill="#1f2937" text-anchor="middle">큐시트 1회 끝까지 통과</text>
+<text x="450.0" y="181" font-size="12" fill="#1f2937" text-anchor="middle">톤 -18 dBFS 라인업</text>
+<text x="450.0" y="198" font-size="12" fill="#1f2937" text-anchor="middle">게스트 접속·리턴 확인</text>
+<text x="450.0" y="215" font-size="12" fill="#1f2937" text-anchor="middle">녹화 시작 → 정지 확인</text>
+<circle cx="624.0" cy="84" r="7" fill="#e3f4e8" stroke="#1e8e3e" stroke-width="2"/>
+<text x="624.0" y="70" font-size="12" fill="#5b6572" text-anchor="middle" font-weight="700">ON AIR</text>
+<path d="M624.0,91 L624.0,118" stroke="#5b6572" stroke-width="1.8" fill="none" marker-end="url(#a)"/>
+<rect x="542" y="118" width="164" height="160" rx="10" fill="#e3f4e8" stroke="#1e8e3e" stroke-width="1.5"/>
+<text x="624.0" y="142" font-size="14" fill="#1e8e3e" text-anchor="middle" font-weight="700">본 방송</text>
+<text x="624.0" y="164" font-size="12" fill="#1f2937" text-anchor="middle">모니터링 5개</text>
+<text x="624.0" y="181" font-size="12" fill="#1f2937" text-anchor="middle">송출 통계 (드롭)</text>
+<text x="624.0" y="198" font-size="12" fill="#1f2937" text-anchor="middle">오디오 레벨</text>
+<text x="624.0" y="215" font-size="12" fill="#1f2937" text-anchor="middle">녹화 시간</text>
+<text x="624.0" y="232" font-size="12" fill="#1f2937" text-anchor="middle">네트워크 상태</text>
+<text x="624.0" y="249" font-size="12" fill="#1f2937" text-anchor="middle">게스트 연결 상태</text>
+<circle cx="798.0" cy="84" r="7" fill="#eef0f3" stroke="#1f2937" stroke-width="2"/>
+<text x="798.0" y="70" font-size="12" fill="#5b6572" text-anchor="middle" font-weight="700">종료</text>
+<path d="M798.0,91 L798.0,118" stroke="#5b6572" stroke-width="1.8" fill="none" marker-end="url(#a)"/>
+<rect x="716" y="118" width="164" height="160" rx="10" fill="#eef0f3" stroke="#1f2937" stroke-width="1.5"/>
+<text x="798.0" y="142" font-size="14" fill="#1f2937" text-anchor="middle" font-weight="700">종료 후</text>
+<text x="798.0" y="164" font-size="12" fill="#1f2937" text-anchor="middle">녹화 확인 · 백업</text>
+<text x="798.0" y="181" font-size="12" fill="#1f2937" text-anchor="middle">→ 프리셋 저장</text>
+<text x="798.0" y="198" font-size="12" fill="#1f2937" text-anchor="middle">→ 장비 회수</text>
+<text x="798.0" y="215" font-size="12" fill="#1f2937" text-anchor="middle">→ 문제 기록</text>
+<text x="798.0" y="232" font-size="12" fill="#1f2937" text-anchor="middle">(다음 현장 체크리스트에</text>
+<text x="798.0" y="249" font-size="12" fill="#1f2937" text-anchor="middle">반영)</text>
+<rect x="20" y="294" width="860" height="90" rx="10" fill="#fff7f7" stroke="#d9572b" stroke-width="1.5"/>
+<text x="36" y="320" font-size="13" fill="#d9572b" font-weight="700">현장에서 가장 비싼 실수 세 가지</text>
+<text x="36" y="344" font-size="12" fill="#1f2937">① 리허설 없이 본 방송 → 큐시트 한 번은 끝까지 돌려야 전환·오디오·게스트 문제가 미리 나옵니다</text>
+<text x="36" y="365" font-size="12" fill="#1f2937">② 녹화 버튼 미확인 → 본 방송 시작 직후 녹화 시간이 올라가는지 확인   ③ 백업 전 PC 종료 → 녹화 파일 복사·확인이 끝난 뒤에 장비 회수</text>
+</svg>
