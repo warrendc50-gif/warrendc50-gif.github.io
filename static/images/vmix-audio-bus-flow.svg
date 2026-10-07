@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" width="900" height="400" font-family="'Noto Sans KR','Malgun Gothic','Apple SD Gothic Neo',sans-serif">
+<rect width="900" height="400" rx="14" fill="#ffffff"/>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#5b6572"/></marker></defs>
+<text x="450.0" y="30" font-size="16" fill="#1f2937" text-anchor="middle" font-weight="700">vMix 오디오는 입력 → 채널 매트릭스 → 버스(M, A~G) → 출력 순서로 흐릅니다</text>
+<rect x="20" y="60" width="190" height="150" rx="10" fill="#eef0f3" stroke="#1f2937" stroke-width="1.5"/>
+<text x="115.0" y="84" font-size="14" fill="#1f2937" text-anchor="middle" font-weight="700">① 입력</text>
+<text x="115.0" y="106" font-size="12" fill="#1f2937" text-anchor="middle">마이크·인터페이스</text>
+<text x="115.0" y="123" font-size="12" fill="#1f2937" text-anchor="middle">SDI/NDI 임베디드 1~16ch</text>
+<text x="115.0" y="140" font-size="12" fill="#1f2937" text-anchor="middle">영상 파일, vMix Call</text>
+<text x="115.0" y="157" font-size="12" fill="#1f2937" text-anchor="middle">Channel 설정: Mono / Stereo /</text>
+<text x="115.0" y="174" font-size="12" fill="#1f2937" text-anchor="middle">Separate Mono</text>
+<rect x="250" y="60" width="190" height="150" rx="10" fill="#e3ecfb" stroke="#1a56c4" stroke-width="1.5"/>
+<text x="345.0" y="84" font-size="14" fill="#1a56c4" text-anchor="middle" font-weight="700">② 채널 매트릭스</text>
+<text x="345.0" y="106" font-size="12" fill="#1f2937" text-anchor="middle">입력마다 16×16 라우터</text>
+<text x="345.0" y="123" font-size="12" fill="#1f2937" text-anchor="middle">열 = 소스 채널</text>
+<text x="345.0" y="140" font-size="12" fill="#1f2937" text-anchor="middle">행 = 보낼 버스</text>
+<text x="345.0" y="157" font-size="12" fill="#1f2937" text-anchor="middle"></text>
+<text x="345.0" y="174" font-size="12" fill="#1f2937" text-anchor="middle">예: SDI 3·4ch → Bus A</text>
+<rect x="480" y="60" width="190" height="150" rx="10" fill="#fdf0e1" stroke="#b35c00" stroke-width="1.5"/>
+<text x="575.0" y="84" font-size="14" fill="#b35c00" text-anchor="middle" font-weight="700">③ 버스 (스테레오 8개)</text>
+<text x="575.0" y="106" font-size="12" fill="#1f2937" text-anchor="middle">M = Master (기본)</text>
+<text x="575.0" y="123" font-size="12" fill="#1f2937" text-anchor="middle">A, B … G = 보조 믹스</text>
+<text x="575.0" y="140" font-size="12" fill="#1f2937" text-anchor="middle">믹서의 M/A/B 버튼으로 보냄</text>
+<text x="575.0" y="157" font-size="12" fill="#1f2937" text-anchor="middle">C~G는 A/B 우클릭</text>
+<text x="575.0" y="174" font-size="12" fill="#1f2937" text-anchor="middle">버스 → M 으로 합치기 가능</text>
+<rect x="710" y="60" width="170" height="150" rx="10" fill="#e3f4e8" stroke="#1e8e3e" stroke-width="1.5"/>
+<text x="795.0" y="84" font-size="14" fill="#1e8e3e" text-anchor="middle" font-weight="700">④ 출력</text>
+<text x="795.0" y="106" font-size="12" fill="#1f2937" text-anchor="middle">녹화: M / MA / MAB…</text>
+<text x="795.0" y="123" font-size="12" fill="#1f2937" text-anchor="middle">스트림: Channels</text>
+<text x="795.0" y="140" font-size="12" fill="#1f2937" text-anchor="middle">External: 2~8ch SDI</text>
+<text x="795.0" y="157" font-size="12" fill="#1f2937" text-anchor="middle">장치: 1+2, 3+4, 5+6</text>
+<text x="795.0" y="174" font-size="12" fill="#1f2937" text-anchor="middle">헤드폰 = M + Solo</text>
+<path d="M210,135 L250,135" stroke="#5b6572" stroke-width="1.8" fill="none" marker-end="url(#a)"/>
+<path d="M440,135 L480,135" stroke="#5b6572" stroke-width="1.8" fill="none" marker-end="url(#a)"/>
+<path d="M670,135 L710,135" stroke="#5b6572" stroke-width="1.8" fill="none" marker-end="url(#a)"/>
+<rect x="20" y="236" width="860" height="140" rx="10" fill="#fff7f7" stroke="#d9572b" stroke-width="1.5"/>
+<text x="36" y="262" font-size="13" fill="#d9572b" font-weight="700">채널 수는 "출력이 몇 개의 서로 다른 믹스를 필요로 하는가"로 정합니다</text>
+<text x="36" y="286" font-size="12" fill="#1f2937">유튜브 1인 방송 → Master 2채널이면 끝. 버스를 켤 이유가 없습니다.</text>
+<text x="36" y="307" font-size="12" fill="#1f2937">현장 스피커 + 송출 → Master(송출) + Bus A(현장 PA, 하울링 나는 마이크 제외) = 4채널.</text>
+<text x="36" y="328" font-size="12" fill="#1f2937">2개 언어 통역 → Master(한국어) + Bus A(영어) → External Output을 MA(4채널)로 SDI에 실어 보냅니다.</text>
+<text x="36" y="349" font-size="12" fill="#1f2937">편집용 멀티트랙 → vMix AVI 녹화에서 MABC(8채널) 선택. MP4는 어떤 옵션을 골라도 앞 2채널만 들어갑니다.</text>
+</svg>
