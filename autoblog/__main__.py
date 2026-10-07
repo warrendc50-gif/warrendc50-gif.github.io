@@ -16,6 +16,7 @@ from pathlib import Path
 
 from . import coupang, threads, topics
 from .builder import build_site, is_broadcast, load_posts, post_path
+from .tools import TOOLS
 from .config import POSTS_DIR, load_config
 
 
@@ -127,6 +128,19 @@ def translate_missing(writer, languages: list[str], limit: int = 20) -> int:
 VMIX_QA_LINE = "vMix·방송 관련해서 궁금한 점은 댓글로 질문 주시면 답해 드릴게요."
 
 
+def tool_as_post(cfg: dict, tool: dict) -> dict:
+    """Wrap a tools.py entry so share() can post it like an article (slug is prefixed to keep state separate)."""
+    notes = re.sub(r"<[^>]+>", " ", tool.get("notes", ""))
+    return {
+        "slug": f"tool:{tool['slug']}",
+        "title": tool["title"],
+        "description": tool["description"],
+        "body_markdown": re.sub(r"\s+", " ", notes).strip(),
+        "tags": [],
+        "url": f"{cfg['site_url']}/tools/{tool['slug']}/",
+    }
+
+
 def share(cfg: dict, limit: int = 2) -> int:
     token = os.environ.get("THREADS_ACCESS_TOKEN")
     if not token:
@@ -150,6 +164,10 @@ def share(cfg: dict, limit: int = 2) -> int:
     only = os.environ.get("SHARE_ONLY", "").strip()
     if only:  # manual run that shares one specific post (other pending posts wait)
         pending = [p for p in pending if p["slug"] == only]
+        if not pending and f"tool:{only}" not in shared:  # a calculator/tool page instead of a post
+            tool = next((t for t in TOOLS if t["slug"] == only), None)
+            if tool:
+                pending = [tool_as_post(cfg, tool)]
     # Newest first; cap per run so enabling this on an existing site doesn't flood the feed.
     # Claude writes a short, varied intro per post; without an API key the title + summary is used.
     writer = None
@@ -158,7 +176,7 @@ def share(cfg: dict, limit: int = 2) -> int:
         writer = Writer(cfg.get("translate_model") or cfg["model"])
     done = 0
     for post in pending[:limit]:
-        url = f"{cfg['site_url']}/{post_path(post)}"
+        url = post.get("url") or f"{cfg['site_url']}/{post_path(post)}"
         intro = None
         if writer:
             try:

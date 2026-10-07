@@ -93,3 +93,14 @@ def test_translated_sites(tmp_path, monkeypatch):
     assert f'hreflang="ja" href="{site}/ja/posts/done/"' in ko
     assert f"{site}/ja/posts/done/" in sitemap
     assert cfg["translations"]["ja"]["site_title"] in (public_dir / "ja/index.html").read_text(encoding="utf-8")
+
+
+def test_tool_as_post_wraps_calculator_for_threads():
+    from autoblog.__main__ import tool_as_post
+    from autoblog.tools import TOOLS
+
+    tool = next(t for t in TOOLS if t["slug"] == "card-statement-lookup")
+    post = tool_as_post({"site_url": "https://example.com"}, tool)
+    assert post["slug"] == "tool:card-statement-lookup"
+    assert post["url"] == "https://example.com/tools/card-statement-lookup/"
+    assert "<" not in post["body_markdown"] and "카드사" in post["body_markdown"]
