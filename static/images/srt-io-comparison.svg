@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 668" width="900" height="668" font-family="'Noto Sans KR','Malgun Gothic','Apple SD Gothic Neo',sans-serif">
+<rect width="900" height="668" rx="14" fill="#ffffff"/>
+<text x="450.0" y="30" font-size="16" fill="#1f2937" text-anchor="middle" font-weight="700">SRT 장비 13종, 입출력 한눈에 보기</text>
+<rect x="250" y="44" width="12" height="12" rx="3" fill="#e3ecfb" stroke="#1a56c4"/>
+<text x="267" y="54" font-size="11" fill="#5b6572">12G-SDI (4K)</text>
+<rect x="368.2" y="44" width="12" height="12" rx="3" fill="#e6f4fa" stroke="#0b7285"/>
+<text x="385.2" y="54" font-size="11" fill="#5b6572">3G-SDI·SDI</text>
+<rect x="473.2" y="44" width="12" height="12" rx="3" fill="#f1e8fb" stroke="#7b3fbf"/>
+<text x="490.2" y="54" font-size="11" fill="#5b6572">HDMI</text>
+<rect x="538.6" y="44" width="12" height="12" rx="3" fill="#fdf0e1" stroke="#b35c00"/>
+<text x="555.6" y="54" font-size="11" fill="#5b6572">IP (ST 2110·10GbE)</text>
+<text x="20" y="82" font-size="11" fill="#5b6572" font-weight="700" text-anchor="start">장비</text>
+<text x="300" y="82" font-size="11" fill="#5b6572" font-weight="700" text-anchor="start">영상 입출력</text>
+<text x="640" y="82" font-size="11" fill="#5b6572" font-weight="700" text-anchor="start">최대 처리</text>
+<text x="880" y="82" font-size="11" fill="#5b6572" font-weight="700" text-anchor="end">참고 가격</text>
+<line x1="16" y1="92" x2="884" y2="92" stroke="#d5dae1" stroke-width="1.5"/>
+<text x="20" y="116.0" font-size="12" fill="#5b6572" font-weight="700">Haivision</text>
+<text x="112" y="110.0" font-size="13" fill="#1f2937" font-weight="700">Makito X4 Encoder</text>
+<text x="112" y="125.0" font-size="10" fill="#5b6572">인코더</text>
+<rect x="300" y="101.0" width="36" height="22" rx="11" fill="#e6f4fa" stroke="#0b7285"/>
+<text x="318" y="116.0" font-size="11" fill="#0b7285" text-anchor="middle" font-weight="700">SDI</text>
+<rect x="341.8" y="101.0" width="62" height="22" rx="11" fill="#fdf0e1" stroke="#b35c00"/>
+<text x="373" y="116.0" font-size="11" fill="#b35c00" text-anchor="middle" font-weight="700">ST 2110</text>
+<text x="640" y="116.0" font-size="12" fill="#1f2937">4K60 1ch / HD 4ch</text>
+<text x="880" y="116.0" font-size="12" fill="#1f2937" text-anchor="end" font-weight="700">약 $6,000~</text>
+<line x1="140" y1="132" x2="884" y2="132" stroke="#eef0f3"/>
+<text x="112" y="150.0" font-size="13" fill="#1f2937" font-weight="700">Makito X4 Decoder</text>
+<text x="112" y="165.0" font-size="10" fill="#5b6572">디코더</text>
+<rect x="300" y="141.0" width="36" height="22" rx="11" fill="#e6f4fa" stroke="#0b7285"/>
+<text x="318" y="156.0" font-size="11" fill="#0b7285" text-anchor="middle" font-weight="700">SDI</text>
+<text x="640" y="156.0" font-size="12" fill="#1f2937">4K / HD</text>
+<text x="880" y="156.0" font-size="12" fill="#1f2937" text-anchor="end" font-weight="700">견적 문의</text>
+<line x1="16" y1="172" x2="884" y2="172" stroke="#d5dae1" stroke-width="1.5"/>
+<text x="20" y="196.0" font-size="12" fill="#5b6572" font-weight="700">Blackmagic</text>
+<text x="112" y="190.0" font-size="13" fill="#1f2937" font-weight="700">Streaming Encoder 4K</text>
+<text x="112" y="205.0" font-size="10" fill="#5b6572">인코더</text>
+<rect x="300" y="181.0" width="117" height="22" rx="11" fill="#e3ecfb" stroke="#1a56c4"/>
+<text x="359" y="196.0" font-size="11" fill="#1a56c4" text-anchor="middle" font-weight="700">12G-SDI 입력·루프</text>
+<text x="640" y="196.0" font-size="12" fill="#1f2937">2160p60 1ch</text>
+<text x="880" y="196.0" font-size="12" fill="#1f2937" text-anchor="end" font-weight="700">약 $750</text>
+<line x1="140" y1="212" x2="884" y2="212" stroke="#eef0f3"/>
+<text x="112" y="230.0" font-size="13" fill="#1f2937" font-weight="700">Streaming Encoder HD</text>
+<text x="112" y="245.0" font-size="10" fill="#5b6572">인코더</text>
+<rect x="300" y="221.0" width="36" height="22" rx="11" fill="#e6f4fa" stroke="#0b7285"/>
+<text x="318" y="236.0" font-size="11" fill="#0b7285" text-anchor="middle" font-weight="700">SDI</text>
+<rect x="341.8" y="221.0" width="42" height="22" rx="11" fill="#f1e8fb" stroke="#7b3fbf"/>
+<text x="363" y="236.0" font-size="11" fill="#7b3fbf" text-anchor="middle" font-weight="700">HDMI</text>
+<text x="640" y="236.0" font-size="12" fill="#1f2937">1080p 1ch</text>
+<text x="880" y="236.0" font-size="12" fill="#1f2937" text-anchor="end" font-weight="700">약 $570~600</text>
+<line x1="140" y1="252" x2="884" y2="252" stroke="#eef0f3"/>
+<text x="112" y="270.0" font-size="13" fill="#1f2937" font-weight="700">Streaming Decoder 4K</text>
+<text x="112" y="285.0" font-size="10" fill="#5b6572">디코더</text>
+<rect x="300" y="261.0" width="36" height="22" rx="11" fill="#e6f4fa" stroke="#0b7285"/>
+<text x="318" y="276.0" font-size="11" fill="#0b7285" text-anchor="middle" font-weight="700">SDI</text>
+<rect x="341.8" y="261.0" width="42" height="22" rx="11" fill="#f1e8fb" stroke="#7b3fbf"/>
+<text x="363" y="276.0" font-size="11" fill="#7b3fbf" text-anchor="middle" font-weight="700">HDMI</text>
+<rect x="390.2" y="261.0" width="84" height="22" rx="11" fill="#eef0f3" stroke="#5b6572"/>
+<text x="432" y="276.0" font-size="11" fill="#5b6572" text-anchor="middle" font-weight="700">12G 레퍼런스</text>
+<text x="640" y="276.0" font-size="12" fill="#1f2937">4K 1ch</text>
+<text x="880" y="276.0" font-size="12" fill="#1f2937" text-anchor="end" font-weight="700">약 $750</text>
+<line x1="16" y1="292" x2="884" y2="292" stroke="#d5dae1" stroke-width="1.5"/>
+<text x="20" y="316.0" font-size="12" fill="#5b6572" font-weight="700">Kiloview</text>
+<text x="112" y="310.0" font-size="13" fill="#1f2937" font-weight="700">E3</text>
+<text x="112" y="325.0" font-size="10" fill="#5b6572">인코더</text>
+<rect x="300" y="301.0" width="75" height="22" rx="11" fill="#f1e8fb" stroke="#7b3fbf"/>
+<text x="338" y="316.0" font-size="11" fill="#7b3fbf" text-anchor="middle" font-weight="700">HDMI 4K30</text>
+<rect x="381.4" y="301.0" width="56" height="22" rx="11" fill="#e6f4fa" stroke="#0b7285"/>
+<text x="409" y="316.0" font-size="11" fill="#0b7285" text-anchor="middle" font-weight="700">3G-SDI</text>
+<text x="640" y="316.0" font-size="12" fill="#1f2937">1080p60 2ch</text>
+<text x="880" y="316.0" font-size="12" fill="#1f2937" text-anchor="end" font-weight="700">약 $450~600</text>
+<line x1="140" y1="332" x2="884" y2="332" stroke="#eef0f3"/>
+<text x="112" y="350.0" font-size="13" fill="#1f2937" font-weight="700">D350</text>
+<text x="112" y="365.0" font-size="10" fill="#5b6572">디코더·멀티뷰</text>
+<rect x="300" y="341.0" width="75" height="22" rx="11" fill="#e6f4fa" stroke="#0b7285"/>
+<text x="338" y="356.0" font-size="11" fill="#0b7285" text-anchor="middle" font-weight="700">3G-SDI ×1</text>
+<rect x="381.4" y="341.0" width="62" height="22" rx="11" fill="#f1e8fb" stroke="#7b3fbf"/>
+<text x="412" y="356.0" font-size="11" fill="#7b3fbf" text-anchor="middle" font-weight="700">HDMI ×2</text>
+<text x="640" y="356.0" font-size="12" fill="#1f2937">1080p60 9ch</text>
+<text x="880" y="356.0" font-size="12" fill="#1f2937" text-anchor="end" font-weight="700">약 $700</text>
+<line x1="16" y1="372" x2="884" y2="372" stroke="#d5dae1" stroke-width="1.5"/>
+<text x="20" y="396.0" font-size="12" fill="#5b6572" font-weight="700">Magewell</text>
+<text x="112" y="390.0" font-size="13" fill="#1f2937" font-weight="700">Ultra Encode</text>
+<text x="112" y="405.0" font-size="10" fill="#5b6572">인코더</text>
+<rect x="300" y="381.0" width="116" height="22" rx="11" fill="#e6f4fa" stroke="#0b7285"/>
+<text x="358" y="396.0" font-size="11" fill="#0b7285" text-anchor="middle" font-weight="700">3G-SDI 또는 HDMI</text>
+<text x="640" y="396.0" font-size="12" fill="#1f2937">1080p60 1ch</text>
+<text x="880" y="396.0" font-size="12" fill="#1f2937" text-anchor="end" font-weight="700">약 $555</text>
+<line x1="140" y1="412" x2="884" y2="412" stroke="#eef0f3"/>
+<text x="112" y="430.0" font-size="13" fill="#1f2937" font-weight="700">Ultra Encode AIO</text>
+<text x="112" y="445.0" font-size="10" fill="#5b6572">인코더</text>
+<rect x="300" y="421.0" width="42" height="22" rx="11" fill="#f1e8fb" stroke="#7b3fbf"/>
+<text x="321" y="436.0" font-size="11" fill="#7b3fbf" text-anchor="middle" font-weight="700">HDMI</text>
+<rect x="348.4" y="421.0" width="36" height="22" rx="11" fill="#e6f4fa" stroke="#0b7285"/>
+<text x="366" y="436.0" font-size="11" fill="#0b7285" text-anchor="middle" font-weight="700">SDI</text>
+<text x="640" y="436.0" font-size="12" fill="#1f2937">1ch, 6곳 송출</text>
+<text x="880" y="436.0" font-size="12" fill="#1f2937" text-anchor="end" font-weight="700">약 $900</text>
+<line x1="16" y1="452" x2="884" y2="452" stroke="#d5dae1" stroke-width="1.5"/>
+<text x="20" y="476.0" font-size="12" fill="#5b6572" font-weight="700">Cobalt</text>
+<text x="112" y="470.0" font-size="13" fill="#1f2937" font-weight="700">9992-ENC/DEC</text>
+<text x="112" y="485.0" font-size="10" fill="#5b6572">openGear 카드</text>
+<rect x="300" y="461.0" width="36" height="22" rx="11" fill="#e6f4fa" stroke="#0b7285"/>
+<text x="318" y="476.0" font-size="11" fill="#0b7285" text-anchor="middle" font-weight="700">SDI</text>
+<text x="640" y="476.0" font-size="12" fill="#1f2937">4K</text>
+<text x="880" y="476.0" font-size="12" fill="#1f2937" text-anchor="end" font-weight="700">약 $8,000</text>
+<line x1="16" y1="492" x2="884" y2="492" stroke="#d5dae1" stroke-width="1.5"/>
+<text x="20" y="516.0" font-size="12" fill="#5b6572" font-weight="700">AJA</text>
+<text x="112" y="510.0" font-size="13" fill="#1f2937" font-weight="700">BRIDGE LIVE</text>
+<text x="112" y="525.0" font-size="10" fill="#5b6572">양방향</text>
+<rect x="300" y="501.0" width="82" height="22" rx="11" fill="#e3ecfb" stroke="#1a56c4"/>
+<text x="341" y="516.0" font-size="11" fill="#1a56c4" text-anchor="middle" font-weight="700">12G-SDI ×4</text>
+<rect x="388.0" y="501.0" width="69" height="22" rx="11" fill="#fdf0e1" stroke="#b35c00"/>
+<text x="422" y="516.0" font-size="11" fill="#b35c00" text-anchor="middle" font-weight="700">10GbE ×2</text>
+<text x="640" y="516.0" font-size="12" fill="#1f2937">UHD60 1ch / HD60 4ch</text>
+<text x="880" y="516.0" font-size="12" fill="#1f2937" text-anchor="end" font-weight="700">약 $15,000~</text>
+<line x1="140" y1="532" x2="884" y2="532" stroke="#eef0f3"/>
+<text x="112" y="550.0" font-size="13" fill="#1f2937" font-weight="700">BRIDGE LIVE 12G-4</text>
+<text x="112" y="565.0" font-size="10" fill="#5b6572">양방향</text>
+<rect x="300" y="541.0" width="120" height="22" rx="11" fill="#e3ecfb" stroke="#1a56c4"/>
+<text x="360" y="556.0" font-size="11" fill="#1a56c4" text-anchor="middle" font-weight="700">12G-SDI ×4 양방향</text>
+<text x="640" y="556.0" font-size="12" fill="#1f2937">UHD60 2ch / UHD30 4ch</text>
+<text x="880" y="556.0" font-size="12" fill="#1f2937" text-anchor="end" font-weight="700">약 $18,000</text>
+<line x1="140" y1="572" x2="884" y2="572" stroke="#eef0f3"/>
+<text x="112" y="590.0" font-size="13" fill="#1f2937" font-weight="700">BRIDGE LIVE 3G-8</text>
+<text x="112" y="605.0" font-size="10" fill="#5b6572">양방향</text>
+<rect x="300" y="581.0" width="75" height="22" rx="11" fill="#e6f4fa" stroke="#0b7285"/>
+<text x="338" y="596.0" font-size="11" fill="#0b7285" text-anchor="middle" font-weight="700">3G-SDI ×8</text>
+<text x="640" y="596.0" font-size="12" fill="#1f2937">HD60 8ch</text>
+<text x="880" y="596.0" font-size="12" fill="#1f2937" text-anchor="end" font-weight="700">약 $19,000</text>
+<line x1="16" y1="612" x2="884" y2="612" stroke="#d5dae1" stroke-width="1.5"/>
+<text x="20" y="640" font-size="11" fill="#5b6572">가격은 2026년 10월 미국 판매처·제조사 공시가 기준 대략값입니다. "A 또는 B"는 둘 중 하나만 쓸 수 있다는 뜻입니다.</text>
+</svg>
