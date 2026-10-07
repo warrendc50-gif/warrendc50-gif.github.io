@@ -67,21 +67,23 @@ jobs:
           git diff --cached --quiet || git commit -m "autoblog: new post $(date -u +%F)"
           git push
 
+      # Share-only dispatches (count=0) skip build/deploy: the site is unchanged and deploy-pages
+      # has failed with a phantom 'no artifact' error on back-to-back runs.
       - name: Build site
-        if: github.event_name != 'schedule' || steps.gen.outputs.generated != '0'
+        if: github.event_name == 'push' || (github.event_name == 'workflow_dispatch' && github.event.inputs.count != '0') || (github.event_name == 'schedule' && steps.gen.outputs.generated != '0')
         env:
           SITE_URL: ${{ vars.SITE_URL }}
           ADSENSE_CLIENT: ${{ vars.ADSENSE_CLIENT }}
         run: python -m autoblog build
 
-      - if: github.event_name != 'schedule' || steps.gen.outputs.generated != '0'
+      - if: github.event_name == 'push' || (github.event_name == 'workflow_dispatch' && github.event.inputs.count != '0') || (github.event_name == 'schedule' && steps.gen.outputs.generated != '0')
         uses: actions/configure-pages@v6
-      - if: github.event_name != 'schedule' || steps.gen.outputs.generated != '0'
+      - if: github.event_name == 'push' || (github.event_name == 'workflow_dispatch' && github.event.inputs.count != '0') || (github.event_name == 'schedule' && steps.gen.outputs.generated != '0')
         uses: actions/upload-pages-artifact@v5
         with:
           path: public
       - id: deploy
-        if: github.event_name != 'schedule' || steps.gen.outputs.generated != '0'
+        if: github.event_name == 'push' || (github.event_name == 'workflow_dispatch' && github.event.inputs.count != '0') || (github.event_name == 'schedule' && steps.gen.outputs.generated != '0')
         uses: actions/deploy-pages@v5
 
       - name: Share to Threads
