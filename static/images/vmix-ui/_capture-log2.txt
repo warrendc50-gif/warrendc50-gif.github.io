@@ -1,0 +1,9 @@
+  items of 'Settings': ['Display', 'Outputs / NDI / OMT / SRT', 'Options', 'Performance', 'Decoders', 'Recording', 'External Output', 'Audio', 'Audio Outputs', 'Web Controller', 'Tally Lights', 'Shortcuts', 'Activators', 'Scripting', 'Alerts', 'About']
+Add Input -> 'Input Select'
+  items of 'Input Select': ['V', 'Aud', 'Img', 'Phot', 'PPT', 'DVD', 'Cap', 'Desk', 'AuI', 'Fsh', 'Del', 'Ttl', 'Col', 'Lst', 'Virt', 'Strm', 'IR', 'IS', 'WB', 'VC', 'ZM', 'TS', 'Video', 'DVD', 'List', 'Camera', 'NDI / OMT / Desktop Capture', 'Stream / SRT', 'Instant Replay', 'Image Sequence / Stinger', 'Video Delay', 'Image', 'Photos', 'PowerPoint', 'Colour', 'Audio', 'Audio Input', 'Title', 'Virtual Set', 'Web Browser', 'Video Call', 'Zoom', 'Telestrator']
+Overlay -> 'Overlay Settings'
+  items of 'Overlay Settings': []
+External cog did not open
+row2 blank buttons: [238, 275, 554, 591, 880, 917]
+input cog -> 'Configure various Input settings'
+  items of 'Configure various Input settings': []

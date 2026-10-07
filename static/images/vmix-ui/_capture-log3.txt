@@ -1,0 +1,6 @@
+after input cog: ['Input: 3 AnimatedHD.xaml', 'vMix Trial - 29.0.0.49 x64', 'PlayList']
+input settings window: 'Input: 3 AnimatedHD.xaml' (L588, T354, R2292, B1373)
+  items of 'Input: 3 AnimatedHD.xaml': ['General', 'Colour Adjust', 'Colour Key', 'Colour Correction', 'Effects', 'Position', 'Layers', 'Triggers', 'Tally Lights', 'PTZ', 'Advanced']
+streaming blank buttons: [<RECT L1728, T995, R1770, B1037>]
+quality -> 'Streaming Quality'
+advanced -> 'Advanced'

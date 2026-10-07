@@ -1,0 +1,12 @@
+Settings dialog did not open
+bottom buttons: [('Add Input', 2), ('00:00:00', 215), ('Record', 278), ('', 608), ('External', 671), ('', 851), ('Stream', 914), ('', 1057), ('MultiCorder', 1120), ('', 1307), ('PlayList', 1370), ('Overlay', 2543), ('', 2655), ('', 2699), ('', 2743), ('', 2787), ('', 2831)]
+record -> 'Recording Setup'
+  items of 'Recording Setup': ['AVI', 'WMV', 'WMV Streaming', 'MP4', 'FFMPEG', 'vMix AVI']
+cog0 -> no dialog
+cog1 -> 'Streaming Settings'
+  items of 'Streaming Settings': []
+cog2 -> 'MultiCorder'
+  items of 'MultiCorder': ['Output 1', 'Output 2', 'Output 3', 'Output 4']
+cog3 -> 'PlayList'
+  items of 'PlayList': ['crisis-reveals-ability.jpg', 'Browser warrendc50-gif.github.io', 'AnimatedHD.xaml']
+input-row blank buttons: [<RECT L237, T1228, R273, B1258>, <RECT L238, T1258, R274, B1288>, <RECT L274, T1228, R310, B1258>, <RECT L275, T1258, R311, B1288>, <RECT L553, T1228, R589, B1258>, <RECT L554, T1258, R590, B1288>, <RECT L590, T1228, R626, B1258>, <RECT L591, T1258, R627, B1288>, <RECT L879, T1228, R915, B1258>, <RECT L880, T1258, R916, B1288>]
