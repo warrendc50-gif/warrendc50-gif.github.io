@@ -13,7 +13,7 @@ from pathlib import Path
 import markdown
 
 from .config import POSTS_DIR, PUBLIC_DIR, ROOT
-from .memory import memory_pages
+from .memory import MEMORY_CSS, memory_pages
 from .tools import TOOL_CSS, TOOLS, render_tool_body, tool_list_html
 
 FONT_CSS = "https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css"
@@ -269,7 +269,7 @@ def _page(cfg: dict, title: str, body: str, *, description: str = "", canonical:
 <meta property="og:url" content="{escape(canonical)}">
 <meta property="og:type" content="website">
 {hreflang}<link rel="stylesheet" href="{FONT_CSS}">
-{_verification_meta(cfg)}<style>{CSS}{TOOL_CSS}</style>
+{_verification_meta(cfg)}<style>{CSS}{TOOL_CSS}{MEMORY_CSS}</style>
 {_adsense_head(cfg)}
 {extra_head}
 </head>

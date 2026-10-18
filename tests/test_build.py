@@ -1,6 +1,6 @@
 import json
 
-from autoblog import builder, config
+from autoblog import builder, config, memory
 
 
 def test_build_site_with_sample_post(tmp_path, monkeypatch):
@@ -109,16 +109,32 @@ def test_tool_as_post_wraps_calculator_for_threads():
 def test_memory_boards(tmp_path, monkeypatch):
     posts_dir = tmp_path / "posts"
     public_dir = tmp_path / "public"
+    data_dir = tmp_path / "memory"
     posts_dir.mkdir()
+    data_dir.mkdir()
     monkeypatch.setattr(builder, "POSTS_DIR", posts_dir)
     monkeypatch.setattr(builder, "PUBLIC_DIR", public_dir)
+    monkeypatch.setattr(memory, "MEMORY_DATA_DIR", data_dir)
+    (data_dir / "ai-news.json").write_text(json.dumps([
+        {"date": "2026-01-05", "headline": "Old <story>", "headline_ko": "오래된 소식", "outlet": "Reuters",
+         "url": "https://example.com/a?x=1&y=2", "summary_ko": "요약 A", "topics": ["model"], "orgs": ["OpenAI"]},
+        {"date": "2026-03-09", "headline": "새 소식", "headline_ko": "새 소식", "outlet": "연합뉴스",
+         "url": "https://example.com/b", "summary_ko": "요약 B", "topics": ["policy", "korea"], "orgs": ["과기정통부"]},
+    ], ensure_ascii=False), encoding="utf-8")
+
     cfg = config.load_config()
     cfg["giscus"] = {"repo": "o/r", "repo_id": "R_1", "category": "Memory", "category_id": ""}
     builder.build_site(cfg)
     index = (public_dir / "memory/index.html").read_text(encoding="utf-8")
-    assert "AI 최신 뉴스" in index and "/memory/korea-economy/" in index
+    assert "AI 최신 뉴스" in index and "/memory/korea-economy/" in index and "2건" in index
     board = (public_dir / "memory/ai-news/index.html").read_text(encoding="utf-8")
-    assert "준비 중" in board and "giscus.app" not in board  # not configured yet
+    assert board.index("새 소식") < board.index("오래된 소식")  # newest first
+    assert "2026년 3월" in board and "2026년 1월" in board
+    assert "Old &lt;story&gt;" in board and 'href="https://example.com/a?x=1&amp;y=2"' in board
+    assert 'data-topic="policy"' in board and "정책·규제" in board
+    assert "giscus.app" not in board  # not configured yet
+    empty = (public_dir / "memory/world-economy/index.html").read_text(encoding="utf-8")
+    assert "아직 모아 둔 기사가 없습니다" in empty
     assert "memory/ai-news/" in (public_dir / "sitemap.xml").read_text(encoding="utf-8")
     assert "/memory/" in (public_dir / "index.html").read_text(encoding="utf-8")  # nav link
     assert "/memory/" not in (public_dir / "en/index.html").read_text(encoding="utf-8")  # Korean only

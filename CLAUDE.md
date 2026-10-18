@@ -19,9 +19,10 @@
 - 수익화(쿠팡 배너, AdSense), 자동 글 빈도 같은 설정은 **운영자에게 먼저 묻고** 바꾼다.
 
 ## Memory 게시판 (/memory/)
-- config.json `memory.boards`에 분야(ai-news, world-economy, korea-economy)가 있고, 각 분야 페이지는 giscus(GitHub Discussions) 위젯으로 글을 보여 준다. 한국어 사이트 전용.
-- 글은 **운영자만** 쓴다: 각 분야의 Discussion은 GitHub에서 잠가(lock) 두고, 운영자가 Discussion 댓글로 기사 링크·메모를 추가한다. 댓글 하나 = 기사 하나.
-- Discussion 제목은 `memory/<board-key>` (data-mapping=specific, strict). 저장소 Discussions 카테고리는 `Memory`(Announcement 형식).
-- `giscus.category_id`가 비어 있으면 "준비 중" 안내만 나온다. 저장소에서 Discussions를 켜고 giscus 앱을 설치한 뒤 category_id를 채운다.
+- config.json `memory.boards`에 분야(ai-news, world-economy, korea-economy)가 있다. 한국어 사이트 전용.
+- 각 분야의 기사 목록은 `data/memory/<board-key>.json`(배열)에 있다. 항목 키: date(YYYY-MM-DD), headline(원문), headline_ko, outlet, url, summary_ko(2~3문장), topics(목록), orgs(목록).
+  topics 값은 autoblog/memory.py `TOPIC_LABELS`에 있는 키만 쓴다. 페이지는 최신순·월별로 묶고, 헤드라인을 누르면 요약과 원문 링크가 열린다.
+- 기사 추가: 운영자가 링크나 주제를 주면 **실제 검색 결과에서 확인한 URL만** 항목으로 추가한다. 헤드라인·날짜·URL을 지어내지 않는다. 같은 사건은 한 건만.
+- 운영자 메모는 giscus(GitHub Discussions) 위젯. `giscus.category_id`가 비어 있으면 위젯이 나오지 않는다.
+  설정 후: Discussion 제목 `memory/<board-key>`(data-mapping=specific, strict), 카테고리 `Memory`(Announcement), 토론은 잠가서 운영자만 쓴다.
 - 분야 추가·이름 변경은 config.json `memory.boards`만 고치면 된다.
-
