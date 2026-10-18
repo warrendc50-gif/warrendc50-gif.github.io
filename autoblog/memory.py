@@ -27,6 +27,8 @@ TOPIC_LABELS = {
     "banks": "은행·금융사", "crypto": "가상자산", "global": "해외발 영향",
     "unrest": "시위·폭동", "conflict": "전쟁·분쟁", "disaster": "재난·기상", "accident": "사고",
     "terror": "테러·치안", "politics": "정치 격변", "health": "보건", "economy": "경제 충격",
+    "fed": "미 연준·금리", "centralbank": "중앙은행", "markets": "글로벌 증시", "trade": "무역·관세",
+    "energy": "에너지·원자재", "china": "중국 경제", "macro": "성장·물가·고용", "crisis": "위기·채무·환율",
 }
 YOUTUBE_SEARCH = "https://www.youtube.com/results?search_query="
 # Branch colors for the timeline; chosen to read on both the light and the dark background.
@@ -302,10 +304,9 @@ def timeline_svg(items: list[dict], mode: str, title: str, hidden: bool = False)
     slots = (-11, 17, -24, 30, -37)  # label baseline offsets from the branch line (5 rows)
     y = lane_h / 2  # lane-relative; the group transform places the lane
     for li, (key, label, lane_items) in enumerate(lanes):
-        # topic colors follow TOPIC_LABELS order so a topic keeps its color on every board
-        ci = list(TOPIC_LABELS).index(key) if key in TOPIC_LABELS else li
-        color = LANE_COLORS[ci % len(LANE_COLORS)]
-        alt = LANE_ALT_COLORS[ci % len(LANE_ALT_COLORS)]
+        # colors by branch position, so every branch on a board gets its own color
+        color = LANE_COLORS[li % len(LANE_COLORS)]
+        alt = LANE_ALT_COLORS[li % len(LANE_ALT_COLORS)]
         out.append(f'<g class="lane-g" data-key="{escape(key)}" transform="translate(0,{top + li * lane_h})">'
                    f'<path class="br" d="M14 {y:.0f} C 20 {y:.0f}, 20 {y:.0f}, 26 {y:.0f}" style="stroke:{color}"/>'
                    f'<text class="lane" x="28" y="{y + 4:.0f}" style="fill:{color}">{escape(_fit(label, 8))}</text>'

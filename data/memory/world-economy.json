@@ -1,0 +1,1145 @@
+[
+ {
+  "date": "2026-10-16",
+  "headline": "China Moves to Curb Tech Exports, Including AI, Citing National Security Risks",
+  "headline_ko": "중국, AI 모델·칩 설계 등 23개 AI 기술 수출통제 추진",
+  "outlet": "AP",
+  "url": "https://www.usnews.com/news/business/articles/2026-10-16/china-moves-to-curb-tech-exports-including-ai-citing-national-security-risks",
+  "video": "",
+  "summary_ko": "중국 상무부가 10월 16일 2조 파라미터 이상 대형 모델, AI 에이전트, 칩 설계, 컴퓨팅 클러스터 등 23개 AI 기술을 포함한 40개 기술의 수출통제 초안을 내고 임시 등록제를 즉시 시행했다. 시진핑 방미로 연장된 무역 휴전이 3주 만에 흔들린다는 평가가 나왔다. 미·중 기술 블록화가 심해질수록 중국 공급망에 얽힌 한국 IT 기업의 선택이 어려워진다.",
+  "topics": [
+   "china",
+   "trade"
+  ],
+  "orgs": [
+   "중국 상무부"
+  ]
+ },
+ {
+  "date": "2026-10-16",
+  "headline": "Stock market today: Dow, S&P 500, Nasdaq sink as tech sell-off caps volatile week",
+  "headline_ko": "뉴욕증시 기술주 투매로 하락 마감…S&P 500 주간 2%↓, 나스닥 6월 이후 최악의 주",
+  "outlet": "Yahoo Finance",
+  "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-mixed-amid-volatile-week-112939401.html",
+  "video": "",
+  "summary_ko": "10월 16일 S&P 500은 1.09% 내린 7,659, 나스닥은 2.14% 내린 26,140에 마감해 주간으로 각각 약 2%, 4% 넘게 떨어졌고 나스닥은 6월 이후 최악의 한 주를 보냈다. AI 인프라 부채 우려와 3.7% 물가, 110달러에 닿은 브렌트유, 5%대 국채 금리가 겹친 결과로 VIX는 6월 이후 최고로 뛰었다. 10월 28일 FOMC와 중국 3분기 GDP 발표를 앞두고 글로벌 투자자의 위험 회피가 뚜렷해졌다.",
+  "topics": [
+   "markets"
+  ],
+  "orgs": [
+   "뉴욕증권거래소",
+   "미 연준"
+  ]
+ },
+ {
+  "date": "2026-10-15",
+  "headline": "'검은 목요일'...코스피·코스닥 폭락",
+  "headline_ko": "'검은 목요일' 코스피 7.57% 폭락…코스피·코스닥 동시 서킷브레이커",
+  "outlet": "서울신문",
+  "url": "https://www.seoul.co.kr/news/economy/2026/10/15/20261015500297",
+  "video": "https://www.youtube.com/watch?v=8oF94fnCQmQ",
+  "summary_ko": "미국 9월 CPI 충격과 AI 인프라 부채 우려(코어위브 급락)가 겹치면서 10월 15일 코스피가 454포인트(7.57%) 떨어진 5,554에, 코스닥은 7.65% 하락한 760에 마감하고 양 시장에 서킷브레이커가 걸렸다. 삼성전자 -9.5%, SK하이닉스 -11%로 반도체가 낙폭을 주도했고 외국인은 3조6천억 원 넘게 팔았다. 닛케이도 4.9% 급락해 글로벌 반도체 투매로 번졌고 코스피 주간 낙폭은 2008년 이후 최대였다.",
+  "topics": [
+   "markets"
+  ],
+  "orgs": [
+   "한국거래소",
+   "삼성전자",
+   "SK하이닉스"
+  ],
+  "video_channel": "Arirang News"
+ },
+ {
+  "date": "2026-10-15",
+  "headline": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
+  "headline_ko": "코어위브 CDS '부도 위험' 수준 급등…AI 부채 공포 확산",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html",
+  "video": "https://www.youtube.com/watch?v=6zV2k6RObn8",
+  "summary_ko": "AI 클라우드 업체 코어위브의 2031년 만기 채권 금리가 16%를 넘고 5년물 CDS 스프레드가 1,100bp 이상으로 치솟아 시장이 5년 내 부도 확률을 60% 안팎으로 보는 수준이 됐다. 500억 달러가 넘는 부채로 AI 데이터센터를 짓는 사업 모델에 대한 의심이 오라클·델 등 AI 관련주 전반의 급락으로 이어졌다. '빚으로 쌓은 AI 붐' 논쟁은 한국 반도체주 급락의 배경이기도 하다.",
+  "topics": [
+   "markets",
+   "crisis"
+  ],
+  "orgs": [
+   "코어위브",
+   "엔비디아"
+  ],
+  "video_channel": "Reuters"
+ },
+ {
+  "date": "2026-10-14",
+  "headline": "September CPI report shows inflation accelerated to 3.7% as energy costs soared",
+  "headline_ko": "미국 9월 CPI 3.7%로 재가속…휘발유 한 달 9.1% 급등",
+  "outlet": "CBS News",
+  "url": "https://www.cbsnews.com/news/september-cpi-report-inflation-energy-costs/",
+  "video": "https://www.youtube.com/watch?v=Q4IJbSZmUvg",
+  "summary_ko": "9월 소비자물가는 전월 대비 0.6%, 전년 대비 3.7% 올라 예상치 3.6%를 웃돌았고 근원 CPI도 2.6%로 반등했다. 휘발유 가격이 9.1% 뛰며 상승분의 절반을 차지해 이란 전쟁이 물가로 직결됨을 보여줬다. 10월 FOMC 인상 확률이 재차 올라가고 국채 금리가 뛰면서 다음 날 한국·일본 증시 폭락의 도화선이 됐다.",
+  "topics": [
+   "macro",
+   "fed"
+  ],
+  "orgs": [
+   "미 노동통계국(BLS)",
+   "미 연준"
+  ],
+  "video_channel": "CBS News"
+ },
+ {
+  "date": "2026-10-14",
+  "headline": "China's exports and imports surge past expectations in September",
+  "headline_ko": "중국 9월 수출 36.3% 급증…월간 무역흑자 1,335억 달러 사상 최대",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html",
+  "video": "",
+  "summary_ko": "중국의 9월 수출은 전년 대비 36.3% 늘어 예상치 25.5%를 크게 웃돌았고 수입도 31% 증가했으며 월간 무역흑자는 1,335억 달러로 사상 최대를 기록했다. 반도체 수출이 1~9월 108% 급증하고 자동차 수출이 56% 늘어 AI 수요와 대EU 선적 러시가 견인했다. 1~9월 누적 흑자 9,381억 달러는 유럽의 무역 재균형 압박을 키우고 한국 수출기업과의 경쟁 심화를 의미한다.",
+  "topics": [
+   "china",
+   "trade"
+  ],
+  "orgs": [
+   "중국 해관총서"
+  ]
+ },
+ {
+  "date": "2026-10-14",
+  "headline": "Iran steps up Hormuz surveillance: Attacks soar, oil flows crash again",
+  "headline_ko": "이란, 호르무즈 감시·공격 강화…원유 통항량 7월 이후 최저",
+  "outlet": "Al Jazeera",
+  "url": "https://www.aljazeera.com/news/2026/10/14/iran-steps-up-hormuz-surveillance-attacks-soar-oil-flows-crash-again",
+  "video": "",
+  "summary_ko": "10월 11일 하루에만 유조선 6척 이상이 공격받는 등 이란의 호르무즈 선박 공격이 급증하면서 유조선 통항량이 7월 말 이후 최저로 떨어졌고 브렌트유는 106달러를 넘었다. 이란 당국자들은 새 전술로 공격을 강화하겠다고 밝혀 사태 장기화 우려가 커졌다. 걸프산 원유 비중이 큰 한국은 수입선 다변화와 비축유 운용이 다시 시험대에 올랐다.",
+  "topics": [
+   "energy",
+   "crisis"
+  ],
+  "orgs": [
+   "이란 정부",
+   "미 중부사령부"
+  ]
+ },
+ {
+  "date": "2026-10-13",
+  "headline": "IMF raises 2026 global growth forecast to 3.1% as economic inequality widens",
+  "headline_ko": "IMF 10월 세계경제전망, 올해 성장률 3.1%로 상향…한국 3.3%",
+  "outlet": "Fortune",
+  "url": "https://fortune.com/2026/10/13/imf-global-growth-forecast-2026-ai-economic-divide/",
+  "video": "https://www.youtube.com/watch?v=bhM2EYM2nXk",
+  "summary_ko": "IMF는 방콕 연차총회에서 발표한 10월 세계경제전망에서 2026년 세계 성장률을 7월보다 0.1%p 높은 3.1%, 2027년 3.4%로 제시했고 세계 물가는 4.7%로 전망했다. AI 투자 붐이 중동 전쟁의 충격을 상쇄했지만 95%의 성장이 32개국에 집중돼 격차가 커졌다고 경고했다. 한국은 반도체 수요 덕에 3.3%로 0.7%p 상향됐으나 전망의 전제가 '내년 3월 호르무즈 재개통'이라는 점이 변수다.",
+  "topics": [
+   "macro"
+  ],
+  "orgs": [
+   "국제통화기금(IMF)"
+  ],
+  "video_channel": "IMF"
+ },
+ {
+  "date": "2026-10-13",
+  "headline": "Chip Selloff Sparks 7% Korea Rout on Brewing Worries Over AI",
+  "headline_ko": "반도체 투매에 코스피 5.5% 급락, 6,000선 위협…AI 거품 우려 재점화",
+  "outlet": "Bloomberg",
+  "url": "https://www.bloomberg.com/news/articles/2026-10-13/korean-chip-stocks-sink-on-chinese-rival-worry-broadcom-remarks",
+  "video": "https://www.youtube.com/watch?v=yktKz9DWuSg",
+  "summary_ko": "중국 CXMT의 메모리 추격 소식과 브로드컴 경영진의 AI 수요 발언이 겹치며 10월 13일 코스피가 장중 7% 넘게 밀린 뒤 5.46% 하락한 6,035로 마감해 6,000선을 위협했다. 외국인 매도가 쏟아지며 삼성전자·SK하이닉스가 급락했고 미국 메모리주까지 매물이 번졌다. 9월 고점 대비 20% 넘게 빠진 코스피는 사실상 약세장에 진입했다.",
+  "topics": [
+   "markets"
+  ],
+  "orgs": [
+   "한국거래소",
+   "삼성전자",
+   "SK하이닉스"
+  ],
+  "video_channel": "Yahoo Finance"
+ },
+ {
+  "date": "2026-10-08",
+  "headline": "Oil prices jump as Iran steps up tanker attacks, hurricane threatens U.S. Gulf production",
+  "headline_ko": "이란 유조선 공격 급증에 유가 5% 급등…브렌트유 105달러",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/10/08/oil-prices-today-brent-wti-hormuz.html",
+  "video": "",
+  "summary_ko": "9월 28일~10월 4일 한 주 동안 호르무즈 해협에서 유조선 10척이 공격받는 사상 최다 기록이 나오자 브렌트유가 하루 4.8% 올라 105달러에 마감했다. 미 멕시코만 허리케인 위협과 비축유 방출 기대 소진도 겹쳤다. 원유 수입국 한국에는 물가·무역수지·항공 유류비 등 전방위 부담이고, 9월 미국 CPI 급등의 직접 원인이 됐다.",
+  "topics": [
+   "energy"
+  ],
+  "orgs": [
+   "이란 정부",
+   "OPEC"
+  ]
+ },
+ {
+  "date": "2026-10-07",
+  "headline": "Why The 10-Year Treasury Yield Just Hit A 24-Year High",
+  "headline_ko": "미 10년물 국채 금리 24년 만의 최고…5.3% 돌파",
+  "outlet": "Forbes",
+  "url": "https://www.forbes.com/sites/garthfriesen/2026/10/07/why-the-10-year-treasury-yield-just-hit-a-24-year-high/",
+  "video": "",
+  "summary_ko": "미 10년물 국채 금리가 10월 초 5.3%를 넘어 2002년 이후 최고치로 올랐다. 연준의 인상 전환, 유가 급등에 따른 물가 재가속, 재정적자 우려가 겹친 결과로 올해 들어 90bp 넘게 뛰었다. 글로벌 장기금리의 기준이 오르면 한국 국채·대출금리와 성장주 밸류에이션 모두 압박을 받는다.",
+  "topics": [
+   "markets",
+   "fed"
+  ],
+  "orgs": [
+   "미 재무부",
+   "미 연준"
+  ]
+ },
+ {
+  "date": "2026-10-02",
+  "headline": "Euro area annual inflation up to 3.8%",
+  "headline_ko": "유로존 9월 물가 3.8%…2023년 이후 최고, 에너지 18.8% 급등",
+  "outlet": "Eurostat",
+  "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-02102026-ap",
+  "video": "",
+  "summary_ko": "유로스타트 속보치에서 9월 유로존 소비자물가는 전년 대비 3.8%로 8월 3.2%에서 크게 올라 2023년 9월 이후 최고를 기록했다. 에너지 물가가 18.8% 치솟은 영향이 가장 컸고 근원 물가도 2.5%로 올랐다. 10월 29일 ECB 회의에서 추가 인상 압력을 높이는 지표로, 유럽 수요 둔화는 한국 대유럽 수출에도 부담이다.",
+  "topics": [
+   "macro",
+   "centralbank"
+  ],
+  "orgs": [
+   "유로스타트",
+   "유럽중앙은행(ECB)"
+  ]
+ },
+ {
+  "date": "2026-10-02",
+  "headline": "U.S. September 2026 jobs report: payrolls miss forecasts badly",
+  "headline_ko": "미국 9월 고용 2만9천 명 증가 그쳐…실업률 4.2%",
+  "outlet": "Yahoo Finance",
+  "url": "https://finance.yahoo.com/economy/articles/september-2026-jobs-report-payrolls-123334753.html",
+  "video": "https://www.youtube.com/watch?v=nQPucVfzEnw",
+  "summary_ko": "9월 비농업 고용은 2만9천 명 증가로 예상치 8만4천 명을 크게 밑돌았고 실업률은 4.2%로 올랐다. 7월은 1만 명 감소로, 8월은 13만3천 명으로 하향됐으며 시간당 임금 상승률 3.0%는 2021년 이후 최저였다. 중간선거 전 마지막 고용지표로, 시장은 10월 FOMC 동결 가능성을 높게 반영하기 시작했다.",
+  "topics": [
+   "macro"
+  ],
+  "orgs": [
+   "미 노동통계국(BLS)"
+  ],
+  "video_channel": "Bloomberg Television"
+ },
+ {
+  "date": "2026-09-30",
+  "headline": "PCE inflation eases to 3.4% — cooling the case for another Fed rate hike",
+  "headline_ko": "미국 8월 PCE 물가 3.4%·근원 3.0%…예상 밑돌아 추가 인상 논거 약화",
+  "outlet": "Yahoo Finance",
+  "url": "https://finance.yahoo.com/economy/policy/article/pce-inflation-eases-to-34--cooling-the-case-for-another-fed-rate-hike-125513195.html",
+  "video": "",
+  "summary_ko": "연준이 선호하는 8월 개인소비지출(PCE) 물가는 전년 대비 3.4%, 근원은 3.0%로 각각 예상치 3.7%, 3.3%를 밑돌았고 7월 수치도 하향 조정됐다. 9월 인상 직후 나온 지표라 추가 인상 속도를 늦출 수 있다는 기대가 생겼다. 다만 2% 목표와의 거리는 여전해 고금리 장기화 전망은 유지됐다.",
+  "topics": [
+   "macro",
+   "fed"
+  ],
+  "orgs": [
+   "미 상무부 경제분석국(BEA)",
+   "미 연준"
+  ]
+ },
+ {
+  "date": "2026-09-24",
+  "headline": "U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit",
+  "headline_ko": "시진핑 방미 속 미·중 무역 휴전 2개월 연장…300억 달러 관세 인하",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html",
+  "video": "https://www.youtube.com/watch?v=ugPiA4D8s7c",
+  "summary_ko": "시진핑 주석의 9월 23~25일 워싱턴 국빈방문 중 미·중은 11월 10일 만료 예정이던 무역 휴전을 2027년 1월 10일까지 연장하고 농산물·에너지 등 약 300억 달러 규모 '비핵심' 품목의 관세를 낮추기로 했다. 그러나 6개월 이상 연장을 기대한 시장에는 미흡했고 AI·이란 문제 등 합의는 없었다. 미·중 사이에 낀 한국 수출업계에는 숨 고르기 이상의 의미는 아니었다.",
+  "topics": [
+   "trade",
+   "china"
+  ],
+  "orgs": [
+   "미 재무부",
+   "중국 정부"
+  ],
+  "video_channel": "FRANCE 24 English"
+ },
+ {
+  "date": "2026-09-18",
+  "headline": "Bank of Japan raises interest rates to 31-year high, flags concerns over inflation",
+  "headline_ko": "일본은행, 정책금리 1.25%로 인상…1995년 이후 최고",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/09/18/japan-raises-rates-30-year-high-yen-jgb.html",
+  "video": "https://www.youtube.com/watch?v=tphKwwsJRHM",
+  "summary_ko": "일본은행은 9월 18일 7대 2로 단기 정책금리를 1.0%에서 1.25%로 올려 1995년 이후 최고 수준으로 높였다. 6월 인상 뒤 석 달 만의 추가 인상으로 물가가 2% 목표를 웃돌 위험과 기대 인플레이션 상승을 이유로 들었다. 엔 캐리 트레이드 청산과 일본 국채 금리 상승은 한국을 포함한 아시아 금융시장의 변동성 요인이다.",
+  "topics": [
+   "centralbank"
+  ],
+  "orgs": [
+   "일본은행"
+  ],
+  "video_channel": "ANNnewsCH"
+ },
+ {
+  "date": "2026-09-16",
+  "headline": "Fed rate decision September 2026: Rates rise to 3.75%-4%",
+  "headline_ko": "미 연준, 3년 만의 첫 금리 인상…기준금리 3.75~4.00%",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html",
+  "video": "https://www.youtube.com/watch?v=Nkmrr7P5gW4",
+  "summary_ko": "연준은 9월 16일 12대 0 만장일치로 기준금리를 0.25%p 올려 3.75~4.00%로 높였다. 2023년 이후 첫 인상으로, 워시 의장은 '완화의 일부를 제거했다'며 물가가 너무 오랫동안 높았다고 말했고 점도표는 연내 추가 인상을 시사했다. 백악관은 반발했지만 시장은 추가 인상을 반영했고, 한국은행의 금리 인하 여지와 원화 환율에 직접적인 압박이 됐다.",
+  "topics": [
+   "fed"
+  ],
+  "orgs": [
+   "미 연준"
+  ],
+  "video_channel": "CNBC Television"
+ },
+ {
+  "date": "2026-09-10",
+  "headline": "ECB hikes rates as expected, but questions remain",
+  "headline_ko": "ECB 예금금리 2.50%로 0.25%p 인상…중동 전쟁發 물가 압력",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/09/10/ecb-interest-rate-hike-lagarde-iran.html",
+  "video": "https://www.youtube.com/watch?v=rCBHa4xjqvI",
+  "summary_ko": "유럽중앙은행은 9월 10일 만장일치로 3대 정책금리를 0.25%p 올려 예금금리를 2.50%로 높였다. 8월 유로존 물가 3.3%, 에너지 물가 14.3%라는 중동 전쟁의 충격을 이유로 들었지만 향후 경로는 '회의마다 데이터로 판단'한다며 약속하지 않았다. 미·유럽·일본이 같은 달 모두 인상에 나서는 글로벌 긴축 재개의 한 축이었다.",
+  "topics": [
+   "centralbank"
+  ],
+  "orgs": [
+   "유럽중앙은행(ECB)"
+  ],
+  "video_channel": "European Central Bank"
+ },
+ {
+  "date": "2026-09-04",
+  "headline": "US Dollar Slumps to Start September as Yen Surges on Rate Bets",
+  "headline_ko": "9월 초 달러 5월 이후 최저…일본은행 인상 기대에 엔화 급등",
+  "outlet": "Bloomberg",
+  "url": "https://www.bloomberg.com/news/articles/2026-09-04/us-dollar-slumps-to-start-september-as-yen-surges-on-rate-bets",
+  "video": "",
+  "summary_ko": "블룸버그 달러지수가 9월 첫째 주 0.7% 하락해 5월 이후 최저로 밀렸고 엔화는 일본은행 인상 기대와 개입 경계 속에 한 달 만의 강세로 올랐다. 미 연준의 인상 베팅이 일시 후퇴한 영향도 겹쳤다. 달러 약세 국면은 원화 환율과 외국인 자금 유입에 숨통을 틔워 주는 요인이었다.",
+  "topics": [
+   "crisis",
+   "markets"
+  ],
+  "orgs": [
+   "일본은행",
+   "미 연준"
+  ]
+ },
+ {
+  "date": "2026-09-01",
+  "headline": "House passes funding stopgap, averting government shutdown in October",
+  "headline_ko": "미 하원, 임시예산안 통과…10월 셧다운 피하고 12월 11일까지 연장",
+  "outlet": "Breaking Defense",
+  "url": "https://breakingdefense.com/2026/09/house-passes-funding-stopgap-averting-government-shutdown-in-october/",
+  "video": "",
+  "summary_ko": "미 하원이 상원이 넘긴 임시예산안을 370대 48로 통과시켜 10월 1일 새 회계연도 시작과 함께 우려됐던 연방정부 셧다운을 피했다. 지난해 43일간의 셧다운을 겪은 시장에는 안도 요인이었지만 다음 기한은 중간선거 뒤인 12월 11일로 미뤄졌을 뿐이다. 미국 재정 리스크는 국채 금리와 달러를 통해 신흥국 자금 흐름에도 영향을 준다.",
+  "topics": [
+   "macro",
+   "crisis"
+  ],
+  "orgs": [
+   "미국 의회"
+  ]
+ },
+ {
+  "date": "2026-08-29",
+  "headline": "Japan spends record ¥15.39 trillion in July-August forex interventions",
+  "headline_ko": "일본, 7~8월 사상 최대 15조3,900억 엔 환율 개입",
+  "outlet": "The Japan Times",
+  "url": "https://www.japantimes.co.jp/business/2026/08/29/markets/japan-record-forex-interventions/",
+  "video": "",
+  "summary_ko": "일본 재무성은 7월 30일~8월 26일 외환시장 개입 규모가 15조3,993억 엔으로 월간 기준 사상 최대였다고 발표했다. 올해 누적 개입액은 27조 엔을 넘어 2024년 연간 기록(약 15조 엔)을 이미 넘어섰다. 막대한 개입에도 엔화가 다시 약해지자 일본은행의 금리 인상 압력이 커졌고 아시아 통화 전반에 불안이 번졌다.",
+  "topics": [
+   "crisis"
+  ],
+  "orgs": [
+   "일본 재무성"
+  ]
+ },
+ {
+  "date": "2026-08-28",
+  "headline": "Fed Chairman Warsh warns on inflation at Jackson Hole",
+  "headline_ko": "워시 연준 의장, 잭슨홀 첫 연설서 '물가 여전히 높다' 매파 신호",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-federal-reserve-inflation.html",
+  "video": "https://www.youtube.com/watch?v=mIWsgzXCwUA",
+  "summary_ko": "케빈 워시 의장은 취임 후 첫 잭슨홀 기조연설에서 여름 물가 지표가 개선됐더라도 기저 흐름이 바뀐 것은 아니라며 인상 가능성을 열어 뒀고, 포워드 가이던스는 제시하지 않았다. 연설 직후 9월 인상 확률은 3분의 1에서 56%로 뛰고 국채 금리와 달러가 올랐다. 미국 금리 인상 전환은 한국의 금리·환율 운용 폭을 좁히는 요인이다.",
+  "topics": [
+   "fed"
+  ],
+  "orgs": [
+   "미 연준"
+  ],
+  "video_channel": "CNBC Television"
+ },
+ {
+  "date": "2026-08-26",
+  "headline": "Nvidia earnings takeaways: Huang forecasts 70% fiscal 2028 revenue growth, far above estimates",
+  "headline_ko": "엔비디아 분기 매출 962억 달러로 2배…황 CEO '내년 70% 성장' 전망",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html",
+  "video": "https://www.youtube.com/watch?v=S8jfUzAP4uQ",
+  "summary_ko": "엔비디아는 2027회계연도 2분기 매출 962억 달러로 1년 전의 2배를 넘겼고 2028회계연도 매출이 70% 성장할 것이라는 전망으로 시장 예상(44%)을 크게 웃돌았다. 주가는 하루 8% 넘게 오르며 AI 투자 사이클이 아직 살아 있음을 확인했다. 엔비디아에 HBM을 공급하는 삼성전자·SK하이닉스와 한국 반도체 투자자에게 직결되는 실적이었다.",
+  "topics": [
+   "markets"
+  ],
+  "orgs": [
+   "엔비디아"
+  ],
+  "video_channel": "CNBC International Live"
+ },
+ {
+  "date": "2026-08-22",
+  "headline": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
+  "headline_ko": "미·캐나다 협상 결렬…미국 50% 관세 발효, 카니 '9월 8일 보복관세'",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
+  "video": "https://www.youtube.com/watch?v=FWJgzRXjJ00",
+  "summary_ko": "1930년 관세법 338조를 77년 만에 동원한 캐나다산 약 200억 달러 상품에 대한 50% 관세가 8월 22일 발효됐고 카니 총리는 9월 8일부터 같은 규모의 보복관세를 예고했다. 트럼프 대통령은 이틀 뒤 2027년부터 캐나다 자동차·철강 관세를 50%로 올리겠다고 덧붙였다. 북미 공급망 전체가 흔들리면서 캐나다 공장을 둔 한국 자동차·배터리 업계도 긴장했다.",
+  "topics": [
+   "trade"
+  ],
+  "orgs": [
+   "미국 백악관",
+   "캐나다 정부"
+  ],
+  "video_channel": "CBC News: The National"
+ },
+ {
+  "date": "2026-08-12",
+  "headline": "CPI inflation report July 2026: Prices rose 0.1%, annual rate 3.4%",
+  "headline_ko": "미국 7월 CPI 3.4%…에너지 하락에 상승세 소폭 둔화",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html",
+  "video": "",
+  "summary_ko": "7월 소비자물가는 전월 대비 0.1%, 전년 대비 3.4% 올라 6월 3.5%에서 소폭 둔화했고 근원 CPI는 2.5%였다. 다만 에너지 가격은 1년 전보다 14.7%, 휘발유는 24.6% 높아 이란 전쟁의 그림자가 여전했다. 시장은 9월 금리 인상 확률을 낮췄지만 물가가 목표를 크게 웃도는 구조는 그대로였다.",
+  "topics": [
+   "macro"
+  ],
+  "orgs": [
+   "미 노동통계국(BLS)"
+  ]
+ },
+ {
+  "date": "2026-08-07",
+  "headline": "July jobs report: US economy shed 23,000 jobs, a sudden reversal",
+  "headline_ko": "미국 7월 고용 2만3천 명 감소…예상 밖 역성장",
+  "outlet": "NBC News",
+  "url": "https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138",
+  "video": "",
+  "summary_ko": "7월 비농업 고용이 2만3천 명 감소해 8만 명대 증가를 예상한 시장에 충격을 줬고, 5~6월 수치도 10만 명 이상 하향됐다. 실업률은 4.1%로 떨어졌지만 이는 구직 포기 증가 탓이었고 임금 상승률은 5년 만에 가장 낮았다. 고물가 속 고용 둔화라는 딜레마가 연준의 9월 인상 여부를 두고 시장 논쟁을 키웠다.",
+  "topics": [
+   "macro"
+  ],
+  "orgs": [
+   "미 노동통계국(BLS)"
+  ]
+ },
+ {
+  "date": "2026-08-03",
+  "headline": "U.S., Japan confirm coordinated yen intervention, signal readiness for more",
+  "headline_ko": "미·일, 28년 만의 공동 엔화 매수 개입 확인…추가 개입 시사",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/08/03/yen-intervention-us-japan-trump-bessent-katayama.html",
+  "video": "https://www.youtube.com/watch?v=_vpKsM8CcHw",
+  "summary_ko": "달러당 164엔까지 치솟았던 엔화 약세를 막기 위해 일본 재무성과 미 재무부가 7월 31일 공동으로 엔화를 사들였다고 가타야마 재무상과 베선트 장관이 확인했다. 미국이 일본 통화 방어에 동참한 것은 약 28년 만으로 엔화는 155엔대까지 급반등했다. 엔저 수혜를 입던 한국 수출기업의 가격 경쟁력과 엔화 투자자에게 모두 영향을 주는 사건이다.",
+  "topics": [
+   "crisis",
+   "centralbank"
+  ],
+  "orgs": [
+   "일본 재무성",
+   "미 재무부"
+  ],
+  "video_channel": "Bloomberg Television"
+ },
+ {
+  "date": "2026-07-30",
+  "headline": "US economy grew 1.5% in second quarter, Commerce Department estimates",
+  "headline_ko": "미국 2분기 GDP 성장률 1.5%…예상치 하회",
+  "outlet": "Fox Business",
+  "url": "https://www.foxbusiness.com/economy/us-economy-q2-2026-advance",
+  "video": "",
+  "summary_ko": "미 상무부 경제분석국의 2분기 GDP 속보치는 연율 1.5%로 1분기 2.1%와 시장 예상 2.1%를 모두 밑돌았다. 정부지출 감소와 투자·수출 둔화가 원인이었고, 분기 PCE 물가는 5.1%나 올라 '저성장·고물가' 우려를 키웠다. 이후 확정치에서 2.2%로 상향됐지만 당시 연준의 긴축 부담을 더 복잡하게 만든 지표였다.",
+  "topics": [
+   "macro"
+  ],
+  "orgs": [
+   "미 상무부 경제분석국(BEA)"
+  ]
+ },
+ {
+  "date": "2026-07-29",
+  "headline": "Fed rate decision July 2026: Divided Fed holds interest rates steady",
+  "headline_ko": "미 연준 7월 FOMC, 금리 3.50~3.75% 동결…3명 인상 소수의견",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/07/29/fed-rate-decision-july-2026.html",
+  "video": "",
+  "summary_ko": "연준은 7월 28~29일 회의에서 기준금리를 3.50~3.75%로 5회 연속 동결했지만 해맥·카시카리·로건 등 지역 연은 총재 3명이 0.25%p 인상을 요구하며 반대표를 던졌다. 5년 넘게 2% 목표를 웃도는 물가에 대한 내부 불만이 공식화된 셈이다. 이후 9월 인상의 복선이 됐고 한국 금리·환율에도 긴축 압력이 전해졌다.",
+  "topics": [
+   "fed"
+  ],
+  "orgs": [
+   "미 연준"
+  ]
+ },
+ {
+  "date": "2026-07-29",
+  "headline": "South Korea's stock market plunges as AI-driven boom fades",
+  "headline_ko": "AI 열기 식자 한국 증시 폭락…코스피 이틀 연속 서킷브레이커",
+  "outlet": "Al Jazeera",
+  "url": "https://www.aljazeera.com/economy/2026/7/29/south-koreas-stock-market-plunges-as-ai-driven-boom-fades",
+  "video": "",
+  "summary_ko": "코스피가 7월 28일 10.84% 폭락한 뒤 29일에도 추가 하락하며 이틀 연속 서킷브레이커가 발동됐다. 중국 메모리 업체의 추격과 AI 투자 회수 의문, 레버리지 ETF 매물이 겹치면서 삼성전자·SK하이닉스가 두 자릿수 급락했다. 한 달 새 30% 넘게 빠진 뒤 31일 17.9% 반등하는 극심한 변동성이 개인 투자자를 흔들었다.",
+  "topics": [
+   "markets"
+  ],
+  "orgs": [
+   "한국거래소",
+   "삼성전자",
+   "SK하이닉스"
+  ]
+ },
+ {
+  "date": "2026-07-23",
+  "headline": "Lagarde Signals ECB Is Primed for Possible Move in September",
+  "headline_ko": "ECB 금리 동결…라가르드 '9월 인상 가능성' 시사",
+  "outlet": "Bloomberg",
+  "url": "https://www.bloomberg.com/news/articles/2026-07-23/ecb-keeps-rate-steady-to-gauge-iran-war-s-impact-on-inflation",
+  "video": "",
+  "summary_ko": "유럽중앙은행은 7월 23일 예금금리를 2.25%로 동결하면서 이란 전쟁이 물가에 미치는 영향을 지켜보기로 했다. 일부 위원이 즉각 인상을 주장했고 라가르드 총재는 9월 인상의 토대를 깔았다. 에너지 충격이 유럽 금리 인상 사이클로 번질 수 있다는 신호였다.",
+  "topics": [
+   "centralbank"
+  ],
+  "orgs": [
+   "유럽중앙은행(ECB)"
+  ]
+ },
+ {
+  "date": "2026-07-08",
+  "headline": "Oil prices surge and markets fall after Trump says Iran ceasefire is over",
+  "headline_ko": "트럼프 '이란 휴전 끝났다' 발언에 유가 급등·증시 하락",
+  "outlet": "The Washington Post",
+  "url": "https://www.washingtonpost.com/business/2026/07/08/oil-prices-surge-markets-poised-fall-after-trump-says-iran-ceasefire-is-over/",
+  "video": "https://www.youtube.com/watch?v=JwT0Zs5gobE",
+  "summary_ko": "트럼프 대통령이 4월 휴전과 6월 양해각서가 사실상 끝났다고 선언하고 이란 공습을 재개하면서 브렌트유가 5% 넘게 뛰어 78달러대로 올랐고 유럽 주요 증시는 2% 이상 하락했다. 전쟁 전 수준으로 내려왔던 유가가 다시 반등하는 전환점이 됐다. 원유 수입 의존도가 높은 한국은 물가와 무역수지 모두에 부담을 받게 됐다.",
+  "topics": [
+   "energy",
+   "crisis"
+  ],
+  "orgs": [
+   "미국 백악관",
+   "이란 정부"
+  ],
+  "video_channel": "Bloomberg Television"
+ },
+ {
+  "date": "2026-07-01",
+  "headline": "U.S. won't renew USMCA, will review trade pact with Canada and Mexico",
+  "headline_ko": "미국, USMCA 갱신 거부…캐나다·멕시코와 매년 재검토",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/07/01/trump-usmca-canada-mexico-trade-treaty.html",
+  "video": "",
+  "summary_ko": "미국 무역대표부가 7월 1일 공동검토에서 북미 자유무역협정(USMCA)의 갱신에 동의하지 않아 협정이 '미갱신' 상태로 매년 재검토 대상이 됐다. 협정 자체는 유효하지만 북미 공급망의 불확실성이 커졌고, 이후 캐나다에 대한 고율 관세의 전조가 됐다. 멕시코·캐나다에 생산기지를 둔 한국 자동차·부품 기업에도 직접적인 변수다.",
+  "topics": [
+   "trade"
+  ],
+  "orgs": [
+   "미국 무역대표부(USTR)",
+   "캐나다 정부",
+   "멕시코 정부"
+  ]
+ },
+ {
+  "date": "2026-06-23",
+  "headline": "Is AI 'one big bubble'? Behind the tech sell-off",
+  "headline_ko": "'AI 거품' 공포에 나스닥 급락…마이크론 13% 폭락, 반도체 시총 1조 달러 증발",
+  "outlet": "NPR",
+  "url": "https://www.npr.org/2026/06/23/nx-s1-5867633/ai-selloff-tech-stocks-bubble-nasdaq",
+  "video": "",
+  "summary_ko": "AI 인프라 투자 비용 급증 우려와 오픈AI 상장 지연 보도, 연준 인상 가능성이 겹치며 6월 23일 나스닥이 급락하고 마이크론·샌디스크 등 메모리·저장장치주가 10% 넘게 빠졌다. 빅테크 4사의 2026년 자본지출이 4,500억 달러를 넘어선 데 대해 수익성 의문이 커진 것이다. 메모리 반도체 비중이 큰 한국 증시와 SK하이닉스·삼성전자 투자자에게 'AI 사이클 고점' 논쟁을 안긴 사건이다.",
+  "topics": [
+   "markets"
+  ],
+  "orgs": [
+   "나스닥",
+   "마이크론"
+  ]
+ },
+ {
+  "date": "2026-06-17",
+  "headline": "Fed interest rate decision June 2026: Fed holds rates steady",
+  "headline_ko": "워시 의장 첫 FOMC, 만장일치 동결…점도표는 '연내 인상'으로 선회",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/06/17/fed-interest-rate-decision-june-2026.html",
+  "video": "https://www.youtube.com/watch?v=egwID5JLm1g",
+  "summary_ko": "케빈 워시 신임 의장이 주재한 첫 FOMC에서 연준은 금리를 3.50~3.75%로 만장일치 동결했지만 성명서를 대폭 줄이고 인하 편향 문구를 삭제했다. 2026년 말 금리 중간값 전망은 3.4%에서 3.8%로 올라 연내 인상을 시사했고, 워시 의장은 소통·대차대조표 등 5개 태스크포스로 연준 개혁을 예고했다. 미국 금리가 다시 오를 수 있다는 신호는 한국 금리·환율·주식 모두에 부담 요인이다.",
+  "topics": [
+   "fed"
+  ],
+  "orgs": [
+   "미 연준"
+  ],
+  "video_channel": "The Union Herald"
+ },
+ {
+  "date": "2026-06-16",
+  "headline": "Bank of Japan hikes rates to 1%, highest since 1995, as yen and inflation worries take hold",
+  "headline_ko": "일본은행 금리 1%로 인상, 1995년 이후 최고…엔저·물가 압박에 긴축 가속",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/06/16/boj-rate-hike-historic-inflation.html",
+  "video": "",
+  "summary_ko": "일본은행이 정책금리를 0.75%에서 1%로 올려 1995년 이후 가장 높은 수준으로 되돌렸다. 7대1 표결로, 엔화 약세와 전쟁에 따른 에너지 물가 상승이 배경이었으며 국채 매입 축소도 이어가기로 했다. 엔 캐리 트레이드 청산 우려와 엔화 반등 가능성은 한국 증시와 원·엔 환율, 일본 여행 비용에 직접 영향을 주는 변수다.",
+  "topics": [
+   "centralbank"
+  ],
+  "orgs": [
+   "일본은행"
+  ]
+ },
+ {
+  "date": "2026-06-16",
+  "headline": "Brent falls below $80 per barrel on report U.S. will allow Iran to sell oil immediately",
+  "headline_ko": "미·이란 종전 틀 합의…브렌트유 3월 이후 처음 80달러 아래로",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/06/16/us-iran-peace-agreement-oil-prices-tankers-strait-of-hormuz-transit.html",
+  "video": "",
+  "summary_ko": "미국과 이란이 전쟁 종결과 호르무즈 해협 재개방을 담은 양해각서에 합의하고 미국이 60일간 이란 원유 판매를 허용할 것이라는 보도에 브렌트유가 5% 급락해 78.96달러로 마감했다. 3월 이후 처음 80달러를 밑돈 것으로 닛케이와 코스피는 사상 최고치를 경신했다. 다만 합의문이 공개되지 않고 트럼프 대통령이 '다시 폭격할 수 있다'고 경고하는 등 변동성은 남았다.",
+  "topics": [
+   "energy",
+   "markets"
+  ],
+  "orgs": [
+   "미국",
+   "이란"
+  ]
+ },
+ {
+  "date": "2026-06-11",
+  "headline": "ECB hikes interest rates for first time since 2023 as Iran war ramps up energy costs",
+  "headline_ko": "ECB 2023년 이후 첫 금리 인상, 예금금리 2.25%…전쟁 물가에 주요국 중 가장 먼저 움직였다",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/06/11/ecb-hikes-interest-rates.html",
+  "video": "https://www.youtube.com/watch?v=yc_zOgQOfVw",
+  "summary_ko": "유럽중앙은행이 예금금리를 2%에서 2.25%로 올려 2023년 이후 첫 인상에 나섰다. 라가르드 총재는 전쟁발 인플레이션이 에너지를 넘어 확산되고 있다며 물가 전망은 올리고 성장 전망은 낮췄고, 특정 금리 경로를 미리 약속하지 않겠다고 밝혔다. 이란 전쟁에 대응해 금리를 올린 첫 주요 중앙은행으로, 글로벌 통화정책이 '인하'에서 '인상'으로 방향을 바꾸는 신호였다.",
+  "topics": [
+   "centralbank"
+  ],
+  "orgs": [
+   "ECB"
+  ],
+  "video_channel": "European Central Bank"
+ },
+ {
+  "date": "2026-06-11",
+  "headline": "World Bank lowers 2026 global growth forecast to 2.5%",
+  "headline_ko": "세계은행, 2026년 세계 성장률 2.5%로 하향…\"침체 아닌 시기 중 20년 만에 최저\"",
+  "outlet": "Reuters (Investing.com)",
+  "url": "https://www.investing.com/news/economy-news/world-bank-lowers-2026-global-growth-forecast-to-25-4737603",
+  "video": "",
+  "summary_ko": "세계은행이 6월 세계경제전망에서 2026년 성장률을 2.5%로 낮춰 코로나 팬데믹 이후 가장 낮은 수치를 제시했다. 중동 전쟁으로 전체 국가의 3분의 2에 대한 전망을 내렸고, 에너지 차질이 심해져 유가가 평균 115달러에 이르면 2.1%, 금융 불안이 번지면 1.3%까지 떨어질 수 있다고 경고했다. 신흥국 1인당 소득 증가율은 팬데믹 이후 최저로, 한국 수출 시장의 수요 둔화를 예고한다.",
+  "topics": [
+   "macro"
+  ],
+  "orgs": [
+   "세계은행"
+  ]
+ },
+ {
+  "date": "2026-06-03",
+  "headline": "Japan's Nikkei tops 68,000 for first time on AI-driven chip stock surge",
+  "headline_ko": "닛케이 68,000 첫 돌파…도쿄일렉트론 13% 폭등, AI 반도체가 끌어올린 신고가",
+  "outlet": "Business Standard (Reuters)",
+  "url": "https://www.business-standard.com/markets/news/japan-s-nikkei-tops-68-000-for-first-time-on-ai-driven-chip-stock-surge-126060300335_1.html",
+  "video": "",
+  "summary_ko": "닛케이225가 2.5% 올라 68,402로 마감하며 사상 처음 68,000선을 넘었고 토픽스도 장중 4,000을 돌파했다. 도쿄일렉트론이 13.4%, 어드반테스트가 5% 급등하는 등 AI 반도체 장비주가 상승을 주도했다. 같은 AI 반도체 사이클을 타는 한국 코스피도 삼성전자·SK하이닉스를 중심으로 동반 신고가를 이어가던 시기다.",
+  "topics": [
+   "markets"
+  ],
+  "orgs": [
+   "일본",
+   "도쿄증권거래소"
+  ]
+ },
+ {
+  "date": "2026-05-28",
+  "headline": "Oil prices turn lower as U.S.-Iran ceasefire extension awaits Trump approval",
+  "headline_ko": "이란 \"미국과 양해각서 초안 합의\"…휴전 연장 기대에 유가 하락 전환",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/05/28/oil-prices-us-strikes-in-iran-revive-strait-of-hormuz-turmoil-fears.html",
+  "video": "",
+  "summary_ko": "이란 국영TV가 미국과 양해각서(MOU) 초안에 합의했다고 전하고 휴전 연장이 트럼프 대통령의 승인을 기다리면서 유가가 상승분을 반납하고 하락 전환했다. 4월 휴전 이후 호르무즈 해협 문제로 교착됐던 협상이 처음으로 구체적 문서 단계에 들어선 것이다. 유가 방향이 곧 한국 물가와 금리 전망으로 이어지는 만큼 국내 시장도 협상 뉴스에 민감하게 반응했다.",
+  "topics": [
+   "energy"
+  ],
+  "orgs": [
+   "미국",
+   "이란"
+  ]
+ },
+ {
+  "date": "2026-05-15",
+  "headline": "Trump-Xi summit: The 3 big takeaways from historic meeting in Beijing",
+  "headline_ko": "베이징 트럼프·시진핑 정상회담, 성과는 제한적…관세 휴전 연장 명시 없이 보잉·농산물 구매",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/05/15/trump-xi-summit-the-3-big-takeaways-from-historic-meeting-in-beijing.html",
+  "video": "",
+  "summary_ko": "이란 전쟁으로 한 달 넘게 미뤄졌던 트럼프 대통령의 베이징 방문에서 중국은 미국 농산물·보잉 항공기 구매와 쇠고기·가금류 시장 재개방을 약속하고 양국은 무역위원회·투자위원회 신설에 합의했다. 그러나 2025년 10월 부산 합의 관세 휴전의 연장은 명시되지 않았고 희토류 수출 통제도 미해결로 남았다. 한국은 미·중 사이 공급망 재편과 관세 변화에 가장 민감한 나라 중 하나다.",
+  "topics": [
+   "trade",
+   "china"
+  ],
+  "orgs": [
+   "미국",
+   "중국"
+  ]
+ },
+ {
+  "date": "2026-05-14",
+  "headline": "S&P 500 Soars To New Record High—Closes Above 7,500 For First Time",
+  "headline_ko": "S&P500 사상 처음 7,500 돌파 마감…다우도 50,000 재탈환",
+  "outlet": "Forbes",
+  "url": "https://www.forbes.com/sites/zacharyfolk/2026/05/14/sp-500-soars-to-new-record-high-closes-above-7500-for-first-time/",
+  "video": "",
+  "summary_ko": "S&P500이 7,501.24로 마감해 사상 처음 7,500선을 넘었고 다우지수도 50,000선을 다시 회복했다. 전쟁과 유가 충격으로 3월 한때 연초 대비 7% 넘게 빠졌던 미국 증시가 휴전 기대와 AI 실적에 힘입어 두 달여 만에 신고가로 돌아온 것이다. 미국 주식·ETF 비중이 큰 국내 '서학개미'에게는 강달러까지 더해져 큰 평가이익이 났던 시점이다.",
+  "topics": [
+   "markets"
+  ],
+  "orgs": [
+   "뉴욕증시"
+  ]
+ },
+ {
+  "date": "2026-05-13",
+  "headline": "Kevin Warsh wins Senate confirmation as the next Federal Reserve chair",
+  "headline_ko": "미 상원, 워시 연준 의장 인준 54대45…역대 가장 당파적 표결",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/05/13/kevin-warsh-wins-senate-confirmation-as-the-next-federal-reserve-chair.html",
+  "video": "",
+  "summary_ko": "미 상원이 케빈 워시를 제17대 연준 의장으로 54대45로 인준했다. 민주당에서는 페터먼 의원만 찬성해 연준 의장 인준 사상 가장 당파적인 표결로 기록됐으며, 파월 의장에 대한 법무부 수사가 철회된 뒤에야 길이 열렸다. 연준 독립성 논란 속에 취임하는 새 의장의 금리 결정은 한국 금리와 환율의 가장 큰 외부 변수다.",
+  "topics": [
+   "fed"
+  ],
+  "orgs": [
+   "미 연준",
+   "미 상원"
+  ]
+ },
+ {
+  "date": "2026-04-30",
+  "headline": "Brent oil pulls back after climbing to $126 per barrel on U.S.-Iran escalation fears",
+  "headline_ko": "브렌트유 장중 126달러, 4년 만의 최고…미 대이란 공격 계획 보도에 요동",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/04/30/oil-prices-today-brent-wti-us-iran-war-trump.html",
+  "video": "",
+  "summary_ko": "미 중부사령부가 트럼프 대통령에게 이란 군사 행동 계획을 보고한다는 보도에 브렌트유가 장중 126달러까지 치솟아 전쟁 이후 최고가를 찍은 뒤 114달러로 밀렸다. 트럼프 대통령이 핵 합의 전까지 해상 봉쇄를 유지하겠다고 밝힌 것도 불안을 키웠다. 연초 대비 거의 두 배가 된 유가는 한국의 물가, 무역수지, 정유·항공 업종 전망을 뒤흔든 핵심 변수였다.",
+  "topics": [
+   "energy"
+  ],
+  "orgs": [
+   "이란",
+   "미국"
+  ]
+ },
+ {
+  "date": "2026-04-29",
+  "headline": "Fed interest rate decision April 2026: Fed holds rates steady amid dissent",
+  "headline_ko": "파월 마지막 FOMC, 금리 동결에 4명 반대…1992년 이후 최다 이견",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/04/29/fed-interest-rate-decision-april-2026.html",
+  "video": "https://www.youtube.com/watch?v=UR2yFg--1jY",
+  "summary_ko": "연준이 세 번째 연속 금리를 3.50~3.75%로 동결했지만 표결이 8대4로 갈렸다. 미란 이사는 인하를, 해맥·로건·카시카리 총재는 성명서의 완화 편향 문구 삭제를 요구해 1992년 이후 가장 많은 반대가 나왔다. 파월 의장 체제 마지막 회의로, 유가발 물가 상승과 고용 둔화 사이에서 연준 내부 균열이 드러난 장면이다.",
+  "topics": [
+   "fed"
+  ],
+  "orgs": [
+   "미 연준"
+  ],
+  "video_channel": "Federal Reserve"
+ },
+ {
+  "date": "2026-04-26",
+  "headline": "Oil prices increase after Iran doubles down on Strait of Hormuz closure, accuses US of undermining trust",
+  "headline_ko": "이란 \"호르무즈 해협 예전으로 돌아가지 않는다\"…유가 다시 상승",
+  "outlet": "CNN",
+  "url": "https://www.cnn.com/2026/04/26/business/oil-prices-stock-futures-iran-war",
+  "video": "",
+  "summary_ko": "휴전 중에도 이란이 호르무즈 해협 봉쇄를 고수하고 미국이 신뢰를 훼손했다고 비난하면서 브렌트유가 다시 107달러 선으로 올랐다. 미국은 4월 13일부터 이란 항구를 해상 봉쇄해 맞섰고 해협 통항은 평시의 극히 일부 수준에 머물렀다. 세계 원유 교역의 20%가 지나는 길목이 막혀 있는 한 유가·물가·해운비 불안은 계속될 수밖에 없었다.",
+  "topics": [
+   "energy",
+   "crisis"
+  ],
+  "orgs": [
+   "이란",
+   "미국"
+  ]
+ },
+ {
+  "date": "2026-04-23",
+  "headline": "Nikkei 225 hits record and breaks 60,000 for the first time",
+  "headline_ko": "닛케이225 사상 처음 60,000 돌파…휴전 기대·엔저·AI 수요에 질주",
+  "outlet": "The Japan Times",
+  "url": "https://www.japantimes.co.jp/business/2026/04/23/markets/nikkei-record/",
+  "video": "",
+  "summary_ko": "닛케이225가 4월 23일 장중 처음 60,000선을 넘어 사상 최고치를 썼다. 2월 57,000 돌파 이후 두 달여 만으로, 엔화 약세와 AI 반도체 수요, 중동 휴전 기대가 맞물렸다. 일본 주식·ETF에 투자하는 국내 개인이 늘어난 상황에서 엔화 환율과 주가가 반대로 움직이는 '환헤지 여부'가 수익률을 좌우했다.",
+  "topics": [
+   "markets"
+  ],
+  "orgs": [
+   "일본",
+   "도쿄증권거래소"
+  ]
+ },
+ {
+  "date": "2026-04-16",
+  "headline": "China economic growth accelerates to 5% in first quarter — but Iran war clouds outlook",
+  "headline_ko": "중국 1분기 성장률 5.0% '예상 상회'…수출이 끌었지만 전쟁·소비 부진이 변수",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/04/16/china-gdp-growth-first-quarter-exports-property-retail-sales-iran-war.html",
+  "video": "",
+  "summary_ko": "중국 1분기 GDP가 전년 대비 5.0% 성장해 2025년 4분기(4.5%)보다 빨라지고 시장 예상도 넘었다. 산업생산 6.1% 증가와 사상 최대 수출이 견인했지만 소매판매는 2.4% 증가에 그쳐 내수 부진은 여전했다. 중동 전쟁으로 에너지 비용이 올라간 데다 미국 관세 변수도 남아 한국의 대중 수출 회복을 낙관하기는 이르다는 평가다.",
+  "topics": [
+   "china",
+   "macro"
+  ],
+  "orgs": [
+   "중국",
+   "중국 국가통계국"
+  ]
+ },
+ {
+  "date": "2026-04-14",
+  "headline": "World Economic Outlook, April 2026: Global Economy in the Shadow of War",
+  "headline_ko": "IMF 세계경제전망 '전쟁의 그늘'…2026년 성장률 3.1%로 하향, 물가 4.4%",
+  "outlet": "IMF",
+  "url": "https://www.imf.org/en/publications/weo/issues/2026/04/14/world-economic-outlook-april-2026",
+  "video": "https://www.youtube.com/watch?v=RpHAIgoDxUM",
+  "summary_ko": "IMF가 4월 세계경제전망에서 2026년 세계 성장률을 1월보다 0.2%포인트 낮은 3.1%로 내리고 세계 물가 상승률은 4.4%로 제시했다. 중동 전쟁이 제한적으로 끝난다는 가정이며, 에너지 충격이 길어지는 비관 시나리오에서는 성장 2.5%, 물가 5.4%를 경고했다. 교역 의존도가 높은 한국은 세계 성장 둔화와 유가 상승을 동시에 맞는 구조다.",
+  "topics": [
+   "macro"
+  ],
+  "orgs": [
+   "IMF"
+  ],
+  "video_channel": "IMF"
+ },
+ {
+  "date": "2026-04-10",
+  "headline": "CPI inflation report March 2026: Consumer prices rose 3.3%",
+  "headline_ko": "미 3월 소비자물가 3.3%로 급등…휘발유 한 달 21% 상승은 1967년 통계 이후 최대",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/04/10/cpi-inflation-report-march-2026.html",
+  "video": "",
+  "summary_ko": "미국 3월 CPI가 전월 2.4%에서 3.3%로 뛰었고 월간 상승률 0.9%는 2022년 6월 이후 최대였다. 휘발유 가격이 한 달에 21.2% 올라 1967년 통계 작성 이후 가장 큰 월간 상승폭을 기록하며 전체 상승분의 4분의 3을 차지했다. 근원 물가는 2.6%로 차분했지만, 에너지발 물가 충격이 연준의 금리 인하 여지를 사실상 없애버렸다.",
+  "topics": [
+   "macro",
+   "energy"
+  ],
+  "orgs": [
+   "미국 노동부"
+  ]
+ },
+ {
+  "date": "2026-04-08",
+  "headline": "U.S.-Iran ceasefire relief rally lifts global assets as oil plunges below $100",
+  "headline_ko": "미·이란 2주 휴전에 유가 16% 폭락·100달러 아래로…다우 1,300p 급등, 코스피 5%↑",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/04/08/us-iran-ceasefire-gold-oil-stocks-treasuries.html",
+  "video": "",
+  "summary_ko": "트럼프 대통령이 호르무즈 해협 재개방을 조건으로 2주 휴전을 발표하자 WTI가 16% 넘게 떨어져 100달러 아래로 내려왔고 다우지수는 1,325포인트 올라 1년 만의 최고 상승률을 기록했다. 코스피는 5% 이상, 닛케이는 4% 급등했다. 다만 이란 측이 미국의 휴전 위반을 주장하는 등 불안이 남아 안도 랠리는 취약하다는 평가가 뒤따랐다.",
+  "topics": [
+   "markets",
+   "energy"
+  ],
+  "orgs": [
+   "미국",
+   "이란"
+  ]
+ },
+ {
+  "date": "2026-03-30",
+  "headline": "Brent oil heads for record monthly surge, WTI settles above $100 for first time since 2022",
+  "headline_ko": "브렌트유 3월 한 달 55% 급등 '역대 최대'…WTI도 2022년 이후 처음 100달러 마감",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/03/30/oil-price-today-wti-brent-yemen-houthis-israel-iran-war.html",
+  "video": "",
+  "summary_ko": "브렌트유가 3월 한 달간 약 55% 올라 1988년 선물 상장 이후 최대 월간 상승률을 기록했고 WTI도 2022년 이후 처음 100달러 위에서 마감했다. 호르무즈 봉쇄에 예멘 후티의 공격까지 겹치며 공급 불안이 극대화됐다. 한국 소비자물가와 무역수지, 항공·화학 업종 실적에 2분기 내내 부담으로 작용한 출발점이었다.",
+  "topics": [
+   "energy"
+  ],
+  "orgs": [
+   "이란",
+   "OPEC"
+  ]
+ },
+ {
+  "date": "2026-03-27",
+  "headline": "Japan's Katayama Flags Possible Intervention as Yen Nears 160",
+  "headline_ko": "엔화 달러당 160엔 근접…일본 재무상 \"과감한 조치\" 개입 경고",
+  "outlet": "Bloomberg",
+  "url": "https://www.bloomberg.com/news/articles/2026-03-27/japan-s-katayama-flags-possible-intervention-as-yen-nears-160",
+  "video": "",
+  "summary_ko": "전쟁에 따른 달러 강세와 유가 급등으로 엔화가 달러당 160엔에 다가서자 가타야마 재무상이 '과감한 조치'를 언급하며 외환시장 개입을 예고했다. 엔화는 4월 초 160엔을 넘었고 이후 일본은 역대 최대 규모의 실개입에 나섰다. 엔저 심화는 한국 수출 경쟁력과 원화 가치, 일본 여행·엔화 예금 투자자에게 모두 영향을 미치는 변수다.",
+  "topics": [
+   "crisis",
+   "centralbank"
+  ],
+  "orgs": [
+   "일본 재무성",
+   "일본"
+  ]
+ },
+ {
+  "date": "2026-03-19",
+  "headline": "European Central Bank holds rates steady, warns outlook is 'significantly more uncertain'",
+  "headline_ko": "ECB 금리 2% 동결…\"전쟁으로 전망 훨씬 더 불확실\" 인상 가능성 열어둬",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/03/19/ecb-boe-swiss-national-bank-riksbank-interest-rate-decisions.html",
+  "video": "",
+  "summary_ko": "유럽중앙은행이 예금금리를 2%로 유지하면서 이란 전쟁으로 전망이 '훨씬 더 불확실'해졌다고 경고하고 2026년 물가 전망을 2.6%로 올렸다. 라가르드 총재는 에너지 충격이 일시적이어도 필요하면 인상할 수 있다고 밝혀 시장은 연내 인상 베팅을 늘렸다. 유로존 경기 둔화와 유로 약세는 한국 대유럽 수출과 유럽 펀드 수익률에 영향을 준다.",
+  "topics": [
+   "centralbank"
+  ],
+  "orgs": [
+   "ECB"
+  ]
+ },
+ {
+  "date": "2026-03-18",
+  "headline": "Fed interest rate decision March 2026: Holds rates steady",
+  "headline_ko": "연준 3월 FOMC도 금리 동결…이란 전쟁 유가 충격에 물가 전망 2.7%로 상향",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/03/18/fed-interest-rate-decision-march-2026.html",
+  "video": "https://www.youtube.com/watch?v=GHkkYKb4rco",
+  "summary_ko": "연준이 기준금리를 3.50~3.75%로 두 번째 연속 동결하고 중동 상황이 미국 경제에 미칠 영향이 불확실하다고 명시했다. 2026년 PCE 물가 전망은 2.4%에서 2.7%로 올렸고 점도표상 연내 인하는 한 차례만 남겼다. 미란 이사 홀로 인하를 주장했으며, 일부 위원은 물가가 계속 높으면 인상도 가능하다는 양방향 문구를 선호했다.",
+  "topics": [
+   "fed"
+  ],
+  "orgs": [
+   "미 연준"
+  ],
+  "video_channel": "Federal Reserve"
+ },
+ {
+  "date": "2026-03-12",
+  "headline": "China's key NPC meeting comes to a close as lower growth target set",
+  "headline_ko": "중국 전인대 폐막, 올해 성장 목표 4.5~5%로 하향…30년 만의 최저",
+  "outlet": "Al Jazeera",
+  "url": "https://www.aljazeera.com/news/2026/3/12/chinas-key-npc-meeting-comes-to-a-close-as-lower-growth-target-set",
+  "video": "",
+  "summary_ko": "중국이 전국인민대표대회에서 2026년 성장 목표를 3년 연속 '5% 안팎'에서 '4.5~5%' 범위로 낮췄다. 15차 5개년 계획 첫해에 양보다 질을 강조한 것이지만, 부동산 침체와 중동 전쟁의 에너지 충격을 의식한 현실적 하향이라는 평가다. 최대 교역국의 성장 눈높이가 낮아지면 한국 대중 수출과 중간재 산업에 영향이 불가피하다.",
+  "topics": [
+   "china",
+   "macro"
+  ],
+  "orgs": [
+   "중국",
+   "전인대"
+  ]
+ },
+ {
+  "date": "2026-03-11",
+  "headline": "IEA agrees to release record 400 million barrels of oil to address Iran war supply disruption",
+  "headline_ko": "IEA 32개국, 사상 최대 4억 배럴 비축유 방출 합의…한국도 2,246만 배럴 참여",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/03/11/iea-oil-reserves-crude-prices-iran-g7-energy.html",
+  "video": "",
+  "summary_ko": "국제에너지기구(IEA) 회원국이 중동 전쟁에 따른 공급 차질에 대응해 역대 최대인 4억 배럴 비축유를 방출하기로 만장일치 합의했다. 1991년, 2011년, 2022년 등에 이은 여섯 번째 공동 방출로, 한국도 약 2,246만 배럴을 배정받아 참여했다. 다만 비롤 사무총장은 호르무즈 해협 재개방 없이는 안정이 어렵다고 못 박았다.",
+  "topics": [
+   "energy"
+  ],
+  "orgs": [
+   "IEA",
+   "한국"
+  ]
+ },
+ {
+  "date": "2026-03-09",
+  "headline": "Oil prices surge 20% as expanding U.S.-Israeli war with Iran cuts supplies from Mideast",
+  "headline_ko": "국제유가 하루 20% 폭등, 브렌트 100달러 돌파…중동 공급 끊기며 4년 만의 오일쇼크",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/amp/2026/03/09/oil-prices-surge-20percent-as-expanding-us-israeli-war-with-iran-cuts-supplies-from-mideast.html",
+  "video": "",
+  "summary_ko": "호르무즈 해협 통항이 사실상 막히고 이라크·쿠웨이트가 감산에 들어가자 3월 9일 유가가 하루 약 20% 치솟아 브렌트유가 2022년 7월 이후 처음 100달러를 넘었다. 한국 증시는 급락하고 원·달러 환율은 급등했다. 원유 전량을 수입하는 한국에는 휘발유값·물가·무역수지에 직격탄이 되는 전형적인 공급 충격이다.",
+  "topics": [
+   "energy",
+   "crisis"
+  ],
+  "orgs": [
+   "이란",
+   "OPEC"
+  ]
+ },
+ {
+  "date": "2026-03-06",
+  "headline": "U.S. payrolls unexpectedly fell by 92,000 in February; unemployment rate rises to 4.4%",
+  "headline_ko": "미국 2월 고용 9만2천 명 감소 '충격'…실업률 4.4%로 상승",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/03/06/february-2026-jobs-report.html",
+  "video": "",
+  "summary_ko": "미국 2월 비농업 고용이 5만 명 증가 예상을 깨고 9만2천 명 감소했고 실업률은 4.4%로 올랐다. 의료업 파업과 혹한 영향도 있었지만 5개월 중 세 번째 감소여서 노동시장 둔화 우려가 커졌다. 전쟁으로 물가가 뛰는 가운데 고용까지 꺾이며 연준이 금리를 올리기도 내리기도 어려운 '스태그플레이션' 딜레마가 부각됐다.",
+  "topics": [
+   "macro"
+  ],
+  "orgs": [
+   "미국 노동부"
+  ]
+ },
+ {
+  "date": "2026-03-02",
+  "headline": "Global markets after Iran strikes: Oil surges, airlines sink, bonds defy safe-haven playbook",
+  "headline_ko": "미·이스라엘 이란 공습 후 첫 거래일…유가 급등, 항공주 급락, 채권은 안전자산 공식 깨져",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/03/02/global-markets-after-iran-strikes-oil-surges-airlines-sink-bonds-defy-safe-haven-playbook.html",
+  "video": "",
+  "summary_ko": "2월 28일 미국과 이스라엘의 이란 공습 이후 첫 거래일, 유가가 급등하고 항공·여행주가 급락했으며 유럽 증시와 닛케이도 하락했다. 미국 증시는 장중 낙폭을 대부분 회복했지만 국채는 인플레이션 우려로 안전자산 역할을 하지 못했다. 원유 수입 의존도가 높은 한국 경제와 코스피에 '전쟁 리스크'가 본격적으로 반영되기 시작한 날이다.",
+  "topics": [
+   "markets",
+   "energy"
+  ],
+  "orgs": [
+   "미국",
+   "이란"
+  ]
+ },
+ {
+  "date": "2026-02-20",
+  "headline": "Supreme Court strikes down Trump tariffs, rebuking president's signature economic policy",
+  "headline_ko": "미 대법원, 트럼프 IEEPA 관세 6대3 위법 판결…'상호관세' 무효",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/02/20/supreme-court-trump-tariffs-ruling.html",
+  "video": "",
+  "summary_ko": "미 연방대법원이 국제비상경제권한법(IEEPA)은 대통령에게 관세 부과 권한을 주지 않는다고 6대3으로 판결해 2025년 '해방의 날' 상호관세 등을 모두 무효화했다. 2,000억 달러가 넘는 기존 관세 환급 문제는 하급심으로 넘어갔다. 한국 등 수출국에는 관세 불확실성이 해소되는 듯했지만, 곧바로 대체 관세가 나와 안도는 오래가지 않았다.",
+  "topics": [
+   "trade"
+  ],
+  "orgs": [
+   "미 대법원",
+   "미국"
+  ]
+ },
+ {
+  "date": "2026-02-20",
+  "headline": "Trump announces new 10% global tariff after raging over Supreme Court loss",
+  "headline_ko": "트럼프, 대법원 패소 몇 시간 만에 무역법 122조로 10% 전세계 관세 부과",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/02/20/trump-global-trade-tariff-supreme-court.html",
+  "video": "",
+  "summary_ko": "대법원 판결 당일 트럼프 대통령은 1974년 무역법 122조를 근거로 150일간 모든 국가에 10% 관세를 부과하는 포고문에 서명했고, 이튿날 15%로 올리겠다고 예고했다. 농산물·핵심광물·의약품·일부 전자제품·승용차는 예외로 뺐다. 법적 근거만 바뀐 채 관세 부담이 이어져 한국 수출기업과 환율에 미치는 압박은 그대로 남았다.",
+  "topics": [
+   "trade"
+  ],
+  "orgs": [
+   "미국"
+  ]
+ },
+ {
+  "date": "2026-02-09",
+  "headline": "Nikkei 225 rises 3.89% and hits record after Takaichi's big win on Sunday",
+  "headline_ko": "닛케이 3.89% 급등 사상 최고…다카이치 압승에 '일본 재정 확대' 기대",
+  "outlet": "The Japan Times",
+  "url": "https://www.japantimes.co.jp/business/2026/02/09/markets/nikkei-takaichi-record/",
+  "video": "",
+  "summary_ko": "다카이치 총리의 자민당이 총선에서 316석 압승을 거둔 다음 날 닛케이225가 3.89% 급등해 장중 57,337로 사상 최고치를 썼다. 정치 불확실성 해소와 대규모 재정 확대 기대가 '다카이치 트레이드'(엔화 약세·주가 상승·장기금리 상승)를 재점화했다. 엔저는 일본과 경쟁하는 한국 수출기업의 가격 경쟁력에 부담이 된다.",
+  "topics": [
+   "markets"
+  ],
+  "orgs": [
+   "일본",
+   "도쿄증권거래소"
+  ]
+ },
+ {
+  "date": "2026-02-05",
+  "headline": "Bitcoin's sell-off pushes price below $70,000. What to know",
+  "headline_ko": "비트코인 7만 달러 붕괴…고점 대비 반토막 난 가상자산 시장",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/02/05/bitcoin-prices-crypto-crash-selloff-investors.html",
+  "video": "",
+  "summary_ko": "비트코인이 2월 5일 15개월 만에 7만 달러 아래로 떨어졌고 장중 6만 달러 선까지 밀리며 2025년 10월 고점(약 12만 6천 달러) 대비 절반 수준이 됐다. 성장주 조정, 연준의 매파적 기조, ETF 자금 유출이 겹친 결과였다. 가상자산 비중이 높은 국내 개인 투자자에게 레버리지 청산 위험을 다시 상기시킨 사건이다.",
+  "topics": [
+   "crypto",
+   "markets"
+  ],
+  "orgs": [
+   "가상자산 시장"
+  ]
+ },
+ {
+  "date": "2026-01-30",
+  "headline": "Trump nominates Kevin Warsh for Federal Reserve chair to succeed Jerome Powell",
+  "headline_ko": "트럼프, 차기 연준 의장에 케빈 워시 지명…파월 후임",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/01/30/trump-nominates-kevin-warsh-for-federal-reserve-chair-to-succeed-jerome-powell.html",
+  "video": "",
+  "summary_ko": "트럼프 대통령이 전 연준 이사 케빈 워시를 5월 임기가 끝나는 파월 의장의 후임으로 지명했다. 발표 직후 주가는 소폭 하락하고 달러와 국채금리는 올랐으며, 매파 성향 우려로 금·은 가격이 급락했다. 연준 독립성과 향후 금리 경로가 바뀔 수 있어 글로벌 자산시장의 핵심 변수가 됐다.",
+  "topics": [
+   "fed",
+   "markets"
+  ],
+  "orgs": [
+   "미 연준",
+   "미국"
+  ]
+ },
+ {
+  "date": "2026-01-28",
+  "headline": "Fed rate decision January 2026: Holds key rate steady",
+  "headline_ko": "미 연준 1월 FOMC 금리 3.50~3.75% 동결…3연속 인하 행진 멈췄다",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/01/28/fed-rate-decision-january-2026.html",
+  "video": "https://www.youtube.com/watch?v=q5Q7h0HB5JQ",
+  "summary_ko": "연준이 2026년 첫 FOMC에서 기준금리를 3.50~3.75%로 동결하며 2025년 말 세 차례 연속 인하를 마무리했다. 미란·월러 이사는 추가 인하를 주장해 반대표를 던졌고, 파월 의장은 물가가 여전히 다소 높다고 평가했다. 한미 금리 격차와 원·달러 환율, 국내 대출금리 방향을 가늠하는 기준이 되는 결정이었다.",
+  "topics": [
+   "fed"
+  ],
+  "orgs": [
+   "미 연준"
+  ],
+  "video_channel": "Federal Reserve"
+ },
+ {
+  "date": "2026-01-25",
+  "headline": "Gold (XAU) Tops $5,000 as Global Upheaval Fuels Precious Metals Rally",
+  "headline_ko": "금값 사상 처음 온스당 5,000달러 돌파…불안한 세계가 귀금속 랠리 불렀다",
+  "outlet": "Bloomberg",
+  "url": "https://www.bloomberg.com/news/articles/2026-01-25/gold-tops-5-000-as-global-upheaval-fuels-precious-metals-rally",
+  "video": "",
+  "summary_ko": "금 현물 가격이 1월 25일 사상 처음 온스당 5,000달러를 넘었다. 2025년 65% 급등에 이어 연초 한 달도 안 돼 15%가 더 오른 것으로, 미국과 동맹국 간 갈등, 달러 신뢰 약화, 중앙은행 매수가 배경으로 꼽혔다. 국내 금 ETF·KRX 금시장에 투자하는 개인에게는 환율까지 겹쳐 수익률 변동성이 커진 시기였다.",
+  "topics": [
+   "crypto",
+   "markets"
+  ],
+  "orgs": [
+   "금 시장"
+  ]
+ },
+ {
+  "date": "2026-01-21",
+  "headline": "Trump says 'I won't use force' to obtain Greenland, in Davos speech",
+  "headline_ko": "트럼프 다보스 연설 \"그린란드 무력으로 안 뺏는다\"…관세·유럽 압박 이어가",
+  "outlet": "NPR",
+  "url": "https://www.npr.org/2026/01/21/nx-s1-5683078/trump-davos-speech-tariffs-greenland",
+  "video": "https://www.youtube.com/watch?v=MSEycl66RFk",
+  "summary_ko": "트럼프 대통령이 세계경제포럼(다보스) 연설에서 그린란드를 무력으로 차지하지는 않겠다고 말하면서도 유럽 동맹을 거듭 비판하고 관세·미국 우선 경제정책을 강조했다. 연초 글로벌 투자 심리와 달러·금 가격에 지정학 리스크가 그대로 반영된 장면이었다. 미국과 유럽의 갈등은 한국 같은 수출국에도 통상 환경 불확실성으로 돌아온다.",
+  "topics": [
+   "trade",
+   "macro"
+  ],
+  "orgs": [
+   "미국",
+   "WEF"
+  ],
+  "video_channel": "The Wall Street Journal"
+ },
+ {
+  "date": "2026-01-09",
+  "headline": "China Vanke Preps Restructuring Plan in Move Toward Default",
+  "headline_ko": "중국 완커, 당국 요청으로 채무 구조조정안 준비…디폴트 수순",
+  "outlet": "Bloomberg",
+  "url": "https://www.bloomberg.com/news/articles/2026-01-09/china-vanke-preps-debt-restructuring-plan-in-move-toward-default",
+  "video": "",
+  "summary_ko": "중국 최대 부동산 개발사 중 하나인 완커가 당국 요청에 따라 채무 구조조정안을 마련하면서 공식 디폴트에 한 걸음 더 다가섰다. 국유 배경 기업까지 흔들리면서 중국 부동산 위기가 끝나지 않았다는 신호로 받아들여졌다. 중국 경기 둔화는 한국 수출과 중국 관련 펀드·ETF 수익률에 직접 영향을 준다.",
+  "topics": [
+   "china",
+   "crisis"
+  ],
+  "orgs": [
+   "중국",
+   "완커"
+  ]
+ }
+]
