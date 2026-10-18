@@ -236,7 +236,8 @@ def _nav_links(cfg: dict, current: str) -> str:
 
 
 def _page(cfg: dict, title: str, body: str, *, description: str = "", canonical: str = "",
-          extra_head: str = "", nav: str = "", path: str = "", langs: list[str] | None = None) -> str:
+          extra_head: str = "", nav: str = "", path: str = "", langs: list[str] | None = None,
+          body_class: str = "") -> str:
     """path: the page's path relative to each language's home. langs: the languages this page
     exists in (default: all). They get hreflang links; the language switcher sends the other
     languages to their home page."""
@@ -273,7 +274,7 @@ def _page(cfg: dict, title: str, body: str, *, description: str = "", canonical:
 {_adsense_head(cfg)}
 {extra_head}
 </head>
-<body>
+<body{f' class="{body_class}"' if body_class else ''}>
 <header class="site-header"><div class="wrap">
 <a class="brand" href="{cfg['site_url']}/"><span class="mark">{site_title[:1]}</span>{site_title}</a>
 <nav class="nav">{_nav_links(cfg, nav)}{switcher}</nav>
@@ -529,7 +530,7 @@ def build_site(cfg: dict) -> int:
     for path, title, description, body in memory_pages(cfg):
         _write(PUBLIC_DIR / path / "index.html",
                _page(cfg, title, body, nav="memory", description=description,
-                     canonical=f"{base}/{path}", path=path, langs=["ko"]))
+                     canonical=f"{base}/{path}", path=path, langs=["ko"], body_class="memory-page"))
         urls.append(f"{base}/{path}")
     sitemap = "".join(f"<url><loc>{escape(u)}</loc></url>" for u in urls)
     _write(PUBLIC_DIR / "sitemap.xml",

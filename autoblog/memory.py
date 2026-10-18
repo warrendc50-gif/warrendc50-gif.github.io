@@ -25,28 +25,35 @@ TOPIC_LABELS = {
 }
 
 MEMORY_CSS = """
-.news-tools{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:0 0 18px}
-.news-tools input{flex:1 1 180px;min-width:0;font:inherit;font-size:15px;padding:8px 12px;border:1px solid var(--line);border-radius:10px;background:var(--surface);color:var(--fg)}
-.chips{display:flex;flex-wrap:wrap;gap:6px}
-.chip{font:inherit;font-size:13px;font-weight:600;padding:5px 11px;border-radius:99px;border:1px solid var(--line);background:var(--surface);color:var(--muted);cursor:pointer}
+.memory-page .wrap{max-width:980px}
+.hero.compact{padding:14px 0 0}
+.hero.compact h1{font-size:24px;margin:8px 0 2px}
+.hero.compact p{font-size:14px}
+.memory-page .boards{margin:10px 0 12px}
+.memory-page .boards a{font-size:13px;padding:4px 10px}
+.memory-page .meta{font-size:13px;margin:0 0 6px}
+.news-tools{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin:0 0 8px}
+.news-tools input{flex:1 1 160px;min-width:0;font:inherit;font-size:14px;padding:5px 10px;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:var(--fg)}
+.chips{display:flex;flex-wrap:wrap;gap:4px}
+.chip{font:inherit;font-size:12px;font-weight:600;padding:3px 9px;border-radius:99px;border:1px solid var(--line);background:var(--surface);color:var(--muted);cursor:pointer;line-height:1.5}
 .chip.on{background:var(--accent);border-color:var(--accent);color:var(--bg)}
-.news-month{margin:32px 0 10px;font-size:17px;color:var(--muted);font-weight:700}
-.news-month:first-of-type{margin-top:8px}
-.news{background:var(--surface);border:1px solid var(--line);border-radius:12px;margin:0 0 8px}
+.news-month{margin:14px 0 4px;font-size:13px;color:var(--muted);font-weight:700;letter-spacing:0;position:sticky;top:60px;background:var(--bg);padding:4px 0;z-index:1}
+.news{background:var(--surface);border:1px solid var(--line);border-radius:7px;margin:0 0 3px}
 .news[open]{border-color:var(--accent)}
-.news summary{list-style:none;cursor:pointer;padding:12px 14px;display:grid;grid-template-columns:auto 1fr;gap:4px 10px;align-items:baseline}
+.news summary{list-style:none;cursor:pointer;padding:5px 10px;display:grid;grid-template-columns:3.2em 1fr auto;gap:0 10px;align-items:baseline}
 .news summary::-webkit-details-marker{display:none}
-.news summary .d{font-size:13px;color:var(--muted);white-space:nowrap;font-variant-numeric:tabular-nums}
-.news summary .h{font-size:16px;font-weight:600;line-height:1.5}
-.news summary .o{grid-column:2;font-size:13px;color:var(--muted)}
+.news summary .d{font-size:12px;color:var(--muted);white-space:nowrap;font-variant-numeric:tabular-nums}
+.news summary .h{font-size:14.5px;font-weight:600;line-height:1.45}
+.news summary .o{font-size:12px;color:var(--muted);white-space:nowrap}
 .news summary .o b{font-weight:600;color:var(--accent)}
-.news .body{padding:0 14px 14px;border-top:1px dashed var(--line);margin-top:2px}
-.news .body p{margin:12px 0 0;font-size:15px;line-height:1.75}
-.news .body .orig{color:var(--muted);font-size:14px;margin-top:10px}
-.news .body .tags{margin:12px 0 0}
-.news .body .go{display:inline-block;margin-top:12px;font-weight:700;text-decoration:none}
-.news-empty{color:var(--muted);padding:24px 0}
-@media (max-width:560px){.news summary{grid-template-columns:1fr}.news summary .o{grid-column:1}}
+.news .body{padding:0 10px 9px 10px;border-top:1px dashed var(--line)}
+.news .body p{margin:8px 0 0;font-size:14px;line-height:1.65}
+.news .body .orig{color:var(--muted);font-size:13px;margin-top:6px}
+.news .body .tags{margin:8px 0 0;gap:4px}
+.news .body .tags span{font-size:12px;padding:2px 8px}
+.news .body .go{display:inline-block;margin-top:8px;font-size:14px;font-weight:700;text-decoration:none}
+.news-empty{color:var(--muted);padding:16px 0}
+@media (max-width:560px){.news summary{grid-template-columns:3em 1fr;gap:0 8px}.news summary .o{grid-column:2;margin-top:-2px}}
 """
 
 MEMORY_JS = """
@@ -129,7 +136,7 @@ def news_list_html(items: list[dict]) -> str:
         f'<button class="chip" data-topic="{escape(t)}">{escape(TOPIC_LABELS.get(t, t))} {n}</button>'
         for t, n in sorted(topics.items(), key=lambda x: -x[1]))
     out = [f'<p class="meta">총 <span id="news-count">{len(items)}</span>건 · {items[0]["date"]} 기준 · '
-           f'헤드라인을 누르면 요약과 원문 링크가 열립니다.</p>',
+           f'제목을 누르면 요약·원문 링크</p>',
            f'<div class="news-tools"><input id="news-q" type="search" placeholder="검색: 회사, 키워드, 언론사">'
            f'<div class="chips">{chips}</div></div>']
     month = None
@@ -170,7 +177,7 @@ def board_body(cfg: dict, key: str) -> str:
         f'<a href="{cfg["site_url"]}/memory/{k}/">{o["emoji"]} {escape(o["name"])}</a>'
         for k, o in m["boards"].items() if k != key
     )
-    return (f'<section class="hero"><span class="kicker">{b["emoji"]} {escape(m["title"])}</span>'
+    return (f'<section class="hero compact"><span class="kicker">{b["emoji"]} {escape(m["title"])}</span>'
             f'<h1>{escape(b["name"])}</h1><p>{escape(b["desc"])}</p></section>'
             f'<nav class="boards">{others}</nav>'
             f'<section class="board-feed">{news_list_html(load_items(key))}</section>'
