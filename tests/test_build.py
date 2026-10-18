@@ -126,7 +126,8 @@ def test_memory_boards(tmp_path, monkeypatch):
     cfg["giscus"] = {"repo": "o/r", "repo_id": "R_1", "category": "Memory", "category_id": ""}
     builder.build_site(cfg)
     index = (public_dir / "memory/index.html").read_text(encoding="utf-8")
-    assert "AI 최신 뉴스" in index and "/memory/korea-economy/" in index and "2건" in index
+    assert "AI 최신 뉴스" in index and "/memory/korea-economy/" in index and "전체 2건 보기" in index
+    assert index.index("새 소식") < index.index("오래된 소식")  # preview shows newest first
     board = (public_dir / "memory/ai-news/index.html").read_text(encoding="utf-8")
     assert board.index("새 소식") < board.index("오래된 소식")  # newest first
     assert "2026년 3월" in board and "2026년 1월" in board

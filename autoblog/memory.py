@@ -53,6 +53,21 @@ MEMORY_CSS = """
 .news .body .tags span{font-size:12px;padding:2px 8px}
 .news .body .go{display:inline-block;margin-top:8px;font-size:14px;font-weight:700;text-decoration:none}
 .news-empty{color:var(--muted);padding:16px 0}
+.board-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(290px,1fr));gap:12px;margin-top:14px}
+.board-card{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:12px 14px 10px;display:flex;flex-direction:column;min-width:0}
+.board-card .head{display:flex;gap:10px;align-items:flex-start;text-decoration:none;color:var(--fg);padding-bottom:8px;border-bottom:1px solid var(--line)}
+.board-card .head .emoji{font-size:22px;line-height:1.2}
+.board-card .head b{display:block;font-size:16px;letter-spacing:-.02em}
+.board-card .head small{display:block;color:var(--muted);font-size:12.5px;line-height:1.45;margin-top:2px}
+.board-card .head .count{margin-left:auto;flex:none;font-size:12px;font-weight:700;color:var(--accent);background:var(--accent-soft);padding:2px 8px;border-radius:99px}
+.board-card .preview{list-style:none;margin:6px 0 0;padding:0;flex:1}
+.board-card .preview li{display:flex;gap:8px;align-items:baseline;padding:4px 0;border-bottom:1px dashed var(--line);min-width:0}
+.board-card .preview li:last-child{border-bottom:0}
+.board-card .preview .d{flex:none;font-size:12px;color:var(--muted);font-variant-numeric:tabular-nums}
+.board-card .preview a{font-size:13.5px;line-height:1.45;color:var(--fg);text-decoration:none;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.board-card .preview a:hover{color:var(--accent)}
+.board-card .more{display:block;margin-top:8px;font-size:13px;font-weight:700;text-decoration:none;text-align:right}
+.board-card .news-empty{padding:10px 0;font-size:13.5px;flex:1}
 @media (max-width:560px){.news summary{grid-template-columns:3em 1fr;gap:0 8px}.news summary .o{grid-column:2;margin-top:-2px}}
 """
 
@@ -151,23 +166,35 @@ def news_list_html(items: list[dict]) -> str:
     return "".join(out)
 
 
-def board_cards(cfg: dict) -> str:
+def board_cards(cfg: dict, preview: int = 6) -> str:
+    """One card per board: name, count, and the latest headlines (linking to the originals)."""
     m = cfg["memory"]
     base = cfg["site_url"]
     cards = []
     for key, b in m["boards"].items():
-        n = len(load_items(key))
-        meta = f'<div class="meta">{n}건</div>' if n else ""
-        cards.append(f'<a class="card board" href="{base}/memory/{key}/"><span class="badge memory">{b["emoji"]} Memory</span>'
-                     f'<h3>{escape(b["name"])}</h3><p>{escape(b["desc"])}</p>{meta}</a>')
-    return '<div class="cards">' + "".join(cards) + "</div>"
+        items = load_items(key)
+        href = f"{base}/memory/{key}/"
+        if items:
+            rows = "".join(
+                f'<li><span class="d">{i["date"][5:].replace("-", ".")}</span>'
+                f'<a href="{escape(i["url"])}" target="_blank" rel="noopener nofollow" title="{escape(i.get("headline_ko") or i["headline"])}">'
+                f'{escape(i.get("headline_ko") or i["headline"])}</a></li>'
+                for i in items[:preview])
+            body = f'<ul class="preview">{rows}</ul><a class="more" href="{href}">전체 {len(items)}건 보기 →</a>'
+        else:
+            body = f'<p class="news-empty">아직 모아 둔 기사가 없습니다.</p><a class="more" href="{href}">게시판 열기 →</a>'
+        cards.append(
+            f'<section class="board-card"><a class="head" href="{href}"><span class="emoji">{b["emoji"]}</span>'
+            f'<span><b>{escape(b["name"])}</b><small>{escape(b["desc"])}</small></span>'
+            f'{f"<span class=count>{len(items)}</span>" if items else ""}</a>{body}</section>')
+    return '<div class="board-grid">' + "".join(cards) + "</div>"
 
 
 def index_body(cfg: dict) -> str:
     m = cfg["memory"]
-    return (f'<section class="hero"><span class="kicker">🗂 {escape(m["title"])}</span>'
+    return (f'<section class="hero compact"><span class="kicker">🗂 {escape(m["title"])}</span>'
             f'<h1>{escape(m["title"])}</h1><p>{escape(m["desc"])}</p></section>'
-            f'<div class="section-head"><h2>분야</h2></div>{board_cards(cfg)}')
+            f'{board_cards(cfg)}')
 
 
 def board_body(cfg: dict, key: str) -> str:
