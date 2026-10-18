@@ -47,6 +47,7 @@ MEMORY_CSS = """
 .tl-panel .tl-mode{margin-left:auto;display:flex;gap:4px}
 .tl-scroll{overflow-x:auto;padding:0 6px 4px}
 svg.tl{display:block;font-family:inherit}
+svg.tl[hidden]{display:none}
 svg.tl .grid{stroke:var(--line);stroke-width:1}
 svg.tl .mo{font-size:11px;fill:var(--muted)}
 svg.tl .lane{font-size:12px;font-weight:700}
@@ -177,6 +178,17 @@ def _lanes(items: list[dict], mode: str) -> list[tuple[str, list[dict]]]:
     return lanes
 
 
+def _fit(text: str, cjk_chars: int) -> str:
+    """Truncate to roughly the width of `cjk_chars` Korean characters (Latin letters count half)."""
+    budget, out = cjk_chars * 2, ""
+    for ch in text:
+        budget -= 2 if ord(ch) > 0x2E7F else 1
+        if budget < 0:
+            return out.rstrip() + "…"
+        out += ch
+    return out
+
+
 def timeline_svg(items: list[dict], mode: str, title: str, hidden: bool = False) -> str:
     """Inline SVG: months left to right, one colored branch per lane, one dot per article.
     Each dot carries data-id so the page script can open the matching headline."""
@@ -189,7 +201,9 @@ def timeline_svg(items: list[dict], mode: str, title: str, hidden: bool = False)
         d = (d + timedelta(days=32)).replace(day=1)
     span = max(1, (d1 - d0).days + 1)
     left, right, top, lane_h = 128, 40, 30, 70
-    width = max(1000, len(months) * 150 + left + right)
+    # Month width grows with the busiest lane-month so labels keep room (clamped to 230..420px).
+    busiest = max(Counter((li, i["date"][:7]) for li, (_, lane_items) in enumerate(lanes) for i in lane_items).values())
+    width = max(1000, len(months) * min(420, max(230, 70 * busiest)) + left + right)
     height = top + len(lanes) * lane_h + 8
 
     def x(day: date) -> float:
@@ -209,16 +223,16 @@ def timeline_svg(items: list[dict], mode: str, title: str, hidden: bool = False)
         y = top + li * lane_h + lane_h / 2
         color = LANE_COLORS[li % len(LANE_COLORS)]
         out.append(f'<path class="br" d="M14 {root_y:.0f} C 22 {root_y:.0f}, 18 {y:.0f}, 26 {y:.0f}" style="stroke:{color}"/>'
-                   f'<text class="lane" x="28" y="{y + 4:.0f}" style="fill:{color}">{escape(label[:8])}</text>'
+                   f'<text class="lane" x="28" y="{y + 4:.0f}" style="fill:{color}">{escape(_fit(label, 8))}</text>'
                    f'<line class="ln" x1="{left}" y1="{y:.0f}" x2="{width - right}" y2="{y:.0f}" style="stroke:{color}"/>')
         last = [-1e9] * len(slots)
         for it in sorted(lane_items, key=lambda i: i["date"]):
             nx = x(date.fromisoformat(it["date"]))
-            free = [j for j in range(len(slots)) if nx - last[j] > 92]
+            free = [j for j in range(len(slots)) if nx - last[j] > 118]
             si = free[0] if free else min(range(len(slots)), key=lambda j: last[j])
             last[si] = nx
             text = it.get("headline_ko") or it["headline"]
-            short = text[:13] + ("…" if len(text) > 13 else "")
+            short = _fit(text, 12)
             out.append(f'<g class="nd" data-id="{it["_id"]}" tabindex="0"><title>{escape(it["date"])} · {escape(text)}</title>'
                        f'<circle cx="{nx:.0f}" cy="{y:.0f}" r="4" style="fill:{color}"/>'
                        f'<text class="lb" x="{nx:.0f}" y="{y + slots[si]:.0f}" text-anchor="middle">{escape(short)}</text></g>')
