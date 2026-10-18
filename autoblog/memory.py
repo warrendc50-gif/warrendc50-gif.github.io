@@ -27,6 +27,10 @@ TOPIC_LABELS = {
 }
 # Branch colors for the timeline; chosen to read on both the light and the dark background.
 LANE_COLORS = ["#2563eb", "#0f9f8f", "#d97706", "#7c3aed", "#dc2626", "#0891b2", "#65a30d", "#db2777", "#6b7280"]
+# Second color per branch, used for a dot that sits right next to the previous one so the two
+# dot-label pairs stay apart. Index-aligned with LANE_COLORS.
+LANE_ALT_COLORS = ["#9333ea", "#0369a1", "#b91c1c", "#db2777", "#ea580c", "#4f46e5", "#047857", "#7c2d12", "#0f766e"]
+CLOSE_PX = 26  # dots closer than this (center to center) alternate colors
 MAX_ORG_LANES = 8
 
 MEMORY_CSS = """
@@ -264,13 +268,18 @@ def timeline_svg(items: list[dict], mode: str, title: str, hidden: bool = False)
         # topic colors follow TOPIC_LABELS order so a topic keeps its color on every board
         ci = list(TOPIC_LABELS).index(key) if key in TOPIC_LABELS else li
         color = LANE_COLORS[ci % len(LANE_COLORS)]
+        alt = LANE_ALT_COLORS[ci % len(LANE_ALT_COLORS)]
         out.append(f'<g class="lane-g" data-key="{escape(key)}" transform="translate(0,{top + li * lane_h})">'
                    f'<path class="br" d="M14 {y:.0f} C 20 {y:.0f}, 20 {y:.0f}, 26 {y:.0f}" style="stroke:{color}"/>'
                    f'<text class="lane" x="28" y="{y + 4:.0f}" style="fill:{color}">{escape(_fit(label, 8))}</text>'
                    f'<line class="ln" x1="{left}" y1="{y:.0f}" x2="{width - right}" y2="{y:.0f}" style="stroke:{color}"/>')
         right_edge = [-1e9] * len(slots)  # right-most occupied x per label row
+        prev_x, prev_alt = -1e9, False
         for it in sorted(lane_items, key=lambda i: i["date"], reverse=True):
             nx = x(date.fromisoformat(it["date"]))
+            use_alt = (nx - prev_x < CLOSE_PX) and not prev_alt  # alternate within a tight cluster
+            prev_x, prev_alt = nx, use_alt
+            c = alt if use_alt else color
             text = it.get("headline_ko") or it["headline"]
             short = _fit(text, 12)
             half = _text_w(short) / 2
@@ -282,10 +291,10 @@ def timeline_svg(items: list[dict], mode: str, title: str, hidden: bool = False)
                 dy = slots[si]
                 # a hairline from the dot to the label so the pairing stays clear
                 y1, y2 = (y - 5, y + dy + 3) if dy < 0 else (y + 5, y + dy - 10)
-                lbl = (f'<line class="tick" x1="{nx:.0f}" y1="{y1:.0f}" x2="{nx:.0f}" y2="{y2:.0f}" style="stroke:{color}"/>'
-                       f'<text class="lb" x="{nx:.0f}" y="{y + dy:.0f}" text-anchor="middle" style="fill:{color}">{escape(short)}</text>')
+                lbl = (f'<line class="tick" x1="{nx:.0f}" y1="{y1:.0f}" x2="{nx:.0f}" y2="{y2:.0f}" style="stroke:{c}"/>'
+                       f'<text class="lb" x="{nx:.0f}" y="{y + dy:.0f}" text-anchor="middle" style="fill:{c}">{escape(short)}</text>')
             out.append(f'<g class="nd{"" if lbl else " bare"}" data-id="{it["_id"]}" tabindex="0"><title>{escape(it["date"])} · {escape(text)}</title>'
-                       f'<circle cx="{nx:.0f}" cy="{y:.0f}" r="4" style="fill:{color}"/>{lbl}</g>')
+                       f'<circle cx="{nx:.0f}" cy="{y:.0f}" r="4" style="fill:{c}"/>{lbl}</g>')
         out.append("</g>")
     out.append("</svg>")
     return "".join(out)
