@@ -101,6 +101,11 @@
     "title": "Memory",
     "desc": "눈여겨본 기사와 자료를 분야별로 모아 두는 운영자의 스크랩북",
     "boards": {
+      "world-live": {
+        "name": "전세계 긴급 Live",
+        "emoji": "🚨",
+        "desc": "폭동·분쟁·재난 등 지금 벌어지는 전세계 긴급 사건과 라이브 채널"
+      },
       "ai-news": {
         "name": "AI 최신 뉴스",
         "emoji": "🤖",

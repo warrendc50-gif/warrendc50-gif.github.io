@@ -25,4 +25,6 @@
 - 기사 추가: 운영자가 링크나 주제를 주면 **실제 검색 결과에서 확인한 URL만** 항목으로 추가한다. 헤드라인·날짜·URL을 지어내지 않는다. 같은 사건은 한 건만.
 - 운영자 메모는 giscus(GitHub Discussions) 위젯. `giscus.category_id`가 비어 있으면 위젯이 나오지 않는다.
   설정 후: Discussion 제목 `memory/<board-key>`(data-mapping=specific, strict), 카테고리 `Memory`(Announcement), 토론은 잠가서 운영자만 쓴다.
+- 항목에 `video`(확인된 YouTube watch URL)와 `video_channel`을 넣으면 ▶ 영상 링크가 붙는다. 없으면 자동으로 YouTube 검색 링크가 붙는다. 영상 URL도 검색 결과에서 본 것만 쓴다.
+- `world-live`(전세계 긴급 Live) 데이터 파일은 객체 형태 `{"live_channels": [{name,url}], "items": [...]}`다. live_channels는 뉴스 채널의 `https://www.youtube.com/@핸들/live` 주소. topics: unrest, conflict, disaster, accident, terror, politics, health, economy.
 - 분야 추가·이름 변경은 config.json `memory.boards`만 고치면 된다.

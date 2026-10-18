@@ -119,8 +119,14 @@ def test_memory_boards(tmp_path, monkeypatch):
         {"date": "2026-01-05", "headline": "Old <story>", "headline_ko": "오래된 소식", "outlet": "Reuters",
          "url": "https://example.com/a?x=1&y=2", "summary_ko": "요약 A", "topics": ["model"], "orgs": ["OpenAI"]},
         {"date": "2026-03-09", "headline": "새 소식", "headline_ko": "새 소식", "outlet": "연합뉴스",
-         "url": "https://example.com/b", "summary_ko": "요약 B", "topics": ["policy", "korea"], "orgs": ["과기정통부"]},
+         "url": "https://example.com/b", "summary_ko": "요약 B", "topics": ["policy", "korea"], "orgs": ["과기정통부"],
+         "video": "https://www.youtube.com/watch?v=abc123", "video_channel": "연합뉴스TV"},
     ], ensure_ascii=False), encoding="utf-8")
+    (data_dir / "world-live.json").write_text(json.dumps({
+        "live_channels": [{"name": "France 24", "url": "https://www.youtube.com/@FRANCE24English/live"}],
+        "items": [{"date": "2026-10-10", "headline": "Riots", "headline_ko": "폭동", "outlet": "Reuters",
+                   "url": "https://example.com/r", "video": "", "summary_ko": "요약", "topics": ["unrest"], "orgs": ["프랑스"]}],
+    }, ensure_ascii=False), encoding="utf-8")
 
     cfg = config.load_config()
     cfg["giscus"] = {"repo": "o/r", "repo_id": "R_1", "category": "Memory", "category_id": ""}
@@ -134,6 +140,10 @@ def test_memory_boards(tmp_path, monkeypatch):
     assert "Old &lt;story&gt;" in board and 'href="https://example.com/a?x=1&amp;y=2"' in board
     assert 'data-topic="policy"' in board and "정책·규제" in board
     assert "giscus.app" not in board  # not configured yet
+    assert 'href="https://www.youtube.com/watch?v=abc123"' in board and "연합뉴스TV" in board  # confirmed video
+    assert "youtube.com/results?search_query=" in board  # search fallback for the item without a video
+    live = (public_dir / "memory/world-live/index.html").read_text(encoding="utf-8")
+    assert "@FRANCE24English/live" in live and 'class="live-dot"' in live and "시위·폭동" in live
     assert '<svg class="tl" data-mode="topic"' in board and '<svg class="tl" data-mode="org"' in board  # timeline
     assert board.count(' hidden viewBox=') == 1  # the org view starts hidden
     assert board.count('data-id="1"') >= 3  # headline + a dot on each timeline mode

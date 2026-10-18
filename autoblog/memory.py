@@ -12,6 +12,7 @@ import json
 from collections import Counter, OrderedDict
 from datetime import date, timedelta
 from html import escape
+from urllib.parse import quote_plus
 
 from .config import DATA_DIR
 
@@ -24,7 +25,10 @@ TOPIC_LABELS = {
     "research": "연구·안전", "korea": "한국",
     "rates": "금리·통화정책", "fx": "환율·외환", "stocks": "증시", "realestate": "부동산·가계대출",
     "banks": "은행·금융사", "crypto": "가상자산", "global": "해외발 영향",
+    "unrest": "시위·폭동", "conflict": "전쟁·분쟁", "disaster": "재난·기상", "accident": "사고",
+    "terror": "테러·치안", "politics": "정치 격변", "health": "보건", "economy": "경제 충격",
 }
+YOUTUBE_SEARCH = "https://www.youtube.com/results?search_query="
 # Branch colors for the timeline; chosen to read on both the light and the dark background.
 LANE_COLORS = ["#2563eb", "#0f9f8f", "#d97706", "#7c3aed", "#dc2626", "#0891b2", "#65a30d", "#db2777", "#6b7280"]
 # Second color per branch, used for a dot that sits right next to the previous one so the two
@@ -88,6 +92,17 @@ svg.tl .nd:hover circle,svg.tl .nd:focus circle{r:6}
 .news .body .tags span{font-size:12px;padding:2px 8px}
 .news .body .go{display:inline-block;margin-top:8px;font-size:14px;font-weight:700;text-decoration:none}
 .news-empty{color:var(--muted);padding:16px 0}
+.news summary .yt{margin-left:8px;color:#e11d48;text-decoration:none;font-size:11px;vertical-align:1px}
+.news summary .yt.s{color:var(--muted);opacity:.55}
+.news summary .yt:hover{opacity:1;color:#e11d48}
+.news .body .yt-go{margin-left:14px;color:#e11d48}
+.news .body .yt-go.s{color:var(--muted);font-weight:600}
+.live-row{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin:8px 0 0;padding:6px 10px;background:var(--surface);border:1px solid var(--line);border-radius:10px}
+.live-row .live-dot{font-size:11px;font-weight:800;color:#fff;background:#e11d48;padding:2px 7px;border-radius:99px;letter-spacing:.04em}
+.live-row .live-dot::before{content:"●";margin-right:4px;animation:blink 1.4s infinite}
+@keyframes blink{50%{opacity:.3}}
+.live-row a{font-size:13px;font-weight:600;text-decoration:none;color:var(--fg);background:var(--card);padding:3px 10px;border-radius:99px}
+.live-row a:hover{color:#e11d48}
 .board-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(290px,1fr));gap:10px;margin-top:10px}
 .board-card{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:10px 12px 8px;display:flex;flex-direction:column;min-width:0}
 .board-card .head{display:flex;gap:10px;align-items:flex-start;text-decoration:none;color:var(--fg);padding-bottom:6px;border-bottom:1px solid var(--line)}
@@ -135,6 +150,9 @@ MEMORY_JS = """
     apply();
   })});
   if(box)box.addEventListener('input',function(){q=box.value;apply();});
+  document.querySelectorAll('.news summary .yt').forEach(function(a){a.addEventListener('click',function(e){
+    e.preventDefault(); e.stopPropagation(); window.open(a.href,'_blank','noopener');
+  })});
   // timeline: show the chosen mode, keep only selected branches (topic mode), hide filtered dots, re-pack rows
   function tlMode(){var b=document.querySelector('.tl-mode button.on');return b?b.dataset.mode:'topic';}
   function applyTl(){
@@ -173,12 +191,31 @@ MEMORY_JS = """
 """
 
 
-def load_items(key: str) -> list[dict]:
+def _load(key: str) -> dict:
     path = MEMORY_DATA_DIR / f"{key}.json"
     if not path.exists():
-        return []
-    items = json.loads(path.read_text(encoding="utf-8"))
-    return sorted(items, key=lambda i: i["date"], reverse=True)
+        return {"items": []}
+    data = json.loads(path.read_text(encoding="utf-8"))
+    return data if isinstance(data, dict) else {"items": data}
+
+
+def load_items(key: str) -> list[dict]:
+    return sorted(_load(key)["items"], key=lambda i: i["date"], reverse=True)
+
+
+def live_channels(key: str) -> list[dict]:
+    return _load(key).get("live_channels", [])
+
+
+def _video_links(item: dict) -> tuple[str, str]:
+    """(icon for the headline row, link line for the expanded body)."""
+    search = YOUTUBE_SEARCH + quote_plus(item.get("headline_ko") or item["headline"])
+    if item.get("video"):
+        return (f'<a class="yt" href="{escape(item["video"])}" title="영상 보기 (YouTube)">▶</a>',
+                f'<a class="go yt-go" href="{escape(item["video"])}" target="_blank" rel="noopener nofollow">▶ 영상 보기'
+                f'{" · " + escape(item["video_channel"]) if item.get("video_channel") else ""}</a>')
+    return (f'<a class="yt s" href="{escape(search)}" title="YouTube에서 관련 영상 검색">▶</a>',
+            f'<a class="go yt-go s" href="{escape(search)}" target="_blank" rel="noopener nofollow">▶ YouTube에서 영상 검색</a>')
 
 
 def giscus_html(cfg: dict, term: str) -> str:
@@ -318,13 +355,14 @@ def _item_html(item: dict) -> str:
                      *(TOPIC_LABELS.get(t, t) for t in item.get("topics", []))]).lower()
     tags = "".join(f"<span>{escape(TOPIC_LABELS.get(t, t))}</span>" for t in item.get("topics", []))
     tags += "".join(f"<span>{escape(o)}</span>" for o in item.get("orgs", []))
+    yt_icon, yt_link = _video_links(item)
     return (f'<details class="news" data-id="{item["_id"]}" data-topics="{escape(topics)}" data-text="{escape(text)}">'
             f'<summary><span class="d">{d.month}.{d.day:02d}</span><span class="h">{escape(head_ko)}</span>'
-            f'<span class="o"><b>{escape(item.get("outlet", ""))}</b></span></summary>'
+            f'<span class="o"><b>{escape(item.get("outlet", ""))}</b>{yt_icon}</span></summary>'
             f'<div class="body"><p>{escape(item.get("summary_ko", ""))}</p>'
             f'{f"<p class=orig>원제: {escape(orig)}</p>" if orig else ""}'
             f'<div class="tags">{tags}</div>'
-            f'<a class="go" href="{escape(item["url"])}" target="_blank" rel="noopener nofollow">원문 보기 ↗</a>'
+            f'<a class="go" href="{escape(item["url"])}" target="_blank" rel="noopener nofollow">원문 보기 ↗</a> {yt_link}'
             f'</div></details>')
 
 
@@ -395,9 +433,13 @@ def board_body(cfg: dict, key: str) -> str:
         f'<a href="{cfg["site_url"]}/memory/{k}/">{o["emoji"]} {escape(o["name"])}</a>'
         for k, o in m["boards"].items() if k != key
     )
+    live = "".join(f'<a href="{escape(ch["url"])}" target="_blank" rel="noopener nofollow">{escape(ch["name"])}</a>'
+                   for ch in live_channels(key))
+    live_row = f'<div class="live-row"><span class="live-dot">LIVE</span>{live}</div>' if live else ""
     # One line: kicker · board name · description · links to the other boards
     return (f'<section class="hero compact"><span class="kicker">{b["emoji"]} {escape(m["title"])}</span>'
             f'<h1>{escape(b["name"])}</h1><p>{escape(b["desc"])}</p><nav class="boards">{others}</nav></section>'
+            f'{live_row}'
             f'<section class="board-feed">{news_list_html(load_items(key), b["name"])}</section>'
             f'<section class="board-notes">{giscus_html(cfg, f"memory/{key}")}</section>')
 

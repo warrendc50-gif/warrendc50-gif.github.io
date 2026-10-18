@@ -89,7 +89,9 @@
   ],
   "orgs": [
    "삼성전자"
-  ]
+  ],
+  "video": "https://www.youtube.com/watch?v=gfUmeoAPf3s",
+  "video_channel": " YTN"
  },
  {
   "date": "2026-10-08",
@@ -137,7 +139,9 @@
   "orgs": [
    "Google",
    "Google DeepMind"
-  ]
+  ],
+  "video": "https://www.youtube.com/watch?v=ltT6nx0Zcy0",
+  "video_channel": "CNBC Television"
  },
  {
   "date": "2026-09-30",
@@ -267,7 +271,9 @@
   ],
   "orgs": [
    "OpenAI"
-  ]
+  ],
+  "video": "https://www.youtube.com/watch?v=AmvP0zlSQsk",
+  "video_channel": "Jorebza"
  },
  {
   "date": "2026-09-03",
@@ -329,7 +335,9 @@
   ],
   "orgs": [
    "Nvidia"
-  ]
+  ],
+  "video": "https://www.youtube.com/watch?v=amcMRdBF804",
+  "video_channel": "Koy"
  },
  {
   "date": "2026-08-19",
@@ -453,7 +461,9 @@
   "orgs": [
    "OpenAI",
    "Hugging Face"
-  ]
+  ],
+  "video": "https://www.youtube.com/watch?v=5fzYX0uiBfQ",
+  "video_channel": "ABC News (Australia)"
  },
  {
   "date": "2026-07-16",
@@ -580,7 +590,9 @@
   "orgs": [
    "Apple",
    "Google"
-  ]
+  ],
+  "video": "https://www.youtube.com/watch?v=hF8swzNR1-o",
+  "video_channel": "Apple"
  },
  {
   "date": "2026-06-02",
@@ -610,7 +622,9 @@
   ],
   "orgs": [
    "Anthropic"
-  ]
+  ],
+  "video": "https://www.youtube.com/watch?v=KjnrFdy4M8s",
+  "video_channel": "FRANCE 24 English"
  },
  {
   "date": "2026-06-01",
@@ -642,7 +656,9 @@
   "orgs": [
    "Nvidia",
    "MediaTek"
-  ]
+  ],
+  "video": "https://www.youtube.com/watch?v=wSp6AiNIrsY",
+  "video_channel": "NVIDIA"
  },
  {
   "date": "2026-05-28",
@@ -717,7 +733,9 @@
   ],
   "orgs": [
    "Google"
-  ]
+  ],
+  "video": "https://www.youtube.com/watch?v=wYSncx9zLIU",
+  "video_channel": "Google"
  },
  {
   "date": "2026-05-12",
@@ -857,7 +875,9 @@
   ],
   "orgs": [
    "Anthropic"
-  ]
+  ],
+  "video": "https://www.youtube.com/watch?v=TXqFM6osxkI",
+  "video_channel": "Jaeden Schafer"
  },
  {
   "date": "2026-04-13",
@@ -979,7 +999,9 @@
   "orgs": [
    "Nvidia",
    "Groq"
-  ]
+  ],
+  "video": "https://www.youtube.com/watch?v=jw_o0xr8MWU",
+  "video_channel": "NVIDIA"
  },
  {
   "date": "2026-03-13",
@@ -1009,7 +1031,9 @@
   "orgs": [
    "Anthropic",
    "미 국방부"
-  ]
+  ],
+  "video": "https://www.youtube.com/watch?v=jxnfu0g5kGI",
+  "video_channel": "CBS News"
  },
  {
   "date": "2026-03-05",
@@ -1039,7 +1063,9 @@
    "Anthropic",
    "미 국방부",
    "OpenAI"
-  ]
+  ],
+  "video": "https://www.youtube.com/watch?v=aOtulUbsbuU",
+  "video_channel": "Bloomberg Podcasts"
  },
  {
   "date": "2026-02-25",
@@ -1099,7 +1125,9 @@
   ],
   "orgs": [
    "Google"
-  ]
+  ],
+  "video": "https://www.youtube.com/watch?v=IXexi2LoCfI",
+  "video_channel": "Sam Witteveen"
  },
  {
   "date": "2026-02-19",
@@ -1203,7 +1231,9 @@
   "orgs": [
    "Anthropic",
    "OpenAI"
-  ]
+  ],
+  "video": "https://www.youtube.com/watch?v=dPn3GBI8lII",
+  "video_channel": "Anthropic"
  },
  {
   "date": "2026-01-29",
@@ -1344,7 +1374,9 @@
   ],
   "orgs": [
    "Nvidia"
-  ]
+  ],
+  "video": "https://www.youtube.com/watch?v=L0jJrzFMbP8",
+  "video_channel": "CNET"
  },
  {
   "date": "2025-12-30",
@@ -1394,7 +1426,9 @@
   "orgs": [
    "Nvidia",
    "Groq"
-  ]
+  ],
+  "video": "https://www.youtube.com/watch?v=bET4XJ5TcwE",
+  "video_channel": "CNBC Television"
  },
  {
   "date": "2025-12-20",
@@ -1542,7 +1576,9 @@
   ],
   "orgs": [
    "Anthropic"
-  ]
+  ],
+  "video": "https://www.youtube.com/watch?v=56kq0VTkU4k",
+  "video_channel": "Anthropic"
  },
  {
   "date": "2025-11-20",
@@ -1572,7 +1608,9 @@
   ],
   "orgs": [
    "Nvidia"
-  ]
+  ],
+  "video": "https://www.youtube.com/watch?v=Io-jdlqdnbo",
+  "video_channel": "News24"
  },
  {
   "date": "2025-11-19",
@@ -1600,7 +1638,9 @@
   ],
   "orgs": [
    "Google"
-  ]
+  ],
+  "video": "https://www.youtube.com/watch?v=98DcoXwGX6I",
+  "video_channel": "Google DeepMind"
  },
  {
   "date": "2025-11-18",
@@ -1772,7 +1812,9 @@
   ],
   "orgs": [
    "Nvidia"
-  ]
+  ],
+  "video": "https://www.youtube.com/watch?v=4rnfoX_xecw",
+  "video_channel": "TaiwanPlus News"
  },
  {
   "date": "2025-10-29",
@@ -1956,6 +1998,8 @@
   "orgs": [
    "OpenAI",
    "AMD"
-  ]
+  ],
+  "video": "https://www.youtube.com/watch?v=0cTmgwPGH64",
+  "video_channel": "Yahoo Finance"
  }
 ]

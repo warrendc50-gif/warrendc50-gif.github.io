@@ -1,0 +1,612 @@
+{
+ "live_channels": [
+  {
+   "name": "France 24 English",
+   "url": "https://www.youtube.com/@France24_en/live"
+  },
+  {
+   "name": "Al Jazeera English",
+   "url": "https://www.youtube.com/@aljazeeraenglish/live"
+  },
+  {
+   "name": "DW News",
+   "url": "https://www.youtube.com/@dwnews/live"
+  },
+  {
+   "name": "Sky News",
+   "url": "https://www.youtube.com/@SkyNews/live"
+  },
+  {
+   "name": "연합뉴스TV",
+   "url": "https://www.youtube.com/@yonhapnewstv23/live"
+  },
+  {
+   "name": "YTN",
+   "url": "https://www.youtube.com/@ytnnews24/live"
+  },
+  {
+   "name": "KBS News",
+   "url": "https://www.youtube.com/@newskbs/live"
+  }
+ ],
+ "items": [
+  {
+   "date": "2026-10-18",
+   "headline": "\"1200명 체포, 거리 전체가 황폐화\"...생활고 불만 폭발한 프랑스",
+   "headline_ko": "\"1200명 체포, 거리 전체가 황폐화\"...생활고 불만 폭발한 프랑스",
+   "outlet": "머니투데이",
+   "url": "https://www.mt.co.kr/world/2026/10/18/2026101809112815265",
+   "video": "https://www.youtube.com/watch?v=CPn2POLnEu8",
+   "summary_ko": "세바스티앵 르코르뉘 총리는 17일 시위로 전국에서 1,200명이 체포되고 경찰관 150명이 부상했다고 18일 밝혔다. 파리 시장은 \"거리 전체가 황폐화됐다\"고 말했고, 리모주에서는 시청이 불탔다. 마크롱 대통령은 관공서와 상점을 공격한 이들을 기소해 처벌하겠다고 경고했다.",
+   "topics": [
+    "unrest",
+    "politics"
+   ],
+   "orgs": [
+    "프랑스"
+   ],
+   "video_channel": "franceinfo"
+  },
+  {
+   "date": "2026-10-18",
+   "headline": "Deaths, injuries after fire at Alberta military base: Canada minister",
+   "headline_ko": "캐나다 앨버타 군기지 화재로 사망·부상자 발생",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/18/deaths-injuries-after-fire-at-alberta-military-base-canada-minister",
+   "video": "",
+   "summary_ko": "10월 17일 앨버타주 웨인라이트 캐나다군 기지 훈련장에서 '중대 사건' 뒤 대형 화재가 발생해 사망자와 부상자가 나왔다. 맥긴티 국방장관은 사상자 수와 원인을 밝히지 않았고 RCMP가 조사에 참여했다. 화재는 시속 100km 강풍을 타고 기지 울타리를 넘어 확산됐으며, 에드먼턴 병원들은 다수 환자 수용을 위한 '코드 오렌지'를 발령했다.",
+   "topics": [
+    "accident"
+   ],
+   "orgs": [
+    "캐나다"
+   ]
+  },
+  {
+   "date": "2026-10-18",
+   "headline": "Iran war live: Ships attacked off UAE, Yemen; drones downed near Riyadh",
+   "headline_ko": "[이란 전쟁 라이브] UAE·예멘 해상 선박 피격…리야드 인근 드론 격추",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats",
+   "video": "",
+   "summary_ko": "호르무즈 해협과 오만해에서 유조선 3척에 화재가 발생했고, 영국 해사기구(UKMTO)는 사우디 주바일 인근에서 선박 2척이 공격받았으며 예멘 연안에서 LNG 운반선이 총격을 받았다고 밝혔다. 사우디 주도 연합군은 리야드 등 상공에서 드론 4대를 격추했다. 이란은 사우디 공격 연관을 부인하며 유조선은 지뢰에 부딪혔다고 주장했다.",
+   "topics": [
+    "conflict"
+   ],
+   "orgs": [
+    "이란",
+    "사우디아라비아",
+    "UAE",
+    "예멘"
+   ]
+  },
+  {
+   "date": "2026-10-17",
+   "headline": "Fires and clashes rock France amid massive nationwide protests",
+   "headline_ko": "프랑스 전국 대규모 시위…방화·충돌로 도심 혼란",
+   "outlet": "France 24",
+   "url": "https://www.france24.com/en/france/20261017-looting-fires-and-clashes-rock-france-amid-massive-nationwide-protests",
+   "video": "https://www.youtube.com/watch?v=XpyXtXcB9nA",
+   "summary_ko": "10월 17일 생활비 상승과 공공서비스 악화에 항의하는 시위가 프랑스 전역 110곳에서 열렸다. 내무장관은 약 55만 명(파리 11만 명)이 참가했다고 밝혔고 주최 측은 80만 명이라고 주장했다. 복면을 쓴 청년들이 차량에 불을 지르고 상점을 약탈했으며, 이날 저녁까지 약 400명이 체포됐다.",
+   "topics": [
+    "unrest"
+   ],
+   "orgs": [
+    "프랑스"
+   ],
+   "video_channel": "DW News"
+  },
+  {
+   "date": "2026-10-17",
+   "headline": "Cost of living protests hit Belgium, Italy, Portugal and France",
+   "headline_ko": "생활비 시위, 벨기에·이탈리아·포르투갈·프랑스로 확산",
+   "outlet": "Al Jazeera",
+   "url": "https://aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france",
+   "video": "",
+   "summary_ko": "프랑스에서 시작된 생활비 항의 시위가 같은 날 벨기에, 이탈리아, 포르투갈에서도 열렸다. 물가 상승과 긴축에 대한 불만이 유럽 여러 나라에서 동시에 분출하는 양상이다.",
+   "topics": [
+    "unrest"
+   ],
+   "orgs": [
+    "벨기에",
+    "이탈리아",
+    "포르투갈",
+    "프랑스"
+   ]
+  },
+  {
+   "date": "2026-10-17",
+   "headline": "Pope Leo XIV leaves hospital days after lung cancer surgery",
+   "headline_ko": "교황 레오 14세, 폐암 수술 나흘 만에 퇴원",
+   "outlet": "NPR",
+   "url": "https://www.npr.org/2026/10/17/nx-s1-6006762/pope-leo-xiv-leaves-hospital-days-after-lung-cancer-surgery",
+   "video": "https://www.youtube.com/watch?v=gwh1DUhaM4s",
+   "summary_ko": "교황 레오 14세가 10월 13일 로마 제멜리 병원에서 오른쪽 폐 하엽 절제 수술을 받았고, 교황청은 제거된 결절이 비소세포폐암(선암)이라고 확인했다. 교황은 17일 퇴원했으며 11월 중남미 순방 일정은 유지되고 있다.",
+   "topics": [
+    "health"
+   ],
+   "orgs": [
+    "바티칸",
+    "이탈리아"
+   ],
+   "video_channel": "FRANCE 24 English"
+  },
+  {
+   "date": "2026-10-17",
+   "headline": "Southern California wildfire engulfs homes, prompts evacuation orders",
+   "headline_ko": "남부 캘리포니아 산불, 주택 삼키며 대피령",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/17/southern-california-wildfire-engulfs-homes-prompts-evacuation-orders",
+   "video": "https://www.youtube.com/watch?v=XNXgnl4znhg",
+   "summary_ko": "10월 16일 샌클레멘테에서 발생한 노르테 산불이 샌타애나 강풍을 타고 570에이커를 태우며 주택 7채를 파손·전소시켰다. 한때 4,600가구·약 1만 6천 명이 대피 대상이었으며, 17일 밤 진화율 25%에서 대피령이 모두 해제됐다. 같은 시기 LA 일대에서도 강풍 속 여러 산불이 발생했다.",
+   "topics": [
+    "disaster"
+   ],
+   "orgs": [
+    "미국",
+    "캘리포니아"
+   ],
+   "video_channel": "ABC7"
+  },
+  {
+   "date": "2026-10-17",
+   "headline": "Typhoon Champi becomes a dangerous Category 4 storm as it approaches Guam",
+   "headline_ko": "태풍 '참피' 4등급으로 발달…괌 접근",
+   "outlet": "AP (ABC News)",
+   "url": "https://abcnews.com/US/wireStory/typhoon-champi-dangerous-category-4-storm-approaches-guam-137344599",
+   "video": "",
+   "summary_ko": "태풍 참피가 급속히 발달해 4등급 세력으로 괌과 마리아나 제도에 접근했다. 괌에는 최고 수준의 대비태세(COR 1)가 발령됐다. 올해 서태평양 30번째 태풍으로, 이후 일본 방향으로 북상할 것으로 전망된다.",
+   "topics": [
+    "disaster"
+   ],
+   "orgs": [
+    "괌",
+    "미국",
+    "북마리아나제도"
+   ]
+  },
+  {
+   "date": "2026-10-17",
+   "headline": "Sudan's army claims dozens of RSF fighters killed in Nyala attack",
+   "headline_ko": "수단군 \"니알라 공격으로 RSF 전투원 수십 명 사살\"…시장 드론 공격에 민간인 30명 사망",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/17/2550",
+   "video": "",
+   "summary_ko": "10월 16일 남다르푸르 니알라의 가축 시장에 드론 공격이 가해져 30명이 숨지고 47명이 다쳤다. RSF는 수단군의 공격이라고 비난했고, 수단군은 RSF 지휘부를 타격해 전투원 수십 명을 사살했다고 주장하면서 민간인 피해에는 답하지 않았다. 유엔은 올해 상반기만 수단에서 드론 공격으로 1,100명 이상이 사망했다고 집계했다.",
+   "topics": [
+    "conflict"
+   ],
+   "orgs": [
+    "수단",
+    "RSF"
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "headline": "Ebola outbreak in DR Congo spreads to new province bordering CAR",
+   "headline_ko": "콩고민주공화국 에볼라, 중앙아프리카공화국 접경 8번째 주로 확산",
+   "outlet": "Africanews",
+   "url": "https://www.africanews.com/2026/10/16/ebola-outbreak-in-dr-congo-spreads-to-new-province-bordering-car/",
+   "video": "https://www.youtube.com/watch?v=sLPn_T1AkbQ",
+   "summary_ko": "5월 시작된 콩고민주공화국의 분디부교 에볼라 유행이 중앙아프리카공화국 접경 북우방기주로 확산돼 8번째 주에서 확진자가 나왔다. 확진 9,000명·사망 4,000명을 넘어 역대 두 번째 규모의 에볼라 유행이 됐다. WHO는 국제공중보건위기상황을 유지하고 있으며, 이 종에 대한 승인 백신은 아직 없다.",
+   "topics": [
+    "health"
+   ],
+   "orgs": [
+    "콩고민주공화국",
+    "WHO"
+   ],
+   "video_channel": "africanews"
+  },
+  {
+   "date": "2026-10-16",
+   "headline": "우크라, 러 정유시설 공습 재개…트럼프 '에너지 휴전' 붕괴에 \"수치스러워\"",
+   "headline_ko": "우크라, 러 정유시설 공습 재개…트럼프 '에너지 휴전' 붕괴에 \"수치스러워\"",
+   "outlet": "세계일보",
+   "url": "https://www.segye.com/newsView/20261016512878",
+   "video": "https://www.youtube.com/watch?v=hCFQL1XkxAk",
+   "summary_ko": "젤렌스키 대통령이 15일 FT 인터뷰에서 러시아 정유시설 공격 중단 방침을 철회했다고 밝혔고, 같은 날 우크라이나 드론 공격으로 모스크바 남동쪽 랴잔 정유시설에서 화재가 발생했다. 트럼프 대통령은 이를 \"수치스러운 일\"이라고 강하게 비난했다. 10월 11일 발표된 에너지 휴전은 사실상 무산됐다.",
+   "topics": [
+    "conflict"
+   ],
+   "orgs": [
+    "우크라이나",
+    "러시아",
+    "미국"
+   ],
+   "video_channel": "NBC News"
+  },
+  {
+   "date": "2026-10-15",
+   "headline": "School roof collapses in northwestern Pakistan, killing at least 35 people",
+   "headline_ko": "파키스탄 페샤와르 학교 지붕 붕괴…최소 35명 사망",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/15/school-roof-collapses-in-northwestern-pakistan-killing-at-least-29-people",
+   "video": "https://www.youtube.com/watch?v=vrnCOPHQETU",
+   "summary_ko": "10월 15일 페샤와르의 사립학교 알카이르 교육센터 지붕이 붕괴해 6~12세 어린이 34명과 여교사 1명이 숨졌다. 지붕 위 공사로 인한 과적과 불량 자재 사용이 원인으로 지목돼 학교 소유주가 체포됐다. 주정부는 주 전체 학교 안전 점검을 지시했다.",
+   "topics": [
+    "accident"
+   ],
+   "orgs": [
+    "파키스탄"
+   ],
+   "video_channel": "Associated Press"
+  },
+  {
+   "date": "2026-10-15",
+   "headline": "South Korea's KOSPI Closes at 6-Month Low as Chipmakers Slump on AI Worries",
+   "headline_ko": "코스피 7.6% 급락 6개월 최저…반도체주 AI 우려에 서킷브레이커 발동",
+   "outlet": "Reuters (U.S. News)",
+   "url": "https://money.usnews.com/investing/news/articles/2026-10-15/south-koreas-kospi-triggers-circuit-breaker-in-tech-led-selloff",
+   "video": "https://www.youtube.com/watch?v=8oF94fnCQmQ",
+   "summary_ko": "10월 15일 코스피가 7.57% 급락한 5,554.22로 마감해 4월 이후 최저치를 기록했고, 장중 8% 하락으로 서킷브레이커가 발동됐다. 미국 물가 지표 충격과 AI 투자 수익성 우려로 SK하이닉스 등 반도체주가 폭락했으며 외국인이 약 3조 4천억 원을 순매도했다. 코스닥도 7.65% 떨어졌다.",
+   "topics": [
+    "economy"
+   ],
+   "orgs": [
+    "한국",
+    "미국"
+   ],
+   "video_channel": "Arirang News"
+  },
+  {
+   "date": "2026-10-14",
+   "headline": "Violence in Pakistan over emergency rule in Imran Khan stronghold",
+   "headline_ko": "임란 칸 거점 비상통치에 반발…파키스탄 유혈 충돌",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/pakistan-khyber-pakhtunkhwa-protests-emergency-rule",
+   "video": "",
+   "summary_ko": "카이베르파크툰크와주에서 비상사태와 주지사 통치에 항의하는 시위대가 경찰과 충돌했다. 경찰이 시위대에 발포해 최소 5명이 다쳤다. PTI는 비상통치가 칸 지지자들의 결집을 막기 위한 조치라고 주장하며 저항을 이어가고 있다.",
+   "topics": [
+    "unrest",
+    "politics"
+   ],
+   "orgs": [
+    "파키스탄"
+   ]
+  },
+  {
+   "date": "2026-10-13",
+   "headline": "French students 'not giving up the fight' as 480,000 join new day of school protests",
+   "headline_ko": "\"싸움 포기 않겠다\"…프랑스 학교 시위에 48만 명 참가",
+   "outlet": "France 24",
+   "url": "https://www.france24.com/en/europe/20261013-live-france-braces-for-fresh-nationwide-protests-over-school-conditions",
+   "video": "https://www.youtube.com/watch?v=1cmEX7vyys8",
+   "summary_ko": "10월 13일 프랑스 전역에서 학교 환경 개선을 요구하는 새 시위가 열렸다. 노조 측은 48만 명이 참가했다고 밝혔으나 당국 집계는 16만 1,500명으로 큰 차이를 보였다. 고교생 중심이던 시위에 대학생과 노조가 합류하며 세력이 커졌다.",
+   "topics": [
+    "unrest"
+   ],
+   "orgs": [
+    "프랑스"
+   ],
+   "video_channel": "DW News"
+  },
+  {
+   "date": "2026-10-13",
+   "headline": "Headquarters of Saudi Aramco hit as Houthis and Riyadh trade strikes",
+   "headline_ko": "후티-사우디 공격 주고받기…아람코 본사 피격",
+   "outlet": "CNN",
+   "url": "https://www.cnn.com/2026/10/13/middleeast/saudi-strikes-houthi-fuel-depot-latam-intl",
+   "video": "https://www.youtube.com/watch?v=zMJsFXyobns",
+   "summary_ko": "사우디가 후티 반군의 연료 저장시설을 타격한 뒤 후티가 다란에 있는 사우디 아람코 본사를 미사일로 공격해 화재가 발생했다. 리야드 공항 연쇄 공격에 이어 사우디 핵심 석유 인프라까지 표적이 되면서 이란 전쟁의 확전 우려가 커졌다.",
+   "topics": [
+    "conflict"
+   ],
+   "orgs": [
+    "사우디아라비아",
+    "후티",
+    "아람코"
+   ],
+   "video_channel": "Bloomberg Television"
+  },
+  {
+   "date": "2026-10-12",
+   "headline": "트럼프, '러·우 에너지 휴전합의' 했다는데…러는 공습 계속",
+   "headline_ko": "트럼프, '러·우 에너지 휴전합의' 했다는데…러는 공습 계속",
+   "outlet": "세계일보",
+   "url": "https://www.segye.com/newsView/20261012503392",
+   "video": "https://www.youtube.com/watch?v=qEx57JDycxI",
+   "summary_ko": "트럼프 미국 대통령은 10월 11일 러시아와 우크라이나가 에너지 부문 휴전에 합의했다고 발표했으나 적용 범위와 기간은 밝히지 않았다. 젤렌스키 대통령은 \"처음 듣는 내용\"이라며 러시아가 동의하면 따르겠다고 했다. 발표 다음 날에도 러시아는 하르키우 등 우크라이나 에너지 시설 공격을 이어갔다.",
+   "topics": [
+    "conflict",
+    "politics"
+   ],
+   "orgs": [
+    "미국",
+    "러시아",
+    "우크라이나"
+   ],
+   "video_channel": "WXYZ-TV Detroit | Channel 7"
+  },
+  {
+   "date": "2026-10-11",
+   "headline": "Pakistan imposes emergency rule in province governed by Imran Khan's party",
+   "headline_ko": "파키스탄, 임란 칸 정당 집권 주에 비상통치 선포",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/11/pakistan-imposes-emergency-rule-in-khyber-pakhtunkhwa",
+   "video": "https://www.youtube.com/watch?v=0qu0qCu4xeU",
+   "summary_ko": "자르다리 대통령이 10월 11일 아프간 접경 카이베르파크툰크와주에 비상사태를 선포하고 임란 칸의 PTI가 이끄는 주정부를 해산했다. 연방정부는 주정부가 이슬람 무장세력 반란을 통제하지 못했다고 밝혔으나, PTI는 칸 석방을 요구하는 이슬라마바드 행진을 막기 위한 \"위장된 쿠데타\"라고 반발했다. 주총리 소하일 아프리디 등이 구금됐다.",
+   "topics": [
+    "politics"
+   ],
+   "orgs": [
+    "파키스탄"
+   ],
+   "video_channel": "Al Jazeera English"
+  },
+  {
+   "date": "2026-10-10",
+   "headline": "4 dead, hundreds of thousands without power as Isaias sweeps inland",
+   "headline_ko": "허리케인 이사이아스 내륙 북상…4명 사망, 수십만 가구 정전",
+   "outlet": "The Washington Post",
+   "url": "https://www.washingtonpost.com/weather/2026/10/10/isaias-makes-landfall-florida-leaving-hundreds-thousands-without-power/",
+   "video": "https://www.youtube.com/watch?v=jqO-S1IoHfQ",
+   "summary_ko": "허리케인 이사이아스가 10월 9일 밤 플로리다 팬핸들 데스틴 인근에 2등급(최대풍속 105마일) 세력으로 상륙했다. 4명이 사망하고 약 90만 가구가 정전됐으며, 최대 6피트의 폭풍해일이 발생했다. 2026년 대서양 시즌 첫 허리케인으로, 기록적으로 늦은 시기에 상륙했다.",
+   "topics": [
+    "disaster"
+   ],
+   "orgs": [
+    "미국",
+    "플로리다"
+   ],
+   "video_channel": "NBC News"
+  },
+  {
+   "date": "2026-10-10",
+   "headline": "12 killed in Saudi Arabia airport attack, underscoring peril in Houthi strikes",
+   "headline_ko": "사우디 공항 공격으로 12명 사망…후티 공격의 위험 부각",
+   "outlet": "The Washington Post",
+   "url": "https://www.washingtonpost.com/world/2026/10/10/saudi-arabia-faces-new-level-peril-houthi-attacks-amid-wider-iran-war/",
+   "video": "https://www.youtube.com/watch?v=hti7pk-Ac2w",
+   "summary_ko": "10월 10일 후티 반군의 리야드 킹칼리드 국제공항 공격으로 최소 12명이 숨지고 300명 이상이 다쳤다. 2015년 이후 사우디에서 가장 많은 사망자를 낸 공격으로, 희생자에는 사우디인과 방글라데시인 등이 포함됐다. 공항은 폐쇄됐고 사우디는 방공망 실패 원인을 조사하기 시작했다.",
+   "topics": [
+    "conflict",
+    "terror"
+   ],
+   "orgs": [
+    "사우디아라비아",
+    "후티",
+    "이란"
+   ],
+   "video_channel": "Channel 4 News"
+  },
+  {
+   "date": "2026-10-09",
+   "headline": "Panama earthquake: Tsunami warnings issued after magnitude 7.7 quake",
+   "headline_ko": "파나마 규모 7.7 강진…중남미 쓰나미 경보 발령",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/9/tsunami-warnings-across-latin-america-after-7-7-magnitude-earthquake-hits",
+   "video": "https://www.youtube.com/watch?v=A8IPx311BRw",
+   "summary_ko": "10월 9일 파나마 아수에로 반도에서 규모 7.7 지진이 발생해 건물이 파손되고 수천 명이 거리로 대피했다. 파나마·콜롬비아·에콰도르·니카라과·과테말라에 쓰나미 경보가 내려졌다가 같은 날 해제됐다. 규모 6.6의 2차 지진이 이어졌고, 최소 1명이 사망하고 27명이 다쳤다. 파나마 운하 운영은 중단되지 않았다.",
+   "topics": [
+    "disaster"
+   ],
+   "orgs": [
+    "파나마",
+    "콜롬비아",
+    "에콰도르"
+   ],
+   "video_channel": "Asianet News English"
+  },
+  {
+   "date": "2026-10-09",
+   "headline": "Gaza ceasefire 'exists in name only', more than 100 NGOs say",
+   "headline_ko": "\"가자 휴전은 이름만 남았다\"…100여 개 NGO 공동 성명",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/9/gaza-ceasefire-exists-in-name-only-more-than-100-ngos-say",
+   "video": "https://www.youtube.com/watch?v=iCfjp673cnI",
+   "summary_ko": "가자 종전 선언 1주년을 앞두고 100개 이상의 인도주의 단체가 휴전이 \"이름만 존재한다\"고 밝혔다. 이들은 휴전 합의 이후 1년간 1,400명 이상의 팔레스타인인이 사망했다고 집계했다. 이스라엘은 하마스가 무장해제를 거부한다는 이유로 축소된 규모의 군사작전을 계속하고 있다.",
+   "topics": [
+    "conflict"
+   ],
+   "orgs": [
+    "이스라엘",
+    "팔레스타인",
+    "가자"
+   ],
+   "video_channel": "Al Jazeera English"
+  },
+  {
+   "date": "2026-10-09",
+   "headline": "Houthi attack on Riyadh airport killed three Saudi nationals",
+   "headline_ko": "후티 반군 리야드 공항 공격으로 사우디 국민 3명 사망",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/9/saudi-arabia-reopens-riyadh-airport-after-houthi-attack-kills-three",
+   "video": "",
+   "summary_ko": "예멘 후티 반군이 리야드 킹칼리드 국제공항을 공격해 조종사 1명을 포함한 사우디 국민 3명이 숨졌다. 사우디는 공항을 일시 폐쇄 후 재개했다. 10월 6일부터 아브하·리야드·담맘 공항을 겨냥한 미사일·드론 공격이 연쇄적으로 이어졌다.",
+   "topics": [
+    "conflict",
+    "terror"
+   ],
+   "orgs": [
+    "사우디아라비아",
+    "예멘",
+    "후티"
+   ]
+  },
+  {
+   "date": "2026-10-07",
+   "headline": "Russian strikes on Ukrainian cities kill at least 25 in a major attack that Kyiv saw coming",
+   "headline_ko": "러시아, 우크라이나 도시 대규모 공습…최소 25명 사망",
+   "outlet": "The Washington Post",
+   "url": "https://www.washingtonpost.com/world/2026/10/07/russia-ukraine-war-kyiv-strike/f76fe5e6-c216-11f1-8170-681419af1cc9_story.html",
+   "video": "https://www.youtube.com/watch?v=j5D0jaf_B24",
+   "summary_ko": "10월 7일 러시아가 키이우와 약 12개 지역에 미사일·드론 공습을 가해 어린이 5명을 포함한 민간인 최소 25명이 숨지고 약 100명이 다쳤다. 우크라이나의 러시아 석유 시설 공격에 대한 보복 성격으로 분석된다.",
+   "topics": [
+    "conflict"
+   ],
+   "orgs": [
+    "우크라이나",
+    "러시아"
+   ],
+   "video_channel": "PBS NewsHour"
+  },
+  {
+   "date": "2026-10-06",
+   "headline": "India opposition leaders briefly arrested in protest against election chief",
+   "headline_ko": "인도 야당 지도부, 선관위원장 사퇴 요구 시위 중 일시 구금",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/6/india-opposition-leaders-briefly-arrested-in-protest-against-election-chief",
+   "video": "https://www.youtube.com/watch?v=UScTHEaXLzE",
+   "summary_ko": "뉴델리에서 야권 의원들이 선거관리위원회로 행진하던 중 바리케이드를 넘으려다 경찰에 구금됐다. 라훌 간디도 일시 구금 후 풀려났다. 야권은 1억 3천만 명 이상이 삭제된 유권자 명부 정비가 모디 총리 여당에 유리하게 조작됐다며 선관위원장 사퇴를 요구하고 있다.",
+   "topics": [
+    "unrest",
+    "politics"
+   ],
+   "orgs": [
+    "인도"
+   ],
+   "video_channel": "Al Jazeera English"
+  },
+  {
+   "date": "2026-10-05",
+   "headline": "Spain's Pedro Sanchez announces snap election amid housing crisis",
+   "headline_ko": "스페인 산체스 총리, 주택 위기 속 조기 총선 선언",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/5/spanish-prime-minister-pedro-sanchez-announces-snap-election",
+   "video": "https://www.youtube.com/watch?v=Rvfee_BvZPw",
+   "summary_ko": "스페인 의회가 10월 2일 정부의 주택 법령 2건을 부결시킨 뒤, 산체스 총리는 11월 29일 조기 총선을 실시한다고 발표했다. 9월 87세 노인 강제 퇴거 사건 이후 주택 시위가 전국으로 확산된 상황이다. 여론조사는 국민당(PP)과 극우 복스(Vox) 연합의 우세를 점치고 있다.",
+   "topics": [
+    "politics"
+   ],
+   "orgs": [
+    "스페인"
+   ],
+   "video_channel": "DW News"
+  },
+  {
+   "date": "2026-10-03",
+   "headline": "France arrests 5,000 people, mostly teens, as school protests spread",
+   "headline_ko": "프랑스, 학교 시위 확산에 5천 명 체포…대부분 10대",
+   "outlet": "NPR",
+   "url": "https://www.npr.org/2026/10/03/nx-s1-5989532/france-arrests-5-000-people-mostly-teens-as-school-protests-spread",
+   "video": "https://www.youtube.com/watch?v=OkEinrCHgRQ",
+   "summary_ko": "프랑스 내무부는 고교생 시위가 시작된 이후 5천 명 이상이 체포됐다고 밝혔다. 400개가 넘는 학교가 문을 닫았고, 일부 시위대는 경찰과 충돌하며 학교와 차량에 불을 질렀다. 정부는 극좌 세력이 정치적 목적으로 소요를 부추기고 있다고 비난했다.",
+   "topics": [
+    "unrest"
+   ],
+   "orgs": [
+    "프랑스"
+   ],
+   "video_channel": "The Hindu"
+  },
+  {
+   "date": "2026-09-30",
+   "headline": "Injuries and Arrests as French High School Student Protests Spread",
+   "headline_ko": "프랑스 고교생 시위 확산…부상자·체포자 속출",
+   "outlet": "Reuters (U.S. News)",
+   "url": "https://www.usnews.com/news/world/articles/2026-09-30/dozens-injured-in-french-student-protests-over-school-resources",
+   "video": "https://www.youtube.com/watch?v=tJv5c4leWEw",
+   "summary_ko": "9월 중순 파리 근교 크레테이유의 한 고등학교에서 교사 부족과 낡은 학교 시설에 항의해 시작된 시위가 9월 30일 기준 356개 고교로 확산됐다. 시위는 점차 폭력 양상을 띠었고, 체포자는 수백 명으로 대부분 10대였다. 교육부는 학생과 교직원 119명이 부상했다고 밝혔다.",
+   "topics": [
+    "unrest"
+   ],
+   "orgs": [
+    "프랑스"
+   ],
+   "video_channel": "DW News"
+  },
+  {
+   "date": "2026-09-30",
+   "headline": "Emirati investigators say FlyDubai co-pilot used crash axe in attempted terrorist attack",
+   "headline_ko": "UAE 조사당국 \"플라이두바이 부기장, 비상용 도끼로 테러 시도\"",
+   "outlet": "NPR",
+   "url": "https://www.npr.org/2026/09/30/nx-s1-5985806/flydubai-flight-dubai-tel-aviv-israel",
+   "video": "https://www.youtube.com/watch?v=vJhY1Gq582Q",
+   "summary_ko": "두바이에서 텔아비브로 향하던 플라이두바이 여객기에서 오만 국적 부기장이 비상용 도끼로 기장을 공격하고 조종권을 빼앗으려 했다. UAE 검찰은 부기장이 벤구리온 공항 터미널에 기체를 충돌시키는 자폭 공격을 계획했다고 밝혔다. 승무원과 승객이 그를 제압했고 비행기는 사우디 타부크에 비상 착륙했다. 플라이두바이는 이스라엘 노선을 중단했다.",
+   "topics": [
+    "terror",
+    "accident"
+   ],
+   "orgs": [
+    "UAE",
+    "이스라엘",
+    "오만"
+   ],
+   "video_channel": "Sky News"
+  },
+  {
+   "date": "2026-09-25",
+   "headline": "Pakistani forces kill Afghan Taliban fighters in border escalation",
+   "headline_ko": "파키스탄군, 국경 충돌 격화 속 아프간 탈레반 병력 사살",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/9/25/pakistani-forces-kill-afghan-taliban-fighters-in-border-escalation",
+   "video": "",
+   "summary_ko": "9월 18일 파키스탄 북서부 자살폭탄 공격 이후 파키스탄과 아프가니스탄 탈레반 간 직접 충돌이 약 3개월 만에 재개됐다. 파키스탄은 9월 24일 아프간 내 10개 목표를 공습했고, 25일 발루치스탄 국경 충돌로 탈레반 병력 13명을 사살했다고 주장했으나 아프간 국방부는 이를 부인했다. 교전은 10월 중순까지 이어지고 있다.",
+   "topics": [
+    "conflict"
+   ],
+   "orgs": [
+    "파키스탄",
+    "아프가니스탄"
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "headline": "At least four killed as Typhoon Dujuan hits Japan",
+   "headline_ko": "태풍 '두쥬안' 일본 강타…최소 4명 사망",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/9/22/typhoon-dujuan-hits-japan-with-deadly-floods-travel-chaos-near-tokyo",
+   "video": "https://www.youtube.com/watch?v=loPYQwKH3VE",
+   "summary_ko": "태풍 두쥬안이 9월 21~22일 이즈 제도와 간토 지방을 강타해 최소 4명이 숨지고 22명이 다쳤다. 이즈오시마에는 24시간 동안 600mm의 기록적 폭우가 내려 기상청이 최고 단계 토사재해 특별경보를 발령했다. 항공편 수백 편이 결항되고 신칸센 일부가 운행을 중단했다.",
+   "topics": [
+    "disaster"
+   ],
+   "orgs": [
+    "일본"
+   ],
+   "video_channel": "Nippon Television News Japan"
+  },
+  {
+   "date": "2026-09-05",
+   "headline": "U.S. strikes Iranian oil tankers after Navy ships targeted",
+   "headline_ko": "미군, 해군 함정 피격 후 이란 유조선 타격",
+   "outlet": "NPR",
+   "url": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
+   "video": "https://www.youtube.com/watch?v=ZeSoNOInGZc",
+   "summary_ko": "이란 혁명수비대가 호르무즈 해협 인근에서 미 항공모함과 구축함에 미사일을 발사한 뒤, 미 중부사령부가 이란 원유 운반선 3척을 타격했다. 미 함정은 미사일을 회피해 피해가 없었다. 7월 휴전 붕괴 이후 미국과 이란 사이 최대 규모 교전으로, 유가는 배럴당 100달러에 근접했다.",
+   "topics": [
+    "conflict",
+    "economy"
+   ],
+   "orgs": [
+    "미국",
+    "이란"
+   ],
+   "video_channel": "Bloomberg Television"
+  },
+  {
+   "date": "2026-09-05",
+   "headline": "Two survivors miraculously rescued 10 days after devastating flash floods in Nepal",
+   "headline_ko": "네팔 대홍수 열흘 만에 생존자 2명 기적적 구조",
+   "outlet": "CNN",
+   "url": "https://www.cnn.com/2026/09/05/asia/two-survivors-rescue-flash-floods-nepal-intl",
+   "video": "https://www.youtube.com/watch?v=XojrFy94fVA",
+   "summary_ko": "8월 26일 네팔-티베트 국경에서 발생한 돌발 홍수로 네팔에서 최소 1,362명이 사망했고 수천 명이 실종 상태다. 열흘 만에 수력발전소 터널에 갇힌 중국인 남성과 60세 여성이 구조됐다. 실종자 중 약 900명이 수력발전소 노동자로 알려졌다.",
+   "topics": [
+    "disaster"
+   ],
+   "orgs": [
+    "네팔",
+    "중국"
+   ],
+   "video_channel": "FOX 9 Minneapolis-St. Paul"
+  },
+  {
+   "date": "2026-09-01",
+   "headline": "Russian drone and missile barrage kills at least 12 in Ukraine's Kyiv",
+   "headline_ko": "러시아 드론·미사일 공습으로 키이우에서 최소 12명 사망",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/9/1/russian-drone-and-missile-barrage-kills-at-least-12-in-ukraines-kyiv",
+   "video": "",
+   "summary_ko": "9월 1일 러시아의 대규모 드론·미사일 공습으로 키이우와 주변 지역에서 최소 12명이 숨지고 21명이 다쳤다. 9월 들어 키이우를 겨냥한 야간 공습이 반복되며 민간인 피해가 이어졌다.",
+   "topics": [
+    "conflict"
+   ],
+   "orgs": [
+    "우크라이나",
+    "러시아"
+   ]
+  }
+ ]
+}
