@@ -42,6 +42,9 @@ MEMORY_CSS = """
 .chip.on{background:var(--accent);border-color:var(--accent);color:var(--bg)}
 .tl-panel{margin:6px 0 0;border:1px solid var(--line);border-radius:10px;background:var(--surface)}
 .tl-panel summary{cursor:pointer;list-style:none;padding:4px 10px;font-size:13px;font-weight:700;display:flex;gap:8px;align-items:center;color:var(--muted)}
+.tl-panel summary::before{content:"▸";font-size:12px;color:var(--accent)}
+.tl-panel[open] summary::before{content:"▾"}
+.tl-panel summary:hover{color:var(--fg)}
 .tl-panel summary::-webkit-details-marker{display:none}
 .tl-panel summary .hint{font-weight:500;font-size:12px}
 .tl-panel .tl-mode{margin-left:auto;display:flex;gap:4px}
@@ -206,16 +209,17 @@ def timeline_svg(items: list[dict], mode: str, title: str, hidden: bool = False)
     width = max(1000, len(months) * min(420, max(230, 70 * busiest)) + left + right)
     height = top + len(lanes) * lane_h + 8
 
-    def x(day: date) -> float:
-        return left + (day - d0).days / span * (width - left - right)
+    def x(day: date) -> float:  # newest on the left, older to the right
+        return left + (d1 - day).days / span * (width - left - right)
 
     out = [f'<svg class="tl" data-mode="{mode}"{" hidden" if hidden else ""} viewBox="0 0 {width} {height}" '
            f'width="{width}" height="{height}" xmlns="http://www.w3.org/2000/svg" role="img" '
            f'aria-label="{escape(title)} 타임라인 ({"분야별" if mode == "topic" else "회사별"})">']
     for md in months:
         mx = x(md)
+        # the line marks the month's first day; the month itself extends to the left of it
         out.append(f'<line class="grid" x1="{mx:.0f}" y1="{top - 6}" x2="{mx:.0f}" y2="{height - 4}"/>'
-                   f'<text class="mo" x="{mx + 3:.0f}" y="{top - 12}">{md.year % 100}.{md.month:02d}</text>')
+                   f'<text class="mo" x="{mx - 3:.0f}" y="{top - 12}" text-anchor="end">{md.year % 100}.{md.month:02d}</text>')
     root_y = top + len(lanes) * lane_h / 2
     out.append(f'<circle cx="14" cy="{root_y:.0f}" r="6" style="fill:var(--accent)"/>')
     slots = (-11, 17, -26, 32)  # label offsets from the branch line, cycled to avoid overlaps
@@ -226,7 +230,7 @@ def timeline_svg(items: list[dict], mode: str, title: str, hidden: bool = False)
                    f'<text class="lane" x="28" y="{y + 4:.0f}" style="fill:{color}">{escape(_fit(label, 8))}</text>'
                    f'<line class="ln" x1="{left}" y1="{y:.0f}" x2="{width - right}" y2="{y:.0f}" style="stroke:{color}"/>')
         last = [-1e9] * len(slots)
-        for it in sorted(lane_items, key=lambda i: i["date"]):
+        for it in sorted(lane_items, key=lambda i: i["date"], reverse=True):
             nx = x(date.fromisoformat(it["date"]))
             free = [j for j in range(len(slots)) if nx - last[j] > 118]
             si = free[0] if free else min(range(len(slots)), key=lambda j: last[j])
@@ -241,7 +245,7 @@ def timeline_svg(items: list[dict], mode: str, title: str, hidden: bool = False)
 
 
 def timeline_panel(items: list[dict], title: str) -> str:
-    return (f'<details class="tl-panel" open><summary>🗺 타임라인 <span class="hint">시간순 · 가지는 분류, 점을 누르면 기사가 열립니다</span>'
+    return (f'<details class="tl-panel"><summary>🗺 타임라인 <span class="hint">누르면 펼쳐집니다 · 왼쪽이 최신, 오른쪽이 과거 · 점을 누르면 기사가 열립니다</span>'
             f'<span class="tl-mode"><button class="chip on" data-mode="topic">분야별</button>'
             f'<button class="chip" data-mode="org">회사·기관별</button></span></summary>'
             f'<div class="tl-scroll">{timeline_svg(items, "topic", title)}{timeline_svg(items, "org", title, hidden=True)}</div></details>')
