@@ -1,14 +1,16 @@
 """Memory boards: topic pages (/memory/<board>/) that archive news headlines.
 
 Each board's entries live in data/memory/<board>.json (a list of items with date, headline, outlet,
-url, summary_ko, topics, orgs). The page lists them newest first, grouped by month, with topic
-filters and a search box; each headline expands to a Korean summary and a link to the original
-article. Below the list, a giscus widget (GitHub Discussions) lets the operator add notes once
-giscus is configured. Korean site only.
+url, summary_ko, topics, orgs). The page shows a mind-map style timeline (time on the x axis, one
+branch per topic or per organization, one dot per article) and, below it, the headlines newest
+first, grouped by month, with topic filters and a search box; each headline expands to a Korean
+summary and a link to the original article. Clicking a dot on the timeline opens that headline.
+A giscus widget (GitHub Discussions) for operator notes renders once giscus is configured.
+Korean site only.
 """
 import json
-from collections import OrderedDict
-from datetime import date
+from collections import Counter, OrderedDict
+from datetime import date, timedelta
 from html import escape
 
 from .config import DATA_DIR
@@ -23,58 +25,77 @@ TOPIC_LABELS = {
     "rates": "금리·통화정책", "fx": "환율·외환", "stocks": "증시", "realestate": "부동산·가계대출",
     "banks": "은행·금융사", "crypto": "가상자산", "global": "해외발 영향",
 }
+# Branch colors for the timeline; chosen to read on both the light and the dark background.
+LANE_COLORS = ["#2563eb", "#0f9f8f", "#d97706", "#7c3aed", "#dc2626", "#0891b2", "#65a30d", "#db2777", "#6b7280"]
+MAX_ORG_LANES = 8
 
 MEMORY_CSS = """
-.memory-page .wrap{max-width:980px}
-.hero.compact{padding:14px 0 0}
-.hero.compact h1{font-size:24px;margin:8px 0 2px}
-.hero.compact p{font-size:14px}
-.memory-page .boards{margin:10px 0 12px}
-.memory-page .boards a{font-size:13px;padding:4px 10px}
-.memory-page .meta{font-size:13px;margin:0 0 6px}
-.news-tools{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin:0 0 8px}
-.news-tools input{flex:1 1 160px;min-width:0;font:inherit;font-size:14px;padding:5px 10px;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:var(--fg)}
+.memory-page .wrap{max-width:1100px}
+.hero .boards{display:flex;gap:4px;margin:0 0 0 auto}
+.hero .boards a{font-size:12.5px;font-weight:600;text-decoration:none;color:var(--muted);background:var(--card);padding:3px 9px;border-radius:99px;white-space:nowrap}
+.hero .boards a:hover{color:var(--fg)}
+.news-bar{display:flex;flex-wrap:wrap;gap:6px 8px;align-items:center;margin:8px 0 0;padding-bottom:6px;border-bottom:2px solid var(--line)}
+.news-bar input{flex:0 1 220px;min-width:120px;font:inherit;font-size:13.5px;padding:3px 10px;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:var(--fg)}
+.news-bar .meta{font-size:12.5px;margin:0 0 0 auto;white-space:nowrap}
 .chips{display:flex;flex-wrap:wrap;gap:4px}
-.chip{font:inherit;font-size:12px;font-weight:600;padding:3px 9px;border-radius:99px;border:1px solid var(--line);background:var(--surface);color:var(--muted);cursor:pointer;line-height:1.5}
+.chip{font:inherit;font-size:12px;font-weight:600;padding:2px 9px;border-radius:99px;border:1px solid var(--line);background:var(--surface);color:var(--muted);cursor:pointer;line-height:1.5}
 .chip.on{background:var(--accent);border-color:var(--accent);color:var(--bg)}
-.news-month{margin:14px 0 4px;font-size:13px;color:var(--muted);font-weight:700;letter-spacing:0;position:sticky;top:60px;background:var(--bg);padding:4px 0;z-index:1}
-.news{background:var(--surface);border:1px solid var(--line);border-radius:7px;margin:0 0 3px}
-.news[open]{border-color:var(--accent)}
-.news summary{list-style:none;cursor:pointer;padding:5px 10px;display:grid;grid-template-columns:3.2em 1fr auto;gap:0 10px;align-items:baseline}
+.tl-panel{margin:6px 0 0;border:1px solid var(--line);border-radius:10px;background:var(--surface)}
+.tl-panel summary{cursor:pointer;list-style:none;padding:4px 10px;font-size:13px;font-weight:700;display:flex;gap:8px;align-items:center;color:var(--muted)}
+.tl-panel summary::-webkit-details-marker{display:none}
+.tl-panel summary .hint{font-weight:500;font-size:12px}
+.tl-panel .tl-mode{margin-left:auto;display:flex;gap:4px}
+.tl-scroll{overflow-x:auto;padding:0 6px 4px}
+svg.tl{display:block;font-family:inherit}
+svg.tl .grid{stroke:var(--line);stroke-width:1}
+svg.tl .mo{font-size:11px;fill:var(--muted)}
+svg.tl .lane{font-size:12px;font-weight:700}
+svg.tl .ln{stroke-width:2;opacity:.4}
+svg.tl .br{fill:none;stroke-width:2;opacity:.55}
+svg.tl .lb{font-size:11px;fill:var(--fg)}
+svg.tl .nd{cursor:pointer}
+svg.tl .nd:hover .lb,svg.tl .nd:focus .lb{fill:var(--accent);font-weight:700}
+svg.tl .nd:hover circle,svg.tl .nd:focus circle{r:6}
+.news-month{margin:8px 0 0;font-size:12.5px;color:var(--muted);font-weight:700;position:sticky;top:48px;background:var(--bg);padding:3px 0 2px;z-index:1;border-bottom:1px solid var(--line)}
+.news{border-bottom:1px solid var(--line);margin:0}
+.news[open]{background:var(--surface);border-radius:8px;border:1px solid var(--accent);margin:3px 0}
+.news.hl{box-shadow:0 0 0 3px var(--accent-soft)}
+.news summary{list-style:none;cursor:pointer;padding:3px 6px;display:grid;grid-template-columns:3.1em 1fr auto;gap:0 10px;align-items:baseline}
+.news summary:hover{background:var(--card)}
 .news summary::-webkit-details-marker{display:none}
 .news summary .d{font-size:12px;color:var(--muted);white-space:nowrap;font-variant-numeric:tabular-nums}
-.news summary .h{font-size:14.5px;font-weight:600;line-height:1.45}
+.news summary .h{font-size:14px;font-weight:600;line-height:1.4}
 .news summary .o{font-size:12px;color:var(--muted);white-space:nowrap}
 .news summary .o b{font-weight:600;color:var(--accent)}
 .news .body{padding:0 10px 9px 10px;border-top:1px dashed var(--line)}
-.news .body p{margin:8px 0 0;font-size:14px;line-height:1.65}
+.news .body p{margin:8px 0 0;font-size:14px;line-height:1.6}
 .news .body .orig{color:var(--muted);font-size:13px;margin-top:6px}
 .news .body .tags{margin:8px 0 0;gap:4px}
 .news .body .tags span{font-size:12px;padding:2px 8px}
 .news .body .go{display:inline-block;margin-top:8px;font-size:14px;font-weight:700;text-decoration:none}
 .news-empty{color:var(--muted);padding:16px 0}
-.board-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(290px,1fr));gap:12px;margin-top:14px}
-.board-card{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:12px 14px 10px;display:flex;flex-direction:column;min-width:0}
-.board-card .head{display:flex;gap:10px;align-items:flex-start;text-decoration:none;color:var(--fg);padding-bottom:8px;border-bottom:1px solid var(--line)}
-.board-card .head .emoji{font-size:22px;line-height:1.2}
-.board-card .head b{display:block;font-size:16px;letter-spacing:-.02em}
-.board-card .head small{display:block;color:var(--muted);font-size:12.5px;line-height:1.45;margin-top:2px}
+.board-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(290px,1fr));gap:10px;margin-top:10px}
+.board-card{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:10px 12px 8px;display:flex;flex-direction:column;min-width:0}
+.board-card .head{display:flex;gap:10px;align-items:flex-start;text-decoration:none;color:var(--fg);padding-bottom:6px;border-bottom:1px solid var(--line)}
+.board-card .head .emoji{font-size:20px;line-height:1.2}
+.board-card .head b{display:block;font-size:15.5px;letter-spacing:-.02em}
+.board-card .head small{display:block;color:var(--muted);font-size:12.5px;line-height:1.4;margin-top:1px}
 .board-card .head .count{margin-left:auto;flex:none;font-size:12px;font-weight:700;color:var(--accent);background:var(--accent-soft);padding:2px 8px;border-radius:99px}
-.board-card .preview{list-style:none;margin:6px 0 0;padding:0;flex:1}
-.board-card .preview li{display:flex;gap:8px;align-items:baseline;padding:4px 0;border-bottom:1px dashed var(--line);min-width:0}
+.board-card .preview{list-style:none;margin:4px 0 0;padding:0;flex:1}
+.board-card .preview li{display:flex;gap:8px;align-items:baseline;padding:3px 0;border-bottom:1px dashed var(--line);min-width:0}
 .board-card .preview li:last-child{border-bottom:0}
 .board-card .preview .d{flex:none;font-size:12px;color:var(--muted);font-variant-numeric:tabular-nums}
-.board-card .preview a{font-size:13.5px;line-height:1.45;color:var(--fg);text-decoration:none;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.board-card .preview a{font-size:13.5px;line-height:1.4;color:var(--fg);text-decoration:none;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .board-card .preview a:hover{color:var(--accent)}
-.board-card .more{display:block;margin-top:8px;font-size:13px;font-weight:700;text-decoration:none;text-align:right}
-.board-card .news-empty{padding:10px 0;font-size:13.5px;flex:1}
-@media (max-width:560px){.news summary{grid-template-columns:3em 1fr;gap:0 8px}.news summary .o{grid-column:2;margin-top:-2px}}
+.board-card .more{display:block;margin-top:6px;font-size:13px;font-weight:700;text-decoration:none;text-align:right}
+.board-card .news-empty{padding:8px 0;font-size:13.5px;flex:1}
+@media (max-width:560px){.news summary{grid-template-columns:3em 1fr;gap:0 8px}.news summary .o{grid-column:2;margin-top:-2px}.news-bar .meta{margin-left:0}.hero .boards{margin-left:0}}
 """
 
 MEMORY_JS = """
 (function(){
   var topic='all', q='';
-  var chips=document.querySelectorAll('.chip'), items=document.querySelectorAll('.news'),
+  var chips=document.querySelectorAll('.chips .chip'), items=document.querySelectorAll('.news'),
       months=document.querySelectorAll('.news-month'), box=document.getElementById('news-q'),
       count=document.getElementById('news-count');
   function apply(){
@@ -95,6 +116,22 @@ MEMORY_JS = """
     chips.forEach(function(x){x.classList.remove('on')}); c.classList.add('on'); topic=c.dataset.topic; apply();
   })});
   if(box)box.addEventListener('input',function(){q=box.value;apply();});
+  // timeline: mode switch and dot -> headline
+  document.querySelectorAll('.tl-mode button').forEach(function(b){b.addEventListener('click',function(e){
+    e.preventDefault(); e.stopPropagation();
+    document.querySelectorAll('.tl-mode button').forEach(function(x){x.classList.remove('on')}); b.classList.add('on');
+    document.querySelectorAll('svg.tl').forEach(function(s){s.hidden=s.dataset.mode!==b.dataset.mode;});
+  })});
+  function openItem(id){
+    var el=document.querySelector('.news[data-id="'+id+'"]'); if(!el)return;
+    if(el.hidden){ topic='all'; q=''; if(box)box.value=''; chips.forEach(function(x){x.classList.toggle('on',x.dataset.topic==='all')}); apply(); }
+    el.open=true; el.scrollIntoView({behavior:'smooth',block:'center'});
+    el.classList.add('hl'); setTimeout(function(){el.classList.remove('hl')},1600);
+  }
+  document.querySelectorAll('svg.tl .nd').forEach(function(g){
+    g.addEventListener('click',function(){openItem(g.dataset.id)});
+    g.addEventListener('keydown',function(e){if(e.key==='Enter'||e.key===' '){e.preventDefault();openItem(g.dataset.id);}});
+  });
 })();
 """
 
@@ -121,6 +158,83 @@ def giscus_html(cfg: dict, term: str) -> str:
             f'crossorigin="anonymous" async></script>')
 
 
+# ---------------------------------------------------------------- timeline (mind-map over time)
+
+def _lanes(items: list[dict], mode: str) -> list[tuple[str, list[dict]]]:
+    """(label, items) per branch. mode "topic": one branch per topic (an item can sit on several);
+    mode "org": one branch per main organization (the item's first org), top N plus '기타'."""
+    if mode == "topic":
+        counts = Counter(t for i in items for t in i.get("topics", []))
+        return [(TOPIC_LABELS.get(t, t), [i for i in items if t in i.get("topics", [])])
+                for t, _ in counts.most_common()]
+    primary = {i["_id"]: (i.get("orgs") or ["기타"])[0] for i in items}
+    counts = Counter(primary.values())
+    top = [o for o, _ in counts.most_common(MAX_ORG_LANES) if o != "기타"]
+    lanes = [(o, [i for i in items if primary[i["_id"]] == o]) for o in top]
+    rest = [i for i in items if primary[i["_id"]] not in top]
+    if rest:
+        lanes.append(("기타", rest))
+    return lanes
+
+
+def timeline_svg(items: list[dict], mode: str, title: str, hidden: bool = False) -> str:
+    """Inline SVG: months left to right, one colored branch per lane, one dot per article.
+    Each dot carries data-id so the page script can open the matching headline."""
+    lanes = _lanes(items, mode)
+    dates = [date.fromisoformat(i["date"]) for i in items]
+    d0, d1 = min(dates).replace(day=1), max(dates)
+    months, d = [], d0
+    while d <= d1:
+        months.append(d)
+        d = (d + timedelta(days=32)).replace(day=1)
+    span = max(1, (d1 - d0).days + 1)
+    left, right, top, lane_h = 128, 40, 30, 70
+    width = max(1000, len(months) * 150 + left + right)
+    height = top + len(lanes) * lane_h + 8
+
+    def x(day: date) -> float:
+        return left + (day - d0).days / span * (width - left - right)
+
+    out = [f'<svg class="tl" data-mode="{mode}"{" hidden" if hidden else ""} viewBox="0 0 {width} {height}" '
+           f'width="{width}" height="{height}" xmlns="http://www.w3.org/2000/svg" role="img" '
+           f'aria-label="{escape(title)} 타임라인 ({"분야별" if mode == "topic" else "회사별"})">']
+    for md in months:
+        mx = x(md)
+        out.append(f'<line class="grid" x1="{mx:.0f}" y1="{top - 6}" x2="{mx:.0f}" y2="{height - 4}"/>'
+                   f'<text class="mo" x="{mx + 3:.0f}" y="{top - 12}">{md.year % 100}.{md.month:02d}</text>')
+    root_y = top + len(lanes) * lane_h / 2
+    out.append(f'<circle cx="14" cy="{root_y:.0f}" r="6" style="fill:var(--accent)"/>')
+    slots = (-11, 17, -26, 32)  # label offsets from the branch line, cycled to avoid overlaps
+    for li, (label, lane_items) in enumerate(lanes):
+        y = top + li * lane_h + lane_h / 2
+        color = LANE_COLORS[li % len(LANE_COLORS)]
+        out.append(f'<path class="br" d="M14 {root_y:.0f} C 22 {root_y:.0f}, 18 {y:.0f}, 26 {y:.0f}" style="stroke:{color}"/>'
+                   f'<text class="lane" x="28" y="{y + 4:.0f}" style="fill:{color}">{escape(label[:8])}</text>'
+                   f'<line class="ln" x1="{left}" y1="{y:.0f}" x2="{width - right}" y2="{y:.0f}" style="stroke:{color}"/>')
+        last = [-1e9] * len(slots)
+        for it in sorted(lane_items, key=lambda i: i["date"]):
+            nx = x(date.fromisoformat(it["date"]))
+            free = [j for j in range(len(slots)) if nx - last[j] > 92]
+            si = free[0] if free else min(range(len(slots)), key=lambda j: last[j])
+            last[si] = nx
+            text = it.get("headline_ko") or it["headline"]
+            short = text[:13] + ("…" if len(text) > 13 else "")
+            out.append(f'<g class="nd" data-id="{it["_id"]}" tabindex="0"><title>{escape(it["date"])} · {escape(text)}</title>'
+                       f'<circle cx="{nx:.0f}" cy="{y:.0f}" r="4" style="fill:{color}"/>'
+                       f'<text class="lb" x="{nx:.0f}" y="{y + slots[si]:.0f}" text-anchor="middle">{escape(short)}</text></g>')
+    out.append("</svg>")
+    return "".join(out)
+
+
+def timeline_panel(items: list[dict], title: str) -> str:
+    return (f'<details class="tl-panel" open><summary>🗺 타임라인 <span class="hint">시간순 · 가지는 분류, 점을 누르면 기사가 열립니다</span>'
+            f'<span class="tl-mode"><button class="chip on" data-mode="topic">분야별</button>'
+            f'<button class="chip" data-mode="org">회사·기관별</button></span></summary>'
+            f'<div class="tl-scroll">{timeline_svg(items, "topic", title)}{timeline_svg(items, "org", title, hidden=True)}</div></details>')
+
+
+# ---------------------------------------------------------------- headline list
+
 def _item_html(item: dict) -> str:
     d = date.fromisoformat(item["date"])
     head_ko = item.get("headline_ko") or item["headline"]
@@ -130,7 +244,7 @@ def _item_html(item: dict) -> str:
                      *(TOPIC_LABELS.get(t, t) for t in item.get("topics", []))]).lower()
     tags = "".join(f"<span>{escape(TOPIC_LABELS.get(t, t))}</span>" for t in item.get("topics", []))
     tags += "".join(f"<span>{escape(o)}</span>" for o in item.get("orgs", []))
-    return (f'<details class="news" data-topics="{escape(topics)}" data-text="{escape(text)}">'
+    return (f'<details class="news" data-id="{item["_id"]}" data-topics="{escape(topics)}" data-text="{escape(text)}">'
             f'<summary><span class="d">{d.month}.{d.day:02d}</span><span class="h">{escape(head_ko)}</span>'
             f'<span class="o"><b>{escape(item.get("outlet", ""))}</b></span></summary>'
             f'<div class="body"><p>{escape(item.get("summary_ko", ""))}</p>'
@@ -140,9 +254,10 @@ def _item_html(item: dict) -> str:
             f'</div></details>')
 
 
-def news_list_html(items: list[dict]) -> str:
+def news_list_html(items: list[dict], title: str = "") -> str:
     if not items:
         return '<p class="news-empty">아직 모아 둔 기사가 없습니다.</p>'
+    items = [{**i, "_id": n} for n, i in enumerate(items)]
     topics = OrderedDict()
     for i in items:
         for t in i.get("topics", []):
@@ -150,10 +265,10 @@ def news_list_html(items: list[dict]) -> str:
     chips = '<button class="chip on" data-topic="all">전체</button>' + "".join(
         f'<button class="chip" data-topic="{escape(t)}">{escape(TOPIC_LABELS.get(t, t))} {n}</button>'
         for t, n in sorted(topics.items(), key=lambda x: -x[1]))
-    out = [f'<p class="meta">총 <span id="news-count">{len(items)}</span>건 · {items[0]["date"]} 기준 · '
-           f'제목을 누르면 요약·원문 링크</p>',
-           f'<div class="news-tools"><input id="news-q" type="search" placeholder="검색: 회사, 키워드, 언론사">'
-           f'<div class="chips">{chips}</div></div>']
+    out = [f'<div class="news-bar"><input id="news-q" type="search" placeholder="검색: 회사, 키워드, 언론사">'
+           f'<div class="chips">{chips}</div>'
+           f'<span class="meta"><span id="news-count">{len(items)}</span>건 · {items[0]["date"]} 기준</span></div>',
+           timeline_panel(items, title)]
     month = None
     for i in items:
         m = i["date"][:7]
@@ -165,6 +280,8 @@ def news_list_html(items: list[dict]) -> str:
     out.append(f"<script>{MEMORY_JS}</script>")
     return "".join(out)
 
+
+# ---------------------------------------------------------------- pages
 
 def board_cards(cfg: dict, preview: int = 6) -> str:
     """One card per board: name, count, and the latest headlines (linking to the originals)."""
@@ -204,10 +321,10 @@ def board_body(cfg: dict, key: str) -> str:
         f'<a href="{cfg["site_url"]}/memory/{k}/">{o["emoji"]} {escape(o["name"])}</a>'
         for k, o in m["boards"].items() if k != key
     )
+    # One line: kicker · board name · description · links to the other boards
     return (f'<section class="hero compact"><span class="kicker">{b["emoji"]} {escape(m["title"])}</span>'
-            f'<h1>{escape(b["name"])}</h1><p>{escape(b["desc"])}</p></section>'
-            f'<nav class="boards">{others}</nav>'
-            f'<section class="board-feed">{news_list_html(load_items(key))}</section>'
+            f'<h1>{escape(b["name"])}</h1><p>{escape(b["desc"])}</p><nav class="boards">{others}</nav></section>'
+            f'<section class="board-feed">{news_list_html(load_items(key), b["name"])}</section>'
             f'<section class="board-notes">{giscus_html(cfg, f"memory/{key}")}</section>')
 
 
