@@ -134,8 +134,10 @@ def test_memory_boards(tmp_path, monkeypatch):
     assert "Old &lt;story&gt;" in board and 'href="https://example.com/a?x=1&amp;y=2"' in board
     assert 'data-topic="policy"' in board and "정책·규제" in board
     assert "giscus.app" not in board  # not configured yet
-    assert '<svg class="tl" data-mode="topic"' in board and 'data-mode="org" hidden' in board  # timeline
-    assert board.count('class="nd" data-id="1"') == 2  # the older item appears on both timeline modes
+    assert '<svg class="tl" data-mode="topic"' in board and '<svg class="tl" data-mode="org"' in board  # timeline
+    assert board.count(' hidden viewBox=') == 1  # the org view starts hidden
+    assert board.count('data-id="1"') >= 3  # headline + a dot on each timeline mode
+    assert 'class="lane-g" data-key="policy"' in board and 'class="lane-g" data-key="model"' in board
     empty = (public_dir / "memory/world-economy/index.html").read_text(encoding="utf-8")
     assert "아직 모아 둔 기사가 없습니다" in empty
     assert "memory/ai-news/" in (public_dir / "sitemap.xml").read_text(encoding="utf-8")

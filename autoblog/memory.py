@@ -40,6 +40,8 @@ MEMORY_CSS = """
 .chips{display:flex;flex-wrap:wrap;gap:4px}
 .chip{font:inherit;font-size:12px;font-weight:600;padding:2px 9px;border-radius:99px;border:1px solid var(--line);background:var(--surface);color:var(--muted);cursor:pointer;line-height:1.5}
 .chip.on{background:var(--accent);border-color:var(--accent);color:var(--bg)}
+.chips .chip:not([data-topic=all])::before{content:"☐";margin-right:4px;font-size:11px}
+.chips .chip.on:not([data-topic=all])::before{content:"☑"}
 .tl-panel{margin:6px 0 0;border:1px solid var(--line);border-radius:10px;background:var(--surface)}
 .tl-panel summary{cursor:pointer;list-style:none;padding:4px 10px;font-size:13px;font-weight:700;display:flex;gap:8px;align-items:center;color:var(--muted)}
 .tl-panel summary::before{content:"▸";font-size:12px;color:var(--accent)}
@@ -52,13 +54,17 @@ MEMORY_CSS = """
 svg.tl{display:block;font-family:inherit}
 svg.tl[hidden]{display:none}
 svg.tl .grid{stroke:var(--line);stroke-width:1}
+svg.tl .spine{stroke:var(--accent);stroke-width:2;opacity:.5}
+svg.tl .root{fill:var(--accent)}
 svg.tl .mo{font-size:11px;fill:var(--muted)}
 svg.tl .lane{font-size:12px;font-weight:700}
 svg.tl .ln{stroke-width:2;opacity:.4}
 svg.tl .br{fill:none;stroke-width:2;opacity:.55}
-svg.tl .lb{font-size:11px;fill:var(--fg)}
+svg.tl .lb{font-size:11px}
+svg.tl .tick{stroke-width:1;opacity:.45}
+svg.tl .nd.bare circle{opacity:.55}
 svg.tl .nd{cursor:pointer}
-svg.tl .nd:hover .lb,svg.tl .nd:focus .lb{fill:var(--accent);font-weight:700}
+svg.tl .nd:hover .lb,svg.tl .nd:focus .lb{font-weight:700;text-decoration:underline}
 svg.tl .nd:hover circle,svg.tl .nd:focus circle{r:6}
 .news-month{margin:8px 0 0;font-size:12.5px;color:var(--muted);font-weight:700;position:sticky;top:48px;background:var(--bg);padding:3px 0 2px;z-index:1;border-bottom:1px solid var(--line)}
 .news{border-bottom:1px solid var(--line);margin:0}
@@ -98,15 +104,16 @@ svg.tl .nd:hover circle,svg.tl .nd:focus circle{r:6}
 
 MEMORY_JS = """
 (function(){
-  var topic='all', q='';
+  var sel=new Set(), q='';
   var chips=document.querySelectorAll('.chips .chip'), items=document.querySelectorAll('.news'),
       months=document.querySelectorAll('.news-month'), box=document.getElementById('news-q'),
       count=document.getElementById('news-count');
+  var byId={}; items.forEach(function(el){byId[el.dataset.id]=el;});
+  function matchTopic(list){ if(!sel.size)return true; return list.split(' ').some(function(t){return sel.has(t)}); }
   function apply(){
     var n=0, qq=q.trim().toLowerCase();
     items.forEach(function(el){
-      var ok=(topic==='all'||(' '+el.dataset.topics+' ').indexOf(' '+topic+' ')>=0)
-             &&(!qq||el.dataset.text.indexOf(qq)>=0);
+      var ok=matchTopic(el.dataset.topics)&&(!qq||el.dataset.text.indexOf(qq)>=0);
       el.hidden=!ok; if(ok)n++;
     });
     months.forEach(function(m){
@@ -115,20 +122,42 @@ MEMORY_JS = """
       m.hidden=!any;
     });
     if(count)count.textContent=n;
+    chips.forEach(function(c){c.classList.toggle('on', c.dataset.topic==='all' ? !sel.size : sel.has(c.dataset.topic));});
+    applyTl();
   }
   chips.forEach(function(c){c.addEventListener('click',function(){
-    chips.forEach(function(x){x.classList.remove('on')}); c.classList.add('on'); topic=c.dataset.topic; apply();
+    var t=c.dataset.topic;
+    if(t==='all')sel.clear(); else if(sel.has(t))sel.delete(t); else sel.add(t);
+    apply();
   })});
   if(box)box.addEventListener('input',function(){q=box.value;apply();});
-  // timeline: mode switch and dot -> headline
+  // timeline: show the chosen mode, keep only selected branches (topic mode), hide filtered dots, re-pack rows
+  function tlMode(){var b=document.querySelector('.tl-mode button.on');return b?b.dataset.mode:'topic';}
+  function applyTl(){
+    var mode=tlMode();
+    document.querySelectorAll('svg.tl').forEach(function(s){
+      s.hidden=s.dataset.mode!==mode; if(s.hidden)return;
+      var top=+s.dataset.top, lh=+s.dataset.lane, w=+s.dataset.w, idx=0;
+      s.querySelectorAll('.lane-g').forEach(function(g){
+        var show=(mode!=='topic')||!sel.size||sel.has(g.dataset.key);
+        g.style.display=show?'':'none'; if(!show)return;
+        g.setAttribute('transform','translate(0,'+(top+idx*lh)+')'); idx++;
+        g.querySelectorAll('.nd').forEach(function(d){var el=byId[d.dataset.id]; d.style.display=(el&&el.hidden)?'none':'';});
+      });
+      var h=top+Math.max(idx,1)*lh+8, y1=top+lh/2, y2=top+(Math.max(idx,1)-1)*lh+lh/2;
+      s.setAttribute('height',h); s.setAttribute('viewBox','0 0 '+w+' '+h);
+      var sp=s.querySelector('.spine'), rt=s.querySelector('.root');
+      if(sp){sp.setAttribute('y1',y1);sp.setAttribute('y2',y2);} if(rt)rt.setAttribute('cy',(y1+y2)/2);
+    });
+  }
   document.querySelectorAll('.tl-mode button').forEach(function(b){b.addEventListener('click',function(e){
     e.preventDefault(); e.stopPropagation();
     document.querySelectorAll('.tl-mode button').forEach(function(x){x.classList.remove('on')}); b.classList.add('on');
-    document.querySelectorAll('svg.tl').forEach(function(s){s.hidden=s.dataset.mode!==b.dataset.mode;});
+    applyTl();
   })});
   function openItem(id){
-    var el=document.querySelector('.news[data-id="'+id+'"]'); if(!el)return;
-    if(el.hidden){ topic='all'; q=''; if(box)box.value=''; chips.forEach(function(x){x.classList.toggle('on',x.dataset.topic==='all')}); apply(); }
+    var el=byId[id]; if(!el)return;
+    if(el.hidden){ sel.clear(); q=''; if(box)box.value=''; apply(); }
     el.open=true; el.scrollIntoView({behavior:'smooth',block:'center'});
     el.classList.add('hl'); setTimeout(function(){el.classList.remove('hl')},1600);
   }
@@ -164,20 +193,20 @@ def giscus_html(cfg: dict, term: str) -> str:
 
 # ---------------------------------------------------------------- timeline (mind-map over time)
 
-def _lanes(items: list[dict], mode: str) -> list[tuple[str, list[dict]]]:
-    """(label, items) per branch. mode "topic": one branch per topic (an item can sit on several);
+def _lanes(items: list[dict], mode: str) -> list[tuple[str, str, list[dict]]]:
+    """(key, label, items) per branch. mode "topic": one branch per topic (an item can sit on several);
     mode "org": one branch per main organization (the item's first org), top N plus '기타'."""
     if mode == "topic":
         counts = Counter(t for i in items for t in i.get("topics", []))
-        return [(TOPIC_LABELS.get(t, t), [i for i in items if t in i.get("topics", [])])
+        return [(t, TOPIC_LABELS.get(t, t), [i for i in items if t in i.get("topics", [])])
                 for t, _ in counts.most_common()]
     primary = {i["_id"]: (i.get("orgs") or ["기타"])[0] for i in items}
     counts = Counter(primary.values())
     top = [o for o, _ in counts.most_common(MAX_ORG_LANES) if o != "기타"]
-    lanes = [(o, [i for i in items if primary[i["_id"]] == o]) for o in top]
+    lanes = [(o, o, [i for i in items if primary[i["_id"]] == o]) for o in top]
     rest = [i for i in items if primary[i["_id"]] not in top]
     if rest:
-        lanes.append(("기타", rest))
+        lanes.append(("etc", "기타", rest))
     return lanes
 
 
@@ -192,9 +221,15 @@ def _fit(text: str, cjk_chars: int) -> str:
     return out
 
 
+def _text_w(text: str, px: float = 11) -> float:
+    """Approximate rendered width: CJK glyphs are square, Latin glyphs about half as wide."""
+    return sum(px if ord(ch) > 0x2E7F else px * 0.55 for ch in text)
+
+
 def timeline_svg(items: list[dict], mode: str, title: str, hidden: bool = False) -> str:
-    """Inline SVG: months left to right, one colored branch per lane, one dot per article.
-    Each dot carries data-id so the page script can open the matching headline."""
+    """Inline SVG: newest on the left, one colored branch per lane, one dot per article.
+    Each lane is a <g class="lane-g" data-key> positioned by transform, so the page script can show
+    a subset of branches and re-pack them; each dot carries data-id to open the matching headline."""
     lanes = _lanes(items, mode)
     dates = [date.fromisoformat(i["date"]) for i in items]
     d0, d1 = min(dates).replace(day=1), max(dates)
@@ -203,49 +238,61 @@ def timeline_svg(items: list[dict], mode: str, title: str, hidden: bool = False)
         months.append(d)
         d = (d + timedelta(days=32)).replace(day=1)
     span = max(1, (d1 - d0).days + 1)
-    left, right, top, lane_h = 128, 40, 30, 70
+    left, right, top, lane_h = 128, 40, 30, 84
     # Month width grows with the busiest lane-month so labels keep room (clamped to 230..420px).
-    busiest = max(Counter((li, i["date"][:7]) for li, (_, lane_items) in enumerate(lanes) for i in lane_items).values())
+    busiest = max(Counter((li, i["date"][:7]) for li, (_, _, lane_items) in enumerate(lanes) for i in lane_items).values())
     width = max(1000, len(months) * min(420, max(230, 70 * busiest)) + left + right)
     height = top + len(lanes) * lane_h + 8
 
     def x(day: date) -> float:  # newest on the left, older to the right
         return left + (d1 - day).days / span * (width - left - right)
 
-    out = [f'<svg class="tl" data-mode="{mode}"{" hidden" if hidden else ""} viewBox="0 0 {width} {height}" '
-           f'width="{width}" height="{height}" xmlns="http://www.w3.org/2000/svg" role="img" '
-           f'aria-label="{escape(title)} 타임라인 ({"분야별" if mode == "topic" else "회사별"})">']
+    out = [f'<svg class="tl" data-mode="{mode}" data-top="{top}" data-lane="{lane_h}" data-w="{width}"'
+           f'{" hidden" if hidden else ""} viewBox="0 0 {width} {height}" width="{width}" height="{height}" '
+           f'xmlns="http://www.w3.org/2000/svg" role="img" aria-label="{escape(title)} 타임라인 ({"분야별" if mode == "topic" else "회사별"})">']
     for md in months:
         mx = x(md)
         # the line marks the month's first day; the month itself extends to the left of it
-        out.append(f'<line class="grid" x1="{mx:.0f}" y1="{top - 6}" x2="{mx:.0f}" y2="{height - 4}"/>'
+        out.append(f'<line class="grid" x1="{mx:.0f}" y1="{top - 6}" x2="{mx:.0f}" y2="4000"/>'
                    f'<text class="mo" x="{mx - 3:.0f}" y="{top - 12}" text-anchor="end">{md.year % 100}.{md.month:02d}</text>')
-    root_y = top + len(lanes) * lane_h / 2
-    out.append(f'<circle cx="14" cy="{root_y:.0f}" r="6" style="fill:var(--accent)"/>')
-    slots = (-11, 17, -26, 32)  # label offsets from the branch line, cycled to avoid overlaps
-    for li, (label, lane_items) in enumerate(lanes):
-        y = top + li * lane_h + lane_h / 2
-        color = LANE_COLORS[li % len(LANE_COLORS)]
-        out.append(f'<path class="br" d="M14 {root_y:.0f} C 22 {root_y:.0f}, 18 {y:.0f}, 26 {y:.0f}" style="stroke:{color}"/>'
+    y_first, y_last = top + lane_h / 2, top + (len(lanes) - 1) * lane_h + lane_h / 2
+    out.append(f'<line class="spine" x1="14" y1="{y_first:.0f}" x2="14" y2="{y_last:.0f}"/>'
+               f'<circle class="root" cx="14" cy="{(y_first + y_last) / 2:.0f}" r="6"/>')
+    slots = (-11, 17, -24, 30, -37)  # label baseline offsets from the branch line (5 rows)
+    y = lane_h / 2  # lane-relative; the group transform places the lane
+    for li, (key, label, lane_items) in enumerate(lanes):
+        # topic colors follow TOPIC_LABELS order so a topic keeps its color on every board
+        ci = list(TOPIC_LABELS).index(key) if key in TOPIC_LABELS else li
+        color = LANE_COLORS[ci % len(LANE_COLORS)]
+        out.append(f'<g class="lane-g" data-key="{escape(key)}" transform="translate(0,{top + li * lane_h})">'
+                   f'<path class="br" d="M14 {y:.0f} C 20 {y:.0f}, 20 {y:.0f}, 26 {y:.0f}" style="stroke:{color}"/>'
                    f'<text class="lane" x="28" y="{y + 4:.0f}" style="fill:{color}">{escape(_fit(label, 8))}</text>'
                    f'<line class="ln" x1="{left}" y1="{y:.0f}" x2="{width - right}" y2="{y:.0f}" style="stroke:{color}"/>')
-        last = [-1e9] * len(slots)
+        right_edge = [-1e9] * len(slots)  # right-most occupied x per label row
         for it in sorted(lane_items, key=lambda i: i["date"], reverse=True):
             nx = x(date.fromisoformat(it["date"]))
-            free = [j for j in range(len(slots)) if nx - last[j] > 118]
-            si = free[0] if free else min(range(len(slots)), key=lambda j: last[j])
-            last[si] = nx
             text = it.get("headline_ko") or it["headline"]
             short = _fit(text, 12)
-            out.append(f'<g class="nd" data-id="{it["_id"]}" tabindex="0"><title>{escape(it["date"])} · {escape(text)}</title>'
-                       f'<circle cx="{nx:.0f}" cy="{y:.0f}" r="4" style="fill:{color}"/>'
-                       f'<text class="lb" x="{nx:.0f}" y="{y + slots[si]:.0f}" text-anchor="middle">{escape(short)}</text></g>')
+            half = _text_w(short) / 2
+            free = [j for j in range(len(slots)) if nx - half > right_edge[j] + 8]
+            lbl = ""
+            if free:
+                si = free[0]
+                right_edge[si] = nx + half
+                dy = slots[si]
+                # a hairline from the dot to the label so the pairing stays clear
+                y1, y2 = (y - 5, y + dy + 3) if dy < 0 else (y + 5, y + dy - 10)
+                lbl = (f'<line class="tick" x1="{nx:.0f}" y1="{y1:.0f}" x2="{nx:.0f}" y2="{y2:.0f}" style="stroke:{color}"/>'
+                       f'<text class="lb" x="{nx:.0f}" y="{y + dy:.0f}" text-anchor="middle" style="fill:{color}">{escape(short)}</text>')
+            out.append(f'<g class="nd{"" if lbl else " bare"}" data-id="{it["_id"]}" tabindex="0"><title>{escape(it["date"])} · {escape(text)}</title>'
+                       f'<circle cx="{nx:.0f}" cy="{y:.0f}" r="4" style="fill:{color}"/>{lbl}</g>')
+        out.append("</g>")
     out.append("</svg>")
     return "".join(out)
 
 
 def timeline_panel(items: list[dict], title: str) -> str:
-    return (f'<details class="tl-panel"><summary>🗺 타임라인 <span class="hint">누르면 펼쳐집니다 · 왼쪽이 최신, 오른쪽이 과거 · 점을 누르면 기사가 열립니다</span>'
+    return (f'<details class="tl-panel"><summary>🗺 타임라인 <span class="hint">누르면 펼쳐집니다 · 왼쪽이 최신, 오른쪽이 과거 · 위에서 고른 분류·검색이 그대로 적용됩니다</span>'
             f'<span class="tl-mode"><button class="chip on" data-mode="topic">분야별</button>'
             f'<button class="chip" data-mode="org">회사·기관별</button></span></summary>'
             f'<div class="tl-scroll">{timeline_svg(items, "topic", title)}{timeline_svg(items, "org", title, hidden=True)}</div></details>')
