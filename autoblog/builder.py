@@ -13,6 +13,7 @@ from pathlib import Path
 import markdown
 
 from .config import POSTS_DIR, PUBLIC_DIR, ROOT
+from .memory import memory_pages
 from .tools import TOOL_CSS, TOOLS, render_tool_body, tool_list_html
 
 FONT_CSS = "https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css"
@@ -58,6 +59,11 @@ h3{font-size:19px;margin:32px 0 8px}
 .badge.work{color:var(--work);background:var(--work-soft)}
 .badge.life{color:var(--life);background:var(--life-soft)}
 .badge.broadcast{color:#7c3aed;background:rgba(124,58,237,.12)}
+.badge.memory{color:#2563eb;background:rgba(37,99,235,.12)}
+.boards{display:flex;flex-wrap:wrap;gap:8px;margin:8px 0 24px}
+.boards a{font-size:14px;font-weight:600;text-decoration:none;color:var(--muted);background:var(--card);padding:6px 12px;border-radius:99px}
+.boards a:hover{color:var(--fg)}
+.board-feed{margin-top:8px}
 .qa{background:var(--surface);border:1px solid var(--accent);border-radius:14px;padding:14px 18px;margin:28px 0 0}
 .qa a{font-weight:600;white-space:nowrap}
 .author{display:flex;gap:14px;align-items:center;background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:16px 18px;margin:28px 0}
@@ -221,6 +227,8 @@ def _nav_links(cfg: dict, current: str) -> str:
     items = [(key, f"{base}/category/{key}/", c["name"]) for key, c in cfg["categories"].items()]
     if _is_ko(cfg):  # the calculators are Korea-specific (KRW, pyeong), so they stay Korean-only
         items.append(("tools", f"{base}/tools/", "계산기"))
+        if cfg.get("memory", {}).get("boards"):
+            items.append(("memory", f"{base}/memory/", cfg["memory"]["title"]))
     return "".join(
         f'<a href="{href}"{" class=on" if key == current else ""}>{escape(name)}</a>'
         for key, href, name in items
@@ -447,26 +455,15 @@ def _static_pages(cfg: dict) -> dict[str, tuple[str, str]]:
         work = escape(cfg["categories"]["work"]["name"])
         return FOREIGN_STATIC_PAGES[cfg["language"]](name, escape(cfg["author_bio"]), work)
     return {
-            "about": ("About", f"""<h1>About</h1>
-<p>{escape(cfg['author_bio'])}</p>
-<p>This is the English edition of a Korean blog. Posts are translated from Korean with the help of AI tools.
-Stories under '{escape(cfg['categories']['work']['name'])}' are written by the author from personal experience;
-the practical tips are researched and drafted with AI assistance. Prices, specs and policies change, and many
-details are specific to Korea, so please check official sources before you buy or apply anything.</p>"""),
-            "privacy": ("Privacy Policy", f"""<h1>Privacy Policy</h1>
-<p>{name} has no accounts or comments and does not directly collect visitors' personal information.</p>
-<h2>Advertising and cookies</h2>
-<p>This site may show third-party ads such as Google AdSense. Google and other third-party vendors use cookies to
-serve ads based on your prior visits. You can opt out of personalized advertising in
-<a href="https://adssettings.google.com" rel="nofollow">Google Ads Settings</a>.</p>"""),
-        }
-    return {
         "about": ("소개", f"""<h1>소개</h1>
 <p>{escape(cfg['author_bio'])}</p>
 <p>'직장생활 이야기'는 운영자가 직접 겪고 쓴 글입니다. '생활 꿀팁'의 정보성 글은 AI 도구의 도움을 받아 작성되며, 가격·사양·정책 등은 변동될 수 있으니 구매나 적용 전 공식 정보를 꼭 확인해 주세요.</p>
 <p>일부 글에는 제휴 링크(쿠팡 파트너스 등)가 포함될 수 있으며, 이를 통해 구매가 이루어지면 운영자가 일정 수수료를 받습니다.</p>"""),
         "privacy": ("개인정보처리방침", f"""<h1>개인정보처리방침</h1>
-<p>{name}은(는) 회원가입이나 댓글 기능이 없으며 방문자의 개인정보를 직접 수집하지 않습니다.</p>
+<p>{name}은(는) 회원가입 기능이 없으며 방문자의 개인정보를 직접 수집하지 않습니다.</p>
+<p>Memory 게시판은 GitHub Discussions 기반의 giscus 위젯으로 표시됩니다. 해당 영역은 GitHub에서 제공하며
+<a href="https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement" rel="nofollow">GitHub 개인정보 보호 정책</a>이 적용됩니다.
+게시판 글은 운영자만 작성합니다.</p>
 <h2>광고 및 쿠키</h2>
 <p>본 사이트는 Google AdSense 등 제3자 광고를 게재할 수 있습니다. Google을 비롯한 제3자 공급업체는 쿠키를 사용하여
 사용자의 이전 방문 기록을 바탕으로 광고를 게재합니다. 사용자는
@@ -529,6 +526,11 @@ def build_site(cfg: dict) -> int:
                  canonical=f"{base}/tools/", nav="tools", langs=["ko"]))
 
     urls += [f"{base}/tools/"] + [f"{base}/tools/{t['slug']}/" for t in TOOLS]
+    for path, title, description, body in memory_pages(cfg):
+        _write(PUBLIC_DIR / path / "index.html",
+               _page(cfg, title, body, nav="memory", description=description,
+                     canonical=f"{base}/{path}", path=path, langs=["ko"]))
+        urls.append(f"{base}/{path}")
     sitemap = "".join(f"<url><loc>{escape(u)}</loc></url>" for u in urls)
     _write(PUBLIC_DIR / "sitemap.xml",
            f'<?xml version="1.0" encoding="UTF-8"?>\n'

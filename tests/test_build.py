@@ -104,3 +104,29 @@ def test_tool_as_post_wraps_calculator_for_threads():
     assert post["slug"] == "tool:card-statement-lookup"
     assert post["url"] == "https://example.com/tools/card-statement-lookup/"
     assert "<" not in post["body_markdown"] and "카드사" in post["body_markdown"]
+
+
+def test_memory_boards(tmp_path, monkeypatch):
+    posts_dir = tmp_path / "posts"
+    public_dir = tmp_path / "public"
+    posts_dir.mkdir()
+    monkeypatch.setattr(builder, "POSTS_DIR", posts_dir)
+    monkeypatch.setattr(builder, "PUBLIC_DIR", public_dir)
+    cfg = config.load_config()
+    cfg["giscus"] = {"repo": "o/r", "repo_id": "R_1", "category": "Memory", "category_id": ""}
+    builder.build_site(cfg)
+    index = (public_dir / "memory/index.html").read_text(encoding="utf-8")
+    assert "AI 최신 뉴스" in index and "/memory/korea-economy/" in index
+    board = (public_dir / "memory/ai-news/index.html").read_text(encoding="utf-8")
+    assert "준비 중" in board and "giscus.app" not in board  # not configured yet
+    assert "memory/ai-news/" in (public_dir / "sitemap.xml").read_text(encoding="utf-8")
+    assert "/memory/" in (public_dir / "index.html").read_text(encoding="utf-8")  # nav link
+    assert "/memory/" not in (public_dir / "en/index.html").read_text(encoding="utf-8")  # Korean only
+    privacy = (public_dir / "privacy/index.html").read_text(encoding="utf-8")
+    assert "<h1>개인정보처리방침</h1>" in privacy and "giscus" in privacy  # Korean page, not the English one
+
+    cfg["giscus"]["category_id"] = "DIC_1"
+    builder.build_site(cfg)
+    board = (public_dir / "memory/world-economy/index.html").read_text(encoding="utf-8")
+    assert 'src="https://giscus.app/client.js"' in board
+    assert 'data-term="memory/world-economy"' in board and 'data-category-id="DIC_1"' in board

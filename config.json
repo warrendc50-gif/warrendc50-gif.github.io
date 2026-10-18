@@ -96,5 +96,32 @@
     "width": "680",
     "height": "140",
     "tsource": ""
+  },
+  "memory": {
+    "title": "Memory",
+    "desc": "눈여겨본 기사와 자료를 분야별로 모아 두는 운영자의 스크랩북",
+    "boards": {
+      "ai-news": {
+        "name": "AI 최신 뉴스",
+        "emoji": "🤖",
+        "desc": "AI 업계 소식, 새 모델·서비스 발표, 눈에 띄는 분석 기사"
+      },
+      "world-economy": {
+        "name": "전세계 경제",
+        "emoji": "🌍",
+        "desc": "글로벌 경기, 금리·환율, 주요국 경제 뉴스"
+      },
+      "korea-economy": {
+        "name": "한국 경제",
+        "emoji": "🇰🇷",
+        "desc": "국내 경기, 부동산·금리, 가계에 영향을 주는 경제 뉴스"
+      }
+    }
+  },
+  "giscus": {
+    "repo": "warrendc50-gif/warrendc50-gif.github.io",
+    "repo_id": "R_kgDOUypKuQ",
+    "category": "Memory",
+    "category_id": ""
   }
 }
