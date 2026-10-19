@@ -67,6 +67,8 @@ svg.tl{display:block;font-family:inherit}
 svg.tl[hidden]{display:none}
 svg.tl .grid{stroke:var(--line);stroke-width:1}
 svg.tl .grid.wk{opacity:.6;stroke-dasharray:2 3}
+svg.tl .today{stroke:var(--accent);stroke-width:1.5;stroke-dasharray:3 3;opacity:.85}
+svg.tl .today-lb{font-size:10px;font-weight:700;fill:var(--accent)}
 svg.tl .mo.wk{font-size:10px}
 svg.tl .spine{stroke:var(--accent);stroke-width:2;opacity:.5}
 svg.tl .root{fill:var(--accent)}
@@ -235,6 +237,9 @@ MEMORY_JS = """
       if(ms.length<=3){[8,15,22,29].forEach(function(dd){ if(dd<=dim(m)){var xx=x(m+'-'+(dd<10?'0':'')+dd);
         s+='<line class="grid wk" x1="'+xx+'" y1="'+(top-2)+'" x2="'+xx+'" y2="'+(height-4)+'"/><text class="mo wk" x="'+xx+'" y="'+(top-12)+'" text-anchor="middle">'+dd+'일</text>';}});}
     });
+    var now=new Date(), td=now.getFullYear()+'-'+('0'+(now.getMonth()+1)).slice(-2)+'-'+('0'+now.getDate()).slice(-2);
+    if(ms.indexOf(td.slice(0,7))>=0){ var tx=x(td);
+      s+='<line class="today" x1="'+tx+'" y1="'+(top-4)+'" x2="'+tx+'" y2="'+(height-4)+'"/><text class="today-lb" x="'+(tx+4)+'" y="'+(top-2)+'">오늘</text>'; }
     var y1=top+laneH/2, y2=top+(lanes.length-1)*laneH+laneH/2;
     s+='<line class="spine" x1="14" y1="'+y1+'" x2="14" y2="'+y2+'"/><circle class="root" cx="14" cy="'+((y1+y2)/2)+'" r="6"/>';
     var slots=[-11,17,-24,30,-37];
