@@ -15,7 +15,7 @@ on:
         default: ""
   push:
     branches: [main, claude/zen-pascal-k5i0k2]
-    paths: ["autoblog/**", "static/**", "content/**", "config.json", ".github/workflows/autoblog.yml"]
+    paths: ["autoblog/**", "static/**", "content/**", "data/memory/**", "config.json", ".github/workflows/autoblog.yml"]
 
 permissions:
   contents: write
