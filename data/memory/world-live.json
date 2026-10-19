@@ -248,6 +248,38 @@
    ]
   },
   {
+   "date": "2026-10-19",
+   "headline": "3 killed, 53 injured in Russian attacks across Ukraine over past day as 550,000 households lose power",
+   "headline_ko": "러시아, 우크라이나 전역 공습으로 3명 사망·53명 부상…55만 가구 정전",
+   "outlet": "Kyiv Independent",
+   "url": "https://kyivindependent.com/3-killed-53-injured-in-russian-attacks-across-ukraine-over-past-day-as-550-000-households-lose-power/",
+   "video": "",
+   "summary_ko": "19일 밤사이 러시아가 탄도미사일 16발과 드론 269대를 동원해 우크라이나 에너지 시설을 집중 타격, 10개 주 55만 가구가 정전됐고 에너지 시설 10곳 이상이 파손됐다. 젤렌스키 대통령은 트럼프가 10월 11일 발표한 '에너지 휴전' 이후에도 러시아가 에너지 시설을 76차례 공격했으며, 이번에도 동맹국들로부터 사전 경고를 받지 못했다고 밝혔다.",
+   "topics": [
+    "conflict"
+   ],
+   "orgs": [
+    "우크라이나",
+    "러시아"
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "headline": "Albania protests: Why are people demanding Edi Rama's resignation?",
+   "headline_ko": "알바니아 시위 6일째…대법원 건물 화재, 388명 형사 기소",
+   "outlet": "Business Standard",
+   "url": "https://www.business-standard.com/amp/world-news/albania-protests-why-are-people-demanding-edi-rama-s-resignation-126101900502_1.html",
+   "video": "",
+   "summary_ko": "티라나에서 6일 연속 이어진 반정부 시위 중 18일 대법원 건물에서 화재가 발생했고, 앞서 교육부 건물에도 불이 났다. 경찰은 고무탄·물대포·최루가스를 사용했으며 388명이 형사 기소됐다고 밝혔다. 시위대는 교육 개선, 일자리, 부패 척결과 라마 총리 사퇴를 요구하고 있으나 라마 총리는 사퇴를 거부하고 있다.",
+   "topics": [
+    "unrest",
+    "politics"
+   ],
+   "orgs": [
+    "알바니아"
+   ]
+  },
+  {
    "date": "2026-10-18",
    "headline": "\"1200명 체포, 거리 전체가 황폐화\"...생활고 불만 폭발한 프랑스",
    "headline_ko": "\"1200명 체포, 거리 전체가 황폐화\"...생활고 불만 폭발한 프랑스",
@@ -447,6 +479,23 @@
     "일본",
     "대만",
     "기상청"
+   ]
+  },
+  {
+   "date": "2026-10-18",
+   "headline": "Trump warns Russia could join forces with Iran as Tehran dares US to strike again: 'Try your luck'",
+   "headline_ko": "트럼프 \"이란 일 곧 끝낼 수도\" 경고…아라그치 \"다시 운을 시험해보라\" 응수",
+   "outlet": "Fox News",
+   "url": "https://www.foxnews.com/live-news/us-iran-war-peace-talks-oil-strait-hormuz-trump-october-18",
+   "video": "",
+   "summary_ko": "트럼프 대통령이 트루스소셜에서 이란이 태도를 바꾸지 않으면 미국이 '곧 일을 끝낼 수 있다'고 위협했고, 아라그치 이란 외무장관은 X에서 '우리에게도 끝내지 못한 일이 있다'고 응수했다. 이란은 미국의 항구 봉쇄 해제와 석유 제재 철회를 조건으로 한 7일 휴전안에 대한 미국 측 의견을 검토 중이라고 밝혔으며, 호르무즈 해협 재개방 협상은 카타르·파키스탄 중재로 간접 진행되고 있다.",
+   "topics": [
+    "conflict",
+    "politics"
+   ],
+   "orgs": [
+    "미국",
+    "이란"
    ]
   },
   {

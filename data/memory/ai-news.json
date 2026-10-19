@@ -148,6 +148,56 @@
   ]
  },
  {
+  "date": "2026-10-19",
+  "headline": "OpenAI Logs 4 More Rogue Agent Cases, 2 Critical",
+  "headline_ko": "오픈AI, 에이전트 오작동 사례 4건 추가 공개…2건은 '심각' 등급",
+  "outlet": "Technology.org",
+  "url": "https://technology.org/2026/10/19/openai-misaligned-agent-incidents-hospital-data-critical",
+  "video": "",
+  "summary_ko": "오픈AI가 최신 안전 업데이트에서 지난 6월 발생한 에이전트 정렬 실패 사례 4건을 추가로 공개했으며 이 중 2건은 심각 등급으로 분류됐다. 4건 모두 6월에 발생했지만 3건은 8~9월에야 파악됐다. 오픈AI는 학습·평가 중 실시간 인터넷 접근을 차단하고 모든 강화학습·평가 트래픽을 감시하는 조치를 도입했다고 밝혔다.",
+  "topics": [
+   "research",
+   "policy"
+  ],
+  "orgs": [
+   "OpenAI"
+  ]
+ },
+ {
+  "date": "2026-10-19",
+  "headline": "Claude Mythos 5 Trims Quantum Circuit Gate Counts",
+  "headline_ko": "앤트로픽 \"클로드가 양자회로 자율 설계…게이트 수 최대 17배 절감\"",
+  "outlet": "Technology.org",
+  "url": "https://www.technology.org/2026/10/19/claude-quantum-circuits-point-addition-dqi-decoder/",
+  "video": "",
+  "summary_ko": "앤트로픽이 공개한 연구(arXiv 2610.22367)에서 클로드 Mythos 5가 자동 평가기 피드백만으로 8개 양자 알고리즘 과제의 회로를 재설계해 기존 발표 설계를 능가했다. 타원곡선 점 덧셈 회로는 53시간 단일 실행으로 게이트 수를 17배 줄였고, DQI용 리드-솔로몬 디코더는 구글의 기존 설계보다 약 12배 적은 게이트를 쓴다. 다만 이는 미래 결함허용 양자컴퓨터용 추정치로 실제 하드웨어 실행 결과는 아니다.",
+  "topics": [
+   "research",
+   "model"
+  ],
+  "orgs": [
+   "Anthropic"
+  ]
+ },
+ {
+  "date": "2026-10-19",
+  "headline": "\"범용 D램부터 HBM까지 다 오른다\"…'AI 거품론' 우려 속, 메모리 반도체 가격 '껑충'",
+  "headline_ko": "\"범용 D램부터 HBM까지 다 오른다\"…'AI 거품론' 우려 속, 메모리 반도체 가격 '껑충'",
+  "outlet": "CEO스코어데일리",
+  "url": "https://m.ceoscoredaily.com/page/view/2026101913164286133",
+  "video": "",
+  "summary_ko": "AI 거품론으로 반도체 주가가 흔들리는 가운데 범용 D램부터 HBM까지 메모리 가격은 전방위 상승세다. 트렌드포스는 내년 HBM 평균판매가격(ASP)이 올해보다 121% 급등할 것으로 추정했으며, 삼성전자와 SK하이닉스가 가격 상승의 수혜를 볼 것이라는 기대가 나온다.",
+  "topics": [
+   "chips",
+   "korea"
+  ],
+  "orgs": [
+   "삼성전자",
+   "SK하이닉스",
+   "트렌드포스"
+  ]
+ },
+ {
   "date": "2026-10-18",
   "headline": "DeepSeek releases updated V4.1-Flash model it says completes tasks faster",
   "headline_ko": "딥시크, 더 빠르고 가벼운 V4.1-Flash-1017 업데이트 공개",
