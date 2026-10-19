@@ -27,4 +27,5 @@
   설정 후: Discussion 제목 `memory/<board-key>`(data-mapping=specific, strict), 카테고리 `Memory`(Announcement), 토론은 잠가서 운영자만 쓴다.
 - 항목에 `video`(확인된 YouTube watch URL)와 `video_channel`을 넣으면 ▶ 영상 링크가 붙는다. 없으면 자동으로 YouTube 검색 링크가 붙는다. 영상 URL도 검색 결과에서 본 것만 쓴다.
 - `world-live`(전세계 긴급 Live) 데이터 파일은 객체 형태 `{"live_channels": [{name,url}], "items": [...]}`다. live_channels는 뉴스 채널의 `https://www.youtube.com/@핸들/live` 주소. topics: unrest, conflict, disaster, accident, terror, politics, health, economy.
+- 새 기사 반영: 수집 결과를 `{"<board-key>": [항목...]}` JSON으로 만들고 `python scripts/update_memory.py <파일>`을 돌린다. 날짜·분류·링크·영상을 검증하고 중복(같은 URL 또는 거의 같은 헤드라인)을 걸러 data/memory에 넣는다. 그다음 commit·push.
 - 분야 추가·이름 변경은 config.json `memory.boards`만 고치면 된다.

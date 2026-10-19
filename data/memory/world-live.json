@@ -31,6 +31,57 @@
  ],
  "items": [
   {
+   "date": "2026-10-19",
+   "headline": "Live: French PM Lecornu calls for 'partial curfews' in cities hit by riots and looting",
+   "headline_ko": "마크롱, 내무장관 사임 거부…프랑스 주말 시위 체포 2,400명·경찰 1,000명 부상, 총리는 '부분 야간통행금지' 요청",
+   "outlet": "France 24",
+   "url": "https://www.france24.com/en/europe/20261019-live-france-macron-slams-unbridled-violence-protests-weekend-unrest",
+   "video": "",
+   "summary_ko": "17일 전국 시위 이후 집계가 늘어 내무부 기준 체포 2,397명, 경찰·헌병 부상 997명으로 집계됐다. 로랑 누녜스 내무장관이 18일 사임을 제출했지만 마크롱 대통령은 19일 '치안 지휘의 연속성'을 이유로 반려하고 정보·대비 실패를 투명하게 밝히라고 지시했다. 르코르뉘 총리는 범정부 위기회의를 열어 피해 도시의 부분 야간통행금지를 요청했고, 비상사태는 선포하지 않았다.",
+   "topics": [
+    "unrest",
+    "politics"
+   ],
+   "orgs": [
+    "프랑스",
+    "마크롱",
+    "르코르뉘"
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "headline": "Sudanese army intercepts RSF drones near Khartoum airport",
+   "headline_ko": "수단군, 하르툼 공항 인근서 RSF 드론 요격…하르툼·옴두르만 포격 지속",
+   "outlet": "Sudan Tribune",
+   "url": "https://sudantribune.com/article/320141",
+   "video": "",
+   "summary_ko": "수단군 방공부대가 19일 아침 하르툼 국제공항 인근으로 날아온 신속지원군(RSF) 드론을 격추했다고 군 소식통이 밝혔다. 하르툼·옴두르만·바흐리 전역에서 포격이 이어졌고, 청나일주에서는 군이 RSF와 SPLM-N의 지상 공격을 격퇴했다고 주장했다. 양측 발표는 모두 독립적으로 확인되지 않았다.",
+   "topics": [
+    "conflict"
+   ],
+   "orgs": [
+    "수단",
+    "RSF"
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "headline": "South Florida judge signs state arrest warrant for former Cuban leader Raul Castro",
+   "headline_ko": "미 플로리다 판사, 라울 카스트로 체포영장 발부…1996년 민간 항공기 격추 사건",
+   "outlet": "NBC 6 South Florida",
+   "url": "https://nbcmiami.com/news/local/breaking-news-live-updates-south-florida-miami-october-19-2026/3874599",
+   "video": "",
+   "summary_ko": "플로리다주 판사가 1996년 쿠바 공군이 미국 민간단체 '형제들의 구조' 항공기 2대를 격추해 4명이 숨진 사건과 관련해 라울 카스트로 전 쿠바 국가평의회 의장에 대한 주(州) 체포영장에 서명했다. 전직 외국 지도자를 겨냥한 미국 주 법원의 이례적 조치다.",
+   "topics": [
+    "politics"
+   ],
+   "orgs": [
+    "미국",
+    "쿠바",
+    "라울 카스트로"
+   ]
+  },
+  {
    "date": "2026-10-18",
    "headline": "\"1200명 체포, 거리 전체가 황폐화\"...생활고 불만 폭발한 프랑스",
    "headline_ko": "\"1200명 체포, 거리 전체가 황폐화\"...생활고 불만 폭발한 프랑스",
@@ -78,6 +129,58 @@
     "사우디아라비아",
     "UAE",
     "예멘"
+   ]
+  },
+  {
+   "date": "2026-10-18",
+   "headline": "Typhoon Champi triggers presidential emergency actions across Marianas",
+   "headline_ko": "슈퍼태풍 참피, 괌 남쪽 10마일 통과…트럼프, 괌·북마리아나 비상사태 선포",
+   "outlet": "Isla Public Media",
+   "url": "https://www.islapublic.org/news/2026-10-18/typhoon-champi-triggers-presidential-emergency-actions-across-marianas",
+   "video": "",
+   "summary_ko": "슈퍼태풍으로 격상된 참피가 18일 새벽 괌 메리조 남쪽 약 10마일을 지나며 폭풍급 강풍과 홍수를 일으켰고, 괌은 최고 경계단계(COR 1)를 유지했다. 트럼프 대통령은 괌과 북마리아나제도에 비상사태를 선포해 FEMA의 지원을 승인했다. 필리핀 기상청은 참피가 20일 필리핀 책임구역에 진입하며 다시 슈퍼태풍으로 강해질 수 있다고 전망했다.",
+   "topics": [
+    "disaster"
+   ],
+   "orgs": [
+    "괌",
+    "미국",
+    "FEMA"
+   ],
+   "video_channel": ""
+  },
+  {
+   "date": "2026-10-18",
+   "headline": "Massive Ukrainian drone attack hit oil facility, bridge, and data center in St. Petersburg",
+   "headline_ko": "우크라이나, 상트페테르부르크 대규모 드론 공습…석유터미널·데이터센터·교량 피격",
+   "outlet": "Kyiv Independent",
+   "url": "https://kyivindependent.com/flames-explosions-reported-amid-large-ukrainian-drone-attack-on-st-petersburg/",
+   "video": "https://www.youtube.com/watch?v=v0zJnZtpWjs",
+   "summary_ko": "우크라이나군이 18일 밤 상트페테르부르크를 대규모 드론으로 공격해 석유 터미널과 데이터센터, 고속도로 교량이 타격을 받았다. 러시아 측은 1명이 숨지고 15명이 다쳤다고 밝혔다. 트럼프 대통령의 '에너지 휴전' 요구에도 양국이 에너지 시설 공격을 재개한 가운데 벌어진 공습이다.",
+   "topics": [
+    "conflict"
+   ],
+   "orgs": [
+    "우크라이나",
+    "러시아"
+   ],
+   "video_channel": "New York Post"
+  },
+  {
+   "date": "2026-10-18",
+   "headline": "Fresh border clashes erupt between Pakistan and Afghanistan",
+   "headline_ko": "파키스탄-아프간 탈레반, 쿠람 국경서 다시 교전…포격에 민간 지역 피탄",
+   "outlet": "The Nation (Pakistan)",
+   "url": "https://www.nation.com.pk/18-Oct-2026/fresh-border-clashes-erupt-pakistan-afghanistan",
+   "video": "",
+   "summary_ko": "17~18일 카이버파크툰크와 어퍼쿠람의 타이다·고즈가리 일대에서 파키스탄군과 아프가니스탄 탈레반 병력이 교전했다. 파키스탄은 포격으로 탈레반 기지 여러 곳을 파괴했다고 밝혔고, 아프간 측은 파크티아주 주거지역에 로켓이 떨어졌다고 전했다. 양측 사상자 주장은 독립적으로 확인되지 않았으며, 10월 10일 이후 같은 지역에서 두 번째 큰 충돌이다.",
+   "topics": [
+    "conflict"
+   ],
+   "orgs": [
+    "파키스탄",
+    "아프가니스탄",
+    "탈레반"
    ]
   },
   {
@@ -179,6 +282,45 @@
    "orgs": [
     "수단",
     "RSF"
+   ]
+  },
+  {
+   "date": "2026-10-17",
+   "headline": "Trump waives broad new Russia sanctions, Zelenskyy condemns it as 'wrong'",
+   "headline_ko": "트럼프, 발효 이틀 앞둔 대러 제재법(그레이엄법) 전면 유예…젤렌스키 \"잘못된 결정\"",
+   "outlet": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
+   "video": "https://www.youtube.com/watch?v=iaVBbm1GD_Q",
+   "summary_ko": "트럼프 대통령이 16일 밤 행정명령으로 18일 발효 예정이던 그레이엄법의 러시아 관련 조항을 모두 유예했다. 러시아산 전 품목 최대 500% 관세, 러시아 원유 주요 구매국 최대 100% 관세, 러시아 국영은행 거래 외국은행 제재 등이 포함된다. 일주일 전 러시아산 디젤 수입 제재 해제에 이은 조치로, 젤렌스키 대통령과 여야 의원들이 반발했다.",
+   "topics": [
+    "politics",
+    "conflict"
+   ],
+   "orgs": [
+    "미국",
+    "트럼프",
+    "러시아",
+    "우크라이나"
+   ],
+   "video_channel": "CNN-News18"
+  },
+  {
+   "date": "2026-10-17",
+   "headline": "US and Iran both claim control of Strait of Hormuz amid attacks on vessels",
+   "headline_ko": "호르무즈 해협 통제권, 미국·이란 서로 주장…주간 선박 피격 12척 '최다'",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels",
+   "video": "",
+   "summary_ko": "미 중부사령부 쿠퍼 사령관은 이란의 공격에도 지난 한 주 선박 400척과 원유 1억 배럴이 호르무즈를 통과했다고 주장했고, 이란 해군은 해역을 '100% 통제·감시'하고 있다고 맞섰다. 영국 해사기구(UKMTO) 기준 금요일까지 한 주 동안 선박 12척이 공격받아 2월 개전 이후 주간 최다를 기록했다. 싱가포르 선적 컨테이너선 GFS 프라이드가 피격 후 침몰했고, 이란은 지뢰 접촉이라고 주장했다.",
+   "topics": [
+    "conflict",
+    "economy"
+   ],
+   "orgs": [
+    "미국",
+    "이란",
+    "CENTCOM",
+    "UKMTO"
    ]
   },
   {

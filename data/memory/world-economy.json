@@ -1,5 +1,141 @@
 [
  {
+  "date": "2026-10-19",
+  "headline": "China's third-quarter economic growth quickens to 4.5% as exports surge, beating estimates",
+  "headline_ko": "중국 3분기 GDP 4.5% 성장…수출 급증에 예상치(4.4%) 상회, 2분기 4.3%서 반등",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/10/19/chinas-economic-growth-quickens-to-4point6percent-as-exports-surge-stimulus-rolls-out.html",
+  "video": "",
+  "summary_ko": "중국 국가통계국은 19일 3분기 GDP가 전년 대비 4.5% 성장했다고 발표했다. 로이터 예상치 4.4%를 웃돌고 3년여 만의 최저였던 2분기 4.3%에서 반등한 수치로, 1~3분기 누적 성장률은 4.6%다. 기술 제품 수출이 성장을 떠받친 반면 소매판매 증가율은 1.1%에 그치고 부동산·고정자산 투자는 감소해 내수 부진이 이어졌다.",
+  "topics": [
+   "china",
+   "macro"
+  ],
+  "orgs": [
+   "중국",
+   "국가통계국"
+  ]
+ },
+ {
+  "date": "2026-10-19",
+  "headline": "Oil slips from 5-month high as Trump's Russia sanctions waiver may bring more supplies",
+  "headline_ko": "국제유가, 5개월 최고서 2% 하락…트럼프 대러 제재 유예로 공급 확대 기대",
+  "outlet": "The Globe and Mail (Reuters)",
+  "url": "https://www.theglobeandmail.com/investing/article-oil-slips-from-5-month-high-as-trumps-russia-sanctions-waiver-may/",
+  "video": "",
+  "summary_ko": "19일 아시아 장에서 브렌트유가 약 2% 내린 배럴당 107달러대, WTI는 100달러 안팎으로 하락했다. 16일 브렌트는 109.86달러로 마감하며 5월 이후 최고치를 기록했었다. 트럼프 대통령의 그레이엄법 유예와 러시아 디젤 수입 합의로 공급 확대 기대가 커졌지만, 호르무즈 해협 공격이 계속돼 하락 폭은 제한됐다.",
+  "topics": [
+   "energy",
+   "markets"
+  ],
+  "orgs": [
+   "미국",
+   "러시아",
+   "OPEC+"
+  ]
+ },
+ {
+  "date": "2026-10-19",
+  "headline": "[속보] 코스피, 99.96포인트(1.76%) 오른 5768.01 마감",
+  "headline_ko": "코스피, 3% 급락 출발 뒤 1.76% 상승 마감(5768.01)…하루 280포인트 롤러코스터",
+  "outlet": "머니투데이",
+  "url": "https://www.mt.co.kr/stock/2026/10/19/2026101915144182274",
+  "video": "",
+  "summary_ko": "19일 코스피는 AI 거품 우려와 중국 반도체 업체의 기술 공개 소식에 3.17% 급락한 5488.41로 출발했지만, 낙폭 과대 인식에 기관 매수(약 5,760억원)가 유입돼 1.76% 오른 5768.01에 마감했다. 2거래일 연속 상승이며 코스닥도 1.78% 올라 808.89로 800선을 회복했다. 개인과 외국인은 순매도했다.",
+  "topics": [
+   "markets"
+  ],
+  "orgs": [
+   "코스피",
+   "한국거래소"
+  ]
+ },
+ {
+  "date": "2026-10-19",
+  "headline": "Le risque: How the rioting in France might trigger a 'blow up' in the bond market",
+  "headline_ko": "프랑스 폭동, 국채시장 '폭발' 위험 키운다…10년물 4.8%대, 독일과 스프레드 140bp 안팎",
+  "outlet": "Fortune",
+  "url": "https://fortune.com/2026/10/19/riots-france-blow-up-bond-market",
+  "video": "",
+  "summary_ko": "주말 폭력 시위와 2027년 예산 표결을 앞두고 19일 프랑스 10년물 국채 금리가 4.84~4.89%로 올랐고, 독일 분트와의 스프레드는 140bp 중반까지 벌어져 유로존 부채위기 이후 최고 수준에 근접했다. 프랑스 은행주와 CAC 40도 하락했다. 23일 무디스 신용등급 평가와 11월 5일 총파업이 다음 변수로 꼽힌다.",
+  "topics": [
+   "crisis",
+   "markets"
+  ],
+  "orgs": [
+   "프랑스",
+   "무디스",
+   "ECB"
+  ]
+ },
+ {
+  "date": "2026-10-19",
+  "headline": "Gold prices today, Monday, October 19, 2026: Little change in gold prices as oil sailed to May highs",
+  "headline_ko": "금값 온스당 4,170~4,190달러 보합…10월 금리인상 기대 후퇴·국채금리 하락이 지지",
+  "outlet": "Yahoo Finance",
+  "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-october-19-2026-little-change-in-gold-prices-as-oil-sailed-to-may-highs-112123151.html",
+  "video": "",
+  "summary_ko": "19일 금 12월물은 온스당 4,185달러에 출발해 4,190달러 선에서 소폭 상승했고, 현물은 4,170달러 안팎에서 거래됐다. 미 10년물 국채금리가 5.08% 수준으로 소폭 내리고 10월 연준 금리인상 기대가 후퇴한 점이 금값을 지지했다. 다만 최근 한 달 기준으로는 약 4% 하락한 상태다.",
+  "topics": [
+   "markets",
+   "fed"
+  ],
+  "orgs": [
+   "연준"
+  ]
+ },
+ {
+  "date": "2026-10-19",
+  "headline": "Stock Market Today: Dow, S&P Live Updates for October 19",
+  "headline_ko": "월가, 반도체 급락 후 반등 시도…나스닥100 선물 1%↑, 넷플릭스·테슬라·메타 실적 주간",
+  "outlet": "Bloomberg",
+  "url": "https://www.bloomberg.com/news/articles/2026-10-18/stock-market-today-dow-s-p-live-updates",
+  "video": "",
+  "summary_ko": "지난주 5.5% 급락한 나스닥100 선물이 19일 장전 1% 반등했고 S&P 500 선물도 0.5% 올랐다. 16일 S&P 500은 1.1% 내린 7,659, 나스닥은 2.1% 내린 26,140으로 마감해 나스닥은 6월 말 이후 최악의 한 주를 보냈다. 이번 주 넷플릭스(20일), 테슬라·메타(21일) 실적이 AI 투자 열기를 시험한다.",
+  "topics": [
+   "markets"
+  ],
+  "orgs": [
+   "월가",
+   "나스닥",
+   "테슬라",
+   "메타",
+   "넷플릭스"
+  ]
+ },
+ {
+  "date": "2026-10-19",
+  "headline": "Thailand Makes History as Host of the 2026 IMF-World Bank Group Annual Meetings, Releases \"Bangkok Dialogue Notes\"",
+  "headline_ko": "IMF·세계은행 방콕 연차총회 폐막…등록 1만9천 명 '역대 최다', 태국 '방콕 대화 노트' 발표",
+  "outlet": "The Manila Times (PR Newswire)",
+  "url": "https://www.manilatimes.net/2026/10/19/tmt-newswire/pr-newswire/thailand-makes-history-as-host-of-the-2026-imf-world-bank-group-annual-meetings-releases-bangkok-dialogue-notes-thailands-reflections-and-contributions-to-the-global-dialogue-champions-its-role-as-a-trusted-connector-turning-international-cooperation-into-opportunities-for-people/2448484",
+  "video": "",
+  "summary_ko": "10월 12~18일 방콕에서 열린 IMF·세계은행 연차총회가 막을 내렸다. 1991년 이후 처음 방콕에서 열린 이번 회의에는 191개 회원국 대표가 참가했고, 태국 재무부는 등록 인원 1만9천 명 이상으로 역대 최다라고 밝혔다. 태국은 협상 결과물이 아닌 호스트 문서 '방콕 대화 노트'를 통해 사람 중심 회복력 등 5가지 시사점을 정리했다.",
+  "topics": [
+   "macro"
+  ],
+  "orgs": [
+   "IMF",
+   "세계은행",
+   "태국"
+  ]
+ },
+ {
+  "date": "2026-10-19",
+  "headline": "Bitcoin Price Today: BTC Coils Near $82,500 as Daily Bollinger Bands Reach Multi-Year Tightness",
+  "headline_ko": "비트코인 8만2천~8만3천달러 횡보…볼린저밴드 2.5년 만에 최대 압축",
+  "outlet": "The Crypto Times",
+  "url": "https://cryptotimes.io/2026/10/19/bitcoin-price-today-btc-coils-near-82500-as-daily-bollinger-bands-reach-multi-year-tightness",
+  "video": "",
+  "summary_ko": "19일 비트코인은 8만2,400~8만3,000달러 사이에서 거래되며 24시간 기준 1~2% 올랐다. 일간 볼린저밴드 폭이 2.5년 만에 가장 좁아져 큰 방향성 움직임을 앞둔 압축 국면이라는 분석이 나온다. 2025년 10월 고점 약 12만6천달러와 비교하면 여전히 크게 낮은 수준이다.",
+  "topics": [
+   "crypto"
+  ],
+  "orgs": [
+   "비트코인"
+  ]
+ },
+ {
   "date": "2026-10-16",
   "headline": "China Moves to Curb Tech Exports, Including AI, Citing National Security Risks",
   "headline_ko": "중국, AI 모델·칩 설계 등 23개 AI 기술 수출통제 추진",
