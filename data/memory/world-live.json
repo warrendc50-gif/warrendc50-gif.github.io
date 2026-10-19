@@ -181,6 +181,54 @@
    ]
   },
   {
+   "date": "2026-10-19",
+   "headline": "Houthi rebels strike a government military camp in southern Yemen, killing at least 20 fighters",
+   "headline_ko": "후티 반군, 예멘 남부 정부군 기지 미사일 공격…최소 20명 사망",
+   "outlet": "Washington Times (AP)",
+   "url": "https://www.washingtontimes.com/news/2026/oct/19/houthi-rebels-strike-military-camp-southern-yemen-killing-least-20/",
+   "video": "",
+   "summary_ko": "후티 반군이 19일 예멘 남부 샤브와주의 정부군 기지를 미사일로 공격해 군인 최소 20명이 사망했다고 예멘 군 관계자들이 밝혔다. 후티 측은 수십 명을 사살·부상시켰다고 주장했다. 4년간의 휴전이 깨진 뒤 사우디 주도 연합군의 공세와 함께 내전이 다시 격화되고 있다.",
+   "topics": [
+    "conflict"
+   ],
+   "orgs": [
+    "예멘",
+    "후티"
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "headline": "4 dead, at least 19 in critical condition after deadly fire at CFB Wainwright in Alberta",
+   "headline_ko": "캐나다 앨버타 웨인라이트 기지 화재 사망자 4명 확인…19명 위중",
+   "outlet": "CBC News",
+   "url": "https://www.cbc.ca/news/canada/edmonton/livestory/cfb-wainwright-fire-live-updates-9.7385537",
+   "video": "",
+   "summary_ko": "마크 카니 캐나다 총리는 앨버타주 웨인라이트 기지 훈련 중 발생한 화재로 군인 4명이 숨지고 수십 명이 다쳤다고 확인했고, 군은 사망자 4명의 신원을 공개했다. 앨버타주는 39명이 입원 중이며 최소 19명이 위중하다고 밝혔다. 가스관 폭발 여부 등 화재 원인은 조사 중이며 결론까지 수 주가 걸릴 수 있다.",
+   "topics": [
+    "accident"
+   ],
+   "orgs": [
+    "캐나다",
+    "캐나다군"
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "headline": "Four Killed in Fresh Manipur Violence; Angry Protest Reaches CM's Bungalow",
+   "headline_ko": "인도 마니푸르에서 다시 유혈 충돌…4명 사망, 주총리 관저 앞 항의 시위",
+   "outlet": "The Sentinel",
+   "url": "https://www.sentinelassam.com/north-east-india-news/assam-news/four-killed-in-fresh-manipur-violence-angry-protest-reaches-cms-bungalow",
+   "video": "",
+   "summary_ko": "인도 북동부 마니푸르주에서 19일 별개의 폭력 사건들로 4명이 사망했다. 사망 소식에 분노한 주민들이 주 수도의 주총리 관저 앞까지 몰려가 시위를 벌였다. 마니푸르는 2023년 이후 민족 간 충돌이 이어지고 있는 지역이다.",
+   "topics": [
+    "unrest"
+   ],
+   "orgs": [
+    "인도",
+    "마니푸르"
+   ]
+  },
+  {
    "date": "2026-10-18",
    "headline": "\"1200명 체포, 거리 전체가 황폐화\"...생활고 불만 폭발한 프랑스",
    "headline_ko": "\"1200명 체포, 거리 전체가 황폐화\"...생활고 불만 폭발한 프랑스",
@@ -312,6 +360,40 @@
    ],
    "orgs": [
     "우크라이나",
+    "미국"
+   ]
+  },
+  {
+   "date": "2026-10-18",
+   "headline": "Houthi media says Saudi strike killed 9 in northern Yemen",
+   "headline_ko": "후티 \"사우디 공습으로 예멘 북부 사다주에서 9명 사망\"",
+   "outlet": "Times of Israel",
+   "url": "https://www.timesofisrael.com/liveblog_entry/houthi-media-says-saudi-strike-killed-9-in-northern-yemen/",
+   "video": "",
+   "summary_ko": "후티가 운영하는 보건부는 18일 예멘 북부 사다주 사하르 지구의 주택이 공습을 받아 어린이 5명과 여성 2명을 포함해 9명이 숨지고 19명이 다쳤다고 밝혔다. 후티 측은 사우디아라비아를 공격 주체로 지목했으나 사우디 정부는 즉각 반응하지 않았다. 사상자 수치는 독립적으로 확인되지 않았다.",
+   "topics": [
+    "conflict"
+   ],
+   "orgs": [
+    "사우디아라비아",
+    "예멘",
+    "후티"
+   ]
+  },
+  {
+   "date": "2026-10-18",
+   "headline": "Iran says its 7-day plan to reopen Hormuz Strait still on table",
+   "headline_ko": "이란 \"호르무즈 7일 재개방안 여전히 유효\"…미국 의견 검토 중",
+   "outlet": "Xinhua",
+   "url": "https://english.news.cn/20261018/3219a510797646d9b2a82c884efa94bd/c.html",
+   "video": "",
+   "summary_ko": "아라그치 이란 외무장관은 18일 바그다드에서 미국이 조건을 수용하면 6일째에 호르무즈 해협을 재개방하고 7일째에 협상을 재개하는 7일 계획이 여전히 유효하다고 밝혔다. 조건은 항구 봉쇄 해제, 원유 수출 제재 해제, 역내 모든 전선의 교전 중단이다. 미국이 전달한 의견을 검토 중이라고 했으며, 트럼프 대통령은 이란이 태도를 바꾸지 않으면 '곧 일을 끝낼 수 있다'고 경고했다.",
+   "topics": [
+    "politics",
+    "conflict"
+   ],
+   "orgs": [
+    "이란",
     "미국"
    ]
   },

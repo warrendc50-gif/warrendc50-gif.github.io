@@ -100,6 +100,38 @@
   ]
  },
  {
+  "date": "2026-10-19",
+  "headline": "MiniMax Just Launched M3.1 Flash: 428B MoE Agentic Model at $0.15/M Input",
+  "headline_ko": "미니맥스, 428B MoE 에이전트 모델 'M3.1 Flash' 출시…입력 100만 토큰당 0.15달러",
+  "outlet": "MarkTechPost",
+  "url": "https://marktechpost.com/2026/10/19/minimax-m3-1-flash-release",
+  "video": "",
+  "summary_ko": "중국 미니맥스가 총 428B 파라미터(활성 23B)의 MoE 구조 에이전트용 모델 M3.1 Flash를 공개했다. 100만 토큰 컨텍스트를 지원하고 입력 가격은 100만 토큰당 0.15달러로 API부터 먼저 제공된다. 가중치는 10월 하순 공개 예정이며, 벤치마크 수치는 개발사 자체 발표라 독립 검증은 되지 않았다.",
+  "topics": [
+   "model"
+  ],
+  "orgs": [
+   "MiniMax"
+  ]
+ },
+ {
+  "date": "2026-10-19",
+  "headline": "과기정통부, 세계은행과 함께 글로벌 AI·디지털 협력 논의",
+  "headline_ko": "과기정통부, 세계은행과 함께 글로벌 AI·디지털 협력 논의",
+  "outlet": "뉴스서울",
+  "url": "https://newsseoul.co.kr/news/view/1065610211456527",
+  "video": "",
+  "summary_ko": "19일 열린 AI·디지털 장관회의에서 배경훈 부총리와 김상부 세계은행 부총재가 공동의장을 맡아 개발도상국을 포함한 AI·디지털 전환 협력 방안을 논의했다. 행사는 20~21일 정책 포럼과 기업 전시로 이어진다.",
+  "topics": [
+   "korea",
+   "policy"
+  ],
+  "orgs": [
+   "과기정통부",
+   "세계은행"
+  ]
+ },
+ {
   "date": "2026-10-18",
   "headline": "DeepSeek releases updated V4.1-Flash model it says completes tasks faster",
   "headline_ko": "딥시크, 더 빠르고 가벼운 V4.1-Flash-1017 업데이트 공개",
