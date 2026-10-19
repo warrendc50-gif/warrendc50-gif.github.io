@@ -229,6 +229,25 @@
    ]
   },
   {
+   "date": "2026-10-19",
+   "headline": "Putin reportedly proposes three-way summit with Trump and Xi on Ukraine war — without Zelenskyy",
+   "headline_ko": "푸틴, 젤렌스키 빼고 트럼프·시진핑과 3자 정상회담 제안 보도",
+   "outlet": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html",
+   "video": "",
+   "summary_ko": "월스트리트저널 보도에 따르면 푸틴 러시아 대통령이 10월 9일 트럼프 대통령과의 통화에서 우크라이나 전쟁을 논의할 미·중·러 3자 정상회담을 제안했으며, 11월 18~19일 선전 APEC 정상회의 계기 개최안이 거론됐다. 젤렌스키 우크라이나 대통령은 배제된 구상이다. 크렘린은 형식과 의제에 대해 아직 명확한 합의가 없다고 밝혔고, 루비오 미 국무장관은 회담 이야기가 있었으나 확정 여부는 모른다고 말했다.",
+   "topics": [
+    "politics",
+    "conflict"
+   ],
+   "orgs": [
+    "러시아",
+    "미국",
+    "중국",
+    "우크라이나"
+   ]
+  },
+  {
    "date": "2026-10-18",
    "headline": "\"1200명 체포, 거리 전체가 황폐화\"...생활고 불만 폭발한 프랑스",
    "headline_ko": "\"1200명 체포, 거리 전체가 황폐화\"...생활고 불만 폭발한 프랑스",
@@ -395,6 +414,39 @@
    "orgs": [
     "이란",
     "미국"
+   ]
+  },
+  {
+   "date": "2026-10-18",
+   "headline": "Tirana sees sixth day of violent protests as Albania's PM refuses to resign",
+   "headline_ko": "알바니아 티라나 6일째 격렬 시위…라마 총리 사퇴 거부",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/18/chaos-in-tirana-demonstrators-determined-to-not-give-up-so-easily",
+   "video": "",
+   "summary_ko": "알바니아 수도 티라나에서 반정부 시위가 6일째 이어지며 경찰이 물대포·최루탄·고무탄을 사용했다. 보건부는 시위 시작 이후 경찰 169명을 포함해 272명이 부상했다고 밝혔다. 시위대는 교육 환경 개선, 일자리, 부패 척결과 에디 라마 총리의 사퇴를 요구하고 있으나 4연임 중인 라마 총리는 사퇴를 거부했고, 미국과 EU 집행위는 자제와 대화를 촉구했다.",
+   "topics": [
+    "unrest",
+    "politics"
+   ],
+   "orgs": [
+    "알바니아"
+   ]
+  },
+  {
+   "date": "2026-10-18",
+   "headline": "Typhoon Champi Nears Japan as 30th Storm of Year",
+   "headline_ko": "제30호 태풍 '참피' 세력 키우며 일본 오키나와 남쪽으로 북상",
+   "outlet": "Seoul Economic Daily",
+   "url": "https://en.sedaily.com/international/2026/10/18/typhoon-champi-nears-japan-as-30th-storm-of-year",
+   "video": "",
+   "summary_ko": "괌 부근에서 한때 슈퍼태풍급으로 발달했던 제30호 태풍 참피가 세력을 유지하며 일본 오키나와 남쪽 해상으로 북상하고 있다. 기상청은 19일부터 강도 '매우 강'~'초강력' 수준으로 발달해 21일 오키나와 남쪽 약 800km 해상에 이른 뒤 대만 동쪽으로 향할 것으로 예보했다. 일본 기상청은 주말을 중심으로 오키나와와 본토 남부 해역에 큰 영향이 우려된다며 주의를 당부했고, 이후 진로의 불확실성은 여전히 크다.",
+   "topics": [
+    "disaster"
+   ],
+   "orgs": [
+    "일본",
+    "대만",
+    "기상청"
    ]
   },
   {
