@@ -82,6 +82,57 @@
    ]
   },
   {
+   "date": "2026-10-19",
+   "headline": "Russian missiles and drones hit Kyiv overnight, killing 1 and injuring 8",
+   "headline_ko": "러시아, 탄도미사일·드론으로 키이우 야간 공습…1명 사망·8명 부상",
+   "outlet": "AP (ABC News)",
+   "url": "https://abcnews.com/International/wireStory/russian-missiles-drones-hit-kyiv-overnight-killing-1-137371029",
+   "video": "",
+   "summary_ko": "러시아가 19일 새벽 탄도·순항미사일과 드론 269대로 키이우를 공격해 1명이 숨지고 8명이 다쳤다. 지하철역과 25층 주거용 건물, 데이터센터가 피해를 입었고 키이우 일대 약 55만 가구가 정전됐다. 미국이 발표한 '에너지 휴전'에도 양측이 서로 에너지 시설 공격을 재개한 상황이다.",
+   "topics": [
+    "conflict"
+   ],
+   "orgs": [
+    "러시아",
+    "우크라이나"
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "headline": "Oil tanker on fire after hitting mine in Hormuz: Iran's IRGC",
+   "headline_ko": "이란 혁명수비대 \"호르무즈에서 유조선, 지뢰 충돌 후 화재\"",
+   "outlet": "Al Arabiya",
+   "url": "https://english.alarabiya.net/News/middle-east/2026/10/19/oil-tanker-on-fire-after-hitting-mine-in-hormuz-iran-s-irgc-",
+   "video": "",
+   "summary_ko": "이란 혁명수비대(IRGC)는 19일 호르무즈 해협 남쪽에서 허가되지 않은 항로로 빠져나가던 유조선이 해상 지뢰에 부딪혀 기관실에 폭발과 화재가 났다고 밝혔다. 선박은 위치·항법 장치를 끈 상태였다고 주장했으며 선명·선적·선원 상태는 공개되지 않았다. 전날에도 유조선 2척이 지뢰에 맞았다고 발표한 데 이은 사건으로, 해협은 사실상 봉쇄 상태다.",
+   "topics": [
+    "conflict",
+    "economy"
+   ],
+   "orgs": [
+    "이란",
+    "이란 혁명수비대"
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "headline": "Protests spread across Europe: Cost-of-living pressures behind the demonstrations",
+   "headline_ko": "유럽 전역으로 번진 생활비 시위…브뤼셀·밀라노에서도 충돌",
+   "outlet": "Euronews",
+   "url": "https://www.euronews.com/2026/10/19/wages-vs-prices-the-economic-pressures-behind-europes-protests",
+   "video": "",
+   "summary_ko": "주말 동안 프랑스뿐 아니라 벨기에, 이탈리아, 포르투갈에서도 물가·주거비·저임금에 항의하는 시위가 이어졌다. 벨기에 브뤼셀과 리에주에서 경찰과 시위대가 충돌했고, 이탈리아 밀라노·토리노·볼로냐에서는 부상자가 나오고 밀라노에서 수십 명이 구금됐다. 포르투갈에서는 노조와 주거권 단체가 임금 인상과 주택 대책을 요구했다.",
+   "topics": [
+    "unrest",
+    "economy"
+   ],
+   "orgs": [
+    "벨기에",
+    "이탈리아",
+    "포르투갈"
+   ]
+  },
+  {
    "date": "2026-10-18",
    "headline": "\"1200명 체포, 거리 전체가 황폐화\"...생활고 불만 폭발한 프랑스",
    "headline_ko": "\"1200명 체포, 거리 전체가 황폐화\"...생활고 불만 폭발한 프랑스",
@@ -181,6 +232,22 @@
     "파키스탄",
     "아프가니스탄",
     "탈레반"
+   ]
+  },
+  {
+   "date": "2026-10-18",
+   "headline": "Champi briefly reaches super typhoon strength after its closest approach to Guam causes widespread outages",
+   "headline_ko": "태풍 참피, 괌 최근접 통과 후 슈퍼태풍으로…섬 절반 정전",
+   "outlet": "The Watchers",
+   "url": "https://watchers.news/2026/10/18/champi-briefly-reaches-super-typhoon-strength-after-its-closest-approach-to-guam-causes-widespread-outages/",
+   "video": "",
+   "summary_ko": "태풍 참피의 눈이 18일 새벽 괌 남단 메리조 남쪽 약 16km를 지나갔고, 통과 직후 잠시 슈퍼태풍 등급에 도달했다. 괌 전력공사 집계로 섬의 전력 공급이 절반 수준까지 떨어졌고 최대 170개 우물이 가동을 멈췄다. 기상청은 예비 조사에서 광범위한 구조물 피해는 확인되지 않았다고 했으며, 트럼프 대통령은 괌에 비상사태를 승인했다.",
+   "topics": [
+    "disaster"
+   ],
+   "orgs": [
+    "괌",
+    "미국"
    ]
   },
   {

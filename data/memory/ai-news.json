@@ -33,6 +33,38 @@
   ]
  },
  {
+  "date": "2026-10-19",
+  "headline": "AI Chip Startup Tenstorrent More Than Doubles Its Valuation to $6.2 Billion in Funding Round",
+  "headline_ko": "AI 칩 스타트업 텐스토렌트, 15억달러 투자 유치…기업가치 62억달러로 2배 이상",
+  "outlet": "Reuters (U.S. News)",
+  "url": "https://money.usnews.com/investing/news/articles/2026-10-19/ai-chip-startup-tenstorrent-more-than-doubles-its-valuation-to-6-2-billion-in-funding-round",
+  "video": "",
+  "summary_ko": "AI 반도체 스타트업 텐스토렌트가 15억달러 규모 시리즈E 투자를 유치해 기업가치가 62억달러(투자 후 기준)로 평가됐다. 2024년 12월 라운드 대비 두 배가 넘는 수준이다. 이번 라운드는 Trace Capital과 Innovation X가 주도했다.",
+  "topics": [
+   "chips",
+   "business"
+  ],
+  "orgs": [
+   "Tenstorrent"
+  ]
+ },
+ {
+  "date": "2026-10-19",
+  "headline": "OpenAI confirms plans to build humanoid robot",
+  "headline_ko": "올트먼 \"오픈AI, 휴머노이드 로봇 만든다…2027년 시연 목표\"",
+  "outlet": "The Peninsula (QNA)",
+  "url": "https://thepeninsulaqatar.com/article/19/10/2026/openai-confirms-plans-to-build-humanoid-robot",
+  "video": "",
+  "summary_ko": "샘 올트먼 오픈AI CEO가 팟캐스트와 인터뷰에서 휴머노이드 로봇을 직접 개발하고 있다고 확인하며 2027년에 시연을 보여줄 수 있을 것이라고 말했다. 다만 로봇이 거리를 돌아다니는 시점은 그보다 몇 년 더 걸릴 것이라고 했다. 설계·사양·시연 내용은 아직 공개되지 않았으며, 채용 공고는 인프라 건설 등 산업 현장용 범용 로봇을 1차 목표로 제시하고 있다.",
+  "topics": [
+   "business",
+   "research"
+  ],
+  "orgs": [
+   "OpenAI"
+  ]
+ },
+ {
   "date": "2026-10-18",
   "headline": "DeepSeek releases updated V4.1-Flash model it says completes tasks faster",
   "headline_ko": "딥시크, 더 빠르고 가벼운 V4.1-Flash-1017 업데이트 공개",
@@ -80,6 +112,40 @@
    "Microsoft",
    "Nscale",
    "Nvidia"
+  ]
+ },
+ {
+  "date": "2026-10-18",
+  "headline": "Samsung to Use TSMC for Base Die in Nvidia's Custom HBM",
+  "headline_ko": "삼성전자, 엔비디아 커스텀 HBM 베이스다이에 TSMC 3나노 공정 쓴다",
+  "outlet": "Seoul Economic Daily",
+  "url": "https://en.sedaily.com/finance/2026/10/18/samsung-to-use-tsmc-for-base-die-in-nvidias-custom-hbm",
+  "video": "",
+  "summary_ko": "삼성전자가 엔비디아의 차세대 커스텀 HBM용 로직 베이스다이를 TSMC 3나노 공정으로 생산하기로 했다는 보도가 나왔다. 엔비디아가 삼성·SK하이닉스·마이크론에 TSMC 공정 사용을 요구했고 삼성이 내부 검토 뒤 이를 수용했다는 내용이다. 삼성은 범용 HBM은 자체 생산을 유지하고, TSMC 물량이 부족할 경우 자사 파운드리 활용도 검토하는 것으로 전해졌다.",
+  "topics": [
+   "chips",
+   "korea"
+  ],
+  "orgs": [
+   "삼성전자",
+   "TSMC",
+   "엔비디아"
+  ]
+ },
+ {
+  "date": "2026-10-18",
+  "headline": "Disney agrees to hire the majority of Character.AI's workforce",
+  "headline_ko": "디즈니, 파산한 캐릭터AI 직원 대다수 고용…2000만달러에 기술 라이선스",
+  "outlet": "TechCrunch",
+  "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+  "video": "",
+  "summary_ko": "지난 10월 12일 델라웨어 법원에 챕터11 파산을 신청한 챗봇 스타트업 캐릭터AI의 남은 직원 60여 명에게 디즈니가 일자리를 제안했고 대다수가 수락했다. 디즈니는 2000만달러로 학습·안전·서빙 시스템 코드의 비독점 영구 라이선스와 특허 9건을 사들이는 스토킹호스 입찰을 냈으며, 앱·브랜드·이용자 데이터는 파산 재단에 남는다. 경쟁 입찰 마감은 11월 20일이다.",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "디즈니",
+   "Character.AI"
   ]
  },
  {
