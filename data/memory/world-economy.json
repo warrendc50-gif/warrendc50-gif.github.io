@@ -235,6 +235,38 @@
   ]
  },
  {
+  "date": "2026-10-19",
+  "headline": "Stock market today: Dow jumps, S&P 500, Nasdaq gain as AI jitters fade",
+  "headline_ko": "뉴욕증시, AI 불안 완화에 3대 지수 상승…다우 반등, 10년물 금리 5.07%",
+  "outlet": "Yahoo Finance",
+  "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-rise-nasdaq-trims-losses-as-treasury-yields-sink-153611834.html",
+  "video": "",
+  "summary_ko": "19일 뉴욕증시는 지난주 AI 관련 매도세가 진정되면서 S&P500과 나스닥이 오르고 장 초반 약세였던 다우도 상승 전환했다. 반도체주 반등이 나스닥을 이끌었고, 장중 S&P500은 7,727선(+0.89%), 나스닥은 26,592선까지 올랐다. 10년물 미 국채금리는 약 5.07%로 10월 7일 고점보다 29bp가량 낮아졌으며, 시장은 넷플릭스(20일)와 메타·테슬라(21일) 실적을 주시하고 있다.",
+  "topics": [
+   "markets"
+  ],
+  "orgs": [
+   "S&P500",
+   "나스닥",
+   "다우"
+  ]
+ },
+ {
+  "date": "2026-10-19",
+  "headline": "Why is Meta Platforms stock sliding today?",
+  "headline_ko": "메타 주가, 실적 발표 앞두고 또 하락…AI 투자 부담·목표주가 하향 겹쳐",
+  "outlet": "Investing.com",
+  "url": "https://investing.com/news/stock-market-news/why-is-meta-platforms-stock-sliding-today-93CH-4957820",
+  "video": "",
+  "summary_ko": "메타 주가가 19일 장중 1.8% 내린 696달러 선에서 거래됐다. 21일 장 마감 후 3분기 실적 발표를 앞둔 차익실현, AI 자본지출이 잉여현금흐름을 압박할 것이라는 우려, 최근 애널리스트 목표주가 하향이 겹쳤다는 분석이다. 메타는 16일에도 애널리스트 하향 조정과 AI 지출 우려로 3.7% 하락했으며, 52주 고점(약 779달러)을 크게 밑돌고 있다.",
+  "topics": [
+   "markets"
+  ],
+  "orgs": [
+   "메타"
+  ]
+ },
+ {
   "date": "2026-10-18",
   "headline": "Treasury Secretary Scott Bessent says Iran war drives current energy shock",
   "headline_ko": "베센트 美 재무장관 \"9월 물가 급등은 이란 전쟁發 에너지 쇼크 탓\"",

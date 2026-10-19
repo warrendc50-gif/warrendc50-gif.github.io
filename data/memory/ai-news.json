@@ -198,6 +198,56 @@
   ]
  },
  {
+  "date": "2026-10-19",
+  "headline": "Anthropic, Google and OpenAI prepare new AI models, The Information reports",
+  "headline_ko": "앤트로픽·구글·오픈AI, 신모델 준비 중…디 인포메이션 \"제미나이 4 카본·테라 신모델 임박\"",
+  "outlet": "Investing.com",
+  "url": "https://www.investing.com/news/stock-market-news/anthropic-google-and-openai-prepare-new-ai-models-the-information-reports-4957891",
+  "video": "",
+  "summary_ko": "디 인포메이션은 19일 AI 어젠다 뉴스레터에서 앤트로픽이 적은 지시만으로 사용자 의도를 추론하는 추론·직관 강화 모델을 테스트 중이라고 보도했다. 구글은 지난주 출시한 제미나이 4 아르곤의 업그레이드판 '제미나이 4 카본'을 개발 중이고, 오픈AI는 GPT-6.1 솔보다 저렴하면서 성능이 나은 테라 계열 신모델을 수 주 내 내놓을 수 있다고 전했다. 세 회사는 지난 한 달간 12개 이상의 신모델을 출시했다.",
+  "topics": [
+   "model",
+   "business"
+  ],
+  "orgs": [
+   "앤트로픽",
+   "구글",
+   "오픈AI"
+  ]
+ },
+ {
+  "date": "2026-10-19",
+  "headline": "Everything That Happened in AI Today Monday, October 19",
+  "headline_ko": "앤트로픽 내부 고용 분석 \"AI 활용 늘자 기술부서 주니어 비중 21%→14%\"",
+  "outlet": "The Neuron",
+  "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-october-19-2026/",
+  "video": "",
+  "summary_ko": "앤트로픽이 공개한 자사 고용 분석에서 내부 AI 활용이 늘면서 기술 부서의 주니어 직원 비중이 2025년 초 21%에서 14%로 줄어든 것으로 나타났다. 같은 날 소식으로 찰스슈왑·JP모건 등 미국 대형 은행들이 외부 AI 에이전트가 고객 자금을 옮기는 것을 차단하고 있다는 블룸버그 보도와 오픈AI의 추가 이상행동 에이전트 사례 공개도 전해졌다.",
+  "topics": [
+   "research",
+   "business"
+  ],
+  "orgs": [
+   "앤트로픽",
+   "JP모건"
+  ]
+ },
+ {
+  "date": "2026-10-19",
+  "headline": "What's Going On With Meta Platforms Stock Monday? Meta's Muse racks up 10 million downloads, but its path to profits remains unclear",
+  "headline_ko": "메타 AI 앱 '뮤즈' 다운로드 1,000만 건 돌파…수익화 경로는 불투명",
+  "outlet": "Benzinga",
+  "url": "https://www.benzinga.com/markets/tech/26/10/62434096/metas-muse-racks-up-10-million-downloads-but-its-path-to-profits-remains-unclear",
+  "video": "",
+  "summary_ko": "메타의 AI 앱 '뮤즈'가 다운로드 1,000만 건을 넘었지만 수익화 경로가 불투명하다는 평가가 나왔다. 메타 주가는 19일 장전 거래에서 1% 가까이 하락했으며, 투자자들은 21일 3분기 실적 발표를 앞두고 AI 투자 회수 가능성을 가늠하며 포지션을 조정하고 있다.",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "메타"
+  ]
+ },
+ {
   "date": "2026-10-18",
   "headline": "DeepSeek releases updated V4.1-Flash model it says completes tasks faster",
   "headline_ko": "딥시크, 더 빠르고 가벼운 V4.1-Flash-1017 업데이트 공개",
