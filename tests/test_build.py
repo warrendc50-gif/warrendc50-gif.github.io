@@ -144,10 +144,8 @@ def test_memory_boards(tmp_path, monkeypatch):
     assert "youtube.com/results?search_query=" in board  # search fallback for the item without a video
     live = (public_dir / "memory/world-live/index.html").read_text(encoding="utf-8")
     assert "@FRANCE24English/live" in live and 'class="live-dot"' in live and "시위·폭동" in live
-    assert '<svg class="tl" data-mode="topic"' in board and '<svg class="tl" data-mode="org"' in board  # timeline
-    assert board.count(' hidden viewBox=') == 1  # the org view starts hidden
-    assert board.count('data-id="1"') >= 3  # headline + a dot on each timeline mode
-    assert 'class="lane-g" data-key="policy"' in board and 'class="lane-g" data-key="model"' in board
+    assert 'id="tl-data"' in board and 'id="tl-period"' in board  # timeline drawn client-side
+    assert '"d": "2026-01-05"' in board and '"labels": {' in board and '"정책·규제"' in board
     empty = (public_dir / "memory/world-economy/index.html").read_text(encoding="utf-8")
     assert "아직 모아 둔 기사가 없습니다" in empty
     assert "memory/ai-news/" in (public_dir / "sitemap.xml").read_text(encoding="utf-8")
