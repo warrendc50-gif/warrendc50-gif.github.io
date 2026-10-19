@@ -152,6 +152,39 @@
   ]
  },
  {
+  "date": "2026-10-19",
+  "headline": "European markets close lower; Stoxx 600 falls 0.82% as France's CAC 40 tumbles 1.35% after violent weekend protests",
+  "headline_ko": "유럽 증시 하락 마감…프랑스 폭력 시위 여파에 CAC40 1.35% 급락, 스톡스600 0.82%↓",
+  "outlet": "CNBC",
+  "url": "https://cnbc.com/2026/10/18/stock-market-today-live-updates.html",
+  "video": "",
+  "summary_ko": "19일(월) 유럽 증시는 스톡스600 지수가 0.82% 하락 마감했고, 주말 생활비 시위가 폭력 사태로 번진 프랑스의 CAC40은 1.35% 떨어져 낙폭이 가장 컸다. 프랑스 10년물 국채 금리는 약 4.89%로 10bp 안팎 오르고 독일과의 스프레드가 146bp까지 벌어졌다. 브렌트유는 1% 넘게 내려 배럴당 108달러 안팎, WTI는 101달러 선에서 거래됐다.",
+  "topics": [
+   "markets",
+   "crisis"
+  ],
+  "orgs": [
+   "프랑스",
+   "유럽"
+  ]
+ },
+ {
+  "date": "2026-10-18",
+  "headline": "Treasury Secretary Scott Bessent says Iran war drives current energy shock",
+  "headline_ko": "베센트 美 재무장관 \"9월 물가 급등은 이란 전쟁發 에너지 쇼크 탓\"",
+  "outlet": "The Hill",
+  "url": "https://thehill.com/policy/energy-environment/6156572-bessent-oil-prices-iran-conflict/",
+  "video": "",
+  "summary_ko": "스콧 베센트 미 재무장관이 18일 NBC '밋 더 프레스'에서 9월 소비자물가 3.7% 상승은 이란 분쟁에 따른 에너지 쇼크가 원인이라고 말했다. 9월 휘발유 가격은 9.1% 올라 월간 물가 상승분의 절반 이상을 차지했으며, 그는 이란 사태가 지나면 가격이 내려갈 것이라고 했다. 진행자는 근원물가에 에너지가 포함되지 않는다며 반박했고, 중간선거는 11월 3일로 16일 남았다.",
+  "topics": [
+   "macro",
+   "energy"
+  ],
+  "orgs": [
+   "미국 재무부"
+  ]
+ },
+ {
   "date": "2026-10-16",
   "headline": "China Moves to Curb Tech Exports, Including AI, Citing National Security Risks",
   "headline_ko": "중국, AI 모델·칩 설계 등 23개 AI 기술 수출통제 추진",

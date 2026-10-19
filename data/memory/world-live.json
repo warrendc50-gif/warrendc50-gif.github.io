@@ -133,6 +133,54 @@
    ]
   },
   {
+   "date": "2026-10-19",
+   "headline": "Gantz pulls out of election race, eight days ahead of vote",
+   "headline_ko": "간츠, 이스라엘 총선 8일 앞두고 출마 철회",
+   "outlet": "The Times of Israel",
+   "url": "https://www.timesofisrael.com/liveblog_entry/gantz-pulls-out-of-election-race-eight-days-ahead-of-vote",
+   "video": "",
+   "summary_ko": "베니 간츠 블루앤화이트 대표가 10월 27일 이스라엘 총선을 8일 앞둔 19일 출마 철회를 선언했다. 여론조사에서 당이 봉쇄조항(득표 하한선)을 넘지 못하는 것으로 반복 나타났고, 소속 의원들이 전 측근 가디 아이젠코트의 야샤르당으로 이탈한 것이 배경이다. 간츠는 선거 밖에서 국민통합정부 구성을 계속 추진하겠다고 밝혔다.",
+   "topics": [
+    "politics"
+   ],
+   "orgs": [
+    "이스라엘",
+    "블루앤화이트"
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "headline": "France's Macron declines minister's resignation after violent protests",
+   "headline_ko": "마크롱, 폭력 시위 책임지겠다는 뉘네즈 내무장관 사의 반려",
+   "outlet": "Al Jazeera",
+   "url": "https://aljazeera.com/news/2026/10/19/frances-macron-declines-ministers-resignation-after-violent-protests",
+   "video": "",
+   "summary_ko": "마크롱 대통령이 주말 폭동 사태의 책임을 지겠다며 18일 사의를 표한 로랑 뉘네즈 내무장관의 사퇴를 19일 반려했다. 엘리제궁은 경찰·치안 지휘 체계를 유지하기 위해 장관이 자리를 지켜야 한다고 설명했고, 마크롱은 대비·정보 판단의 실패를 인정하며 약탈 대응 방식을 새로 마련하라고 지시했다. 공식 집계로 약 2,400명이 체포되고 경찰 1,000명 가까이 부상했다.",
+   "topics": [
+    "unrest",
+    "politics"
+   ],
+   "orgs": [
+    "프랑스"
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "headline": "Istanbul flood death toll rises to eight as rescuers find more bodies, governor says",
+   "headline_ko": "이스탄불 홍수 사망자 8명으로 늘어…구조대 추가 시신 발견",
+   "outlet": "Euronews",
+   "url": "https://www.euronews.com/2026/10/19/istanbul-flood-death-toll-rises-to-eight-as-rescuers-find-more-bodies-governor-says",
+   "video": "",
+   "summary_ko": "80여 년 만의 최대 폭우로 발생한 이스탄불 일대 홍수의 사망자가 19일 8명으로 늘었다고 다부트 귈 주지사가 밝혔다. 구조대가 추가로 시신을 수습했으며, 재산 피해 신고는 약 2만 건에 이른다. 베이코즈 지역에는 최대 277.1mm의 비가 내렸다.",
+   "topics": [
+    "disaster"
+   ],
+   "orgs": [
+    "튀르키예",
+    "이스탄불"
+   ]
+  },
+  {
    "date": "2026-10-18",
    "headline": "\"1200명 체포, 거리 전체가 황폐화\"...생활고 불만 폭발한 프랑스",
    "headline_ko": "\"1200명 체포, 거리 전체가 황폐화\"...생활고 불만 폭발한 프랑스",
@@ -247,6 +295,23 @@
    ],
    "orgs": [
     "괌",
+    "미국"
+   ]
+  },
+  {
+   "date": "2026-10-18",
+   "headline": "Zelenskyy says Trump is pushing Ukraine to yield to Russia",
+   "headline_ko": "젤렌스키 \"트럼프, 우크라이나에 러시아 앞에 굴복하라 압박\"",
+   "outlet": "The Detroit News",
+   "url": "https://www.detroitnews.com/story/news/world/2026/10/18/zelenskyy-claims-trump-wants-ukraine-to-surrender/92324507007/",
+   "video": "",
+   "summary_ko": "젤렌스키 우크라이나 대통령이 트럼프 미국 대통령이 키이우에 러시아에 양보하라고 압박하고 있다고 비판하며 양국 갈등이 일주일 넘게 이어지고 있다. 그는 미국의 패트리엇 요격미사일 공급이 월 12발 수준으로 크게 줄었고 승인된 물량 일부도 보류돼 있다고 주장했다. 트럼프 행정부는 러시아 제재 일부를 보류하고 러시아산 디젤 공급 거래를 추진하는 중이다.",
+   "topics": [
+    "conflict",
+    "politics"
+   ],
+   "orgs": [
+    "우크라이나",
     "미국"
    ]
   },

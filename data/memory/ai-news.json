@@ -65,6 +65,41 @@
   ]
  },
  {
+  "date": "2026-10-19",
+  "headline": "Former Huawei engineer's robot AI startup Gewu Tongzhi raises nearly RMB 100 million",
+  "headline_ko": "전 화웨이 엔지니어의 로봇 AI 스타트업 거우퉁즈, 1억 위안 규모 엔젤 투자 유치",
+  "outlet": "TechNode",
+  "url": "https://technode.com/2026/10/19/former-huawei-engineers-robot-ai-startup-gewu-tongzhi-raises-nearly-rmb-100-million/",
+  "video": "",
+  "summary_ko": "전 화웨이 엔지니어가 창업한 항저우의 로봇 AI 스타트업 거우퉁즈(Gewu Tongzhi)가 1억 위안에 가까운 엔젤 라운드 투자를 마쳤다. 자금은 모델 학습, 하드웨어 개발, 인재 채용과 실환경 데이터 수집에 쓰인다. 중국에서 피지컬 AI·로봇 스타트업 투자가 이어지는 흐름의 하나다.",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "Gewu Tongzhi",
+   "화웨이"
+  ]
+ },
+ {
+  "date": "2026-10-19",
+  "headline": "Why Are AI Chip Stocks Nvidia, Broadcom, AMD, and Intel Rising in Premarket Today, October 19?",
+  "headline_ko": "엔비디아·브로드컴·AMD·인텔, 급락 한 주 뒤 19일 프리마켓서 반등",
+  "outlet": "TipRanks",
+  "url": "https://www.tipranks.com/news/why-are-ai-chip-stocks-nvidia-broadcom-amd-and-intel-rising-in-premarket-today-october-19",
+  "video": "",
+  "summary_ko": "AI 투자 지출 우려로 지난주 급락했던 엔비디아·브로드컴·AMD·인텔 등 AI 반도체주가 19일 미국 프리마켓에서 반등했다. 지난 5거래일 동안 인텔과 AMD는 약 10%, 엔비디아는 5% 하락했었다. 코어위브 사태로 레버리지 칩 금융에 대한 경계가 커진 가운데 AMD는 11월 3일 3분기 실적을 발표한다.",
+  "topics": [
+   "chips",
+   "business"
+  ],
+  "orgs": [
+   "엔비디아",
+   "AMD",
+   "브로드컴",
+   "인텔"
+  ]
+ },
+ {
   "date": "2026-10-18",
   "headline": "DeepSeek releases updated V4.1-Flash model it says completes tasks faster",
   "headline_ko": "딥시크, 더 빠르고 가벼운 V4.1-Flash-1017 업데이트 공개",
@@ -146,6 +181,22 @@
   "orgs": [
    "디즈니",
    "Character.AI"
+  ]
+ },
+ {
+  "date": "2026-10-18",
+  "headline": "Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption",
+  "headline_ko": "앤트로픽, 지분 5%를 '공익 기금'에 출연…AI 일자리 충격 대응",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html",
+  "video": "",
+  "summary_ko": "앤트로픽이 18일 회사 지분 5%를 새로 만드는 '앤트로픽 공익기금'에 출연하겠다고 발표했다. 주주 승인이 필요하며, 기업가치가 기준선 대비 50% 오를 때마다 이사회가 2%씩 추가할 수 있다. 기금은 비영리단체 기부와 AI로 인한 일자리 충격 대응 프로그램에 쓰이고 로비·정치자금에는 사용할 수 없으며, 창업자 서약 등을 합치면 지분 약 20%가 공익 목적으로 배정된 셈이라고 회사는 설명했다.",
+  "topics": [
+   "business",
+   "policy"
+  ],
+  "orgs": [
+   "앤트로픽"
   ]
  },
  {
