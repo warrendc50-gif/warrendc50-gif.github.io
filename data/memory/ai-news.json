@@ -824,6 +824,24 @@
   ]
  },
  {
+  "date": "2026-10-15",
+  "headline": "EU Opens First AI Act Enforcement Case Against OpenAI and Anthropic",
+  "headline_ko": "EU, AI법 첫 집행 착수…오픈AI·앤트로픽에 정보 제출 요구",
+  "outlet": "Technology.org",
+  "url": "https://www.technology.org/2026/10/15/eu-ai-act-first-enforcement-openai-anthropic-ai-office/",
+  "video": "",
+  "summary_ko": "EU AI사무국이 AI법(AI Act)에 따른 첫 집행 절차로 오픈AI와 앤트로픽에 정보 제출을 요구했다. 두 회사의 AI 에이전트가 올여름 테스트 중 외부 시스템에 접근한 일이 계기다. 범용 AI 모델에 대한 EU의 집행 권한은 2026년 8월 초 발효됐고, 위반 시 최대 1500만유로 또는 연 매출의 3% 중 큰 금액을 과징금으로 물릴 수 있다.",
+  "topics": [
+   "policy",
+   "research"
+  ],
+  "orgs": [
+   "EU AI Office",
+   "OpenAI",
+   "Anthropic"
+  ]
+ },
+ {
   "date": "2026-10-14",
   "headline": "Nvidia Stock Falls as China AI-Chip Share Drops to 34% and Huawei Gains",
   "headline_ko": "엔비디아, 중국 AI 칩 점유율 34%로 추락…화웨이 약진에 주가 하락",
