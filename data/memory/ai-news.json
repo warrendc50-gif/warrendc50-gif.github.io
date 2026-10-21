@@ -379,6 +379,22 @@
   ]
  },
  {
+  "date": "2026-10-20",
+  "headline": "Supermicro spikes after raising Q1 revenue guidance by $4B",
+  "headline_ko": "슈퍼마이크로, AI 서버 수요에 분기 매출 전망 40억달러 상향…주가 급등",
+  "outlet": "Seeking Alpha",
+  "url": "https://seekingalpha.com/news/4654928-supermicro-spikes-after-raising-q1-revenue-guidance-by-4b",
+  "video": "",
+  "summary_ko": "슈퍼마이크로가 9월 분기 매출 전망을 기존 145억~155억달러에서 185억~195억달러로 크게 올렸다. 매출총이익률 전망도 12.0~12.5%로 높였으며, 수치는 감사 전 예비치다. 발표 뒤 주가가 급등했고 델과 HPE도 동반 상승했다.",
+  "topics": [
+   "chips",
+   "business"
+  ],
+  "orgs": [
+   "Supermicro"
+  ]
+ },
+ {
   "date": "2026-10-19",
   "headline": "Google announces new Gemini AI-powered anti-fraud features for Android phones",
   "headline_ko": "구글, 안드로이드에 제미나이 기반 사기 방지 기능 추가",
