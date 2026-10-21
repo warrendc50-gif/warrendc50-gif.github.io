@@ -169,6 +169,22 @@
   ]
  },
  {
+  "date": "2026-10-21",
+  "headline": "카카오, 비전 AI 2종 오픈소스 공개…구글·메타·애플 제쳤다",
+  "headline_ko": "카카오, 비전 AI 2종 오픈소스 공개…구글·메타·애플 제쳤다",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202610210902292762",
+  "video": "",
+  "summary_ko": "카카오가 자체 개발한 이미지 인식 모델 '카나나-2 비전 인코더' 2종을 허깅페이스에 오픈소스로 공개했다. 4억2600만 매개변수의 '미디엄'과 온디바이스용 9800만 매개변수 '타이니'로, 상업적으로 쓸 수 있다. 카카오는 자체 평가에서 구글·메타·애플의 주요 비전 인코더보다 성능이 높았다고 밝혔다.",
+  "topics": [
+   "model",
+   "korea"
+  ],
+  "orgs": [
+   "Kakao"
+  ]
+ },
+ {
   "date": "2026-10-20",
   "headline": "OpenAI acquires Orchestra Bio to bring AI agents into drug development",
   "headline_ko": "오픈AI, 신약개발 AI 에이전트 스타트업 오케스트라 바이오 인수",
