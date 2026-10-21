@@ -137,6 +137,22 @@
   ]
  },
  {
+  "date": "2026-10-21",
+  "headline": "AI platform Pigment raises $250m in Series E funding round",
+  "headline_ko": "프랑스 AI 기업 계획 플랫폼 피그먼트, 2억5000만달러 시리즈E 유치",
+  "outlet": "Silicon Republic",
+  "url": "https://www.siliconrepublic.com/start-ups/ai-platform-pigment-raises-series-e-funding-round-france-paris",
+  "video": "",
+  "summary_ko": "파리에 본사를 둔 AI 기반 기업 계획 플랫폼 피그먼트가 2억5000만달러 규모의 시리즈E 투자를 유치했다. 기업가치는 23억달러로 평가됐고, 투자는 스케일업 유럽 펀드가 주도했다.",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "Pigment",
+   "Scaleup Europe Fund"
+  ]
+ },
+ {
   "date": "2026-10-20",
   "headline": "OpenAI acquires Orchestra Bio to bring AI agents into drug development",
   "headline_ko": "오픈AI, 신약개발 AI 에이전트 스타트업 오케스트라 바이오 인수",
@@ -327,6 +343,23 @@
   ],
   "orgs": [
    "SpaceX"
+  ]
+ },
+ {
+  "date": "2026-10-20",
+  "headline": "Inception says Mercury 3 beats GPT-6 Luna and Claude Haiku 5.5 at up to 8x the speed",
+  "headline_ko": "인셉션 \"머큐리 3, GPT-6 루나·클로드 하이쿠 5.5보다 최대 8배 빠르고 성능 앞서\"",
+  "outlet": "SiliconANGLE",
+  "url": "https://siliconangle.com/2026/10/20/inception-says-mercury-3-beats-gpt-6-luna-and-claude-haiku-5-5-at-up-to-8x-the-speed",
+  "video": "",
+  "summary_ko": "AI 스타트업 인셉션이 새 모델 머큐리 3를 공개하며 오픈AI GPT-6 루나와 앤트로픽 클로드 하이쿠 5.5보다 성능이 높고 속도는 최대 8배 빠르다고 주장했다. 경량·고속 모델 시장에서 경쟁이 치열해지고 있다.",
+  "topics": [
+   "model"
+  ],
+  "orgs": [
+   "Inception",
+   "OpenAI",
+   "Anthropic"
   ]
  },
  {
