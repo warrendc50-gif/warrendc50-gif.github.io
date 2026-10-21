@@ -1,5 +1,205 @@
 [
  {
+  "date": "2026-10-21",
+  "headline": "NVIDIA Advances Isaac Platform for General-Purpose Robotics With New Reference Humanoid, Frameworks, Simulation Pipelines and Data",
+  "headline_ko": "엔비디아, GTC 베를린서 아이작 로보틱스 플랫폼 확장…레퍼런스 휴머노이드 공개",
+  "outlet": "GlobeNewswire (Manila Times)",
+  "url": "https://www.manilatimes.net/2026/10/21/tmt-newswire/globenewswire/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data/2450595",
+  "video": "",
+  "summary_ko": "엔비디아가 GTC 베를린에서 범용 로보틱스를 위한 아이작(Isaac) 플랫폼을 대폭 확장했다. 레퍼런스 휴머노이드와 새 프레임워크, 시뮬레이션 파이프라인, 데이터셋을 추가하고 Isaac Lab 3.0을 정식 출시했다. 같은 행사에서 노키아와의 AI-RAN 통신 협력, 유럽 자동차 업계와의 자율주행 협력, 독일 정부와의 피지컬 AI 의향서도 발표됐다.",
+  "topics": [
+   "research",
+   "business"
+  ],
+  "orgs": [
+   "Nvidia",
+   "Nokia"
+  ]
+ },
+ {
+  "date": "2026-10-21",
+  "headline": "‘77조 신기록’ SK하이닉스…HBM4 독주엔 ‘경고등’",
+  "headline_ko": "‘77조 신기록’ SK하이닉스…HBM4 독주엔 ‘경고등’",
+  "outlet": "서울경제TV",
+  "url": "https://www.sentv.co.kr/article/view/sentv202610210078",
+  "video": "",
+  "summary_ko": "SK하이닉스의 3분기 영업이익 컨센서스는 76조9640억원으로 사상 최대 수준이지만 3개월 전보다 5.6% 낮아졌다. 엔비디아 차세대 가속기 '루빈' 일정 지연으로 HBM4 출하가 기대에 못 미쳤다는 분석이 나온다. 카운터포인트리서치 기준 HBM 매출 점유율은 SK하이닉스가 1분기 58%에서 2분기 50%로 내려온 반면 삼성전자는 21%에서 33%로 뛰었고, UBS는 내년 비트 출하량 기준 삼성전자가 근소하게 앞설 것으로 봤다.",
+  "topics": [
+   "chips",
+   "korea"
+  ],
+  "orgs": [
+   "SK하이닉스",
+   "삼성전자",
+   "Nvidia"
+  ]
+ },
+ {
+  "date": "2026-10-21",
+  "headline": "빅테크, AI 메모리 조달 다변화 속도…엔비디아 '표준화'·인텔 '우회'",
+  "headline_ko": "빅테크, AI 메모리 조달 다변화 속도…엔비디아 '표준화'·인텔 '우회'",
+  "outlet": "네이트뉴스",
+  "url": "https://m.news.nate.com/view/20261021n22320",
+  "video": "",
+  "summary_ko": "글로벌 빅테크가 AI 메모리 조달처를 다변화하고 있으며, 엔비디아는 표준화, 인텔은 우회 전략을 쓰는 것으로 보도됐다. 다만 공급 부족과 고부가가치 HBM 수요가 삼성전자·SK하이닉스의 실적과 가격 협상력을 뒷받침하고 있다는 평가가 나온다.",
+  "topics": [
+   "chips",
+   "korea"
+  ],
+  "orgs": [
+   "Nvidia",
+   "Intel",
+   "삼성전자",
+   "SK하이닉스"
+  ]
+ },
+ {
+  "date": "2026-10-20",
+  "headline": "OpenAI acquires Orchestra Bio to bring AI agents into drug development",
+  "headline_ko": "오픈AI, 신약개발 AI 에이전트 스타트업 오케스트라 바이오 인수",
+  "outlet": "SiliconANGLE",
+  "url": "https://siliconangle.com/2026/10/20/openai-acquires-orchestra-bio-to-bring-ai-agents-into-drug-development/",
+  "video": "",
+  "summary_ko": "오픈AI가 제약 개발 과정을 조율하는 AI 에이전트 스타트업 오케스트라 바이오를 인수했다고 10월 20일 발표했다. 인수 조건은 비공개이며, 팀과 기술은 오픈AI의 생명과학 도구 모음 '로잘린드'에 통합된다. 앤트로픽이 4월 코에피션트 바이오를 인수한 데 이어 AI 연구소들의 신약개발 경쟁이 가열되고 있다.",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "OpenAI",
+   "Orchestra Bio"
+  ]
+ },
+ {
+  "date": "2026-10-20",
+  "headline": "OpenAI is racing to raise $30 billion before Anthropic's expected IPO",
+  "headline_ko": "오픈AI, 앤트로픽 IPO 앞서 1.4조달러 밸류에 300억달러 조달 서둘러",
+  "outlet": "Quartz",
+  "url": "https://qz.com/openai-30-billion-funding-round-anthropic-ipo-102026",
+  "video": "",
+  "summary_ko": "로이터는 오픈AI가 1조4000억달러 이상의 기업가치로 약 300억달러를 조달하기 위해 투자자 약정을 서두르고 있다고 10월 20일 보도했다. 11월 중순으로 예상되는 앤트로픽 상장 전에 마무리하려는 것으로, 소프트뱅크와 MGX 등 기존 투자자가 참여를 협의 중이다. 오픈AI의 직전 기업가치는 3월 8520억달러였다.",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "OpenAI",
+   "SoftBank",
+   "MGX"
+  ]
+ },
+ {
+  "date": "2026-10-20",
+  "headline": "Anthropic in talks with neocloud Nscale over second multibillion-dollar deal, source tells CNBC",
+  "headline_ko": "앤트로픽, 엔스케일과 두 번째 수백억달러 규모 데이터센터 계약 협의",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/10/20/anthropic-nscale-data-center-deal.html",
+  "video": "",
+  "summary_ko": "앤트로픽이 영국 네오클라우드 업체 엔스케일과 웨스트버지니아 사이트의 컴퓨팅 용량을 추가로 임차하는 두 번째 계약을 협의 중이라고 CNBC가 소식통을 인용해 보도했다. 거래 규모는 약 450억달러에 이를 수 있으며, 8월에 체결한 첫 계약(약 460MW, 베라 루빈 칩 기반)과 같은 캠퍼스의 두 번째 건물이 대상이다. 앤트로픽은 논평을 거절했다.",
+  "topics": [
+   "business",
+   "chips"
+  ],
+  "orgs": [
+   "Anthropic",
+   "Nscale"
+  ]
+ },
+ {
+  "date": "2026-10-20",
+  "headline": "Anthropic revenue hits $16.3 billion as preliminary S-1 outlines IPO risks - WSJ",
+  "headline_ko": "앤트로픽 상반기 매출 163억달러·순손실 807억달러…S-1 초안 WSJ 보도",
+  "outlet": "Investing.com",
+  "url": "https://www.investing.com/news/stock-market-news/anthropic-revenue-hits-163-billion-as-preliminary-s1-outlines-ipo-risks--wsj-4960928",
+  "video": "",
+  "summary_ko": "월스트리트저널이 열람한 앤트로픽 IPO 초안(S-1)에 따르면 2026년 상반기 매출은 163억달러로 전년 동기 11억달러에서 급증했고, 순손실은 807억달러였다. 손실 가운데 약 720억달러는 전환사채 등 금융상품 관련 비현금 회계 조정이다. 상반기 컴퓨팅 지출은 약 90억달러, 향후 잠재 컴퓨팅 비용은 최대 7500억달러로 제시됐으며 매출의 약 5분의 1이 고객 2곳에서 나왔다.",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "Anthropic"
+  ]
+ },
+ {
+  "date": "2026-10-20",
+  "headline": "Exclusive-ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders",
+  "headline_ko": "바이트댄스·알리바바·텐센트, 엔비디아 RTX PRO 5500 350억달러어치 주문",
+  "outlet": "Reuters (WSAU)",
+  "url": "https://wsau.com/2026/10/20/exclusive-bytedance-alibaba-tencent-place-over-35-billion-worth-of-nvidia-chip-orders/",
+  "video": "",
+  "summary_ko": "로이터는 중국 3대 빅테크가 미국 수출규제 하에서 구매 가능한 엔비디아 RTX PRO 5500 카드를 300만장 이상, 350억달러어치 넘게 주문했다고 소식통을 인용해 보도했다. 엔비디아는 수요가 생산계획을 크게 웃돌아 요청 물량의 5~10%만 공급될 수 있다고 고객에게 알린 것으로 전해졌다. 중국 고객 전체 주문은 600만장을 넘었으며 주로 AI 추론용이다.",
+  "topics": [
+   "chips",
+   "policy"
+  ],
+  "orgs": [
+   "Nvidia",
+   "ByteDance",
+   "Alibaba",
+   "Tencent"
+  ]
+ },
+ {
+  "date": "2026-10-20",
+  "headline": "Google launches Gemini for government services as new 'agentic solution'",
+  "headline_ko": "구글, 정부 서비스용 '제미나이 에이전트' 공개…연방·주·지방정부에 프리뷰",
+  "outlet": "FedScoop",
+  "url": "https://fedscoop.com/google-launches-gemini-for-government-services/",
+  "video": "",
+  "summary_ko": "구글이 워싱턴 공공부문 서밋에서 정부 서비스에 특화된 제미나이 에이전트를 공개하고 연방·주·지방정부 대상 프리뷰를 시작했다. 10월 8일 '제미나이 앳 워크'에서 선보인 업무용 범용 에이전트를 공공 분야로 확장한 것이다.",
+  "topics": [
+   "model",
+   "policy"
+  ],
+  "orgs": [
+   "Google"
+  ]
+ },
+ {
+  "date": "2026-10-20",
+  "headline": "Google is bringing a more personal version of its Gemini AI assistant to your car",
+  "headline_ko": "구글, 안드로이드 오토에 '제미나이 개인 지능' 기능 출시",
+  "outlet": "TechCrunch",
+  "url": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
+  "video": "",
+  "summary_ko": "구글이 지메일·캘린더·유튜브·지도·검색 기록 등 연결된 구글 서비스 정보를 활용하는 제미나이 '퍼스널 인텔리전스' 기능을 안드로이드 오토에 배포하기 시작했다. 구글 빌트인 차량에는 수개월 내 적용될 예정이며, 스위스·EEA·영국·나이지리아를 제외한 글로벌 출시다.",
+  "topics": [
+   "model"
+  ],
+  "orgs": [
+   "Google"
+  ]
+ },
+ {
+  "date": "2026-10-20",
+  "headline": "Salesforce announces $5.66 billion deal for Braze, sending BRZE stock soaring 51%",
+  "headline_ko": "세일즈포스, AI 마케팅 플랫폼 브레이즈 56.6억달러에 인수",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/10/20/salesforce-braze-acquisition-deal.html",
+  "video": "",
+  "summary_ko": "세일즈포스가 고객 참여 플랫폼 브레이즈를 기업가치 약 56억6000만달러에 전액 현금으로 인수한다고 10월 20일 발표했다. 주당 47.50달러로 전일 종가 대비 약 58% 프리미엄이며, 거래는 회계연도 2028년 마감 예정이다. 실시간·모바일 고객 참여와 AI 의사결정 기능을 마케팅 제품군에 더하기 위한 것으로, 브레이즈 주가는 50% 이상 급등했다.",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "Salesforce",
+   "Braze"
+  ]
+ },
+ {
+  "date": "2026-10-20",
+  "headline": "Mistral launches Voxtral 3 with a voice agent SDK",
+  "headline_ko": "미스트랄, 음성 모델 '복스트랄 3'와 보이스 에이전트 SDK 출시",
+  "outlet": "TestingCatalog",
+  "url": "https://www.testingcatalog.com/mistral-launches-voxtral-3-with-a-voice-agent-sdk/",
+  "video": "",
+  "summary_ko": "프랑스 미스트랄AI가 음성인식(STT) 모델 3종과 음성합성(TTS) 모델로 구성된 복스트랄 3와 보이스 에이전트 API·SDK를 공개했다. 전사는 50개 이상 언어, 음성 출력은 35개 이상 언어를 지원하며 EU 호스팅 API나 자체 인프라에서 쓸 수 있다. 아티피셜 애널리시스 평가에서 Voxtral Small Transcribe 3는 STT 리더보드 3위에 올랐다.",
+  "topics": [
+   "model"
+  ],
+  "orgs": [
+   "Mistral AI"
+  ]
+ },
+ {
   "date": "2026-10-19",
   "headline": "Google announces new Gemini AI-powered anti-fraud features for Android phones",
   "headline_ko": "구글, 안드로이드에 제미나이 기반 사기 방지 기능 추가",

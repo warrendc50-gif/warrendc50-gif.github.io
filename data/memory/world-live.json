@@ -31,6 +31,212 @@
  ],
  "items": [
   {
+   "date": "2026-10-21",
+   "headline": "Japan braces for 30th named storm this year as Typhoon Champi heads for Okinawa",
+   "headline_ko": "슈퍼태풍 '참피' 오키나와 사키시마 열도로 북상…대만·필리핀 바타네스도 영향권",
+   "outlet": "The Japan Times",
+   "url": "https://www.japantimes.co.jp/news/2026/10/21/japan/typhoon-champi-okinawa/",
+   "video": "https://www.youtube.com/watch?v=Up8Lfcc1zkM",
+   "summary_ko": "최대풍속 216km/h의 슈퍼태풍 참피가 21일 루손섬 동쪽 약 800km 해상에서 서북서진하며 금~토요일 오키나와 사키시마 열도에 접근할 전망이다. 대만 기상당국은 해상 경보 발령을 검토했고, 필리핀 바타네스 일대도 강풍과 높은 파도가 예상된다. 미일 연합훈련 '킨 소드'도 태풍으로 축소됐다.",
+   "topics": [
+    "disaster"
+   ],
+   "orgs": [
+    "일본",
+    "오키나와",
+    "대만",
+    "필리핀"
+   ],
+   "video_channel": "ABS-CBN News"
+  },
+  {
+   "date": "2026-10-21",
+   "headline": "Witkoff heads to Russia for Putin talks after Zelenskyy meeting",
+   "headline_ko": "위트코프 미 특사, 젤렌스키 면담 뒤 러시아行…푸틴과 종전 협상",
+   "outlet": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/21/witkoff-russia-putin-ukraine-zelenskyy.html",
+   "video": "",
+   "summary_ko": "스티브 위트코프 미국 특사가 21일 러시아에서 푸틴 대통령과 우크라이나 전쟁 종결 방안을 논의한다. 앞서 젤렌스키 대통령은 미국 측과의 논의가 '건설적'이었다며 우크라이나 미래에 관한 어떤 합의에도 키이우가 참여해야 한다고 강조했다. 트럼프·푸틴·젤렌스키 3자 정상회담과 에너지 휴전 등이 의제로 거론되지만 크렘린은 일시 휴전에 반대하고 있다.",
+   "topics": [
+    "politics"
+   ],
+   "orgs": [
+    "미국",
+    "러시아",
+    "우크라이나"
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "headline": "More than 150 killed in Sudan drone strike on disputed Abyei border region",
+   "headline_ko": "수단-남수단 분쟁지 아비에이 시장에 드론 공격, 사망자 153명으로 늘어",
+   "outlet": "France 24",
+   "url": "https://www.france24.com/en/africa/20261020-more-than-150-killed-sudan-drone-strike-disputed-abyei-border-region",
+   "video": "",
+   "summary_ko": "19일 수단과 남수단 사이 분쟁지역 아비에이의 아미에트 시장이 드론 공격을 받아 현지 당국 집계로 최소 153명이 숨지고 약 8천 명이 피란했다. 아비에이 당국은 수단 정부군을 지목했고, 수단군 측은 RSF로 향하던 연료 탱커를 타격했다고 주장했다. 남수단은 수단 대사를 초치했고 유엔 사무총장은 공격을 규탄했다.",
+   "topics": [
+    "conflict"
+   ],
+   "orgs": [
+    "수단",
+    "남수단",
+    "아비에이",
+    "유엔"
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "headline": "Attack by Islamic State-affiliated group in Mali kills 48 people, official says",
+   "headline_ko": "말리 메나카 지역서 IS 연계 조직 공격으로 48명 사망",
+   "outlet": "ABC News (AP)",
+   "url": "https://abcnews.com/International/wireStory/attack-islamic-state-affiliated-group-mali-kills-48-137413904",
+   "video": "",
+   "summary_ko": "말리 동부 메나카 지역에서 18~19일 밤사이 이슬람국가 사헬지부(ISSP) 무장세력이 민간인 거주지를 습격해 어린이와 노인을 포함해 48명이 숨졌다고 현지 의원이 전했다. 무장세력은 주민들이 군에 정보를 넘겼다고 비난했으며, 사망자 수는 더 늘어날 수 있다.",
+   "topics": [
+    "terror"
+   ],
+   "orgs": [
+    "말리",
+    "이슬람국가"
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "headline": "Russian drones strike Kyiv hospital, injure 12 across the city",
+   "headline_ko": "러시아 드론, 키이우 병원 타격…시내 12명 부상",
+   "outlet": "Kyiv Independent",
+   "url": "https://kyivindependent.com/russian-drones-strike-kyiv-hospital-injure-5-across-the-city/",
+   "video": "",
+   "summary_ko": "20일 러시아 드론이 키이우를 거듭 공격해 솔로미얀스키 구의 병원과 홀로시이우스키 구의 의료시설이 파손되고 12명이 다쳤다. 스트라제스코 연구소 수술실에 있던 환자 1명이 부상했다고 우크라이나 총리가 밝혔다. 같은 날 밤 전국적으로 민간인 최소 4명이 숨지고 27명이 다쳤다.",
+   "topics": [
+    "conflict"
+   ],
+   "orgs": [
+    "우크라이나",
+    "러시아",
+    "키이우"
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "headline": "Saudi says intercepted Houthi missile, blasts heard in capital",
+   "headline_ko": "사우디, 리야드 향한 후티 탄도미사일 요격…수도서 폭발음",
+   "outlet": "Manila Times (AFP)",
+   "url": "https://www.manilatimes.net/2026/10/20/world/saudi-says-intercepted-houthi-missile-blasts-heard-in-capital/2449565",
+   "video": "",
+   "summary_ko": "20일 아침 사우디 주도 연합군이 리야드를 향해 발사된 후티 반군의 탄도미사일을 요격·파괴했다고 발표했다. 당국이 위험 경보를 보낸 뒤 리야드에서 두 차례 큰 폭발음이 들렸고, 민방위는 곧 위험이 해소됐다고 밝혔다. 연합군은 발사대도 타격했다고 주장했고, 영국은 사우디에 추가 방어 지원을 약속했다.",
+   "topics": [
+    "conflict"
+   ],
+   "orgs": [
+    "사우디아라비아",
+    "후티",
+    "예멘"
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "headline": "Iran shoots down US drone in Strait of Hormuz",
+   "headline_ko": "이란 혁명수비대, 호르무즈 해협 상공서 미 MQ-9 드론 격추 주장",
+   "outlet": "Gulf News",
+   "url": "https://gulfnews.com/world/gulf/iran-shoots-down-us-drone-in-strait-of-hormuz-1.64724231",
+   "video": "",
+   "summary_ko": "이란 혁명수비대(IRGC)는 20일 새벽 호르무즈 해협 상공에서 미군 MQ-9 리퍼 드론을 신형 방공체계로 격추했다고 발표하고, 개전 이후 54번째 격추라고 주장했다. 미군 측 확인은 없었다. IRGC 대변인은 해협 해저 통신케이블도 표적이 될 수 있다고 경고했다.",
+   "topics": [
+    "conflict"
+   ],
+   "orgs": [
+    "이란",
+    "미국",
+    "호르무즈 해협"
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "headline": "Iran sets red lines for US talks: Lift sanctions, end threats — 'not a gram' of uranium leaves",
+   "headline_ko": "이란, 미국과 협상 '레드라인' 제시…제재 해제·위협 중단, 우라늄 반출 불가",
+   "outlet": "Fox News",
+   "url": "https://foxnews.com/live-news/iran-war-news-trump-israel-russia-october-20",
+   "video": "",
+   "summary_ko": "이란은 20일 미국과의 협상 조건으로 제재 해제와 위협 중단을 내걸고 우라늄은 '1그램도' 반출하지 않겠다고 밝혔다. 아라그치 외무장관은 미국이 조건을 수용하기 전까지 호르무즈 해협을 열지 않겠다며 파키스탄·카타르를 통한 간접 협상은 계속되고 있다고 말했다. 영국 해사기관은 10월 들어 해협 일대 선박 공격이 23건으로 평소의 두 배 가까이 늘었다고 집계했다.",
+   "topics": [
+    "politics",
+    "conflict"
+   ],
+   "orgs": [
+    "이란",
+    "미국",
+    "카타르",
+    "파키스탄"
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "headline": "Albanian police clash with anti-government protesters for an 8th day",
+   "headline_ko": "알바니아 반정부 시위 8일째…경찰 물대포·최루탄, 교수 1천여 명도 라마 퇴진 요구",
+   "outlet": "ABC News (AP)",
+   "url": "https://abcnews.com/International/wireStory/albanian-police-clash-anti-government-protesters-8th-day-137417515",
+   "video": "",
+   "summary_ko": "20일 티라나에서 8일째 이어진 반정부 시위에 경찰이 최루탄과 물대포를 동원했다. 학생 주도 시위에 대학 강사 등이 합류했고, 1천 명 넘는 학자가 라마 총리 사퇴와 기술관료 정부 구성을 요구하는 청원에 서명했다. 라마 총리는 사퇴를 거부하고 있다.",
+   "topics": [
+    "unrest"
+   ],
+   "orgs": [
+    "알바니아",
+    "티라나"
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "headline": "France protests: Curfews calm unrest as Macron tours Gulf",
+   "headline_ko": "프랑스, 야간 통행금지로 첫 조용한 밤…총리 \"필요한 곳에 통금 계속\", 토요일 대규모 경찰 배치",
+   "outlet": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/20/france-protests-curfews-macron-gulf-trip.html",
+   "video": "",
+   "summary_ko": "파리 레퓌블리크 광장·레알 일대와 리옹 중심부 등에 내려진 야간 통행금지 뒤 20일 프랑스는 주말 폭동 이후 처음으로 조용한 밤을 보냈다. 르코르뉘 총리는 통금을 '필요한 곳에' 지역별로 계속 적용하고 다음 토요일 시위에 대규모 경찰력을 배치하겠다고 밝혔다. 주말 체포자는 2,500명을 넘었고, 마크롱 대통령의 중동 순방에 대한 비판도 커지고 있다.",
+   "topics": [
+    "unrest",
+    "politics"
+   ],
+   "orgs": [
+    "프랑스",
+    "파리"
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "headline": "Strong and shallow M6.3 earthquake hits Vanuatu",
+   "headline_ko": "바누아투 인근서 규모 6.3 천발 지진…쓰나미 위협 없음",
+   "outlet": "The Watchers",
+   "url": "https://watchers.news/2026/10/20/strong-and-shallow-m6-3-earthquake-hits-vanuatu-4/",
+   "video": "",
+   "summary_ko": "20일 04시 20분(UTC) 바누아투 인근에서 규모 6.3의 얕은 지진이 발생했다. 태평양쓰나미경보센터는 쓰나미 위협이 없다고 밝혔고, 미 지질조사국은 인명·재산 피해 가능성이 낮은 '녹색' 경보를 냈다. 전날 규모 6.0 지진에 이어 이틀 연속 규모 6 이상 지진이다.",
+   "topics": [
+    "disaster"
+   ],
+   "orgs": [
+    "바누아투",
+    "USGS"
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "headline": "Israeli attacks kill at least four Palestinians in Gaza",
+   "headline_ko": "가자서 이스라엘 공격으로 최소 4명 사망…휴전 1년에도 공습 계속",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/20/israeli-forces-kill-at-least-four-palestinians-in-gaza-strikes",
+   "video": "",
+   "summary_ko": "20일 가자지구에서 이스라엘군의 공습과 총격으로 부부와 17세 청소년을 포함해 최소 4명이 숨졌다고 의료진이 밝혔다. 이스라엘군은 가자시티 공격에서 하마스 고위 인사를 제거했다고 주장했고, 하마스는 이스라엘이 미국 중재 휴전을 훼손하고 있다고 비난했다. 가자 보건당국 누적 사망자는 7만4,480명이다.",
+   "topics": [
+    "conflict"
+   ],
+   "orgs": [
+    "이스라엘",
+    "하마스",
+    "가자"
+   ]
+  },
+  {
    "date": "2026-10-19",
    "headline": "Live: French PM Lecornu calls for 'partial curfews' in cities hit by riots and looting",
    "headline_ko": "마크롱, 내무장관 사임 거부…프랑스 주말 시위 체포 2,400명·경찰 1,000명 부상, 총리는 '부분 야간통행금지' 요청",
@@ -345,6 +551,22 @@
     "미국",
     "이란",
     "이스라엘"
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "headline": "'Absolute atrocity' — Russian drone strike on park in Kharkiv Oblast kills children",
+   "headline_ko": "러시아 드론, 하르키우주 공원 공격…어린이 포함 6명 사망",
+   "outlet": "Kyiv Independent",
+   "url": "https://kyivindependent.com/russian-drone-strike-on-park-in-kharkiv-oblast-kills-children-and-infant/",
+   "video": "",
+   "summary_ko": "19일 오후 하르키우주 노바 보돌라하의 중앙공원에 러시아 드론(게란-3 추정)이 떨어져 유모차에 탄 영아와 어린이, 여성 등 6명이 숨지고 어린이 7명을 포함해 15명이 다쳤다. 젤렌스키 대통령은 '절대적 잔학행위'라고 비난했고 하르키우주 검찰은 전쟁범죄 수사에 착수했다.",
+   "topics": [
+    "conflict"
+   ],
+   "orgs": [
+    "우크라이나",
+    "러시아"
    ]
   },
   {
