@@ -54,6 +54,55 @@
   ]
  },
  {
+  "date": "2026-10-21",
+  "headline": "GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang's Keynote",
+  "headline_ko": "엔비디아 GTC 베를린…베라 루빈 'AI 팩토리' 14일 구축 DSX POD 공개",
+  "outlet": "NVIDIA Blog",
+  "url": "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/",
+  "video": "",
+  "summary_ko": "젠슨 황 CEO는 21일 GTC 베를린 기조연설에서 베라 루빈 플랫폼이 본격 양산 중이라고 밝히고, 컨테이너형 AI 팩토리 레퍼런스 설계 'DSX POD'로 구축 기간을 6개월에서 14일로 줄일 수 있다고 주장했다. 엔비디아는 지난 1년간 유럽에 약 100억 달러를 투자했다고 밝혔다.",
+  "topics": [
+   "chips",
+   "business"
+  ],
+  "orgs": [
+   "엔비디아"
+  ]
+ },
+ {
+  "date": "2026-10-21",
+  "headline": "李대통령 \"AI, 보건의료 분야 안전하게 쓰여야…세계 의료 격차 해소\"",
+  "headline_ko": "李대통령 \"AI, 보건의료 분야 안전하게 쓰여야…세계 의료 격차 해소\"",
+  "outlet": "뉴스핌",
+  "url": "https://www.newspim.com/news/view/20261021000946",
+  "video": "",
+  "summary_ko": "이재명 대통령은 21일 생명과 직결되는 보건의료 분야에서 AI 기술이 안전하고 책임 있게 쓰여야 하며 전 세계 의료 격차 해소에 활용돼야 한다고 강조했다. 'AI 헬스케어 서울 선언'을 통한 국제 연대 강화도 언급했다.",
+  "topics": [
+   "policy",
+   "korea"
+  ],
+  "orgs": [
+   "대통령실"
+  ]
+ },
+ {
+  "date": "2026-10-21",
+  "headline": "LG화학 \"AI 중심 신약개발 구상\"…후보물질부터 환자선별까지",
+  "headline_ko": "LG화학 \"AI 중심 신약개발 구상\"…후보물질부터 환자선별까지",
+  "outlet": "SBS Biz",
+  "url": "https://biz.sbs.co.kr/article/20000341202",
+  "video": "",
+  "summary_ko": "LG화학은 20일 'LG AI 바이오 컨퍼런스'를 열고 후보물질 발굴부터 환자 선별까지 AI를 중심에 둔 신약개발 체계를 구축하겠다고 밝혔다. 개인별 mRNA 항암백신을 핵심 과제로 꼽고 2029년 임상 진입을 목표로 한다.",
+  "topics": [
+   "korea",
+   "business"
+  ],
+  "orgs": [
+   "LG화학",
+   "LG AI연구원"
+  ]
+ },
+ {
   "date": "2026-10-20",
   "headline": "OpenAI acquires Orchestra Bio to bring AI agents into drug development",
   "headline_ko": "오픈AI, 신약개발 AI 에이전트 스타트업 오케스트라 바이오 인수",
@@ -197,6 +246,22 @@
   ],
   "orgs": [
    "Mistral AI"
+  ]
+ },
+ {
+  "date": "2026-10-20",
+  "headline": "AI Startup ASI Valued at $3 Billion in Latest Funding Round",
+  "headline_ko": "AI 예측 스타트업 ASI, 3억2500만 달러 유치…기업가치 30억 달러",
+  "outlet": "U.S. News (Reuters)",
+  "url": "https://money.usnews.com/investing/news/articles/2026-10-20/ai-startup-asi-valued-at-3-billion-in-latest-funding-round",
+  "video": "",
+  "summary_ko": "항공 교통·전력망·군사 작전의 차질을 예측하는 소프트웨어를 만드는 보스턴의 AI 스타트업 ASI가 3억2500만 달러 규모 시리즈C 투자를 받아 기업가치 30억 달러를 인정받았다. 투자는 스파크캐피털이 주도했고 시타델증권 계열사 등이 참여했다.",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "ASI",
+   "스파크캐피털"
   ]
  },
  {

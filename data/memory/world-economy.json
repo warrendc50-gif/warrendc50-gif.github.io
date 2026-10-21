@@ -49,6 +49,55 @@
   ]
  },
  {
+  "date": "2026-10-21",
+  "headline": "Oil rises on Middle East supply fears, US inventory drawdowns",
+  "headline_ko": "중동 공급 우려·美 재고 감소에 유가 상승…브렌트 110달러대",
+  "outlet": "Arab News (Reuters)",
+  "url": "https://www.arabnews.com/energy/oil-rises-on-middle-east-supply-fears-us-inventory-drawdowns-3007473",
+  "video": "",
+  "summary_ko": "21일 브렌트유는 약 1.5% 올라 배럴당 110달러 안팎, WTI는 99달러대에서 거래됐다. 이란 의회 의장이 호르무즈 조건이 충족되기 전엔 미국을 믿지 않겠다고 밝힌 데다, 미국석유협회(API) 자료에서 원유·석유제품 재고 감소가 이어진 것이 가격을 끌어올렸다.",
+  "topics": [
+   "energy"
+  ],
+  "orgs": [
+   "이란",
+   "API"
+  ]
+ },
+ {
+  "date": "2026-10-21",
+  "headline": "Treasury Yields Flat As Fed Rate Decision Approaches",
+  "headline_ko": "연준 회의 앞두고 美 국채금리 보합…10년물 5.12%",
+  "outlet": "TIPP Insights",
+  "url": "https://tippinsights.com/treasury-yields-flat-as-fed-rate-decision-approaches/",
+  "video": "",
+  "summary_ko": "21일 미국 국채 10년물 금리는 5.12% 안팎, 2년물은 4.79% 수준에서 큰 변동 없이 움직였다. 투자자들은 10월 28일 연준 회의를 앞두고 주택담보대출 금리와 고용 지표를 기다리고 있다.",
+  "topics": [
+   "fed",
+   "markets"
+  ],
+  "orgs": [
+   "연준"
+  ]
+ },
+ {
+  "date": "2026-10-21",
+  "headline": "European Shares Little Changed as Investors Await US Technology Earnings: DAX, CAC, FTSE100",
+  "headline_ko": "유럽 증시 보합권…英 9월 물가 3.5%로 상승폭 확대",
+  "outlet": "ADVFN",
+  "url": "https://uk.advfn.com/market-news/article/24923/european-shares-little-changed-as-investors-await-us-technology-earnings-dax-cac-ftse100",
+  "video": "",
+  "summary_ko": "21일 오전 유럽 증시는 미국 기술주 실적을 기다리며 보합권에 머물렀다. 영국 9월 소비자물가 상승률이 3.5%로 높아지자 FTSE 100은 0.2% 내렸고, 3분기 매출이 예상을 웃돈 에실로룩소티카는 11% 넘게 급등했다.",
+  "topics": [
+   "markets",
+   "macro"
+  ],
+  "orgs": [
+   "영국",
+   "에실로룩소티카"
+  ]
+ },
+ {
   "date": "2026-10-20",
   "headline": "Markets News, Oct. 20, 2026: Dow Closes Up 500 Points; S&P 500 Rises, Nasdaq Ticks Lower; Oil Prices Pull Back",
   "headline_ko": "[뉴욕마감] 다우 530p(1.02%) 상승 52,495.88…S&P 0.28%↑, 나스닥 보합",
@@ -146,6 +195,21 @@
   ],
   "orgs": [
    "중국 인민은행"
+  ]
+ },
+ {
+  "date": "2026-10-20",
+  "headline": "Tesla (TSLA) Q3 2026 earnings preview: flat revenue, falling profits",
+  "headline_ko": "테슬라 3분기 실적 21일 발표…매출 정체·이익 감소 전망",
+  "outlet": "Electrek",
+  "url": "https://electrek.co/2026/10/20/tesla-tsla-q3-2026-earnings-preview/",
+  "video": "",
+  "summary_ko": "테슬라는 21일 미국 장 마감 후 3분기 실적을 발표한다. 시장은 주당순이익 약 0.45달러, 매출 약 279억 달러로 전년 동기(0.50달러, 281억 달러)보다 소폭 줄어들 것으로 본다. 테슬라는 이번 분기 48만6천여 대를 인도했다.",
+  "topics": [
+   "markets"
+  ],
+  "orgs": [
+   "테슬라"
   ]
  },
  {
