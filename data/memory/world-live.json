@@ -103,6 +103,68 @@
    ]
   },
   {
+   "date": "2026-10-21",
+   "headline": "France announces nightly curfews 'for as long as necessary' in Paris and other cities",
+   "headline_ko": "프랑스, 파리 등 도시에 '필요한 만큼' 야간 통행금지 유지 발표",
+   "outlet": "NPR",
+   "url": "https://www.npr.org/2026/10/21/nx-s1-6010344/france-nightly-curfews",
+   "video": "",
+   "summary_ko": "생활비 시위가 폭동으로 번진 프랑스에서 정부가 파리·리옹 등 주요 도시의 야간 통행금지를 필요한 기간만큼 유지하겠다고 밝혔다. 통행금지 이후 첫 조용한 밤이 지났지만, 토요일 이후 약 2,400명이 체포됐고 정부는 추가 시위에 대비해 대규모 경찰 배치를 예고했다.",
+   "topics": [
+    "unrest"
+   ],
+   "orgs": [
+    "프랑스"
+   ]
+  },
+  {
+   "date": "2026-10-21",
+   "headline": "Russia releases imprisoned U.S. citizen Stephen Hubbard following Trump's request",
+   "headline_ko": "러시아, 트럼프 요청에 수감 미국인 스티븐 허버드 석방",
+   "outlet": "NPR",
+   "url": "https://www.npr.org/2026/10/21/nx-s1-6009380/russia-releases-imprisoned-us-citizen",
+   "video": "",
+   "summary_ko": "푸틴 대통령이 상트페테르부르크에서 위트코프 미 특사와 회담을 시작하며 우크라이나군 용병 혐의로 수감됐던 74세 미국인 스티븐 허버드를 석방했다고 밝혔다. 트럼프 대통령은 맞교환 없는 석방이라고 강조했고, 크렘린은 선의의 제스처라고 설명했다.",
+   "topics": [
+    "politics"
+   ],
+   "orgs": [
+    "러시아",
+    "미국"
+   ]
+  },
+  {
+   "date": "2026-10-21",
+   "headline": "Ballistic missile fired by Houthis targets Aden airport: Al Arabiya",
+   "headline_ko": "후티, 예멘 아덴 공항에 탄도미사일 발사",
+   "outlet": "Arab News",
+   "url": "https://www.arabnews.com/middle-east/ballistic-missile-fired-by-houthis-targets-aden-airport-al-arabiya-3007486",
+   "video": "",
+   "summary_ko": "후티 반군이 21일 예멘 정부 측 거점인 아덴 국제공항을 탄도미사일로 공격해 활주로 부근에서 폭발과 연기가 발생했다. 현지 당국은 미사일이 이륙 준비 중이던 여객기 근처에 떨어졌지만 인명 피해는 없다고 밝혔고, 후티는 공항 인근 군 기지를 노렸다고 주장했다.",
+   "topics": [
+    "conflict"
+   ],
+   "orgs": [
+    "예멘",
+    "후티"
+   ]
+  },
+  {
+   "date": "2026-10-21",
+   "headline": "Update: 460 evacuated after ferry catches fire off Indonesia's Java coast",
+   "headline_ko": "인도네시아 자바 해안서 여객선 화재…460명 대피",
+   "outlet": "Xinhua",
+   "url": "https://english.news.cn/20261021/e6a7143c4909478594afd3747c7adc51/c.html",
+   "video": "",
+   "summary_ko": "인도네시아 반텐주 메락항 인근에서 승객 420명과 승무원 40명을 태운 여객선에 불이 나 전원이 대피했다. 11명이 치료를 받았으며 화재는 기관실에서 시작된 것으로 추정된다.",
+   "topics": [
+    "accident"
+   ],
+   "orgs": [
+    "인도네시아"
+   ]
+  },
+  {
    "date": "2026-10-20",
    "headline": "More than 150 killed in Sudan drone strike on disputed Abyei border region",
    "headline_ko": "수단-남수단 분쟁지 아비에이 시장에 드론 공격, 사망자 153명으로 늘어",
@@ -288,6 +350,21 @@
     "우크라이나",
     "미국",
     "러시아"
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "headline": "Romanian Parliament Confirms New Prime Minister After Months of Deadlock",
+   "headline_ko": "루마니아 의회, 수개월 교착 끝에 새 총리 인준",
+   "outlet": "US News (Reuters)",
+   "url": "https://www.usnews.com/news/world/articles/2026-10-20/romanian-parliament-confirms-new-prime-minister-after-months-of-deadlock",
+   "video": "",
+   "summary_ko": "루마니아 의회가 무소속 외교관 출신 루카 니쿨레스쿠 총리 내각을 찬성 280표로 인준해 약 5개월간의 정치 위기가 일단락됐다. 새 정부는 12월까지 적자 감축 예산을 통과시키지 못하면 신용등급 강등 위험에 놓인다.",
+   "topics": [
+    "politics"
+   ],
+   "orgs": [
+    "루마니아"
    ]
   },
   {

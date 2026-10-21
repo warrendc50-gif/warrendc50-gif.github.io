@@ -103,6 +103,40 @@
   ]
  },
  {
+  "date": "2026-10-21",
+  "headline": "국민의힘, 이재명 대통령 '제미나이 답변'에 맹공…\"국정운영 AI로 정당화\"",
+  "headline_ko": "국민의힘, 이재명 대통령 '제미나이 답변'에 맹공…\"국정운영 AI로 정당화\"",
+  "outlet": "글로벌이코노믹",
+  "url": "https://www.g-enews.com/article/General-News/2026/10/202610212028444718112616b072_1",
+  "video": "",
+  "summary_ko": "이재명 대통령이 SNS에 공소청장·중수청장의 국무회의 배석 문제를 구글 제미나이에 물어본 답변을 공개하자 국민의힘이 국정운영을 AI로 정당화한다고 비판했다. 정치권에서 생성형 AI 답변의 활용 범위를 둘러싼 논란이 불거졌다.",
+  "topics": [
+   "policy",
+   "korea"
+  ],
+  "orgs": [
+   "대통령실",
+   "국민의힘",
+   "구글"
+  ]
+ },
+ {
+  "date": "2026-10-21",
+  "headline": "공무원이 만든 AI 도구, 범정부 서비스로 키운다",
+  "headline_ko": "공무원이 만든 AI 도구, 범정부 서비스로 키운다",
+  "outlet": "이투데이",
+  "url": "https://www.etoday.co.kr/news/view/2638265",
+  "video": "",
+  "summary_ko": "행정안전부가 공무원이 직접 만든 AI 도구를 겨루는 '공공 AI 대전환 챌린지'를 열고 우수작을 범정부 공동 서비스로 키우기로 했다. 참가작은 11월 11일까지 받고, 에이전트 부문은 행안부 업무망의 국산 독자 AI를 활용하며 결선은 11월 25일 정부혁신박람회에서 열린다.",
+  "topics": [
+   "policy",
+   "korea"
+  ],
+  "orgs": [
+   "행정안전부"
+  ]
+ },
+ {
   "date": "2026-10-20",
   "headline": "OpenAI acquires Orchestra Bio to bring AI agents into drug development",
   "headline_ko": "오픈AI, 신약개발 AI 에이전트 스타트업 오케스트라 바이오 인수",
@@ -262,6 +296,21 @@
   "orgs": [
    "ASI",
    "스파크캐피털"
+  ]
+ },
+ {
+  "date": "2026-10-20",
+  "headline": "Anthropic says Claude designed binders for scorpion neurotoxins",
+  "headline_ko": "앤트로픽 \"클로드가 전갈 신경독 결합 단백질 설계\"",
+  "outlet": "Blockchain.News",
+  "url": "https://blockchain.news/news/anthropic-claude-scorpion-neurotoxin-binders",
+  "video": "",
+  "summary_ko": "앤트로픽은 내부 연구용 클로드 모델이 전갈 신경독에 결합하는 단백질 미니바인더를 설계했고, 실험한 211개 중 17개가 결합 기준을 충족했다고 밝혔다. 회사는 해독제가 아닌 연구 시연 단계라고 설명했다.",
+  "topics": [
+   "research"
+  ],
+  "orgs": [
+   "앤트로픽"
   ]
  },
  {
