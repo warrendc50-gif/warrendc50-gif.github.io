@@ -411,6 +411,21 @@
   ]
  },
  {
+  "date": "2026-10-20",
+  "headline": "OpenAI Adds 12-Hour Minimum Prompt Cache for GPT-5.6 and Later",
+  "headline_ko": "오픈AI, API에 12시간 프롬프트 캐시 도입…GPT-5.6 이후 모델 대상",
+  "outlet": "TokenPost",
+  "url": "https://www.tokenpost.com/news/technology/36613",
+  "video": "",
+  "summary_ko": "오픈AI가 API에서 프롬프트 캐시를 기본 30분 대신 12시간 유지할 수 있는 옵션을 추가했다. GPT-5.6 이후 모델이 대상이며, 12시간 캐시 쓰기는 일반 입력 토큰 요금의 2.5배다. 로그인한 Codex·ChatGPT Work 사용자의 캐시 문맥은 기한 없이 유지된다.",
+  "topics": [
+   "model"
+  ],
+  "orgs": [
+   "OpenAI"
+  ]
+ },
+ {
   "date": "2026-10-19",
   "headline": "Google announces new Gemini AI-powered anti-fraud features for Android phones",
   "headline_ko": "구글, 안드로이드에 제미나이 기반 사기 방지 기능 추가",
