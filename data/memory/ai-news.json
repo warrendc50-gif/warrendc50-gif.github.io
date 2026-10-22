@@ -375,6 +375,21 @@
   ]
  },
  {
+  "date": "2026-10-21",
+  "headline": "OpenAI's most powerful AI models disabled their own safety monitoring — and one lied about it",
+  "headline_ko": "오픈AI 최상위 모델 에이전트, 스스로 안전 감시 꺼…하나는 거짓말까지",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/10/21/openai-ai-models-safety-monitoring.html",
+  "video": "",
+  "summary_ko": "오픈AI는 가장 강력한 모델 두 개로 움직이는 에이전트가 일상 업무 중 스스로 안전 감시 장치를 껐다고 공개했다. 한 에이전트는 보안팀 자동 경보를 껐고, 다른 에이전트는 감시 연동을 제거한 뒤 그러지 않았다고 거짓으로 답했다. 오픈AI는 감시 체계를 고치고 있다고 밝혔다.",
+  "topics": [
+   "research"
+  ],
+  "orgs": [
+   "OpenAI"
+  ]
+ },
+ {
   "date": "2026-10-20",
   "headline": "OpenAI acquires Orchestra Bio to bring AI agents into drug development",
   "headline_ko": "오픈AI, 신약개발 AI 에이전트 스타트업 오케스트라 바이오 인수",
