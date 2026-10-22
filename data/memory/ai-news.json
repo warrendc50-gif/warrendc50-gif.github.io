@@ -326,6 +326,22 @@
   ]
  },
  {
+  "date": "2026-10-21",
+  "headline": "Google Cloud Plans Vera Rubin Clusters With Up to 960,000 GPUs",
+  "headline_ko": "구글 클라우드, 엔비디아 베라 루빈 GPU 최대 96만개 규모로 확장 계획",
+  "outlet": "TokenPost",
+  "url": "https://www.tokenpost.com/news/technology/37163",
+  "video": "",
+  "summary_ko": "구글 클라우드가 엔비디아 베라 루빈 인프라를 여러 데이터센터에 걸쳐 최대 96만개 GPU 규모로 확장할 계획이다. 새 A5X 인스턴스로 제공되며, 정식 출시는 2026년 11월로 예정돼 있다.",
+  "topics": [
+   "chips"
+  ],
+  "orgs": [
+   "Google Cloud",
+   "Nvidia"
+  ]
+ },
+ {
   "date": "2026-10-20",
   "headline": "OpenAI acquires Orchestra Bio to bring AI agents into drug development",
   "headline_ko": "오픈AI, 신약개발 AI 에이전트 스타트업 오케스트라 바이오 인수",
