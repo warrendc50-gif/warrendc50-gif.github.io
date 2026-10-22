@@ -1126,6 +1126,21 @@
   ]
  },
  {
+  "date": "2026-10-14",
+  "headline": "OpenAI sued by 8 states over ChatGPT safety concerns",
+  "headline_ko": "미국 8개 주, 챗GPT 안전 문제로 오픈AI 제소",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/10/14/openai-sued-by-8-states-over-chatgpt-safety-concerns-.html",
+  "video": "",
+  "summary_ko": "아이오와, 캔자스, 네브래스카 등 미국 8개 주 법무장관이 챗GPT의 안전 문제를 이유로 각 주 법원에 오픈AI를 상대로 소송을 냈다. 챗GPT가 아이들에게 해를 끼치고 회사가 소비자 보호법을 어겼다는 주장이다.",
+  "topics": [
+   "policy"
+  ],
+  "orgs": [
+   "OpenAI"
+  ]
+ },
+ {
   "date": "2026-10-13",
   "headline": "Apple releases HomeView smart home hub with screen as showcase for Siri AI",
   "headline_ko": "애플, 시리 AI 앞세운 화면형 스마트홈 허브 '홈뷰' 공개",
