@@ -359,6 +359,22 @@
   ]
  },
  {
+  "date": "2026-10-21",
+  "headline": "CoreWeave's market confidence erodes as bond yields spike and stock sinks",
+  "headline_ko": "코어위브, 회사채 금리 치솟고 주가 하락…시장 신뢰 흔들",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html",
+  "video": "",
+  "summary_ko": "AI 데이터센터 기업 코어위브의 회사채 금리가 치솟고 주가가 떨어지면서 시장의 신뢰가 약해지고 있다.",
+  "topics": [
+   "chips",
+   "business"
+  ],
+  "orgs": [
+   "CoreWeave"
+  ]
+ },
+ {
   "date": "2026-10-20",
   "headline": "OpenAI acquires Orchestra Bio to bring AI agents into drug development",
   "headline_ko": "오픈AI, 신약개발 AI 에이전트 스타트업 오케스트라 바이오 인수",
