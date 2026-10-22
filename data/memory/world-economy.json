@@ -1,5 +1,32 @@
 [
  {
+  "date": "2026-10-22",
+  "headline": "Japan stocks lower at close of trade; Nikkei 225 down 2.40%",
+  "headline_ko": "닛케이225 2.40% 하락 마감…한 달 만에 최저",
+  "outlet": "Finwire",
+  "url": "https://finwire.io/news/stock-markets-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-240-1",
+  "video": "",
+  "summary_ko": "22일 도쿄 증시에서 닛케이225 지수가 2.40% 떨어져 한 달 만에 최저치를 기록했다. 하락 종목이 2092개로 상승 종목(1404개)보다 많았고, 이비덴은 9.49% 급락했다.",
+  "topics": [
+   "markets"
+  ],
+  "orgs": []
+ },
+ {
+  "date": "2026-10-22",
+  "headline": "European stocks buckle as French yields cross 5% barrier",
+  "headline_ko": "프랑스 국채금리 5% 돌파에 유럽 증시 하락…STOXX600 0.8%↓",
+  "outlet": "Investing.com",
+  "url": "https://www.investing.com/news/stock-market-news/european-stocks-buckle-as-french-yields-cross-5-barrier-4964797",
+  "video": "",
+  "summary_ko": "22일 프랑스 국채금리가 5%를 넘어서면서 유럽 증시가 약세를 보였다. 범유럽 STOXX600 지수는 0.8% 내린 채 거래됐다.",
+  "topics": [
+   "markets",
+   "crisis"
+  ],
+  "orgs": []
+ },
+ {
   "date": "2026-10-21",
   "headline": "[스팟] 코스피 182.92포인트(3.29%) 오른 5735.66 마감",
   "headline_ko": "코스피 3.29% 급등 5,735.66 마감…외국인 복귀에 삼성전자·SK하이닉스 5%↑, 매수 사이드카",
