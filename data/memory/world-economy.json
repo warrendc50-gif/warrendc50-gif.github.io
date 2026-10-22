@@ -114,6 +114,21 @@
   "orgs": []
  },
  {
+  "date": "2026-10-22",
+  "headline": "Stock market today: S&P 500, Nasdaq tanks as tech stocks sink amid AI trade worries, Meta shares plummet",
+  "headline_ko": "뉴욕증시, AI 우려에 기술주 급락…나스닥 2.6%↓, 메타 7% 가까이 하락",
+  "outlet": "Yahoo Finance",
+  "url": "https://finance.yahoo.com/markets/article/stock-market-today-thursday-october-22-dow-sp-500-nasdaq-tesla-meta-112217857.html",
+  "video": "",
+  "summary_ko": "22일 뉴욕증시에서 다우지수는 거의 변동이 없었고 S&P500은 1.2%, 나스닥은 반도체주 하락에 2.6% 떨어졌다. 메타는 분기 실적과 2대1 주식분할 발표 뒤 7% 가까이 급락했다.",
+  "topics": [
+   "markets"
+  ],
+  "orgs": [
+   "Meta"
+  ]
+ },
+ {
   "date": "2026-10-21",
   "headline": "[스팟] 코스피 182.92포인트(3.29%) 오른 5735.66 마감",
   "headline_ko": "코스피 3.29% 급등 5,735.66 마감…외국인 복귀에 삼성전자·SK하이닉스 5%↑, 매수 사이드카",
