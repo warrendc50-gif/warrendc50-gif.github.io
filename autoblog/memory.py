@@ -203,7 +203,6 @@ MEMORY_JS = """
     });
   }
   function tlMode(){var b=document.querySelector('.tl-mode button.on');return b?b.dataset.mode:'topic';}
-  function dim(m){return new Date(Date.UTC(+m.slice(0,4),+m.slice(5,7),0)).getUTCDate();}
   function tw(t){var w=0;for(var i=0;i<t.length;i++)w+=t.charCodeAt(i)>0x2E7F?11:6.05;return w;}
   function esc(t){return String(t).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/"/g,'&quot;');}
   function fit(t,n){var b=n*2,o='';for(var i=0;i<t.length;i++){b-=t.charCodeAt(i)>0x2E7F?2:1;if(b<0)return o.replace(/\\s+$/,'')+'…';o+=t[i];}return o;}
@@ -223,22 +222,26 @@ MEMORY_JS = """
       top.forEach(function(o){lanes.push({label:o,items:vis.filter(function(it){return it.o===o;})});});
       var rest=vis.filter(function(it){return top.indexOf(it.o)<0;}); if(rest.length)lanes.push({label:'기타',items:rest});
     }
-    var busiest=1; lanes.forEach(function(l){var c={}; l.items.forEach(function(it){var m=it.d.slice(0,7); c[m]=(c[m]||0)+1; if(c[m]>busiest)busiest=c[m];});});
-    var left=128,right=40,top=30,laneH=84;
-    var avail=Math.max(300,(host.clientWidth||1000)-left-right-14);
-    var segW=ms.length<=3?Math.max(avail/ms.length,95*busiest):Math.min(420,Math.max(230,70*busiest));
-    var width=Math.round(left+right+segW*ms.length), height=top+lanes.length*laneH+8;
-    var segX={}; ms.forEach(function(m,i){segX[m]=left+i*segW;});
-    function x(d){var m=d.slice(0,7),n=dim(m),day=+d.slice(8,10);return segX[m]+(1-(day-0.5)/n)*segW;}
-    var s='<svg class="tl" viewBox="0 0 '+width+' '+height+'" width="'+width+'" height="'+height+'" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="타임라인">';
-    ms.forEach(function(m){
-      var xr=segX[m]+segW;
-      s+='<line class="grid" x1="'+xr+'" y1="'+(top-6)+'" x2="'+xr+'" y2="'+(height-4)+'"/><text class="mo" x="'+(xr-3)+'" y="'+(top-12)+'" text-anchor="end">'+m.slice(2,4)+'.'+m.slice(5,7)+'</text>';
-      if(ms.length<=3){[8,15,22,29].forEach(function(dd){ if(dd<=dim(m)){var xx=x(m+'-'+(dd<10?'0':'')+dd);
-        s+='<line class="grid wk" x1="'+xx+'" y1="'+(top-2)+'" x2="'+xx+'" y2="'+(height-4)+'"/><text class="mo wk" x="'+xx+'" y="'+(top-12)+'" text-anchor="middle">'+dd+'일</text>';}});}
-    });
+    // Only days that have news get a column (newest on the left, starting at today), so empty
+    // stretches of time are skipped instead of drawn as blank space.
     var now=new Date(), td=now.getFullYear()+'-'+('0'+(now.getMonth()+1)).slice(-2)+'-'+('0'+now.getDate()).slice(-2);
-    if(ms.indexOf(td.slice(0,7))>=0){ var tx=x(td);
+    var days=[]; vis.forEach(function(it){if(days.indexOf(it.d)<0)days.push(it.d);}); days.sort().reverse();
+    if(ms.indexOf(td.slice(0,7))>=0&&days.indexOf(td)<0)days.unshift(td);
+    var perDay={}; lanes.forEach(function(l){var c={}; l.items.forEach(function(it){c[it.d]=(c[it.d]||0)+1;});
+      Object.keys(c).forEach(function(d){perDay[d]=Math.max(perDay[d]||0,c[d]);});});
+    var left=128,right=40,top=30,laneH=84;
+    var colX={}, colW={}, cx=left;
+    days.forEach(function(d){colW[d]=perDay[d]?Math.max(72,62*perDay[d]):40; colX[d]=cx; cx+=colW[d];});
+    var width=Math.round(cx+right), height=top+lanes.length*laneH+8;
+    function x(d,k,n){return colX[d]+(k+0.5)*colW[d]/n;}
+    var s='<svg class="tl" viewBox="0 0 '+width+' '+height+'" width="'+width+'" height="'+height+'" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="타임라인">';
+    days.forEach(function(d,i){
+      var x0=colX[d], newMonth=i===0||days[i-1].slice(0,7)!==d.slice(0,7);
+      s+='<line class="grid'+(newMonth?'':' wk')+'" x1="'+x0+'" y1="'+(top-6)+'" x2="'+x0+'" y2="'+(height-4)+'"/>';
+      s+='<text class="mo wk" x="'+(x0+colW[d]/2)+'" y="'+(top-12)+'" text-anchor="middle">'+(+d.slice(8,10))+'일</text>';
+      if(newMonth)s+='<text class="mo" x="'+(x0+3)+'" y="'+(top-22)+'">'+d.slice(2,4)+'.'+d.slice(5,7)+'</text>';
+    });
+    if(colX[td]!==undefined){ var tx=colX[td]+colW[td]/2;
       s+='<line class="today" x1="'+tx+'" y1="'+(top-4)+'" x2="'+tx+'" y2="'+(height-4)+'"/><text class="today-lb" x="'+(tx+4)+'" y="'+(top-2)+'">오늘</text>'; }
     var y1=top+laneH/2, y2=top+(lanes.length-1)*laneH+laneH/2;
     s+='<line class="spine" x1="14" y1="'+y1+'" x2="14" y2="'+y2+'"/><circle class="root" cx="14" cy="'+((y1+y2)/2)+'" r="6"/>';
@@ -246,9 +249,11 @@ MEMORY_JS = """
     lanes.forEach(function(l,li){
       var y=top+li*laneH+laneH/2, c0=COLORS[li%COLORS.length], c1=ALT[li%ALT.length];
       s+='<path class="br" d="M14 '+y+' C 20 '+y+', 20 '+y+', 26 '+y+'" style="stroke:'+c0+'"/><text class="lane" x="28" y="'+(y+4)+'" style="fill:'+c0+'">'+esc(fit(l.label,8))+'</text><line class="ln" x1="'+left+'" y1="'+y+'" x2="'+(width-right)+'" y2="'+y+'" style="stroke:'+c0+'"/>';
-      var edge=[-1e9,-1e9,-1e9,-1e9,-1e9], prevX=-1e9, prevAlt=false;
+      var edge=[-1e9,-1e9,-1e9,-1e9,-1e9], prevX=-1e9, prevAlt=false, nDay={}, kDay={};
+      l.items.forEach(function(it){nDay[it.d]=(nDay[it.d]||0)+1;});
       l.items.slice().sort(function(a,b){return a.d<b.d?1:a.d>b.d?-1:0;}).forEach(function(it){
-        var nx=x(it.d), useAlt=(nx-prevX<26)&&!prevAlt; prevX=nx; prevAlt=useAlt; var c=useAlt?c1:c0;
+        var k=kDay[it.d]||0; kDay[it.d]=k+1;
+        var nx=x(it.d,k,nDay[it.d]), useAlt=(nx-prevX<26)&&!prevAlt; prevX=nx; prevAlt=useAlt; var c=useAlt?c1:c0;
         var half=tw(it.h)/2, si=-1; for(var j=0;j<slots.length;j++){ if(nx-half>edge[j]+8){si=j;break;} }
         var lbl='';
         if(si>=0){ edge[si]=nx+half; var dy=slots[si], ya=dy<0?y-5:y+5, yb=dy<0?y+dy+3:y+dy-10;
@@ -336,7 +341,7 @@ def timeline_panel(items: list[dict], title: str) -> str:
     labels = {t: TOPIC_LABELS[t] for t in {t for it in items for t in it.get("topics", [])} if t in TOPIC_LABELS}
     data = json.dumps({"title": title, "items": records, "labels": labels,
                        "colors": LANE_COLORS, "alt": LANE_ALT_COLORS}, ensure_ascii=False).replace("</", "<\\/")
-    return (f'<details class="tl-panel"><summary>🗺 타임라인 <span class="hint">누르면 펼쳐집니다 · 왼쪽이 최신 · '
+    return (f'<details class="tl-panel"><summary>🗺 타임라인 <span class="hint">누르면 펼쳐집니다 · 왼쪽 끝이 오늘 ·'
             f'연도·월을 여러 개 골라 볼 수 있고, 위의 분류·검색도 그대로 적용됩니다</span></summary>'
             f'<div class="tl-bar"><span>기간</span><span id="tl-period" class="chips"></span>'
             f'<span class="tl-mode"><button class="chip on" data-mode="topic">분야별</button>'
