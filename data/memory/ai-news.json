@@ -1,5 +1,22 @@
 [
  {
+  "date": "2026-10-22",
+  "headline": "오픈AI, 구글클라우드에 AI 모델 제공…안티그래비티 등에서 사용 가능",
+  "headline_ko": "오픈AI, 구글 클라우드에 AI 모델 제공…안티그래비티 등에서 사용 가능",
+  "outlet": "머니투데이",
+  "url": "https://www.mt.co.kr/tech/2026/10/22/2026102208461277151",
+  "video": "",
+  "summary_ko": "오픈AI가 자사 프런티어 모델과 코딩 에이전트 기능을 구글 클라우드의 '모델 가든'에서 제공하기로 했다. 구글의 개발 도구 안티그래비티 등에서도 오픈AI 모델을 쓸 수 있게 된다.",
+  "topics": [
+   "business",
+   "model"
+  ],
+  "orgs": [
+   "OpenAI",
+   "Google"
+  ]
+ },
+ {
   "date": "2026-10-21",
   "headline": "NVIDIA Advances Isaac Platform for General-Purpose Robotics With New Reference Humanoid, Frameworks, Simulation Pipelines and Data",
   "headline_ko": "엔비디아, GTC 베를린서 아이작 로보틱스 플랫폼 확장…레퍼런스 휴머노이드 공개",
