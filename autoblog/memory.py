@@ -59,7 +59,7 @@ TOPIC_LABELS_I18N = {
 }
 # Page texts per language. "month" formats a month header from (year, month).
 UI = {
-    "ko": {"all": "전체", "search": "검색: 회사, 키워드, 언론사", "count": "건", "as_of": "기준",
+    "ko": {"all": "전체", "search": "검색: 회사, 키워드, 언론사", "count": "건", "as_of": "{d} 기준",
            "empty": "아직 모아 둔 기사가 없습니다.", "orig": "원제", "read": "원문 보기 ↗",
            "video": "영상 보기", "video_title": "영상 보기 (YouTube)", "yt_search": "YouTube에서 영상 검색",
            "yt_search_title": "YouTube에서 관련 영상 검색", "timeline": "타임라인",
@@ -68,7 +68,7 @@ UI = {
            "today": "오늘", "day": "일", "mo": "월", "tl_empty": "선택한 기간에 해당하는 기사가 없습니다.",
            "view_all": "전체 {n}건 보기 →", "open_board": "게시판 열기 →",
            "month": lambda y, m: f"{y}년 {m}월"},
-    "en": {"all": "All", "search": "Search: company, keyword, outlet", "count": " articles", "as_of": "as of",
+    "en": {"all": "All", "search": "Search: company, keyword, outlet", "count": " articles", "as_of": "as of {d}",
            "empty": "No articles yet.", "orig": "Original headline", "read": "Read the original ↗",
            "video": "Watch video", "video_title": "Watch video (YouTube)", "yt_search": "Search YouTube for videos",
            "yt_search_title": "Search YouTube for related videos", "timeline": "Timeline",
@@ -77,7 +77,7 @@ UI = {
            "today": "Today", "day": "", "mo": "", "tl_empty": "No articles in the selected period.",
            "view_all": "View all {n} →", "open_board": "Open board →",
            "month": lambda y, m: f"{date(y, m, 1):%B} {y}"},
-    "ja": {"all": "すべて", "search": "検索: 企業、キーワード、メディア", "count": "件", "as_of": "時点",
+    "ja": {"all": "すべて", "search": "検索: 企業、キーワード、メディア", "count": "件", "as_of": "{d}時点",
            "empty": "まだ記事がありません。", "orig": "原題", "read": "元記事を読む ↗",
            "video": "動画を見る", "video_title": "動画を見る (YouTube)", "yt_search": "YouTubeで動画を検索",
            "yt_search_title": "YouTubeで関連動画を検索", "timeline": "タイムライン",
@@ -465,7 +465,7 @@ def news_list_html(items: list[dict], title: str = "", lang: str = "ko") -> str:
         for t, n in sorted(topics.items(), key=lambda x: -x[1]))
     out = [f'<div class="news-bar"><input id="news-q" type="search" placeholder="{escape(u["search"])}">'
            f'<div class="chips">{chips}</div>'
-           f'<span class="meta"><span id="news-count">{len(items)}</span>{escape(u["count"])} · {items[0]["date"]} {escape(u["as_of"])}</span></div>',
+           f'<span class="meta"><span id="news-count">{len(items)}</span>{escape(u["count"])} · {escape(u["as_of"].format(d=items[0]["date"]))}</span></div>',
            timeline_panel(items, title, lang)]
     month = None
     for i in items:

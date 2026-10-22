@@ -44,7 +44,11 @@
    "orgs": [
     "US military",
     "IDF"
-   ]
+   ],
+   "headline_en": "U.S., Israel prepare for renewed Iran strikes after midterm elections - NYT",
+   "summary_en": "According to The New York Times, U.S. and Israeli forces have drawn up plans to strike Iran again after the U.S. midterm elections on November 3. Short, intense attacks targeting nuclear facilities, energy infrastructure, and missile and drone systems are under consideration, and no final decision has been made.",
+   "headline_ja": "NYT「米・イスラエル、中間選挙後のイラン再空爆計画を策定」",
+   "summary_ja": "ニューヨーク・タイムズによると、米軍とイスラエル軍は11月3日の米中間選挙後にイランを再び空爆する計画を策定した。核施設やエネルギーインフラ、ミサイル・ドローンシステムを狙った短く強力な攻撃が検討されており、最終決定はまだ下されていない。"
   },
   {
    "date": "2026-10-22",
@@ -59,7 +63,11 @@
    ],
    "orgs": [
     "IRGC"
-   ]
+   ],
+   "headline_en": "Iran says 7 tankers on fire or damaged in the Strait of Hormuz, and other Mideast news",
+   "summary_en": "Iranian state TV reported that seven oil tankers in the Strait of Hormuz caught fire or were damaged overnight after being attacked or hitting mines. If true, it would be the largest number of vessels damaged in the strait in a single day since the war began on February 28.",
+   "headline_ja": "イラン「ホルムズ海峡でタンカー7隻が攻撃・機雷で火災・損傷」",
+   "summary_ja": "イラン国営テレビは、夜間にホルムズ海峡でタンカー7隻が攻撃を受けたり機雷に接触したりして、火災が発生または損傷したと報じた。事実であれば、2月28日に戦争が始まって以降、海峡で1日に被害を受けた船舶数としては最多となる。"
   },
   {
    "date": "2026-10-22",
@@ -72,7 +80,11 @@
    "topics": [
     "conflict"
    ],
-   "orgs": []
+   "orgs": [],
+   "headline_en": "Russian strikes on Ukraine kill at least 4, injure 34",
+   "summary_en": "Russia launched overnight strikes on the 22nd across Ukraine, including Kyiv, killing at least four people and injuring 34. The strikes have deepened doubts about prospects for resuming the U.S.-proposed peace talks.",
+   "headline_ja": "ロシアが夜間にウクライナ空爆…少なくとも4人死亡、和平交渉再開に疑問",
+   "summary_ja": "ロシアは22日夜、キーウなどウクライナ各地を空爆し、少なくとも4人が死亡、34人が負傷した。今回の空爆で、米国が提案した和平交渉の再開見通しに対する疑問が強まった。"
   },
   {
    "date": "2026-10-22",
@@ -87,7 +99,11 @@
    ],
    "orgs": [
     "Houthis"
-   ]
+   ],
+   "headline_en": "Attack on Saudi Arabia's King Fahd airport kills two people",
+   "summary_en": "Saudi authorities said an attack on King Fahd International Airport in Dammam, eastern Saudi Arabia, killed two people and injured eight. Yemen's Houthi rebels claimed they attacked the airport, the Defense Ministry in Riyadh, and Aramco facilities in Yanbu, among other targets.",
+   "headline_ja": "サウジ・ダンマームのキング・ファハド空港攻撃で2人死亡",
+   "summary_ja": "サウジアラビア当局は、同国東部ダンマームのキング・ファハド国際空港が攻撃を受け、2人が死亡、8人が負傷したと明らかにした。イエメンのフーシ派は、同空港やリヤドの国防省、ヤンブーのアラムコ施設などを攻撃したと主張した。"
   },
   {
    "date": "2026-10-22",
@@ -104,7 +120,11 @@
    "orgs": [
     "Saudi Aramco",
     "Houthis"
-   ]
+   ],
+   "headline_en": "Saudi Aramco tells staff to evacuate Dhahran as clashes with Yemen's Houthis continue",
+   "summary_en": "Citing six sources, Reuters reported that Saudi Aramco instructed employees at its Dhahran headquarters to evacuate and work from home. The reason for the evacuation is unclear, and Saudi Arabia's benchmark stock index fell 2.5% after the Aramco news broke.",
+   "headline_ja": "サウジアラムコ、フーシ派との衝突の中でダーラン本社の職員に避難指示",
+   "summary_ja": "ロイターは関係者6人の話として、サウジアラムコがダーラン本社の職員に避難と在宅勤務を指示したと報じた。避難の理由は明らかになっておらず、アラムコのニュースが伝わった後、サウジ株式市場の代表指数は2.5%下落した。"
   },
   {
    "date": "2026-10-22",
@@ -118,7 +138,11 @@
     "conflict",
     "politics"
    ],
-   "orgs": []
+   "orgs": [],
+   "headline_en": "Trump on Iran: Something will happen 'fairly soon'",
+   "summary_en": "U.S. President Trump said he is not negotiating with Iran and that \"something will happen fairly soon.\" He added that most people see that timing as after the midterm elections.",
+   "headline_ja": "トランプ氏「イランとは交渉していない…まもなく何かが起きる」",
+   "summary_ja": "トランプ米大統領は、イランとは交渉しておらず「かなり近いうちに何かが起きる」と述べた。さらに、ほとんどの人はその時期を中間選挙後とみていると付け加えた。"
   },
   {
    "date": "2026-10-22",
@@ -133,7 +157,11 @@
    ],
    "orgs": [
     "IRGC"
-   ]
+   ],
+   "headline_en": "Iran reveals 'offensive' doctrine, US issues alert: Is war imminent?",
+   "summary_en": "Iran's Islamic Revolutionary Guard Corps (IRGC) said that if the U.S. attacks again, it could enter neighboring countries and strike bases used for U.S. military operations. This means adding offensive action to what had been a mainly defensive posture. Experts warned that while room for diplomacy remains, the likelihood of renewed U.S.-Israeli strikes is growing.",
+   "headline_ja": "イラン革命防衛隊が「攻勢的ドクトリン」公表…「米国の再攻撃時は近隣国の基地を攻撃・進入」",
+   "summary_ja": "イラン革命防衛隊（IRGC）は、米国が再び攻撃すれば近隣国に進入し、米軍の作戦に使われる基地を攻撃する可能性があると明らかにした。防御中心だった態勢に攻勢的な行動を加えるということだ。専門家らは、外交の余地は残っているものの、米国・イスラエルによる再空爆の可能性が高まっていると警告した。"
   },
   {
    "date": "2026-10-22",
@@ -146,7 +174,11 @@
    "topics": [
     "conflict"
    ],
-   "orgs": []
+   "orgs": [],
+   "headline_en": "Israeli attacks in Gaza kill four, including a young girl",
+   "summary_en": "According to hospitals in the Gaza Strip, Israeli attacks killed four people over 24 hours, and a girl was shot dead near Jabalia. The death toll since last October's ceasefire has risen to 1,538.",
+   "headline_ja": "イスラエルの攻撃でガザ地区で少女含む4人死亡",
+   "summary_ja": "ガザ地区の病院によると、24時間の間にイスラエルの攻撃で4人が死亡し、ジャバリア付近では少女1人が銃撃を受けて死亡した。昨年10月の停戦以降の死者は1538人に増えた。"
   },
   {
    "date": "2026-10-22",
@@ -159,7 +191,11 @@
    "topics": [
     "disaster"
    ],
-   "orgs": []
+   "orgs": [],
+   "headline_en": "Taiwan Halts Stock Trade, Shuts Schools as Typhoon Champi Nears",
+   "summary_en": "As Typhoon Champi approached, Taiwan decided to halt stock trading and close schools on the 23rd.",
+   "headline_ja": "台風チャンピ接近で台湾が株式取引停止・学校休校",
+   "summary_ja": "台風チャンピの接近に伴い、台湾は23日に株式取引を停止し、学校を休校とすることを決めた。"
   },
   {
    "date": "2026-10-22",
@@ -173,7 +209,11 @@
     "conflict",
     "politics"
    ],
-   "orgs": []
+   "orgs": [],
+   "headline_en": "Trump says Iran making up 'fake hits, mines' to drive up oil prices",
+   "summary_en": "U.S. President Trump claimed Iran is fabricating ship attacks and mines to drive up oil prices. He said more crude oil is now passing through the Strait of Hormuz than before the conflict.",
+   "headline_ja": "トランプ氏「イランは原油価格を上げるため船舶被弾・機雷をでっち上げ」",
+   "summary_ja": "トランプ米大統領は、イランが原油価格をつり上げるために船舶への攻撃や機雷をでっち上げていると主張した。また、現在ホルムズ海峡を通過する原油は紛争前より多いと述べた。"
   },
   {
    "date": "2026-10-21",
@@ -192,7 +232,11 @@
     "대만",
     "필리핀"
    ],
-   "video_channel": "ABS-CBN News"
+   "video_channel": "ABS-CBN News",
+   "headline_en": "Japan braces for 30th named storm this year as Typhoon Champi heads for Okinawa",
+   "summary_en": "Super Typhoon Champi, with maximum winds of 216 km/h, was moving west-northwest on the 21st over waters about 800 km east of Luzon and is expected to approach Okinawa's Sakishima Islands from Friday to Saturday. Taiwan's weather authority considered issuing a sea warning, and strong winds and high waves are also expected around Batanes in the Philippines. The U.S.-Japan joint exercise \"Keen Sword\" was also scaled back due to the typhoon.",
+   "headline_ja": "スーパー台風「チャンピ」沖縄・先島諸島へ北上…台湾・フィリピンのバタネスも影響圏",
+   "summary_ja": "最大風速216km/hのスーパー台風チャンピは21日、ルソン島の東約800kmの海上を西北西に進んでおり、金曜日から土曜日にかけて沖縄の先島諸島に接近する見通しだ。台湾の気象当局は海上警報の発表を検討し、フィリピンのバタネス一帯でも強風と高波が予想される。日米共同演習「キーン・ソード」も台風のため縮小された。"
   },
   {
    "date": "2026-10-21",
@@ -209,7 +253,11 @@
     "미국",
     "러시아",
     "우크라이나"
-   ]
+   ],
+   "headline_en": "Witkoff heads to Russia for Putin talks after Zelenskyy meeting",
+   "summary_en": "U.S. envoy Steve Witkoff will discuss ways to end the war in Ukraine with President Putin in Russia on the 21st. Earlier, President Zelenskyy said talks with the U.S. side had been \"constructive\" and stressed that Kyiv must take part in any agreement on Ukraine's future. A Trump-Putin-Zelenskyy trilateral summit and an energy ceasefire are among the items mentioned for the agenda, but the Kremlin opposes a temporary ceasefire.",
+   "headline_ja": "ウィトコフ米特使、ゼレンスキー氏と会談後ロシアへ…プーチン氏と終戦協議",
+   "summary_ja": "スティーブ・ウィトコフ米特使は21日、ロシアでプーチン大統領とウクライナ戦争の終結策を協議する。これに先立ちゼレンスキー大統領は、米国側との協議は「建設的」だったとし、ウクライナの将来に関するいかなる合意にもキーウが参加しなければならないと強調した。トランプ・プーチン・ゼレンスキー3者首脳会談やエネルギー停戦などが議題に挙がっているが、クレムリンは一時停戦に反対している。"
   },
   {
    "date": "2026-10-21",
@@ -227,7 +275,11 @@
     "미국",
     "러시아",
     "우크라이나"
-   ]
+   ],
+   "headline_en": "US envoy Witkoff meets with Putin in effort to advance proposals to end war in Ukraine",
+   "summary_en": "U.S. envoy Steve Witkoff met President Putin at the Konstantinovsky Palace in St. Petersburg on the 21st to discuss revised proposals to end the war in Ukraine. The meeting came the day after he held talks with President Zelenskyy in Norway, and Witkoff said Russia would release Stephen Hubbard, an American it had been holding in prison.",
+   "headline_ja": "ウィトコフ米特使、サンクトペテルブルクでプーチン氏と会談…ウクライナ終戦案を協議",
+   "summary_ja": "スティーブ・ウィトコフ米特使は21日、サンクトペテルブルクのコンスタンチン宮殿でプーチン大統領と会い、ウクライナ終戦に向けた修正提案を協議した。ノルウェーでゼレンスキー大統領と会談した翌日の会談で、ウィトコフ氏はロシアが収監中の米国人スティーブン・ハバード氏を釈放すると明らかにした。"
   },
   {
    "date": "2026-10-21",
@@ -245,7 +297,11 @@
     "사우디아라비아",
     "예멘",
     "아람코"
-   ]
+   ],
+   "headline_en": "Houthis launch fresh strikes on Saudi Arabia",
+   "summary_en": "Yemen's Houthi rebels claimed they attacked oil, aviation and military targets in Saudi Arabia six times over the past 48 hours. They said Aramco facilities in Yanbu on the Red Sea coast and the Shaybah oil field in the east were targeted, and Saudi Arabia postponed its flagship investment conference scheduled for later this month over security concerns.",
+   "headline_ja": "フーシ派、サウジに追加攻撃…ヤンブーのアラムコ施設・シャイバ油田を標的",
+   "summary_ja": "イエメンのフーシ派は、直近48時間でサウジアラビアの石油・航空・軍事目標を6回攻撃したと主張した。紅海沿岸ヤンブーのアラムコ施設と東部のシャイバ油田が標的になったとしており、サウジは安全上の懸念から今月末に予定されていた代表的な投資会議を延期した。"
   },
   {
    "date": "2026-10-21",
@@ -260,7 +316,11 @@
    ],
    "orgs": [
     "프랑스"
-   ]
+   ],
+   "headline_en": "France announces nightly curfews 'for as long as necessary' in Paris and other cities",
+   "summary_en": "In France, where cost-of-living protests have escalated into riots, the government said it will keep nighttime curfews in major cities such as Paris and Lyon in place for as long as necessary. The first quiet night since the curfews has passed, but about 2,400 people have been arrested since Saturday, and the government signaled a large-scale police deployment in preparation for further protests.",
+   "headline_ja": "フランス、パリなどの都市で「必要な限り」夜間外出禁止を継続と発表",
+   "summary_ja": "生活費をめぐる抗議デモが暴動に発展したフランスで、政府はパリやリヨンなど主要都市の夜間外出禁止を必要な期間継続すると明らかにした。外出禁止後、初めての静かな夜が過ぎたが、土曜日以降約2400人が逮捕されており、政府はさらなるデモに備えて大規模な警察の配置を予告した。"
   },
   {
    "date": "2026-10-21",
@@ -276,7 +336,11 @@
    "orgs": [
     "러시아",
     "미국"
-   ]
+   ],
+   "headline_en": "Russia releases imprisoned U.S. citizen Stephen Hubbard following Trump's request",
+   "summary_en": "As he began talks with U.S. envoy Witkoff in St. Petersburg, President Putin said he had released Stephen Hubbard, a 74-year-old American imprisoned on charges of being a mercenary for the Ukrainian army. President Trump stressed that the release came without an exchange, and the Kremlin described it as a gesture of goodwill.",
+   "headline_ja": "ロシア、トランプ氏の要請で収監中の米国人スティーブン・ハバード氏を釈放",
+   "summary_ja": "プーチン大統領はサンクトペテルブルクでウィトコフ米特使との会談を始めるにあたり、ウクライナ軍の傭兵の容疑で収監されていた74歳の米国人スティーブン・ハバード氏を釈放したと明らかにした。トランプ大統領は交換なしの釈放だと強調し、クレムリンは善意のジェスチャーだと説明した。"
   },
   {
    "date": "2026-10-21",
@@ -292,7 +356,11 @@
    "orgs": [
     "예멘",
     "후티"
-   ]
+   ],
+   "headline_en": "Ballistic missile fired by Houthis targets Aden airport: Al Arabiya",
+   "summary_en": "Houthi rebels attacked Aden International Airport, a stronghold of the Yemeni government side, with a ballistic missile on the 21st, causing an explosion and smoke near the runway. Local authorities said the missile fell near a passenger plane preparing for takeoff but there were no casualties, and the Houthis claimed they had targeted a military base near the airport.",
+   "headline_ja": "フーシ派、イエメン・アデン空港に弾道ミサイル発射",
+   "summary_ja": "フーシ派は21日、イエメン政府側の拠点であるアデン国際空港を弾道ミサイルで攻撃し、滑走路付近で爆発と煙が発生した。現地当局は、ミサイルは離陸準備中の旅客機の近くに落ちたが人的被害はなかったと明らかにし、フーシ派は空港近くの軍事基地を狙ったと主張した。"
   },
   {
    "date": "2026-10-21",
@@ -307,7 +375,11 @@
    ],
    "orgs": [
     "인도네시아"
-   ]
+   ],
+   "headline_en": "Update: 460 evacuated after ferry catches fire off Indonesia's Java coast",
+   "summary_en": "A fire broke out on a passenger ferry carrying 420 passengers and 40 crew members near Merak Port in Banten Province, Indonesia, and everyone on board was evacuated. Eleven people received treatment, and the fire is believed to have started in the engine room.",
+   "headline_ja": "インドネシア・ジャワ島沖でフェリー火災…460人避難",
+   "summary_ja": "インドネシア・バンテン州のムラク港付近で、乗客420人と乗員40人を乗せたフェリーで火災が発生し、全員が避難した。11人が手当てを受けており、火災は機関室から始まったとみられる。"
   },
   {
    "date": "2026-10-21",
@@ -322,7 +394,11 @@
    ],
    "orgs": [
     "Ukrainian Air Force"
-   ]
+   ],
+   "headline_en": "Air defenses intercept 150 drones used by Russia to attack Ukraine overnight",
+   "summary_en": "From the night of the 20th to the early hours of the 21st, Russia attacked Ukraine with 186 drones and Iskander-K cruise missiles. Ukraine's air force said it neutralized 150 drones. Hits were confirmed at 27 locations and falling debris at 13 locations.",
+   "headline_ja": "ロシア、夜通しドローン186機でウクライナ攻撃…150機撃墜",
+   "summary_ja": "ロシアは20日夜から21日未明にかけて、ドローン186機とイスカンデルK巡航ミサイルでウクライナを攻撃した。ウクライナ空軍はドローン150機を無力化したと明らかにした。27カ所で着弾、13カ所で残骸の落下が確認された。"
   },
   {
    "date": "2026-10-21",
@@ -335,7 +411,11 @@
    "topics": [
     "disaster"
    ],
-   "orgs": []
+   "orgs": [],
+   "headline_en": "World's strongest storm of 2026, Champi, barrels towards Taiwan; China prepares evacuations and shutdowns",
+   "summary_en": "Super Typhoon Champi, which has become the strongest tropical cyclone in the world this year, is moving north toward Taiwan. China's Zhejiang and Fujian provinces are preparing to evacuate residents and suspend facility operations, and fishing boats in Fujian have been ordered to return to port.",
+   "headline_ja": "今年最強の台風「チャンピ」台湾へ北上…中国が避難・休業準備",
+   "summary_ja": "今年世界で最も強い熱帯低気圧となったスーパー台風チャンピが台湾方面へ北上している。中国の浙江省と福建省は住民の避難と施設の運営停止を準備しており、福建省の漁船には港へ戻るよう指示が出された。"
   },
   {
    "date": "2026-10-21",
@@ -351,7 +431,11 @@
    "orgs": [
     "US State Department",
     "Houthis"
-   ]
+   ],
+   "headline_en": "US orders departure of some embassy staff and families from Saudi Arabia amid Houthi threat",
+   "summary_en": "The U.S. State Department ordered non-emergency staff and family members at the U.S. Embassy in Riyadh and its consulates to leave Saudi Arabia, citing the Houthi rebel threat.",
+   "headline_ja": "米国、フーシ派の脅威でサウジ駐在大使館の一部職員・家族に退避命令",
+   "summary_ja": "米国務省は、フーシ派の脅威を理由に、リヤドの米国大使館と領事館の非必須職員と家族にサウジアラビアから退避するよう命じた。"
   },
   {
    "date": "2026-10-21",
@@ -366,7 +450,11 @@
    ],
    "orgs": [
     "북한"
-   ]
+   ],
+   "headline_en": "Kim Yo Jong: North Korea to operate propaganda loudspeakers along entire border this October",
+   "summary_en": "Kim Yo Jong, director of the General Affairs Department of North Korea's Workers' Party, said in a statement on the 21st that, in protest against the South Korean military's warning broadcasts and shots fired in response to North Korean troops crossing the Military Demarcation Line, the North will operate psychological-warfare loudspeakers aimed at the South along the entire border this month.",
+   "headline_ja": "金与正氏「10月中に全国境線で対南拡声器を稼働」",
+   "summary_ja": "北朝鮮の金与正（キム・ヨジョン）労働党総務部長は21日の談話で、北朝鮮軍の軍事境界線越境に対応した韓国軍の警告放送と射撃に反発し、今月中に全国境線で対南心理戦の拡声器を稼働すると明らかにした。"
   },
   {
    "date": "2026-10-20",
@@ -384,7 +472,11 @@
     "남수단",
     "아비에이",
     "유엔"
-   ]
+   ],
+   "headline_en": "More than 150 killed in Sudan drone strike on disputed Abyei border region",
+   "summary_en": "On the 19th, the Amiet market in Abyei, a disputed area between Sudan and South Sudan, was hit by a drone attack, killing at least 153 people according to local authorities' count and displacing about 8,000. Abyei authorities pointed to Sudanese government forces, while the Sudanese army side claimed it struck a fuel tanker heading to the RSF. South Sudan summoned Sudan's ambassador, and the UN Secretary-General condemned the attack.",
+   "headline_ja": "スーダン・南スーダンの係争地アビエイの市場にドローン攻撃、死者153人に",
+   "summary_ja": "19日、スーダンと南スーダンの間の係争地アビエイのアミエト市場がドローン攻撃を受け、現地当局の集計で少なくとも153人が死亡し、約8000人が避難した。アビエイ当局はスーダン政府軍を名指しし、スーダン軍側はRSFに向かっていた燃料タンカーを攻撃したと主張した。南スーダンはスーダン大使を呼び出し、国連事務総長は攻撃を非難した。"
   },
   {
    "date": "2026-10-20",
@@ -400,7 +492,11 @@
    "orgs": [
     "말리",
     "이슬람국가"
-   ]
+   ],
+   "headline_en": "Attack by Islamic State-affiliated group in Mali kills 48 people, official says",
+   "summary_en": "A local lawmaker said that militants of the Islamic State Sahel Province (ISSP) raided civilian residential areas in the Ménaka region of eastern Mali overnight on the 18th–19th, killing 48 people including children and elderly people. The militants accused residents of passing information to the army, and the death toll could rise further.",
+   "headline_ja": "マリ・メナカ地域でIS系組織の攻撃により48人死亡",
+   "summary_ja": "マリ東部メナカ地域で18日から19日にかけての夜、イスラム国サヘル州（ISSP）の武装勢力が民間人の居住地を襲撃し、子どもや高齢者を含む48人が死亡したと現地の議員が伝えた。武装勢力は住民が軍に情報を渡したと非難しており、死者数はさらに増える可能性がある。"
   },
   {
    "date": "2026-10-20",
@@ -417,7 +513,11 @@
     "우크라이나",
     "러시아",
     "키이우"
-   ]
+   ],
+   "headline_en": "Russian drones strike Kyiv hospital, injure 12 across the city",
+   "summary_en": "On the 20th, Russian drones repeatedly attacked Kyiv, damaging a hospital in the Solomianskyi district and a medical facility in the Holosiivskyi district and injuring 12 people. Ukraine's prime minister said a patient who was in an operating room at the Strazhesko Institute was injured. That same night, at least four civilians were killed and 27 injured nationwide.",
+   "headline_ja": "ロシアのドローン、キーウの病院を攻撃…市内で12人負傷",
+   "summary_ja": "20日、ロシアのドローンがキーウを繰り返し攻撃し、ソロミャンスキー地区の病院とホロシーウスキー地区の医療施設が損傷し、12人が負傷した。ストラジェスコ研究所の手術室にいた患者1人が負傷したとウクライナ首相が明らかにした。同日夜、全国で民間人少なくとも4人が死亡、27人が負傷した。"
   },
   {
    "date": "2026-10-20",
@@ -434,7 +534,11 @@
     "사우디아라비아",
     "후티",
     "예멘"
-   ]
+   ],
+   "headline_en": "Saudi says intercepted Houthi missile, blasts heard in capital",
+   "summary_en": "On the morning of the 20th, the Saudi-led coalition announced that it had intercepted and destroyed a Houthi ballistic missile fired toward Riyadh. Two loud explosions were heard in Riyadh after authorities sent out a danger alert, and civil defense said the danger soon passed. The coalition claimed it also struck the launcher, and the UK pledged additional defense support to Saudi Arabia.",
+   "headline_ja": "サウジ、リヤドに向かうフーシ派の弾道ミサイルを迎撃…首都で爆発音",
+   "summary_ja": "20日朝、サウジ主導の連合軍は、リヤドに向けて発射されたフーシ派の弾道ミサイルを迎撃・破壊したと発表した。当局が危険警報を出した後、リヤドで2回大きな爆発音が聞こえ、民間防衛当局はまもなく危険は解消されたと明らかにした。連合軍は発射台も攻撃したと主張し、英国はサウジへの追加の防衛支援を約束した。"
   },
   {
    "date": "2026-10-20",
@@ -451,7 +555,11 @@
     "이란",
     "미국",
     "호르무즈 해협"
-   ]
+   ],
+   "headline_en": "Iran shoots down US drone in Strait of Hormuz",
+   "summary_en": "Iran's Islamic Revolutionary Guard Corps (IRGC) announced that it shot down a U.S. military MQ-9 Reaper drone over the Strait of Hormuz early on the 20th using a new air defense system, claiming it was the 54th shootdown since the war began. There was no confirmation from the U.S. military. An IRGC spokesperson warned that undersea communication cables in the strait could also become targets.",
+   "headline_ja": "イラン革命防衛隊、ホルムズ海峡上空で米MQ-9ドローン撃墜と主張",
+   "summary_ja": "イラン革命防衛隊（IRGC）は20日未明、ホルムズ海峡上空で米軍のMQ-9リーパー無人機を新型防空システムで撃墜したと発表し、開戦以来54機目の撃墜だと主張した。米軍側による確認はなかった。IRGCの報道官は、海峡の海底通信ケーブルも標的になり得ると警告した。"
   },
   {
    "date": "2026-10-20",
@@ -470,7 +578,11 @@
     "미국",
     "카타르",
     "파키스탄"
-   ]
+   ],
+   "headline_en": "Iran sets red lines for US talks: Lift sanctions, end threats — 'not a gram' of uranium leaves",
+   "summary_en": "On the 20th, Iran set the lifting of sanctions and an end to threats as its conditions for talks with the U.S., and said it would not ship out \"a single gram\" of uranium. Foreign Minister Araghchi said Iran will not open the Strait of Hormuz until the U.S. accepts its conditions, adding that indirect talks via Pakistan and Qatar are continuing. A British maritime agency counted 23 attacks on ships around the strait so far in October, nearly double the usual level.",
+   "headline_ja": "イラン、米国との交渉に「レッドライン」提示…制裁解除・威嚇停止、ウラン搬出は不可",
+   "summary_ja": "イランは20日、米国との交渉条件として制裁解除と威嚇の停止を掲げ、ウランは「1グラムも」搬出しないと明らかにした。アラグチ外相は、米国が条件を受け入れるまでホルムズ海峡を開かないとし、パキスタン・カタールを通じた間接交渉は続いていると述べた。英国の海事機関は、10月に入って海峡周辺での船舶攻撃が23件と、平常時の2倍近くに増えたと集計した。"
   },
   {
    "date": "2026-10-20",
@@ -486,7 +598,11 @@
    "orgs": [
     "알바니아",
     "티라나"
-   ]
+   ],
+   "headline_en": "Albanian police clash with anti-government protesters for an 8th day",
+   "summary_en": "Police used tear gas and water cannons on the 20th as anti-government protests in Tirana continued for an eighth day. University lecturers and others joined the student-led protests, and more than 1,000 academics signed a petition calling for Prime Minister Rama's resignation and the formation of a technocratic government. Prime Minister Rama is refusing to resign.",
+   "headline_ja": "アルバニア反政府デモ8日目…警察が放水砲・催涙弾、教授1000人余りもラマ首相の退陣要求",
+   "summary_ja": "20日、ティラナで8日目となった反政府デモに対し、警察は催涙弾と放水砲を投入した。学生主導のデモに大学講師らが加わり、1000人を超える学者がラマ首相の辞任とテクノクラート政府の樹立を求める請願に署名した。ラマ首相は辞任を拒否している。"
   },
   {
    "date": "2026-10-20",
@@ -503,7 +619,11 @@
    "orgs": [
     "프랑스",
     "파리"
-   ]
+   ],
+   "headline_en": "France protests: Curfews calm unrest as Macron tours Gulf",
+   "summary_en": "After nighttime curfews were imposed around Paris's Place de la République and Les Halles and in central Lyon, among other areas, France had its first quiet night on the 20th since the weekend riots. Prime Minister Lecornu said curfews would continue to be applied by area \"where necessary\" and that a large police force would be deployed for protests next Saturday. More than 2,500 people were arrested over the weekend, and criticism of President Macron's Middle East tour is also growing.",
+   "headline_ja": "フランス、夜間外出禁止で初の静かな夜…首相「必要な場所で外出禁止継続」、土曜に大規模警察配置",
+   "summary_ja": "パリのレピュブリック広場やレ・アール一帯、リヨン中心部などに夜間外出禁止が出された後、フランスは20日、週末の暴動以降で初めて静かな夜を迎えた。ルコルニュ首相は外出禁止を「必要な場所で」地域ごとに引き続き適用し、次の土曜日のデモには大規模な警察力を配置すると明らかにした。週末の逮捕者は2500人を超え、マクロン大統領の中東歴訪への批判も強まっている。"
   },
   {
    "date": "2026-10-20",
@@ -519,7 +639,11 @@
    "orgs": [
     "바누아투",
     "USGS"
-   ]
+   ],
+   "headline_en": "Strong and shallow M6.3 earthquake hits Vanuatu",
+   "summary_en": "A shallow magnitude 6.3 earthquake struck near Vanuatu at 04:20 (UTC) on the 20th. The Pacific Tsunami Warning Center said there was no tsunami threat, and the U.S. Geological Survey issued a \"green\" alert indicating a low likelihood of casualties or property damage. It was the second consecutive day of a magnitude 6 or greater quake, following a magnitude 6.0 earthquake the previous day.",
+   "headline_ja": "バヌアツ付近でM6.3の浅い地震…津波の脅威なし",
+   "summary_ja": "20日04時20分（UTC）、バヌアツ付近でマグニチュード6.3の浅い地震が発生した。太平洋津波警報センターは津波の脅威はないと発表し、米地質調査所は人的・物的被害の可能性が低い「緑」の警報を出した。前日のM6.0の地震に続き、2日連続でM6以上の地震となった。"
   },
   {
    "date": "2026-10-20",
@@ -536,7 +660,11 @@
     "이스라엘",
     "하마스",
     "가자"
-   ]
+   ],
+   "headline_en": "Israeli attacks kill at least four Palestinians in Gaza",
+   "summary_en": "Medical staff said Israeli airstrikes and gunfire in the Gaza Strip on the 20th killed at least four people, including a married couple and a 17-year-old. The Israeli military claimed it eliminated a senior Hamas figure in an attack on Gaza City, while Hamas accused Israel of undermining the U.S.-brokered ceasefire. The cumulative death toll according to Gaza health authorities stands at 74,480.",
+   "headline_ja": "ガザでイスラエルの攻撃により少なくとも4人死亡…停戦1年でも空爆続く",
+   "summary_ja": "20日、ガザ地区でイスラエル軍の空爆と銃撃により、夫婦と17歳の少年を含む少なくとも4人が死亡したと医療関係者が明らかにした。イスラエル軍はガザ市への攻撃でハマスの幹部を殺害したと主張し、ハマスはイスラエルが米国の仲介による停戦を損なっていると非難した。ガザ保健当局による累計死者数は7万4480人に上る。"
   },
   {
    "date": "2026-10-20",
@@ -554,7 +682,11 @@
     "우크라이나",
     "미국",
     "러시아"
-   ]
+   ],
+   "headline_en": "Zelenskyy says early warning system for Russian missile attacks resumes following call with Rubio",
+   "summary_en": "Ukrainian President Zelenskyy said that after a phone call with U.S. Secretary of State Marco Rubio, Ukraine is again receiving early warnings of Russian ballistic missiles. He had claimed the warnings were cut off for at least a week, and the call covered Patriot interceptor missiles, intelligence sharing and Starlink issues. Secretary Rubio denied that there had been any change in policy on intelligence sharing or weapons support.",
+   "headline_ja": "ゼレンスキー氏「ルビオ氏との電話会談後、ロシアのミサイル早期警報が再開」",
+   "summary_ja": "ウクライナのゼレンスキー大統領は、マルコ・ルビオ米国務長官との電話会談後、ロシアの弾道ミサイルに関する早期警報を再び受け取っていると明らかにした。同氏は警報が少なくとも1週間途絶えたと主張してきており、電話会談ではパトリオット迎撃ミサイル、情報共有、スターリンクの問題が協議された。ルビオ長官は、情報共有や武器支援の政策を変えたことはないと否定した。"
   },
   {
    "date": "2026-10-20",
@@ -569,7 +701,11 @@
    ],
    "orgs": [
     "루마니아"
-   ]
+   ],
+   "headline_en": "Romanian Parliament Confirms New Prime Minister After Months of Deadlock",
+   "summary_en": "Romania's parliament approved the cabinet of Prime Minister Luca Niculescu, an independent former diplomat, with 280 votes in favor, bringing about five months of political crisis to a close for now. The new government faces the risk of a credit rating downgrade if it fails to pass a deficit-cutting budget by December.",
+   "headline_ja": "ルーマニア議会、数カ月の膠着の末に新首相を承認",
+   "summary_ja": "ルーマニア議会は、無所属で外交官出身のルカ・ニクレスク首相の内閣を賛成280票で承認し、約5カ月にわたる政治危機はひとまず収束した。新政府は12月までに赤字削減予算を成立させられなければ、格付け引き下げのリスクに直面する。"
   },
   {
    "date": "2026-10-20",
@@ -585,7 +721,11 @@
    "orgs": [
     "UK Ministry of Defence",
     "Houthis"
-   ]
+   ],
+   "headline_en": "UK to deploy fighter jets to defend Saudi Arabia against Houthi attacks",
+   "summary_en": "The UK will deploy Typhoon fighter jets to intercept missiles and drones fired at Saudi Arabia by Yemen's Houthi rebels. The UK said it will take on only a defensive mission and will not carry out operations attacking inside Yemen.",
+   "headline_ja": "英国、フーシ派の攻撃阻止へサウジに戦闘機配備",
+   "summary_ja": "英国は、イエメンのフーシ派がサウジアラビアに向けて発射するミサイルやドローンを迎撃するため、タイフーン戦闘機を配備する。英国は防御任務のみを担い、イエメン国内を攻撃する作戦は行わないと明らかにした。"
   },
   {
    "date": "2026-10-20",
@@ -600,7 +740,11 @@
    ],
    "orgs": [
     "Houthis"
-   ]
+   ],
+   "headline_en": "At least 53 killed after Houthi rebels strike Yemen's government forces",
+   "summary_en": "A missile fired by Yemen's Houthi rebels struck a government forces military camp in Shabwa province, killing at least 53 people.",
+   "headline_ja": "フーシ派、イエメン政府軍基地をミサイル攻撃…少なくとも53人死亡",
+   "summary_ja": "イエメンのフーシ派のミサイルがシャブワ州の政府軍の軍事キャンプを直撃し、少なくとも53人が死亡した。"
   },
   {
    "date": "2026-10-20",
@@ -615,7 +759,11 @@
    ],
    "orgs": [
     "Pentagon"
-   ]
+   ],
+   "headline_en": "Zelenskyy accuses Pentagon of delaying missiles already paid for by Ukraine's allies",
+   "summary_en": "Ukrainian President Zelenskyy criticized the U.S. Department of Defense for delaying the delivery of air defense missiles that allies have already paid for. He raised the issue at a meeting with a bipartisan group of U.S. lawmakers.",
+   "headline_ja": "ゼレンスキー氏「同盟国が支払い済みの防空ミサイル、米国防総省が遅延」",
+   "summary_ja": "ウクライナのゼレンスキー大統領は、同盟国がすでに費用を支払った防空ミサイルの引き渡しを米国防総省が遅らせていると批判した。同氏は米国の超党派議員との会合でこの問題を提起した。"
   },
   {
    "date": "2026-10-19",
@@ -633,7 +781,11 @@
     "프랑스",
     "마크롱",
     "르코르뉘"
-   ]
+   ],
+   "headline_en": "Live: French PM Lecornu calls for 'partial curfews' in cities hit by riots and looting",
+   "summary_en": "Following the nationwide protests on the 17th, the tally rose to 2,397 arrests and 997 police and gendarmes injured, according to the Interior Ministry. Interior Minister Laurent Nuñez submitted his resignation on the 18th, but President Macron rejected it on the 19th, citing \"continuity of security command,\" and ordered a transparent account of intelligence and preparedness failures. Prime Minister Lecornu convened a government-wide crisis meeting and called for partial nighttime curfews in affected cities, without declaring a state of emergency.",
+   "headline_ja": "マクロン氏、内相の辞任を拒否…フランス週末デモで逮捕2400人・警官1000人負傷、首相は「部分的夜間外出禁止」要請",
+   "summary_ja": "17日の全国デモ以降、集計が増え、内務省の基準で逮捕者2397人、警察・憲兵の負傷者997人となった。ローラン・ニュネス内相は18日に辞表を提出したが、マクロン大統領は19日「治安指揮の継続性」を理由に受理せず、情報・備えの失敗を透明に明らかにするよう指示した。ルコルニュ首相は政府全体の危機会議を開き、被害を受けた都市での部分的な夜間外出禁止を要請したが、非常事態は宣言しなかった。"
   },
   {
    "date": "2026-10-19",
@@ -649,7 +801,11 @@
    "orgs": [
     "수단",
     "RSF"
-   ]
+   ],
+   "headline_en": "Sudanese army intercepts RSF drones near Khartoum airport",
+   "summary_en": "Military sources said Sudanese army air defense units shot down Rapid Support Forces (RSF) drones that flew near Khartoum International Airport on the morning of the 19th. Shelling continued across Khartoum, Omdurman and Bahri, and in Blue Nile state the army claimed it repelled ground attacks by the RSF and the SPLM-N. Neither side's statements have been independently verified.",
+   "headline_ja": "スーダン軍、ハルツーム空港付近でRSFのドローン迎撃…ハルツーム・オムドゥルマンで砲撃続く",
+   "summary_ja": "スーダン軍の防空部隊は19日朝、ハルツーム国際空港付近に飛来した即応支援部隊（RSF）のドローンを撃墜したと軍関係者が明らかにした。ハルツーム、オムドゥルマン、バハリ全域で砲撃が続き、青ナイル州では軍がRSFとSPLM-Nの地上攻撃を撃退したと主張した。双方の発表はいずれも独自に確認されていない。"
   },
   {
    "date": "2026-10-19",
@@ -666,7 +822,11 @@
     "미국",
     "쿠바",
     "라울 카스트로"
-   ]
+   ],
+   "headline_en": "South Florida judge signs state arrest warrant for former Cuban leader Raul Castro",
+   "summary_en": "A Florida judge signed a state arrest warrant for Raúl Castro, former president of Cuba's Council of State, in connection with the 1996 incident in which the Cuban Air Force shot down two aircraft of the U.S. civilian group Brothers to the Rescue, killing four people. It is an unusual move by a U.S. state court targeting a former foreign leader.",
+   "headline_ja": "米フロリダの判事、ラウル・カストロ氏の逮捕状発付…1996年の民間機撃墜事件",
+   "summary_ja": "フロリダ州の判事は、1996年にキューバ空軍が米民間団体「ブラザーズ・トゥ・ザ・レスキュー」の航空機2機を撃墜し4人が死亡した事件に関連し、ラウル・カストロ前キューバ国家評議会議長に対する州の逮捕状に署名した。外国の元指導者を対象とした米州裁判所の異例の措置だ。"
   },
   {
    "date": "2026-10-19",
@@ -682,7 +842,11 @@
    "orgs": [
     "러시아",
     "우크라이나"
-   ]
+   ],
+   "headline_en": "Russian missiles and drones hit Kyiv overnight, killing 1 and injuring 8",
+   "summary_en": "Russia attacked Kyiv early on the 19th with ballistic and cruise missiles and 269 drones, killing one person and injuring eight. A metro station, a 25-story residential building and a data center were damaged, and about 550,000 households in the Kyiv area lost power. Despite the \"energy ceasefire\" announced by the U.S., both sides have resumed attacks on each other's energy facilities.",
+   "headline_ja": "ロシア、弾道ミサイル・ドローンでキーウを夜間攻撃…1人死亡・8人負傷",
+   "summary_ja": "ロシアは19日未明、弾道・巡航ミサイルとドローン269機でキーウを攻撃し、1人が死亡、8人が負傷した。地下鉄駅や25階建ての住宅、データセンターが被害を受け、キーウ一帯で約55万世帯が停電した。米国が発表した「エネルギー停戦」にもかかわらず、双方が互いのエネルギー施設への攻撃を再開している状況だ。"
   },
   {
    "date": "2026-10-19",
@@ -699,7 +863,11 @@
    "orgs": [
     "이란",
     "이란 혁명수비대"
-   ]
+   ],
+   "headline_en": "Oil tanker on fire after hitting mine in Hormuz: Iran's IRGC",
+   "summary_en": "Iran's Islamic Revolutionary Guard Corps (IRGC) said that on the 19th an oil tanker leaving via an unauthorized route south of the Strait of Hormuz hit a sea mine, causing an explosion and fire in its engine room. It claimed the vessel had its location and navigation devices switched off, and the ship's name, flag and crew status were not disclosed. The incident follows an announcement the previous day that two tankers had hit mines, and the strait is effectively blockaded.",
+   "headline_ja": "イラン革命防衛隊「ホルムズでタンカーが機雷に接触後に火災」",
+   "summary_ja": "イラン革命防衛隊（IRGC）は19日、ホルムズ海峡の南側で許可されていない航路を通って抜け出そうとしたタンカーが機雷に接触し、機関室で爆発と火災が起きたと明らかにした。船舶は位置・航法装置を切った状態だったと主張し、船名、船籍、乗組員の状況は公表されなかった。前日にもタンカー2隻が機雷に触れたと発表したのに続く事件で、海峡は事実上封鎖状態にある。"
   },
   {
    "date": "2026-10-19",
@@ -717,7 +885,11 @@
     "벨기에",
     "이탈리아",
     "포르투갈"
-   ]
+   ],
+   "headline_en": "Protests spread across Europe: Cost-of-living pressures behind the demonstrations",
+   "summary_en": "Over the weekend, protests against prices, housing costs and low wages took place not only in France but also in Belgium, Italy and Portugal. Police and protesters clashed in Brussels and Liège in Belgium; in Milan, Turin and Bologna in Italy there were injuries, and dozens were detained in Milan. In Portugal, unions and housing rights groups demanded wage increases and housing measures.",
+   "headline_ja": "欧州全域に広がる生活費デモ…ブリュッセル・ミラノでも衝突",
+   "summary_ja": "週末の間、フランスだけでなくベルギー、イタリア、ポルトガルでも物価・住居費・低賃金に抗議するデモが続いた。ベルギーのブリュッセルとリエージュでは警察とデモ隊が衝突し、イタリアのミラノ、トリノ、ボローニャでは負傷者が出て、ミラノでは数十人が拘束された。ポルトガルでは労働組合と住宅権団体が賃上げと住宅対策を求めた。"
   },
   {
    "date": "2026-10-19",
@@ -733,7 +905,11 @@
    "orgs": [
     "이스라엘",
     "블루앤화이트"
-   ]
+   ],
+   "headline_en": "Gantz pulls out of election race, eight days ahead of vote",
+   "summary_en": "Blue and White leader Benny Gantz announced on the 19th, eight days before Israel's October 27 general election, that he is withdrawing from the race. Polls repeatedly showed the party failing to clear the electoral threshold, and party lawmakers had defected to the Yashar party of his former associate Gadi Eisenkot. Gantz said he would continue to push for a national unity government from outside the election.",
+   "headline_ja": "ガンツ氏、イスラエル総選挙8日前に出馬撤回",
+   "summary_ja": "青と白のベニー・ガンツ党首は、10月27日のイスラエル総選挙を8日後に控えた19日、出馬撤回を表明した。世論調査で党が阻止条項（得票の下限）を超えられないとの結果が繰り返し示され、所属議員が元側近ガディ・アイゼンコット氏のヤシャル党へ離脱したことが背景にある。ガンツ氏は選挙の外で国民統合政府の樹立を引き続き目指すと明らかにした。"
   },
   {
    "date": "2026-10-19",
@@ -749,7 +925,11 @@
    ],
    "orgs": [
     "프랑스"
-   ]
+   ],
+   "headline_en": "France's Macron declines minister's resignation after violent protests",
+   "summary_en": "On the 19th, President Macron rejected the resignation of Interior Minister Laurent Nuñez, who had offered to step down on the 18th to take responsibility for the weekend riots. The Élysée explained that the minister must stay in his post to maintain the police and security chain of command, and Macron acknowledged failures in preparedness and intelligence assessment and ordered a new approach to dealing with looting. According to official figures, about 2,400 people were arrested and nearly 1,000 police officers were injured.",
+   "headline_ja": "マクロン氏、暴力的デモの責任を取るとしたニュネス内相の辞意を慰留",
+   "summary_ja": "マクロン大統領は、週末の暴動の責任を取るとして18日に辞意を表明したローラン・ニュネス内相の辞任を19日に受理しなかった。エリゼ宮は、警察・治安の指揮系統を維持するため内相が職にとどまるべきだと説明し、マクロン氏は備えと情報判断の失敗を認め、略奪への対応策を新たに整えるよう指示した。公式集計で約2400人が逮捕され、警察官1000人近くが負傷した。"
   },
   {
    "date": "2026-10-19",
@@ -765,7 +945,11 @@
    "orgs": [
     "튀르키예",
     "이스탄불"
-   ]
+   ],
+   "headline_en": "Istanbul flood death toll rises to eight as rescuers find more bodies, governor says",
+   "summary_en": "Governor Davut Gül said on the 19th that the death toll from flooding in the Istanbul area, caused by the heaviest rainfall in more than 80 years, has risen to eight. Rescuers recovered additional bodies, and reports of property damage have reached about 20,000. Up to 277.1 mm of rain fell in the Beykoz area.",
+   "headline_ja": "イスタンブール洪水の死者8人に…救助隊が新たに遺体発見",
+   "summary_ja": "80年余りぶりの記録的豪雨によるイスタンブール一帯の洪水で、死者が19日に8人に増えたとダウト・ギュル知事が明らかにした。救助隊が新たに遺体を収容し、財産被害の届け出は約2万件に上る。ベイコズ地区では最大277.1ミリの雨が降った。"
   },
   {
    "date": "2026-10-19",
@@ -781,7 +965,11 @@
    "orgs": [
     "예멘",
     "후티"
-   ]
+   ],
+   "headline_en": "Houthi rebels strike a government military camp in southern Yemen, killing at least 20 fighters",
+   "summary_en": "Yemeni military officials said Houthi rebels attacked a government forces base in Shabwa province in southern Yemen with missiles on the 19th, killing at least 20 soldiers. The Houthis claimed they killed or wounded dozens. After a four-year truce broke down, the civil war is intensifying again along with an offensive by the Saudi-led coalition.",
+   "headline_ja": "フーシ派、イエメン南部の政府軍基地をミサイル攻撃…少なくとも20人死亡",
+   "summary_ja": "フーシ派は19日、イエメン南部シャブワ州の政府軍基地をミサイルで攻撃し、兵士少なくとも20人が死亡したとイエメン軍関係者が明らかにした。フーシ派側は数十人を殺傷したと主張した。4年間の停戦が崩れた後、サウジ主導の連合軍の攻勢とともに内戦が再び激化している。"
   },
   {
    "date": "2026-10-19",
@@ -797,7 +985,11 @@
    "orgs": [
     "캐나다",
     "캐나다군"
-   ]
+   ],
+   "headline_en": "4 dead, at least 19 in critical condition after deadly fire at CFB Wainwright in Alberta",
+   "summary_en": "Canadian Prime Minister Mark Carney confirmed that four soldiers were killed and dozens injured in a fire that broke out during training at CFB Wainwright in Alberta, and the military released the identities of the four who died. Alberta said 39 people are hospitalized and at least 19 are in critical condition. The cause of the fire, including whether a gas line exploded, is under investigation, and reaching a conclusion could take weeks.",
+   "headline_ja": "カナダ・アルバータ州ウェインライト基地の火災、死者4人確認…19人が重体",
+   "summary_ja": "カナダのマーク・カーニー首相は、アルバータ州ウェインライト基地での訓練中に発生した火災で兵士4人が死亡し数十人が負傷したことを確認し、軍は死者4人の身元を公表した。アルバータ州は39人が入院中で、少なくとも19人が重体だと明らかにした。ガス管爆発の有無など火災の原因は調査中で、結論までに数週間かかる可能性がある。"
   },
   {
    "date": "2026-10-19",
@@ -813,7 +1005,11 @@
    "orgs": [
     "인도",
     "마니푸르"
-   ]
+   ],
+   "headline_en": "Four Killed in Fresh Manipur Violence; Angry Protest Reaches CM's Bungalow",
+   "summary_en": "Four people were killed in separate violent incidents in the northeastern Indian state of Manipur on the 19th. Residents angered by the news of the deaths marched to the chief minister's residence in the state capital to protest. Manipur has seen ongoing ethnic clashes since 2023.",
+   "headline_ja": "インド・マニプールで再び流血の衝突…4人死亡、州首相公邸前で抗議デモ",
+   "summary_ja": "インド北東部マニプール州で19日、別々の暴力事件により4人が死亡した。死亡の知らせに怒った住民らが州都の州首相公邸前まで押しかけ、抗議デモを行った。マニプールは2023年以降、民族間の衝突が続いている地域だ。"
   },
   {
    "date": "2026-10-19",
@@ -832,7 +1028,11 @@
     "미국",
     "중국",
     "우크라이나"
-   ]
+   ],
+   "headline_en": "Putin reportedly proposes three-way summit with Trump and Xi on Ukraine war — without Zelenskyy",
+   "summary_en": "According to a Wall Street Journal report, Russian President Putin proposed a U.S.-China-Russia trilateral summit to discuss the war in Ukraine during an October 9 phone call with President Trump, with a plan to hold it on the sidelines of the APEC summit in Shenzhen on November 18–19 being floated. The idea excludes Ukrainian President Zelenskyy. The Kremlin said there is no clear agreement yet on the format or agenda, and U.S. Secretary of State Rubio said there had been talk of a meeting but he did not know whether it was confirmed.",
+   "headline_ja": "プーチン氏、ゼレンスキー氏抜きでトランプ氏・習近平氏との3者首脳会談を提案と報道",
+   "summary_ja": "ウォール・ストリート・ジャーナルの報道によると、ロシアのプーチン大統領は10月9日のトランプ大統領との電話会談で、ウクライナ戦争を協議する米中ロ3者首脳会談を提案し、11月18〜19日の深圳APEC首脳会議に合わせた開催案が取り沙汰された。ウクライナのゼレンスキー大統領を除外した構想だ。クレムリンは形式と議題についてまだ明確な合意はないとし、ルビオ米国務長官は会談の話はあったが確定したかどうかは分からないと述べた。"
   },
   {
    "date": "2026-10-19",
@@ -848,7 +1048,11 @@
    "orgs": [
     "우크라이나",
     "러시아"
-   ]
+   ],
+   "headline_en": "3 killed, 53 injured in Russian attacks across Ukraine over past day as 550,000 households lose power",
+   "summary_en": "Overnight on the 19th, Russia used 16 ballistic missiles and 269 drones in concentrated strikes on Ukraine's energy facilities, cutting power to 550,000 households in 10 regions and damaging more than 10 energy facilities. President Zelenskyy said Russia has attacked energy facilities 76 times even after the \"energy ceasefire\" Trump announced on October 11, and that this time again Ukraine received no advance warning from its allies.",
+   "headline_ja": "ロシア、ウクライナ全土を空爆し3人死亡・53人負傷…55万世帯が停電",
+   "summary_ja": "19日夜、ロシアは弾道ミサイル16発とドローン269機を動員してウクライナのエネルギー施設を集中攻撃し、10州で55万世帯が停電、エネルギー施設10カ所以上が損傷した。ゼレンスキー大統領は、トランプ氏が10月11日に発表した「エネルギー停戦」以降もロシアがエネルギー施設を76回攻撃し、今回も同盟国から事前警告を受けられなかったと明らかにした。"
   },
   {
    "date": "2026-10-19",
@@ -864,7 +1068,11 @@
    ],
    "orgs": [
     "알바니아"
-   ]
+   ],
+   "headline_en": "Albania protests: Why are people demanding Edi Rama's resignation?",
+   "summary_en": "During anti-government protests that continued for a sixth straight day in Tirana, a fire broke out at the Supreme Court building on the 18th, after an earlier fire at the Education Ministry building. Police used rubber bullets, water cannons and tear gas, and said 388 people have been criminally charged. Protesters are demanding education improvements, jobs, an end to corruption and the resignation of Prime Minister Rama, but Rama is refusing to resign.",
+   "headline_ja": "アルバニアのデモ6日目…最高裁の建物で火災、388人を刑事訴追",
+   "summary_ja": "ティラナで6日連続で続いた反政府デモの中、18日に最高裁判所の建物で火災が発生し、それ以前には教育省の建物でも火災が起きた。警察はゴム弾、放水砲、催涙ガスを使用し、388人が刑事訴追されたと明らかにした。デモ隊は教育の改善、雇用、汚職の撲滅とラマ首相の辞任を求めているが、ラマ首相は辞任を拒否している。"
   },
   {
    "date": "2026-10-19",
@@ -882,7 +1090,11 @@
     "러시아",
     "이란",
     "GCC"
-   ]
+   ],
+   "headline_en": "Russia's Lavrov discusses US war and regional security during Tehran visit",
+   "summary_en": "Russian Foreign Minister Lavrov arrived in Tehran on the afternoon of the 19th and discussed ways to end the U.S.-Iran war with Iranian Foreign Minister Araghchi, and is also scheduled to meet President Pezeshkian. It is his first visit to Iran since February 2025; at the Russia-GCC meeting in Bahrain just before, Gulf states asked Russia to persuade Iran to restore passage through the Strait of Hormuz. Russia is casting itself as a mediator to prevent a renewed all-out war.",
+   "headline_ja": "ロシアのラブロフ外相、テヘラン到着…米イラン戦争・地域安全保障を協議",
+   "summary_ja": "ロシアのラブロフ外相は19日午後テヘランに到着し、イランのアラグチ外相と米イラン戦争の終結策を協議した。ペゼシュキアン大統領とも会談する予定だ。2025年2月以来初のイラン訪問で、直前にバーレーンで開かれたロシア・GCC会合では、湾岸諸国がロシアに対し、イランを説得してホルムズ海峡の航行を回復させるよう求めた。ロシアは全面戦争の再発を防ぐ仲介役を自任している。"
   },
   {
    "date": "2026-10-19",
@@ -898,7 +1110,11 @@
    "orgs": [
     "PAGASA",
     "필리핀"
-   ]
+   ],
+   "headline_en": "'Champi' re-intensifies into super typhoon",
+   "summary_en": "The Philippine weather agency PAGASA said on the afternoon of the 19th that Typhoon Champi had re-intensified into a super typhoon with maximum sustained winds of 185 km/h and gusts of 230 km/h. It is moving west-northwest at 15 km/h over waters about 1,515 km southeast of Luzon, and once it enters the Philippine Area of Responsibility (PAR) on the 20th it will be called by the local name \"Rosal.\" Wind signals No. 2–3 are expected for northern Luzon and parts of Bicol, and the storm is forecast to gradually weaken from Thursday.",
+   "headline_ja": "台風「チャンピ」スーパー台風に再強化…20日にフィリピン監視区域入りの見通し",
+   "summary_ja": "フィリピン気象庁（PAGASA）は19日午後、台風チャンピが最大風速185km/h、瞬間風速230km/hのスーパー台風に再び強まったと発表した。ルソン島の南東約1515kmの海上を時速15kmで西北西に進んでおり、20日にフィリピン監視責任区域（PAR）に入ると現地名「ロサル」と呼ばれる。ルソン島北部とビコール地方の一部にシグナル2〜3号が予想され、木曜日以降は次第に弱まる見通しだ。"
   },
   {
    "date": "2026-10-19",
@@ -914,7 +1130,11 @@
    ],
    "orgs": [
     "알바니아"
-   ]
+   ],
+   "headline_en": "Albania's Capital Rocked by Chaotic Weekend of Street Unrest",
+   "summary_en": "Anti-government protests demanding the resignation of Prime Minister Edi Rama continued in Tirana for six straight days. On the night of the 18th, police used water cannons, tear gas and rubber bullets, while protesters threw stones and Molotov cocktails and damaged buildings including the headquarters of the ruling Socialist Party. The Health Ministry said 272 people, including 169 police officers, had been injured since Tuesday, and Prime Minister Rama refused to resign, blaming the opposition, extremists, and foreign forces such as Russia and Iran.",
+   "headline_ja": "アルバニアの首都ティラナ、週末通して激しいデモ…6日目の衝突、ラマ首相は辞任拒否",
+   "summary_ja": "ティラナでエディ・ラマ首相の辞任を求める反政府デモが6日連続で続いた。18日夜、警察は放水砲・催涙弾・ゴム弾を使用し、デモ隊は石や火炎瓶を投げて与党社会党本部などの建物を損壊した。保健省は火曜日以降、警察官169人を含む272人が負傷したと明らかにし、ラマ首相は野党、過激派、ロシアやイランなどの外国勢力が背後にいると名指しして辞任を拒否した。"
   },
   {
    "date": "2026-10-19",
@@ -932,7 +1152,11 @@
     "미국",
     "이란",
     "이스라엘"
-   ]
+   ],
+   "headline_en": "US and Israel threaten renewed Iran strikes, Tehran warns of response",
+   "summary_en": "After President Trump threatened Iran on the 18th, saying \"we could finish the job soon,\" and gave full backing to Prime Minister Netanyahu, Iranian Foreign Minister Araghchi responded on X on the 19th: \"Iran got stronger last time. Do you want to try your luck again?\" Netanyahu said \"the regime must fall\" and that Israel would act on its own even without U.S. approval, while a senior Iranian security official warned that Iran has prepared a more devastating response to any renewed attack. Araghchi said Iran's proposal to reopen the Strait of Hormuz within seven days still stands.",
+   "headline_ja": "米・イスラエル、イラン再攻撃を威嚇…イラン「また運を試すつもりか」と警告",
+   "summary_ja": "トランプ大統領が18日「まもなく仕事を終わらせられる」とイランを威嚇し、ネタニヤフ首相を全面的に支持したことに対し、イランのアラグチ外相は19日、Xで「イランは前回より強くなった。また運を試してみるつもりか」と応じた。ネタニヤフ氏は「政権は崩壊しなければならない」とし、米国の承認がなくても独自に行動すると表明し、イランの安全保障高官は再攻撃があればより破壊的な対応を準備していると警告した。アラグチ氏は、7日以内にホルムズ海峡を再開放する提案は維持すると明らかにした。"
   },
   {
    "date": "2026-10-19",
@@ -948,7 +1172,11 @@
    "orgs": [
     "우크라이나",
     "러시아"
-   ]
+   ],
+   "headline_en": "'Absolute atrocity' — Russian drone strike on park in Kharkiv Oblast kills children",
+   "summary_en": "On the afternoon of the 19th, a Russian drone (believed to be a Geran-3) struck the central park in Nova Vodolaha, Kharkiv Oblast, killing six people including an infant in a stroller, children and women, and injuring 15, including seven children. President Zelenskyy condemned it as an \"absolute atrocity,\" and the Kharkiv Oblast prosecutor's office opened a war crimes investigation.",
+   "headline_ja": "ロシアのドローン、ハルキウ州の公園を攻撃…子ども含む6人死亡",
+   "summary_ja": "19日午後、ハルキウ州ノバ・ボドラハの中央公園にロシアのドローン（ゲラン3とみられる）が落下し、ベビーカーに乗っていた乳児や子ども、女性など6人が死亡、子ども7人を含む15人が負傷した。ゼレンスキー大統領は「絶対的な残虐行為」と非難し、ハルキウ州検察は戦争犯罪の捜査に着手した。"
   },
   {
    "date": "2026-10-19",
@@ -963,7 +1191,11 @@
    ],
    "orgs": [
     "WFP"
-   ]
+   ],
+   "headline_en": "Gaza: Funding cuts leave half a million without food assistance",
+   "summary_en": "Due to a funding shortfall, the UN World Food Programme (WFP) has cut the number of people it provides food assistance to in the Gaza Strip from 1.6 million to 1.1 million per month. About 500,000 people will no longer receive assistance, and food rations have also been cut in half.",
+   "headline_ja": "WFP、資金不足でガザ住民50万人への食料支援を停止",
+   "summary_ja": "国連世界食糧計画（WFP）は資金不足のため、ガザ地区での食料支援の対象を月160万人から110万人に減らした。約50万人が支援を受けられなくなり、食料の配給量も半分に減った。"
   },
   {
    "date": "2026-10-19",
@@ -976,7 +1208,11 @@
    "topics": [
     "conflict"
    ],
-   "orgs": []
+   "orgs": [],
+   "headline_en": "Drone attacks across Sudan escalate, 160 people reported killed",
+   "summary_en": "According to medical staff and human rights groups, drone attacks across Sudan have killed more than 160 people in recent days. The heaviest toll came in West Kordofan, where an attack on a transport hub where residents had gathered to head home after market day killed 80 people.",
+   "headline_ja": "スーダン全土でドローン攻撃が激化…ここ数日で160人超死亡",
+   "summary_ja": "医療関係者と人権団体によると、ここ数日でスーダン全土のドローン攻撃により160人を超える人が死亡した。最大の被害は西コルドファンで出ており、市の立つ日を終えて帰宅しようとしていた住民が集まった交通拠点が攻撃を受け、80人が死亡した。"
   },
   {
    "date": "2026-10-18",
@@ -993,7 +1229,11 @@
    "orgs": [
     "프랑스"
    ],
-   "video_channel": "franceinfo"
+   "video_channel": "franceinfo",
+   "headline_en": "\"1,200 arrested, entire streets devastated\": France erupts over cost-of-living anger",
+   "summary_en": "Prime Minister Sébastien Lecornu said on the 18th that the protests on the 17th led to 1,200 arrests nationwide and injured 150 police officers. The mayor of Paris said \"entire streets have been devastated,\" and in Limoges the city hall was set on fire. President Macron warned that those who attacked public buildings and shops would be prosecuted and punished.",
+   "headline_ja": "「1200人逮捕、通り全体が荒廃」…生活苦への不満が爆発したフランス",
+   "summary_ja": "セバスチャン・ルコルニュ首相は18日、17日のデモで全国で1200人が逮捕され、警察官150人が負傷したと明らかにした。パリ市長は「通り全体が荒廃した」と述べ、リモージュでは市庁舎が燃えた。マクロン大統領は、官公庁や商店を襲った者を起訴して処罰すると警告した。"
   },
   {
    "date": "2026-10-18",
@@ -1008,7 +1248,11 @@
    ],
    "orgs": [
     "캐나다"
-   ]
+   ],
+   "headline_en": "Deaths, injuries after fire at Alberta military base: Canada minister",
+   "summary_en": "On October 17, a major fire broke out after a \"significant incident\" at a training area of the Canadian Forces base in Wainwright, Alberta, leaving people dead and injured. Defence Minister McGuinty did not disclose the number of casualties or the cause, and the RCMP joined the investigation. Driven by winds of 100 km/h, the fire spread beyond the base fence, and Edmonton hospitals declared a \"Code Orange\" to receive large numbers of patients.",
+   "headline_ja": "カナダ・アルバータ州の軍基地で火災、死傷者発生",
+   "summary_ja": "10月17日、アルバータ州ウェインライトのカナダ軍基地の訓練場で「重大事案」の後に大規模な火災が発生し、死傷者が出た。マッギンティ国防相は死傷者数と原因を明らかにせず、RCMP（王立カナダ騎馬警察）が捜査に加わった。火災は時速100kmの強風にあおられて基地のフェンスを越えて広がり、エドモントンの病院は多数の患者受け入れに向けた「コード・オレンジ」を発令した。"
   },
   {
    "date": "2026-10-18",
@@ -1026,7 +1270,11 @@
     "사우디아라비아",
     "UAE",
     "예멘"
-   ]
+   ],
+   "headline_en": "Iran war live: Ships attacked off UAE, Yemen; drones downed near Riyadh",
+   "summary_en": "Fires broke out on three oil tankers in the Strait of Hormuz and the Gulf of Oman, and the UK Maritime Trade Operations (UKMTO) said two ships were attacked near Jubail in Saudi Arabia and an LNG carrier came under gunfire off the coast of Yemen. The Saudi-led coalition shot down four drones over Riyadh and other areas. Iran denied any link to the attacks on Saudi Arabia and claimed the tankers had hit mines.",
+   "headline_ja": "【イラン戦争ライブ】UAE・イエメン沖で船舶被弾…リヤド付近でドローン撃墜",
+   "summary_ja": "ホルムズ海峡とオマーン湾でタンカー3隻に火災が発生し、英国海事貿易機関（UKMTO）は、サウジのジュバイル付近で船舶2隻が攻撃を受け、イエメン沖でLNG運搬船が銃撃を受けたと明らかにした。サウジ主導の連合軍はリヤドなどの上空でドローン4機を撃墜した。イランはサウジへの攻撃との関連を否定し、タンカーは機雷に接触したと主張した。"
   },
   {
    "date": "2026-10-18",
@@ -1044,7 +1292,11 @@
     "미국",
     "FEMA"
    ],
-   "video_channel": ""
+   "video_channel": "",
+   "headline_en": "Typhoon Champi triggers presidential emergency actions across Marianas",
+   "summary_en": "Champi, upgraded to a super typhoon, passed about 10 miles south of Merizo, Guam, early on the 18th, bringing storm-force winds and flooding, and Guam remained at its highest alert level (COR 1). President Trump declared an emergency for Guam and the Northern Mariana Islands, approving FEMA assistance. The Philippine weather agency forecast that Champi will enter the Philippine Area of Responsibility on the 20th and could strengthen into a super typhoon again.",
+   "headline_ja": "スーパー台風チャンピ、グアム南10マイルを通過…トランプ氏がグアム・北マリアナに非常事態宣言",
+   "summary_ja": "スーパー台風に格上げされたチャンピは18日未明、グアム・メリッソの南約10マイルを通過し、暴風と洪水をもたらした。グアムは最高警戒レベル（COR 1）を維持した。トランプ大統領はグアムと北マリアナ諸島に非常事態を宣言し、FEMAの支援を承認した。フィリピン気象庁は、チャンピが20日にフィリピン監視責任区域に入り、再びスーパー台風に強まる可能性があると予測した。"
   },
   {
    "date": "2026-10-18",
@@ -1061,7 +1313,11 @@
     "우크라이나",
     "러시아"
    ],
-   "video_channel": "New York Post"
+   "video_channel": "New York Post",
+   "headline_en": "Massive Ukrainian drone attack hit oil facility, bridge, and data center in St. Petersburg",
+   "summary_en": "Ukrainian forces carried out a large-scale drone attack on St. Petersburg on the night of the 18th, hitting an oil terminal, a data center and a highway bridge. The Russian side said one person was killed and 15 injured. The strike came as both countries resumed attacks on energy facilities despite President Trump's call for an \"energy ceasefire.\"",
+   "headline_ja": "ウクライナ、サンクトペテルブルクに大規模ドローン攻撃…石油ターミナル・データセンター・橋が被弾",
+   "summary_ja": "ウクライナ軍は18日夜、サンクトペテルブルクを大規模なドローンで攻撃し、石油ターミナルとデータセンター、高速道路の橋が被害を受けた。ロシア側は1人が死亡、15人が負傷したと明らかにした。トランプ大統領の「エネルギー停戦」の要求にもかかわらず、両国がエネルギー施設への攻撃を再開する中で行われた攻撃だ。"
   },
   {
    "date": "2026-10-18",
@@ -1078,7 +1334,11 @@
     "파키스탄",
     "아프가니스탄",
     "탈레반"
-   ]
+   ],
+   "headline_en": "Fresh border clashes erupt between Pakistan and Afghanistan",
+   "summary_en": "On the 17th–18th, Pakistani forces and Afghan Taliban fighters clashed around Taida and Ghozgari in Upper Kurram, Khyber Pakhtunkhwa. Pakistan said it destroyed several Taliban posts with artillery fire, and the Afghan side said rockets fell on residential areas in Paktia province. Neither side's casualty claims have been independently verified, and it is the second major clash in the same area since October 10.",
+   "headline_ja": "パキスタンとアフガン・タリバン、クラム国境で再び交戦…砲撃で民間地域に着弾",
+   "summary_ja": "17〜18日、カイバル・パクトゥンクワ州アッパー・クラムのタイダ・ゴズガリ一帯で、パキスタン軍とアフガニスタンのタリバン部隊が交戦した。パキスタンは砲撃でタリバンの拠点を複数破壊したと明らかにし、アフガン側はパクティア州の住宅地にロケット弾が落ちたと伝えた。双方の死傷者に関する主張は独自に確認されておらず、10月10日以降、同じ地域で2度目の大きな衝突となる。"
   },
   {
    "date": "2026-10-18",
@@ -1094,7 +1354,11 @@
    "orgs": [
     "괌",
     "미국"
-   ]
+   ],
+   "headline_en": "Champi briefly reaches super typhoon strength after its closest approach to Guam causes widespread outages",
+   "summary_en": "The eye of Typhoon Champi passed about 16 km south of Merizo at Guam's southern tip early on the 18th, and the storm briefly reached super typhoon strength right after passing. According to the Guam Power Authority, the island's power supply dropped to about half, and up to 170 wells stopped operating. The weather service said a preliminary survey found no widespread structural damage, and President Trump approved an emergency declaration for Guam.",
+   "headline_ja": "台風チャンピ、グアム最接近後にスーパー台風に…島の半分が停電",
+   "summary_ja": "台風チャンピの目は18日未明、グアム南端メリッソの南約16kmを通過し、通過直後に一時スーパー台風の勢力に達した。グアム電力公社の集計で島の電力供給は半分程度まで落ち込み、最大170の井戸が稼働を停止した。気象当局は予備調査で広範囲な構造物の被害は確認されなかったとし、トランプ大統領はグアムへの非常事態宣言を承認した。"
   },
   {
    "date": "2026-10-18",
@@ -1111,7 +1375,11 @@
    "orgs": [
     "우크라이나",
     "미국"
-   ]
+   ],
+   "headline_en": "Zelenskyy says Trump is pushing Ukraine to yield to Russia",
+   "summary_en": "Ukrainian President Zelenskyy criticized U.S. President Trump for pressuring Kyiv to make concessions to Russia, as friction between the two countries has continued for more than a week. He claimed that U.S. supplies of Patriot interceptor missiles have dropped sharply to about 12 a month and that some approved quantities are on hold. The Trump administration is holding back some sanctions on Russia and pursuing a deal for Russian diesel supplies.",
+   "headline_ja": "ゼレンスキー氏「トランプ氏がウクライナにロシアへの屈服を迫っている」",
+   "summary_ja": "ウクライナのゼレンスキー大統領が、トランプ米大統領がキーウにロシアへの譲歩を迫っていると批判し、両国の対立が1週間以上続いている。同氏は、米国のパトリオット迎撃ミサイルの供給が月12発程度に大きく減り、承認された分の一部も保留されていると主張した。トランプ政権はロシア制裁の一部を保留し、ロシア産ディーゼルの供給取引を進めている。"
   },
   {
    "date": "2026-10-18",
@@ -1128,7 +1396,11 @@
     "사우디아라비아",
     "예멘",
     "후티"
-   ]
+   ],
+   "headline_en": "Houthi media says Saudi strike killed 9 in northern Yemen",
+   "summary_en": "The Houthi-run Health Ministry said on the 18th that an airstrike on a house in Sahar district, Saada province, in northern Yemen killed nine people, including five children and two women, and injured 19. The Houthis named Saudi Arabia as the attacker, but the Saudi government did not immediately respond. The casualty figures have not been independently verified.",
+   "headline_ja": "フーシ派「サウジの空爆でイエメン北部サアダ州で9人死亡」",
+   "summary_ja": "フーシ派が運営する保健省は18日、イエメン北部サアダ州サハル地区の住宅が空爆を受け、子ども5人と女性2人を含む9人が死亡、19人が負傷したと明らかにした。フーシ派はサウジアラビアを攻撃の主体と名指ししたが、サウジ政府は即座に反応しなかった。死傷者数は独自に確認されていない。"
   },
   {
    "date": "2026-10-18",
@@ -1145,7 +1417,11 @@
    "orgs": [
     "이란",
     "미국"
-   ]
+   ],
+   "headline_en": "Iran says its 7-day plan to reopen Hormuz Strait still on table",
+   "summary_en": "Speaking in Baghdad on the 18th, Iranian Foreign Minister Araghchi said Iran's seven-day plan, under which it would reopen the Strait of Hormuz on day six and resume talks on day seven if the U.S. accepts its conditions, remains valid. The conditions are lifting the port blockade, lifting sanctions on crude exports and halting hostilities on all fronts in the region. He said Iran is reviewing comments conveyed by the U.S., while President Trump warned that if Iran does not change its stance, the U.S. \"could finish the job soon.\"",
+   "headline_ja": "イラン「ホルムズ7日間再開放案は依然有効」…米国の意見を検討中",
+   "summary_ja": "イランのアラグチ外相は18日、バグダッドで、米国が条件を受け入れれば6日目にホルムズ海峡を再開放し、7日目に交渉を再開する7日間計画は依然として有効だと明らかにした。条件は港湾封鎖の解除、原油輸出制裁の解除、地域内のすべての戦線での交戦停止だ。米国から伝えられた意見を検討中だとし、トランプ大統領はイランが態度を変えなければ「まもなく仕事を終わらせられる」と警告した。"
   },
   {
    "date": "2026-10-18",
@@ -1161,7 +1437,11 @@
    ],
    "orgs": [
     "알바니아"
-   ]
+   ],
+   "headline_en": "Tirana sees sixth day of violent protests as Albania's PM refuses to resign",
+   "summary_en": "Anti-government protests continued for a sixth day in the Albanian capital Tirana, with police using water cannons, tear gas and rubber bullets. The Health Ministry said 272 people, including 169 police officers, have been injured since the protests began. Protesters are demanding better education conditions, jobs, an end to corruption and the resignation of Prime Minister Edi Rama, but Rama, who is serving his fourth consecutive term, refused to resign, and the U.S. and the European Commission urged restraint and dialogue.",
+   "headline_ja": "アルバニア・ティラナで6日目の激しいデモ…ラマ首相は辞任拒否",
+   "summary_ja": "アルバニアの首都ティラナで反政府デモが6日目に入り、警察は放水砲・催涙弾・ゴム弾を使用した。保健省は、デモ開始以降、警察官169人を含む272人が負傷したと明らかにした。デモ隊は教育環境の改善、雇用、汚職の撲滅とエディ・ラマ首相の辞任を求めているが、4期連続で在任中のラマ首相は辞任を拒否し、米国と欧州委員会は自制と対話を促した。"
   },
   {
    "date": "2026-10-18",
@@ -1178,7 +1458,11 @@
     "일본",
     "대만",
     "기상청"
-   ]
+   ],
+   "headline_en": "Typhoon Champi Nears Japan as 30th Storm of Year",
+   "summary_en": "Typhoon Champi, the 30th typhoon of the year, which briefly developed to super typhoon strength near Guam, is maintaining its strength as it moves north over waters south of Okinawa, Japan. The weather agency forecast that it will develop to \"very strong\" to \"violent\" intensity from the 19th, reach waters about 800 km south of Okinawa on the 21st and then head east of Taiwan. The Japan Meteorological Agency urged caution, warning of major impacts on Okinawa and the waters of southern mainland Japan mainly over the weekend, and uncertainty about its subsequent track remains large.",
+   "headline_ja": "台風30号「チャンピ」勢力を強めながら沖縄の南へ北上",
+   "summary_ja": "グアム付近で一時スーパー台風級に発達した台風30号チャンピが、勢力を維持しながら沖縄の南の海上を北上している。気象当局は、19日から「非常に強い」〜「猛烈な」勢力に発達し、21日に沖縄の南約800kmの海上に達した後、台湾の東へ向かうと予報した。気象庁は週末を中心に沖縄と本土南部の海域に大きな影響が懸念されるとして注意を呼びかけており、その後の進路の不確実性は依然として大きい。"
   },
   {
    "date": "2026-10-18",
@@ -1195,7 +1479,11 @@
    "orgs": [
     "미국",
     "이란"
-   ]
+   ],
+   "headline_en": "Trump warns Russia could join forces with Iran as Tehran dares US to strike again: 'Try your luck'",
+   "summary_en": "President Trump threatened on Truth Social that if Iran does not change its stance, the U.S. \"could finish the job soon,\" and Iranian Foreign Minister Araghchi responded on X that \"we also have unfinished business.\" Iran said it is reviewing the U.S. side's comments on its seven-day ceasefire plan, which is conditioned on the U.S. lifting its port blockade and withdrawing oil sanctions, and talks on reopening the Strait of Hormuz are proceeding indirectly through Qatari and Pakistani mediation.",
+   "headline_ja": "トランプ氏「イランの件はまもなく終わらせるかも」と警告…アラグチ氏「また運を試してみろ」と応酬",
+   "summary_ja": "トランプ大統領はトゥルース・ソーシャルで、イランが態度を変えなければ米国は「まもなく仕事を終わらせられる」と威嚇し、イランのアラグチ外相はXで「われわれにも終わらせていない仕事がある」と応じた。イランは、米国による港湾封鎖の解除と石油制裁の撤回を条件とする7日間停戦案について、米国側の意見を検討中だと明らかにし、ホルムズ海峡の再開放をめぐる交渉はカタールとパキスタンの仲介で間接的に進められている。"
   },
   {
    "date": "2026-10-17",
@@ -1211,7 +1499,11 @@
    "orgs": [
     "프랑스"
    ],
-   "video_channel": "DW News"
+   "video_channel": "DW News",
+   "headline_en": "Fires and clashes rock France amid massive nationwide protests",
+   "summary_en": "On October 17, protests against rising living costs and deteriorating public services were held at 110 locations across France. The interior minister said about 550,000 people took part (110,000 in Paris), while organizers claimed 800,000. Masked young people set cars on fire and looted shops, and about 400 people had been arrested by that evening.",
+   "headline_ja": "フランス全国で大規模デモ…放火・衝突で都心が混乱",
+   "summary_ja": "10月17日、生活費の上昇と公共サービスの悪化に抗議するデモがフランス全土110カ所で行われた。内相は約55万人（パリ11万人）が参加したと明らかにし、主催者側は80万人と主張した。覆面をした若者らが車両に火をつけ、商店を略奪し、同日夕方までに約400人が逮捕された。"
   },
   {
    "date": "2026-10-17",
@@ -1229,7 +1521,11 @@
     "이탈리아",
     "포르투갈",
     "프랑스"
-   ]
+   ],
+   "headline_en": "Cost of living protests hit Belgium, Italy, Portugal and France",
+   "summary_en": "Cost-of-living protests that began in France were also held the same day in Belgium, Italy and Portugal. Discontent over rising prices and austerity appears to be erupting simultaneously in several European countries.",
+   "headline_ja": "生活費デモ、ベルギー・イタリア・ポルトガル・フランスに拡大",
+   "summary_ja": "フランスで始まった生活費への抗議デモが、同じ日にベルギー、イタリア、ポルトガルでも行われた。物価上昇と緊縮財政への不満が欧州の複数の国で同時に噴出している様相だ。"
   },
   {
    "date": "2026-10-17",
@@ -1246,7 +1542,11 @@
     "바티칸",
     "이탈리아"
    ],
-   "video_channel": "FRANCE 24 English"
+   "video_channel": "FRANCE 24 English",
+   "headline_en": "Pope Leo XIV leaves hospital days after lung cancer surgery",
+   "summary_en": "Pope Leo XIV underwent surgery to remove the lower lobe of his right lung at Rome's Gemelli Hospital on October 13, and the Vatican confirmed that the removed nodule was non-small cell lung cancer (adenocarcinoma). The pope was discharged on the 17th, and his November trip to Latin America remains on schedule.",
+   "headline_ja": "教皇レオ14世、肺がん手術から4日で退院",
+   "summary_ja": "教皇レオ14世は10月13日、ローマのジェメッリ病院で右肺下葉の切除手術を受け、バチカンは切除された結節が非小細胞肺がん（腺がん）だったと確認した。教皇は17日に退院し、11月の中南米訪問の日程は維持されている。"
   },
   {
    "date": "2026-10-17",
@@ -1263,7 +1563,11 @@
     "미국",
     "캘리포니아"
    ],
-   "video_channel": "ABC7"
+   "video_channel": "ABC7",
+   "headline_en": "Southern California wildfire engulfs homes, prompts evacuation orders",
+   "summary_en": "The Norte Fire, which broke out in San Clemente on October 16, was fanned by Santa Ana winds and burned 570 acres, damaging or destroying seven homes. At one point 4,600 households, or about 16,000 people, were under evacuation orders, and all evacuation orders were lifted on the night of the 17th with the fire 25% contained. Several other wildfires also broke out amid strong winds in the Los Angeles area around the same time.",
+   "headline_ja": "南カリフォルニアの山火事、住宅をのみ込み避難命令",
+   "summary_ja": "10月16日にサンクレメンテで発生したノルテ山火事は、サンタアナの強風にあおられて570エーカーを焼き、住宅7棟が損壊・全焼した。一時は4600世帯・約1万6000人が避難対象となったが、17日夜、鎮圧率25%の段階で避難命令はすべて解除された。同じ時期、ロサンゼルス一帯でも強風の中で複数の山火事が発生した。"
   },
   {
    "date": "2026-10-17",
@@ -1280,7 +1584,11 @@
     "괌",
     "미국",
     "북마리아나제도"
-   ]
+   ],
+   "headline_en": "Typhoon Champi becomes a dangerous Category 4 storm as it approaches Guam",
+   "summary_en": "Typhoon Champi rapidly intensified and approached Guam and the Mariana Islands as a Category 4 storm. Guam was placed under its highest level of readiness (COR 1). It is the 30th typhoon in the western Pacific this year and is expected to move north toward Japan afterward.",
+   "headline_ja": "台風「チャンピ」カテゴリー4に発達…グアムに接近",
+   "summary_ja": "台風チャンピは急速に発達し、カテゴリー4の勢力でグアムとマリアナ諸島に接近した。グアムには最高レベルの警戒態勢（COR 1）が発令された。今年の西太平洋で30番目の台風で、その後は日本方面へ北上するとみられる。"
   },
   {
    "date": "2026-10-17",
@@ -1296,7 +1604,11 @@
    "orgs": [
     "수단",
     "RSF"
-   ]
+   ],
+   "headline_en": "Sudan's army claims dozens of RSF fighters killed in Nyala attack",
+   "summary_en": "On October 16, a drone attack hit a livestock market in Nyala, South Darfur, killing 30 people and injuring 47. The RSF blamed the Sudanese army, while the army claimed it struck the RSF command and killed dozens of fighters, without responding on civilian casualties. The UN counted more than 1,100 deaths from drone attacks in Sudan in the first half of this year alone.",
+   "headline_ja": "スーダン軍「ニャラ攻撃でRSF戦闘員数十人殺害」…市場へのドローン攻撃で民間人30人死亡",
+   "summary_ja": "10月16日、南ダルフールのニャラにある家畜市場がドローン攻撃を受け、30人が死亡、47人が負傷した。RSFはスーダン軍による攻撃だと非難し、スーダン軍はRSF指導部を攻撃して戦闘員数十人を殺害したと主張したが、民間人の被害については答えなかった。国連は、今年上半期だけでスーダンでドローン攻撃により1100人以上が死亡したと集計した。"
   },
   {
    "date": "2026-10-17",
@@ -1316,7 +1628,11 @@
     "러시아",
     "우크라이나"
    ],
-   "video_channel": "CNN-News18"
+   "video_channel": "CNN-News18",
+   "headline_en": "Trump waives broad new Russia sanctions, Zelenskyy condemns it as 'wrong'",
+   "summary_en": "On the night of the 16th, President Trump issued an executive order waiving all Russia-related provisions of the Graham Act, which was set to take effect on the 18th. These include tariffs of up to 500% on all Russian goods, tariffs of up to 100% on major buyers of Russian crude, and sanctions on foreign banks that do business with Russian state banks. The move follows the lifting of sanctions on Russian diesel imports a week earlier, and drew pushback from President Zelenskyy and lawmakers from both parties.",
+   "headline_ja": "トランプ氏、発効2日前の対ロ制裁法（グラム法）を全面猶予…ゼレンスキー氏「誤った決定」",
+   "summary_ja": "トランプ大統領は16日夜、大統領令により、18日に発効予定だったグラム法のロシア関連条項をすべて猶予した。ロシア産の全品目への最大500%の関税、ロシア産原油の主要購入国への最大100%の関税、ロシア国営銀行と取引する外国銀行への制裁などが含まれる。1週間前のロシア産ディーゼルの輸入制裁解除に続く措置で、ゼレンスキー大統領と与野党の議員が反発した。"
   },
   {
    "date": "2026-10-17",
@@ -1335,7 +1651,11 @@
     "이란",
     "CENTCOM",
     "UKMTO"
-   ]
+   ],
+   "headline_en": "US and Iran both claim control of Strait of Hormuz amid attacks on vessels",
+   "summary_en": "U.S. Central Command's Admiral Cooper claimed that despite Iranian attacks, 400 ships and 100 million barrels of crude passed through Hormuz over the past week, while the Iranian navy countered that it has \"100% control and surveillance\" of the waters. According to the UK Maritime Trade Operations (UKMTO), 12 ships were attacked in the week through Friday, the most in a single week since the war began in February. The Singapore-flagged container ship GFS Pride sank after being hit, and Iran claimed it had struck a mine.",
+   "headline_ja": "ホルムズ海峡の支配権、米・イランが互いに主張…週間の船舶被弾12隻で「最多」",
+   "summary_ja": "米中央軍のクーパー司令官は、イランの攻撃にもかかわらず先週1週間で船舶400隻と原油1億バレルがホルムズを通過したと主張し、イラン海軍は海域を「100%統制・監視」していると反論した。英国海事貿易機関（UKMTO）によると、金曜日までの1週間で船舶12隻が攻撃を受け、2月の開戦以降で週間最多を記録した。シンガポール船籍のコンテナ船GFSプライドが被弾後に沈没し、イランは機雷への接触だと主張した。"
   },
   {
    "date": "2026-10-16",
@@ -1352,7 +1672,11 @@
     "콩고민주공화국",
     "WHO"
    ],
-   "video_channel": "africanews"
+   "video_channel": "africanews",
+   "headline_en": "Ebola outbreak in DR Congo spreads to new province bordering CAR",
+   "summary_en": "The Bundibugyo Ebola outbreak in the Democratic Republic of the Congo, which began in May, has spread to Nord-Ubangi province on the border with the Central African Republic, the eighth province to report confirmed cases. With more than 9,000 confirmed cases and 4,000 deaths, it has become the second-largest Ebola outbreak on record. The WHO is maintaining its Public Health Emergency of International Concern, and there is still no approved vaccine for this species.",
+   "headline_ja": "コンゴ民主共和国のエボラ、中央アフリカ共和国と接する8番目の州に拡大",
+   "summary_ja": "5月に始まったコンゴ民主共和国のブンディブギョ・エボラの流行が、中央アフリカ共和国と接する北ウバンギ州に広がり、8番目の州で感染者が確認された。感染確認9000人、死者4000人を超え、史上2番目の規模のエボラ流行となった。WHOは国際的に懸念される公衆衛生上の緊急事態を維持しており、この種に対する承認済みワクチンはまだない。"
   },
   {
    "date": "2026-10-16",
@@ -1370,7 +1694,11 @@
     "러시아",
     "미국"
    ],
-   "video_channel": "NBC News"
+   "video_channel": "NBC News",
+   "headline_en": "Ukraine resumes strikes on Russian refineries; Trump calls collapse of 'energy ceasefire' \"disgraceful\"",
+   "summary_en": "President Zelenskyy said in an interview with the FT on the 15th that he had withdrawn the policy of halting attacks on Russian refineries, and on the same day a Ukrainian drone attack caused a fire at the Ryazan refinery southeast of Moscow. President Trump strongly condemned this as \"disgraceful.\" The energy ceasefire announced on October 11 has effectively fallen apart.",
+   "headline_ja": "ウクライナ、ロシアの製油所への攻撃を再開…トランプ氏、「エネルギー停戦」崩壊に「恥ずべきこと」",
+   "summary_ja": "ゼレンスキー大統領は15日、FTのインタビューで、ロシアの製油所への攻撃を停止する方針を撤回したと明らかにし、同日、ウクライナのドローン攻撃でモスクワ南東のリャザン製油所で火災が発生した。トランプ大統領はこれを「恥ずべきこと」と強く非難した。10月11日に発表されたエネルギー停戦は事実上頓挫した。"
   },
   {
    "date": "2026-10-15",
@@ -1386,7 +1714,11 @@
    "orgs": [
     "파키스탄"
    ],
-   "video_channel": "Associated Press"
+   "video_channel": "Associated Press",
+   "headline_en": "School roof collapses in northwestern Pakistan, killing at least 35 people",
+   "summary_en": "On October 15, the roof of Al-Khair Education Center, a private school in Peshawar, collapsed, killing 34 children aged 6 to 12 and one female teacher. Overloading from construction work on the roof and the use of substandard materials were identified as causes, and the school's owner was arrested. The provincial government ordered safety inspections of all schools in the province.",
+   "headline_ja": "パキスタン・ペシャワルで学校の屋根が崩落…少なくとも35人死亡",
+   "summary_ja": "10月15日、ペシャワルの私立学校アル・ハイル教育センターの屋根が崩落し、6〜12歳の子ども34人と女性教師1人が死亡した。屋上の工事による過積載と不良資材の使用が原因として指摘され、学校の所有者が逮捕された。州政府は州内全域の学校の安全点検を指示した。"
   },
   {
    "date": "2026-10-15",
@@ -1403,7 +1735,11 @@
     "한국",
     "미국"
    ],
-   "video_channel": "Arirang News"
+   "video_channel": "Arirang News",
+   "headline_en": "South Korea's KOSPI Closes at 6-Month Low as Chipmakers Slump on AI Worries",
+   "summary_en": "On October 15, the KOSPI plunged 7.57% to close at 5,554.22, its lowest since April, and a circuit breaker was triggered when it fell 8% during the session. Chip stocks such as SK Hynix tumbled on the shock from U.S. inflation data and concerns about the profitability of AI investment, and foreign investors were net sellers of about 3.4 trillion won. The KOSDAQ also fell 7.65%.",
+   "headline_ja": "KOSPIが7.6%急落し6カ月ぶり安値…半導体株がAI懸念で急落、サーキットブレーカー発動",
+   "summary_ja": "10月15日、KOSPIは7.57%急落して5554.22で取引を終え、4月以来の安値を記録した。取引時間中に8%下落したことでサーキットブレーカーが発動した。米物価指標のショックとAI投資の収益性への懸念から、SKハイニックスなどの半導体株が暴落し、外国人投資家は約3兆4000億ウォンを売り越した。KOSDAQも7.65%下落した。"
   },
   {
    "date": "2026-10-14",
@@ -1419,7 +1755,11 @@
    ],
    "orgs": [
     "파키스탄"
-   ]
+   ],
+   "headline_en": "Violence in Pakistan over emergency rule in Imran Khan stronghold",
+   "summary_en": "Protesters opposing the state of emergency and governor's rule in Khyber Pakhtunkhwa province clashed with police. Police opened fire on protesters, injuring at least five people. The PTI claims emergency rule is a measure to prevent Khan's supporters from rallying and is continuing its resistance.",
+   "headline_ja": "イムラン・カーン氏の拠点への非常統治に反発…パキスタンで流血の衝突",
+   "summary_ja": "カイバル・パクトゥンクワ州で、非常事態と州知事による統治に抗議するデモ隊が警察と衝突した。警察がデモ隊に発砲し、少なくとも5人が負傷した。PTIは、非常統治はカーン氏の支持者の結集を阻むための措置だと主張し、抵抗を続けている。"
   },
   {
    "date": "2026-10-13",
@@ -1435,7 +1775,11 @@
    "orgs": [
     "프랑스"
    ],
-   "video_channel": "DW News"
+   "video_channel": "DW News",
+   "headline_en": "French students 'not giving up the fight' as 480,000 join new day of school protests",
+   "summary_en": "On October 13, new protests demanding better school conditions were held across France. Unions said 480,000 people took part, but the authorities' count was 161,500, a large discrepancy. The protests, which had centered on high school students, grew in strength as university students and unions joined.",
+   "headline_ja": "「闘いは諦めない」…フランスの学校デモに48万人参加",
+   "summary_ja": "10月13日、フランス全土で学校環境の改善を求める新たなデモが行われた。労働組合側は48万人が参加したと明らかにしたが、当局の集計は16万1500人で大きな差があった。高校生中心だったデモに大学生と労働組合が加わり、勢いを増した。"
   },
   {
    "date": "2026-10-13",
@@ -1453,7 +1797,11 @@
     "후티",
     "아람코"
    ],
-   "video_channel": "Bloomberg Television"
+   "video_channel": "Bloomberg Television",
+   "headline_en": "Headquarters of Saudi Aramco hit as Houthis and Riyadh trade strikes",
+   "summary_en": "After Saudi Arabia struck Houthi fuel storage facilities, the Houthis attacked Saudi Aramco's headquarters in Dhahran with missiles, causing a fire. Following a string of attacks on Riyadh's airport, Saudi Arabia's key oil infrastructure has now also become a target, heightening fears of an escalation of the Iran war.",
+   "headline_ja": "フーシ派とサウジが攻撃の応酬…アラムコ本社が被弾",
+   "summary_ja": "サウジがフーシ派の燃料貯蔵施設を攻撃した後、フーシ派はダーランにあるサウジアラムコ本社をミサイルで攻撃し、火災が発生した。リヤド空港への連続攻撃に続き、サウジの中核的な石油インフラまで標的となり、イラン戦争の拡大への懸念が強まった。"
   },
   {
    "date": "2026-10-12",
@@ -1472,7 +1820,11 @@
     "러시아",
     "우크라이나"
    ],
-   "video_channel": "WXYZ-TV Detroit | Channel 7"
+   "video_channel": "WXYZ-TV Detroit | Channel 7",
+   "headline_en": "Trump says Russia and Ukraine agreed to an 'energy ceasefire', but Russia keeps up strikes",
+   "summary_en": "U.S. President Trump announced on October 11 that Russia and Ukraine had agreed to a ceasefire in the energy sector, but did not specify its scope or duration. President Zelenskyy said it was \"the first I've heard of it\" and that Ukraine would comply if Russia agreed. The day after the announcement, Russia continued attacking Ukrainian energy facilities, including in Kharkiv.",
+   "headline_ja": "トランプ氏「ロ・ウ、エネルギー停戦で合意」と言うが…ロシアは空爆続行",
+   "summary_ja": "トランプ米大統領は10月11日、ロシアとウクライナがエネルギー分野での停戦に合意したと発表したが、適用範囲と期間は明らかにしなかった。ゼレンスキー大統領は「初めて聞く内容だ」とし、ロシアが同意すれば従うと述べた。発表の翌日も、ロシアはハルキウなどウクライナのエネルギー施設への攻撃を続けた。"
   },
   {
    "date": "2026-10-11",
@@ -1488,7 +1840,11 @@
    "orgs": [
     "파키스탄"
    ],
-   "video_channel": "Al Jazeera English"
+   "video_channel": "Al Jazeera English",
+   "headline_en": "Pakistan imposes emergency rule in province governed by Imran Khan's party",
+   "summary_en": "On October 11, President Zardari declared a state of emergency in Khyber Pakhtunkhwa province on the Afghan border and dissolved the provincial government led by Imran Khan's PTI. The federal government said the provincial government had failed to control an Islamist militant insurgency, but the PTI protested that it was a \"disguised coup\" to block a march on Islamabad demanding Khan's release. Chief Minister Sohail Afridi and others were detained.",
+   "headline_ja": "パキスタン、イムラン・カーン氏の政党が政権を握る州に非常統治を宣言",
+   "summary_ja": "ザルダリ大統領は10月11日、アフガニスタンと接するカイバル・パクトゥンクワ州に非常事態を宣言し、イムラン・カーン氏のPTIが率いる州政府を解散した。連邦政府は州政府がイスラム武装勢力の反乱を抑えられなかったとしたが、PTIはカーン氏の釈放を求めるイスラマバードへの行進を阻むための「偽装されたクーデター」だと反発した。ソハイル・アフリディ州首相らが拘束された。"
   },
   {
    "date": "2026-10-10",
@@ -1505,7 +1861,11 @@
     "미국",
     "플로리다"
    ],
-   "video_channel": "NBC News"
+   "video_channel": "NBC News",
+   "headline_en": "4 dead, hundreds of thousands without power as Isaias sweeps inland",
+   "summary_en": "Hurricane Isaias made landfall near Destin in the Florida Panhandle on the night of October 9 as a Category 2 storm (maximum winds of 105 mph). Four people were killed, about 900,000 households lost power, and a storm surge of up to 6 feet occurred. It was the first hurricane of the 2026 Atlantic season and made landfall at a record-late time.",
+   "headline_ja": "ハリケーン・イサイアスが内陸へ北上…4人死亡、数十万世帯が停電",
+   "summary_ja": "ハリケーン・イサイアスは10月9日夜、フロリダ・パンハンドルのデスティン付近にカテゴリー2（最大風速105マイル）の勢力で上陸した。4人が死亡し、約90万世帯が停電、最大6フィートの高潮が発生した。2026年大西洋シーズン初のハリケーンで、記録的に遅い時期の上陸となった。"
   },
   {
    "date": "2026-10-10",
@@ -1524,7 +1884,11 @@
     "후티",
     "이란"
    ],
-   "video_channel": "Channel 4 News"
+   "video_channel": "Channel 4 News",
+   "headline_en": "12 killed in Saudi Arabia airport attack, underscoring peril in Houthi strikes",
+   "summary_en": "On October 10, a Houthi attack on King Khalid International Airport in Riyadh killed at least 12 people and injured more than 300. It was the deadliest attack in Saudi Arabia since 2015, and the victims included Saudis and Bangladeshis, among others. The airport was closed, and Saudi Arabia began investigating the cause of the air defense failure.",
+   "headline_ja": "サウジの空港攻撃で12人死亡…フーシ派の攻撃の危険性が浮き彫りに",
+   "summary_ja": "10月10日、フーシ派によるリヤドのキング・ハーリド国際空港への攻撃で少なくとも12人が死亡し、300人以上が負傷した。2015年以降サウジで最も多くの死者を出した攻撃で、犠牲者にはサウジ人やバングラデシュ人などが含まれた。空港は閉鎖され、サウジは防空網の失敗の原因調査を開始した。"
   },
   {
    "date": "2026-10-09",
@@ -1542,7 +1906,11 @@
     "콜롬비아",
     "에콰도르"
    ],
-   "video_channel": "Asianet News English"
+   "video_channel": "Asianet News English",
+   "headline_en": "Panama earthquake: Tsunami warnings issued after magnitude 7.7 quake",
+   "summary_en": "On October 9, a magnitude 7.7 earthquake struck the Azuero Peninsula in Panama, damaging buildings and sending thousands into the streets. Tsunami warnings were issued for Panama, Colombia, Ecuador, Nicaragua and Guatemala and lifted the same day. A magnitude 6.6 aftershock followed, at least one person was killed and 27 were injured. Panama Canal operations were not suspended.",
+   "headline_ja": "パナマでM7.7の強い地震…中南米に津波警報",
+   "summary_ja": "10月9日、パナマのアスエロ半島でマグニチュード7.7の地震が発生し、建物が損壊して数千人が路上に避難した。パナマ、コロンビア、エクアドル、ニカラグア、グアテマラに津波警報が出され、同日中に解除された。M6.6の2回目の地震が続き、少なくとも1人が死亡、27人が負傷した。パナマ運河の運営は停止されなかった。"
   },
   {
    "date": "2026-10-09",
@@ -1560,7 +1928,11 @@
     "팔레스타인",
     "가자"
    ],
-   "video_channel": "Al Jazeera English"
+   "video_channel": "Al Jazeera English",
+   "headline_en": "Gaza ceasefire 'exists in name only', more than 100 NGOs say",
+   "summary_en": "Ahead of the first anniversary of the declaration of the end of the Gaza war, more than 100 humanitarian organizations said the ceasefire \"exists in name only.\" They counted more than 1,400 Palestinians killed in the year since the ceasefire agreement. Israel is continuing scaled-down military operations on the grounds that Hamas refuses to disarm.",
+   "headline_ja": "「ガザ停戦は名ばかり」…100余りのNGOが共同声明",
+   "summary_ja": "ガザ終戦宣言から1年を前に、100以上の人道支援団体が停戦は「名ばかりだ」と表明した。これらの団体は、停戦合意後の1年間で1400人以上のパレスチナ人が死亡したと集計した。イスラエルは、ハマスが武装解除を拒否していることを理由に、規模を縮小した軍事作戦を続けている。"
   },
   {
    "date": "2026-10-09",
@@ -1578,7 +1950,11 @@
     "사우디아라비아",
     "예멘",
     "후티"
-   ]
+   ],
+   "headline_en": "Houthi attack on Riyadh airport killed three Saudi nationals",
+   "summary_en": "Yemen's Houthi rebels attacked King Khalid International Airport in Riyadh, killing three Saudi nationals, including a pilot. Saudi Arabia temporarily closed the airport before reopening it. Since October 6, there has been a series of missile and drone attacks targeting the airports of Abha, Riyadh and Dammam.",
+   "headline_ja": "フーシ派のリヤド空港攻撃でサウジ国民3人死亡",
+   "summary_ja": "イエメンのフーシ派がリヤドのキング・ハーリド国際空港を攻撃し、操縦士1人を含むサウジ国民3人が死亡した。サウジは空港を一時閉鎖した後、再開した。10月6日以降、アブハ、リヤド、ダンマームの各空港を狙ったミサイル・ドローン攻撃が相次いでいる。"
   },
   {
    "date": "2026-10-07",
@@ -1595,7 +1971,11 @@
     "우크라이나",
     "러시아"
    ],
-   "video_channel": "PBS NewsHour"
+   "video_channel": "PBS NewsHour",
+   "headline_en": "Russian strikes on Ukrainian cities kill at least 25 in a major attack that Kyiv saw coming",
+   "summary_en": "On October 7, Russia launched missile and drone strikes on Kyiv and about 12 regions, killing at least 25 civilians, including five children, and injuring about 100. The strikes are seen as retaliation for Ukraine's attacks on Russian oil facilities.",
+   "headline_ja": "ロシア、ウクライナの都市に大規模空爆…少なくとも25人死亡",
+   "summary_ja": "10月7日、ロシアはキーウと約12の地域にミサイル・ドローン攻撃を加え、子ども5人を含む民間人少なくとも25人が死亡、約100人が負傷した。ウクライナによるロシアの石油施設への攻撃に対する報復とみられる。"
   },
   {
    "date": "2026-10-06",
@@ -1612,7 +1992,11 @@
    "orgs": [
     "인도"
    ],
-   "video_channel": "Al Jazeera English"
+   "video_channel": "Al Jazeera English",
+   "headline_en": "India opposition leaders briefly arrested in protest against election chief",
+   "summary_en": "Opposition lawmakers marching to the Election Commission in New Delhi were detained by police as they tried to climb over barricades. Rahul Gandhi was also briefly detained and then released. The opposition is demanding the resignation of the chief election commissioner, claiming that a revision of the voter rolls that removed more than 130 million people was manipulated in favor of Prime Minister Modi's ruling party.",
+   "headline_ja": "インド野党指導部、選挙管理委員長の辞任要求デモ中に一時拘束",
+   "summary_ja": "ニューデリーで選挙管理委員会へ向けて行進していた野党議員らが、バリケードを越えようとして警察に拘束された。ラフル・ガンジー氏も一時拘束された後に釈放された。野党は、1億3000万人以上が削除された有権者名簿の見直しがモディ首相の与党に有利になるよう操作されたとして、選挙管理委員長の辞任を求めている。"
   },
   {
    "date": "2026-10-05",
@@ -1628,7 +2012,11 @@
    "orgs": [
     "스페인"
    ],
-   "video_channel": "DW News"
+   "video_channel": "DW News",
+   "headline_en": "Spain's Pedro Sanchez announces snap election amid housing crisis",
+   "summary_en": "After Spain's parliament rejected two government housing decrees on October 2, Prime Minister Sánchez announced a snap general election for November 29. Housing protests have spread nationwide since the forced eviction of an 87-year-old in September. Polls predict an advantage for a coalition of the People's Party (PP) and the far-right Vox.",
+   "headline_ja": "スペインのサンチェス首相、住宅危機の中で解散総選挙を表明",
+   "summary_ja": "スペイン議会が10月2日に政府の住宅関連政令2件を否決した後、サンチェス首相は11月29日に前倒しの総選挙を実施すると発表した。9月の87歳の高齢者の強制退去事件以降、住宅をめぐるデモが全国に広がっている。世論調査では国民党（PP）と極右ボックス（Vox）の連合が優勢と予想されている。"
   },
   {
    "date": "2026-10-03",
@@ -1644,7 +2032,11 @@
    "orgs": [
     "프랑스"
    ],
-   "video_channel": "The Hindu"
+   "video_channel": "The Hindu",
+   "headline_en": "France arrests 5,000 people, mostly teens, as school protests spread",
+   "summary_en": "France's Interior Ministry said more than 5,000 people have been arrested since high school student protests began. More than 400 schools have closed, and some protesters clashed with police and set fire to schools and vehicles. The government accused far-left groups of fomenting the unrest for political purposes.",
+   "headline_ja": "フランス、学校デモ拡大で5000人逮捕…大半が10代",
+   "summary_ja": "フランス内務省は、高校生のデモが始まって以降、5000人以上が逮捕されたと明らかにした。400校を超える学校が閉鎖され、一部のデモ隊は警察と衝突し、学校や車両に火をつけた。政府は、極左勢力が政治的目的で騒乱をあおっていると非難した。"
   },
   {
    "date": "2026-09-30",
@@ -1660,7 +2052,11 @@
    "orgs": [
     "프랑스"
    ],
-   "video_channel": "DW News"
+   "video_channel": "DW News",
+   "headline_en": "Injuries and Arrests as French High School Student Protests Spread",
+   "summary_en": "Protests that began in mid-September at a high school in Créteil, outside Paris, against teacher shortages and run-down school facilities had spread to 356 high schools as of September 30. The protests gradually turned violent, with hundreds arrested, most of them teenagers. The Education Ministry said 119 students and school staff were injured.",
+   "headline_ja": "フランスの高校生デモが拡大…負傷者・逮捕者が続出",
+   "summary_ja": "9月中旬、パリ近郊クレテイユの高校で教員不足と老朽化した学校施設に抗議して始まったデモは、9月30日時点で356の高校に広がった。デモは次第に暴力的な様相を帯び、逮捕者は数百人に上り、その大半が10代だった。教育省は生徒と教職員119人が負傷したと明らかにした。"
   },
   {
    "date": "2026-09-30",
@@ -1679,7 +2075,11 @@
     "이스라엘",
     "오만"
    ],
-   "video_channel": "Sky News"
+   "video_channel": "Sky News",
+   "headline_en": "Emirati investigators say FlyDubai co-pilot used crash axe in attempted terrorist attack",
+   "summary_en": "On a FlyDubai flight from Dubai to Tel Aviv, the Omani co-pilot attacked the captain with an emergency crash axe and tried to seize control of the aircraft. UAE prosecutors said the co-pilot had planned a suicide attack by crashing the plane into a terminal at Ben Gurion Airport. Crew members and passengers subdued him, and the plane made an emergency landing in Tabuk, Saudi Arabia. FlyDubai suspended its Israel routes.",
+   "headline_ja": "UAE調査当局「フライドバイの副操縦士、非常用斧でテロを企図」",
+   "summary_ja": "ドバイからテルアビブに向かっていたフライドバイの旅客機で、オマーン国籍の副操縦士が非常用の斧で機長を襲い、操縦を奪おうとした。UAE検察は、副操縦士がベン・グリオン空港のターミナルに機体を突入させる自爆攻撃を計画していたと明らかにした。乗員と乗客が副操縦士を取り押さえ、機体はサウジのタブークに緊急着陸した。フライドバイはイスラエル路線を停止した。"
   },
   {
    "date": "2026-09-25",
@@ -1695,7 +2095,11 @@
    "orgs": [
     "파키스탄",
     "아프가니스탄"
-   ]
+   ],
+   "headline_en": "Pakistani forces kill Afghan Taliban fighters in border escalation",
+   "summary_en": "Following a suicide bombing in northwestern Pakistan on September 18, direct clashes between Pakistan and the Afghan Taliban resumed for the first time in about three months. Pakistan carried out airstrikes on 10 targets inside Afghanistan on September 24, and claimed it killed 13 Taliban fighters in a border clash in Balochistan on the 25th, but Afghanistan's Defense Ministry denied this. The fighting has continued into mid-October.",
+   "headline_ja": "パキスタン軍、国境衝突激化の中でアフガン・タリバン戦闘員を殺害",
+   "summary_ja": "9月18日のパキスタン北西部での自爆攻撃を受け、パキスタンとアフガニスタンのタリバンとの直接衝突が約3カ月ぶりに再開した。パキスタンは9月24日にアフガン国内の10の目標を空爆し、25日にはバルチスタン州の国境での衝突でタリバン戦闘員13人を殺害したと主張したが、アフガン国防省はこれを否定した。交戦は10月中旬まで続いている。"
   },
   {
    "date": "2026-09-22",
@@ -1711,7 +2115,11 @@
    "orgs": [
     "일본"
    ],
-   "video_channel": "Nippon Television News Japan"
+   "video_channel": "Nippon Television News Japan",
+   "headline_en": "At least four killed as Typhoon Dujuan hits Japan",
+   "summary_en": "Typhoon Dujuan struck the Izu Islands and the Kanto region on September 21–22, killing at least four people and injuring 22. A record 600 mm of rain fell on Izu Oshima in 24 hours, prompting the weather agency to issue its highest-level special warning for sediment disasters. Hundreds of flights were canceled and some Shinkansen services were suspended.",
+   "headline_ja": "台風「ドゥージュエン」が日本を直撃…少なくとも4人死亡",
+   "summary_ja": "台風ドゥージュエンが9月21〜22日に伊豆諸島と関東地方を直撃し、少なくとも4人が死亡、22人が負傷した。伊豆大島では24時間で600ミリの記録的な豪雨となり、気象庁は最高レベルの土砂災害の特別警報を発表した。航空便数百便が欠航し、新幹線の一部が運転を見合わせた。"
   },
   {
    "date": "2026-09-05",
@@ -1729,7 +2137,11 @@
     "미국",
     "이란"
    ],
-   "video_channel": "Bloomberg Television"
+   "video_channel": "Bloomberg Television",
+   "headline_en": "U.S. strikes Iranian oil tankers after Navy ships targeted",
+   "summary_en": "After Iran's Islamic Revolutionary Guard Corps fired missiles at a U.S. aircraft carrier and destroyer near the Strait of Hormuz, U.S. Central Command struck three Iranian oil tankers. The U.S. ships evaded the missiles and suffered no damage. It was the largest engagement between the U.S. and Iran since the July ceasefire collapsed, and oil prices approached $100 a barrel.",
+   "headline_ja": "米軍、海軍艦艇への攻撃を受けイランのタンカーを攻撃",
+   "summary_ja": "イラン革命防衛隊がホルムズ海峡付近で米空母と駆逐艦にミサイルを発射した後、米中央軍はイランの原油運搬船3隻を攻撃した。米艦艇はミサイルを回避し、被害はなかった。7月の停戦崩壊以降、米国とイランの間で最大規模の交戦で、原油価格は1バレル100ドルに迫った。"
   },
   {
    "date": "2026-09-05",
@@ -1746,7 +2158,11 @@
     "네팔",
     "중국"
    ],
-   "video_channel": "FOX 9 Minneapolis-St. Paul"
+   "video_channel": "FOX 9 Minneapolis-St. Paul",
+   "headline_en": "Two survivors miraculously rescued 10 days after devastating flash floods in Nepal",
+   "summary_en": "Flash floods that struck the Nepal-Tibet border on August 26 killed at least 1,362 people in Nepal, and thousands remain missing. Ten days later, a Chinese man and a 60-year-old woman trapped in a hydropower plant tunnel were rescued. About 900 of the missing are reported to be hydropower plant workers.",
+   "headline_ja": "ネパール大洪水から10日、生存者2人が奇跡的に救出",
+   "summary_ja": "8月26日にネパールとチベットの国境で発生した鉄砲水により、ネパールで少なくとも1362人が死亡し、数千人が行方不明となっている。10日後、水力発電所のトンネルに閉じ込められていた中国人男性と60歳の女性が救出された。行方不明者のうち約900人が水力発電所の労働者とされる。"
   },
   {
    "date": "2026-09-01",
@@ -1762,7 +2178,11 @@
    "orgs": [
     "우크라이나",
     "러시아"
-   ]
+   ],
+   "headline_en": "Russian drone and missile barrage kills at least 12 in Ukraine's Kyiv",
+   "summary_en": "On September 1, a massive Russian drone and missile attack killed at least 12 people and injured 21 in Kyiv and surrounding areas. Since the start of September, repeated nighttime strikes targeting Kyiv have continued to cause civilian casualties.",
+   "headline_ja": "ロシアのドローン・ミサイル攻撃でキーウで少なくとも12人死亡",
+   "summary_ja": "9月1日、ロシアの大規模なドローン・ミサイル攻撃により、キーウとその周辺地域で少なくとも12人が死亡、21人が負傷した。9月に入ってキーウを狙った夜間攻撃が繰り返され、民間人の被害が続いている。"
   }
  ]
 }
