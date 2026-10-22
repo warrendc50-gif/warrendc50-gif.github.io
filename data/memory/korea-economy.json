@@ -10,7 +10,11 @@
   "topics": [
    "banks"
   ],
-  "orgs": []
+  "orgs": [],
+  "headline_en": "Bank loan delinquency rate nears 0.7%; SME loan delinquency tops 1%",
+  "summary_en": "The loan delinquency rate at domestic banks has approached 0.7%, while the delinquency rate on loans to small and medium-sized enterprises has exceeded 1%.",
+  "headline_ja": "銀行延滞率0.7%に迫る…中小企業向け融資の延滞率は1%突破",
+  "summary_ja": "国内銀行の貸出延滞率が0.7%に近づき、中小企業向け融資の延滞率は1%を超えた。"
  },
  {
   "date": "2026-10-22",
@@ -23,7 +27,11 @@
   "topics": [
    "stocks"
   ],
-  "orgs": []
+  "orgs": [],
+  "headline_en": "KOSPI opens down 65.55 points (1.14%) at 5,670.11",
+  "summary_en": "On the 22nd, the KOSPI opened at 5,670.11, down 65.55 points (1.14%) from the previous trading day.",
+  "headline_ja": "KOSPI、65.55ポイント（1.14%）安の5670.11で取引開始",
+  "summary_ja": "22日、KOSPIは前営業日比65.55ポイント（1.14%）安の5670.11で取引を開始した。"
  },
  {
   "date": "2026-10-22",
@@ -36,7 +44,11 @@
   "topics": [
    "crypto"
   ],
-  "orgs": []
+  "orgs": [],
+  "headline_en": "Bitcoin rises to $84,000 range on strong U.S. earnings",
+  "summary_en": "As strong earnings from U.S. tech companies lifted Wall Street, Bitcoin also rose into the $84,000 range on the morning of the 22nd.",
+  "headline_ja": "米企業決算の追い風でビットコイン上昇…8万4000ドル台",
+  "summary_ja": "米国のテック企業の好決算でニューヨーク株式市場が上昇する中、ビットコインも22日午前、8万4000ドル台に上昇した。"
  },
  {
   "date": "2026-10-22",
@@ -51,7 +63,11 @@
   ],
   "orgs": [
    "한국은행"
-  ]
+  ],
+  "headline_en": "Bank of Korea holds base rate at 3.00%, pausing after consecutive hikes",
+  "summary_en": "The Bank of Korea's Monetary Policy Board kept the base rate at 3.00% on the 22nd, slowing the pace after consecutive 0.25-percentage-point hikes in July and August. With inflation concerns growing due to higher oil prices from the Middle East war and the semiconductor boom, the tightening stance is expected to continue for some time.",
+  "headline_ja": "韓国銀行、政策金利を年3.00%に据え置き…連続利上げ後に一息",
+  "summary_ja": "韓国銀行の金融通貨委員会は22日、政策金利を年3.00%に据え置いた。7月と8月に連続して0.25%ポイント引き上げた後、ペースを調整したもの。中東戦争による原油高と半導体好調でインフレ懸念が高まっており、引き締め基調は当面維持される見通しだ。"
  },
  {
   "date": "2026-10-22",
@@ -66,7 +82,11 @@
   ],
   "orgs": [
    "한국은행"
-  ]
+  ],
+  "headline_en": "Shin Hyun-song: \"Inflation to stay above target for a considerable period; we will respond until confident of stable convergence\"",
+  "summary_en": "At a press conference after the base rate hold on the 22nd, Bank of Korea Governor Shin Hyun-song said inflation appears likely to remain above target for a considerable period, and that monetary policy will respond until there is confidence that inflation is converging stably toward the target.",
+  "headline_ja": "申鉉松総裁「物価は相当期間目標を上回る…安定的な収束を確信できるまで対応」",
+  "summary_ja": "韓国銀行の申鉉松（シン・ヒョンソン）総裁は22日、政策金利据え置き後の記者会見で、物価は相当期間にわたり目標水準を上回るとみられるとし、物価が目標に安定的に収束するとの確信が持てるまで金融政策で対応すると述べた。"
  },
  {
   "date": "2026-10-22",
@@ -82,7 +102,11 @@
   "orgs": [
    "금융위원회",
    "금융감독원"
-  ]
+  ],
+  "headline_en": "Blame over single-stock leveraged ETFs: financial regulators clash again at comprehensive audit",
+  "summary_en": "At the National Assembly Political Affairs Committee's comprehensive audit of the Financial Services Commission and Financial Supervisory Service on the 22nd, disputes over single-stock leveraged ETFs flared up again. At issue are whether the review process for introducing the products was adequate, and who is responsible for investor protection measures and the policy decision.",
+  "headline_ja": "単一銘柄レバレッジETFの責任論…金融当局の総合監査で「再衝突」",
+  "summary_ja": "22日の国会政務委員会による金融委員会・金融監督院の総合監査で、単一銘柄レバレッジETFをめぐる攻防が再び繰り広げられた。商品導入過程の審査が適正だったか、投資家保護策と政策決定の責任が誰にあるのかが争点となっている。"
  },
  {
   "date": "2026-10-22",
@@ -95,7 +119,11 @@
   "topics": [
    "stocks"
   ],
-  "orgs": []
+  "orgs": [],
+  "headline_en": "KOSPI closes down 3.52% at 5,533.77; KOSDAQ also falls over 3%",
+  "summary_en": "On the 22nd, the KOSPI closed at 5,533.77, down 201.89 points (3.52%), and the KOSDAQ closed at 764.10, down 28.66 points (3.62%). Institutions were net sellers of 683.4 billion won and foreigners of 399.1 billion won, while individuals were net buyers of 1.0364 trillion won.",
+  "headline_ja": "KOSPI、3.52%安の5533.77で終了…KOSDAQも3%台下落",
+  "summary_ja": "22日、KOSPIは201.89ポイント（3.52%）安の5533.77、KOSDAQは28.66ポイント（3.62%）安の764.10で取引を終えた。機関投資家が6834億ウォン、外国人が3991億ウォンを売り越し、個人は1兆364億ウォンを買い越した。"
  },
  {
   "date": "2026-10-22",
@@ -108,7 +136,11 @@
   "topics": [
    "fx"
   ],
-  "orgs": []
+  "orgs": [],
+  "headline_en": "Won-dollar rate closes down 1.0 won at 1,324.2 won",
+  "summary_en": "On the 22nd, the won-dollar exchange rate on the Seoul foreign exchange market ended daytime trading at 1,324.2 won, down 1.0 won from the previous trading day.",
+  "headline_ja": "ウォン・ドル相場、1.0ウォン安の1324.2ウォンで終了",
+  "summary_ja": "22日、ソウル外国為替市場でウォン・ドル相場は前営業日比1.0ウォン安の1324.2ウォンで日中取引を終えた。"
  },
  {
   "date": "2026-10-21",
@@ -125,7 +157,11 @@
    "한국거래소",
    "삼성전자",
    "SK하이닉스"
-  ]
+  ],
+  "headline_en": "KOSPI closes up 182.92 points at 5,735.66 (+3.29%)",
+  "summary_en": "On the 21st, the KOSPI shook off the previous day's plunge and closed at 5,735.66, up 182.92 points (3.29%), reclaiming the 5,700 level in a single day. As U.S. AI company earnings beat expectations and eased semiconductor concerns, Samsung Electronics rose 5.67% and SK hynix 5.81%, while foreigners turned to net buying of about 665 billion won. The index surged as high as the 5,816 level intraday, triggering a buy-side sidecar for the first time in two months, and the KOSDAQ ended up 1.38% at 792.76.",
+  "headline_ja": "KOSPI、182.92ポイント高の5735.66で終了（3.29%↑）",
+  "summary_ja": "21日、KOSPIは前日の急落ショックを乗り越え、182.92ポイント（3.29%）高の5735.66で取引を終え、1日で5700台を回復した。米AI企業の決算が予想を上回り半導体への懸念が和らいだことで、サムスン電子が5.67%、SKハイニックスが5.81%上昇し、外国人は約6650億ウォンの買い越しに転じた。取引時間中には5816台まで急騰し、2カ月ぶりに買いサイドカーが発動され、KOSDAQは1.38%高の792.76で取引を終えた。"
  },
  {
   "date": "2026-10-21",
@@ -140,7 +176,11 @@
   ],
   "orgs": [
    "서울외환시장"
-  ]
+  ],
+  "headline_en": "Won-dollar rate at 1,325.2 won, hitting a new yearly low for 4th straight trading day",
+  "summary_en": "On the 21st, the won-dollar exchange rate closed daytime trading at 1,325.2 won, down 2.9 won from the previous day, setting a new yearly low for the fourth consecutive trading day. It is the lowest closing level in about two years, since October 2, 2024 (1,319.3 won). Dollar selling by semiconductor exporters drove the decline, while settlement demand from importers and purchases by residents investing in overseas stocks limited further falls.",
+  "headline_ja": "ウォン・ドル相場1325.2ウォン…4営業日連続で年初来安値を更新",
+  "summary_ja": "21日、ウォン・ドル相場は日中取引終値ベースで前日比2.9ウォン安の1325.2ウォンで取引を終え、4営業日連続で年初来安値を更新した。終値ベースでは2024年10月2日（1319.3ウォン）以来約2年ぶりの低水準となる。半導体輸出企業のドル売りが下落を主導し、輸入業者の決済需要と居住者の海外株式投資の買いがさらなる下落を抑えた。"
  },
  {
   "date": "2026-10-21",
@@ -158,7 +198,11 @@
    "금융위원회",
    "핀다",
    "대원저축은행"
-  ]
+  ],
+  "headline_en": "'Finda Bank' coming: FSC gives final approval for Finda's acquisition of Daewon Savings Bank",
+  "summary_en": "At its regular meeting on the 21st, the Financial Services Commission gave final approval to the change of the largest shareholder of Daewon Savings Bank to loan comparison platform Finda. It was described as the first case of a fintech company acquiring a savings bank.",
+  "headline_ja": "「フィンダバンク」誕生へ…金融委、フィンダの大元貯蓄銀行買収を最終承認",
+  "summary_ja": "金融委員会は21日の定例会議で、融資比較プラットフォームのフィンダによる大元貯蓄銀行の大株主変更案件を最終承認した。フィンテック業界が貯蓄銀行を買収する初の事例として紹介された。"
  },
  {
   "date": "2026-10-21",
@@ -175,7 +219,11 @@
    "금융위원회",
    "신한카드",
    "우리카드"
-  ]
+  ],
+  "headline_en": "\"Non-face-to-face credit card issuance to become easier\": FSC designates 4 new innovative financial services",
+  "summary_en": "At its regular meeting on the 21st, the Financial Services Commission newly designated four innovative financial services and accepted one regulatory improvement request, bringing the cumulative number of designations to 1,168. They include deposit-based non-face-to-face credit card issuance services from Shinhan Card, Woori Card and others.",
+  "headline_ja": "「非対面クレジットカード発行がより容易に」…金融委、革新金融サービス4件を新規指定",
+  "summary_ja": "金融委員会は21日の定例会議で革新金融サービス4件を新規指定し、規制改善要請1件を受け入れ、累計指定件数は1168件となった。新韓カード・ウリィカードなどの保証金ベースの非対面クレジットカード発行サービスが含まれた。"
  },
  {
   "date": "2026-10-21",
@@ -190,7 +238,11 @@
   ],
   "orgs": [
    "금융위원회"
-  ]
+  ],
+  "headline_en": "Credit Information Act fines made more granular; FSC rules take effect on the 23rd",
+  "summary_en": "The Financial Services Commission approved an amendment to the Regulations on Supervision of Credit Information Business, making the criteria for fines for violations of the Credit Information Act more granular. Minor violations will now be subject to 1-30% of the statutory maximum, effective from the 23rd.",
+  "headline_ja": "信用情報法の課徴金を細分化…金融委、23日から施行",
+  "summary_ja": "金融委員会は信用情報業監督規定の改正案を議決し、信用情報法違反に対する課徴金の賦課基準を細分化した。軽微な違反には法定上限額の1〜30%が適用されるよう変更され、23日から施行される。"
  },
  {
   "date": "2026-10-21",
@@ -206,7 +258,11 @@
   "orgs": [
    "업비트",
    "블랙록"
-  ]
+  ],
+  "headline_en": "Bitcoin rebounds to $82,000 level on inflows into U.S. spot ETFs [Crypto Briefing]",
+  "summary_en": "On the morning of the 21st, Bitcoin traded around $82,000, up about 1.6% in a day, and around 110 million won on Upbit, with a kimchi premium of 0.36%. U.S. spot Bitcoin ETFs saw net inflows of $526.7 million on the 19th (local time), the largest since September 22, but inflows fell sharply to $23.16 million on the 20th, and October's cumulative flows remain net outflows. The Fear & Greed Index stood at 52, 'neutral.'",
+  "headline_ja": "ビットコイン、米現物ETFへの資金流入で反発…8万2000ドル台【クリプトブリーフィング】",
+  "summary_ja": "21日午前、ビットコインは1日で約1.6%上昇し8万2000ドル台で取引され、アップビットでは1億1000万ウォン台で、キムチプレミアムは0.36%だった。米ビットコイン現物ETFには19日（現地時間）に5億2670万ドルが純流入し、9月22日以降で最大規模を記録したが、20日の流入は2316万ドルに大きく減少し、10月累計では依然として純流出の状態だ。恐怖・強欲指数は52で「中立」だった。"
  },
  {
   "date": "2026-10-21",
@@ -225,7 +281,11 @@
    "신한금융",
    "하나금융",
    "우리금융"
-  ]
+  ],
+  "headline_en": "Sluggish shares of Korea's big four financial holding companies: rebound hinges on 'MPB meeting and Q3 earnings'",
+  "summary_en": "According to FnGuide, the combined third-quarter net profit attributable to controlling shareholders of the four major financial holding companies—KB, Shinhan, Hana and Woori—is forecast at 5.626 trillion won, up about 2.6% from a year earlier. KB Financial is expected to post 1.8434 trillion won, Shinhan 1.6027 trillion won and Hana 1.2115 trillion won, while Woori Financial is projected to decline to 968.4 billion won. Earnings will be announced by Hana and Woori on the 23rd, Shinhan on the 27th and KB on the 29th, with the key point being whether net interest margins (NIM) fall due to rising deposit rates.",
+  "headline_ja": "勢いを失った4大金融持株株…「金通委・第3四半期決算」に反発がかかる",
+  "summary_ja": "FnGuideによると、KB・新韓・ハナ・ウリィの4大金融持株会社の第3四半期の支配株主帰属純利益の予想合計は5兆6260億ウォンで、前年同期比約2.6%増加する見通しだ。KB金融は1兆8434億ウォン、新韓は1兆6027億ウォン、ハナは1兆2115億ウォンが見込まれ、ウリィ金融は9684億ウォンに減少すると予想される。決算発表は23日にハナ・ウリィ、27日に新韓、29日にKBの順で、預金金利上昇による純利ざや（NIM）低下の有無が注目点だ。"
  },
  {
   "date": "2026-10-21",
@@ -240,7 +300,11 @@
   ],
   "orgs": [
    "한국은행"
-  ]
+  ],
+  "headline_en": "4 in 10 companies can't even cover interest; marginal firms at record high",
+  "summary_en": "A report on the 21st said that companies unable to cover even their interest expenses with operating profit amount to 4 in 10, putting the share of marginal companies at a record high. It is cited as an indicator heightening concerns over corporate debt distress during a period of rising interest rates.",
+  "headline_ja": "企業の10社に4社は利払いもできず…限界企業が過去最高",
+  "summary_ja": "営業利益で利払い費用も賄えない企業が10社に4社に達し、限界企業の割合が過去最高水準だとする報道が21日に出た。金利上昇局面で企業債務の不良化懸念を強める指標として挙げられている。"
  },
  {
   "date": "2026-10-21",
@@ -259,7 +323,11 @@
    "KB국민은행",
    "신한은행",
    "우리은행"
-  ]
+  ],
+  "headline_en": "Mortgage rates at five major banks surge; reduced preferential rates add to burden",
+  "summary_en": "According to Korea Federation of Banks data, the average spread on new amortizing mortgage loans at the five major banks in August was 3.15% per year. Of the rise in rates, the base rate accounted for only 0.26 percentage points, while changes in bank-set spreads and preferential adjustment rates accounted for about 1.07 percentage points, or roughly 80% of the total.",
+  "headline_ja": "5大銀行の住宅ローン金利が急騰…優遇縮小で負担増",
+  "summary_ja": "銀行連合会の資料によると、5大銀行の8月の新規分割返済型住宅ローンの平均加算金利は年3.15%だった。金利上昇幅のうち政策金利の影響は0.26%ポイントにとどまり、銀行が定める加算金利・加減調整金利の変化が約1.07%ポイントで全体の80%程度を占めた。"
  },
  {
   "date": "2026-10-21",
@@ -274,7 +342,11 @@
   ],
   "orgs": [
    "한국은행"
-  ]
+  ],
+  "headline_en": "Government bond yields mostly fall ahead of MPB meeting; 3-year at 3.822%",
+  "summary_en": "A day ahead of the Monetary Policy Board meeting on the 22nd, the 3-year government bond yield fell 1.8bp to 3.822% per year, and the 10-year closed at 4.160%. The market was in wait-and-see mode with expectations of a hold prevailing, and foreigners were net buyers of 3,635 contracts of 3-year government bond futures.",
+  "headline_ja": "金通委を前に国債利回りは概ね低下…3年物は年3.822%",
+  "summary_ja": "22日の金通委を翌日に控え、国債3年物利回りは1.8bp低下の年3.822%、10年物は年4.160%で取引を終えた。市場は様子見ムードの中で据え置き見通しが優勢で、外国人は3年国債先物を3,635枚買い越した。"
  },
  {
   "date": "2026-10-21",
@@ -289,7 +361,11 @@
   ],
   "orgs": [
    "LS마린솔루션"
-  ]
+  ],
+  "headline_en": "Sales down but operating profit tripled: LS Marine Solution's 'turnaround results'",
+  "summary_en": "On the 21st, LS Marine Solution reported third-quarter consolidated sales of 73.6 billion won and operating profit of 6.9 billion won. Sales fell from a year earlier, but operating profit more than tripled.",
+  "headline_ja": "売上は減少も営業利益3倍…LSマリンソリューション「逆転の業績」",
+  "summary_ja": "LSマリンソリューションは21日、第3四半期の連結売上高736億ウォン、営業利益69億ウォンを発表した。売上高は1年前より減少したが、営業利益は3倍以上に増えた。"
  },
  {
   "date": "2026-10-21",
@@ -304,7 +380,11 @@
   ],
   "orgs": [
    "관세청"
-  ]
+  ],
+  "headline_en": "Chip exports triple: Oct. 1-20 exports hit record $61.6 billion",
+  "summary_en": "According to the Korea Customs Service, exports for October 1-20 reached $61.6 billion, up 105.4% from a year earlier, a record for the period. Semiconductor exports surged 222.5% to $27.5 billion, accounting for 44.7% of total exports. The trade balance showed a surplus of $14.5 billion.",
+  "headline_ja": "半導体輸出が3倍に…10月1〜20日の輸出616億ドルで「過去最大」",
+  "summary_ja": "関税庁によると、10月1〜20日の輸出は616億ドルで前年同期比105.4%増加し、同期間として過去最大を記録した。半導体輸出は275億ドルで222.5%急増し、輸出全体に占める半導体の割合は44.7%に達した。貿易収支は145億ドルの黒字だった。"
  },
  {
   "date": "2026-10-21",
@@ -319,7 +399,11 @@
   ],
   "orgs": [
    "금융감독원"
-  ]
+  ],
+  "headline_en": "Five major banks lose 3,000 staff in 4 years: regular jobs down, non-regular up [2026 Audit]",
+  "summary_en": "According to data obtained by Rep. Park Sung-hoon of the National Assembly Political Affairs Committee from the Financial Supervisory Service, regular employees at the five major banks fell by 4,080 from the end of 2022 to the end of July 2026, while non-regular employees increased by 1,048. Total staff declined by 3,032. At Hana Bank, regular employees fell by 389 while non-regular employees rose by 661.",
+  "headline_ja": "5大銀行、4年間で3000人減…正規職↓非正規職↑【2026国政監査】",
+  "summary_ja": "国会政務委員会の朴成勲（パク・ソンフン）議員が金融監督院から受け取った資料によると、5大銀行の正規職は2022年末から2026年7月末までに4080人減少し、非正規職は1048人増加した。全体の役職員は3032人減少した。ハナ銀行は正規職が389人減ったが、非正規職が661人増えた。"
  },
  {
   "date": "2026-10-21",
@@ -334,7 +418,11 @@
   ],
   "orgs": [
    "삼성바이오로직스"
-  ]
+  ],
+  "headline_en": "Samsung Biologics Q3 sales at 1.4903 trillion won; annual growth forecast raised to 20%",
+  "summary_en": "Samsung Biologics' third-quarter sales came to 1.4903 trillion won. The company raised its annual sales growth forecast to 20%.",
+  "headline_ja": "サムスンバイオロジクス、第3四半期売上高1兆4903億ウォン…年間成長見通しを20%に上方修正",
+  "summary_ja": "サムスンバイオロジクスの第3四半期売上高は1兆4903億ウォンとなった。同社は年間売上高成長率の見通しを20%に引き上げた。"
  },
  {
   "date": "2026-10-20",
@@ -351,7 +439,11 @@
    "한국거래소",
    "삼성전자",
    "SK하이닉스"
-  ]
+  ],
+  "headline_en": "KOSPI closes down 215.27 points at 5,552.74 (-3.73%)",
+  "summary_en": "On the 20th, the KOSPI closed at 5,552.74, down 215.27 points (3.73%), amid joint selling by foreigners and institutions, and the KOSDAQ also fell 3.33% to 781.97, breaking below the 800 level. Individuals were net buyers of about 900 billion won, but net selling of about 530 billion won by foreigners and about 1 trillion won by institutions dragged the index down. Doubts over the profitability of AI infrastructure investment, credit concerns related to CoreWeave and worries about Chinese memory makers catching up weighed on chip stocks, with SK hynix falling 4.23% and Samsung Electronics 2.98%.",
+  "headline_ja": "KOSPI、215.27ポイント安の5552.74で終了（3.73%↓）",
+  "summary_ja": "20日、KOSPIは外国人と機関投資家の同時売りで215.27ポイント（3.73%）安の5552.74で取引を終え、KOSDAQも3.33%下落の781.97で800台を割り込んだ。個人は約9000億ウォンを買い越したが、外国人の約5300億ウォン、機関の約1兆ウォンの売り越しが指数を押し下げた。AIインフラ投資の収益性への疑問、コアウィーブ関連の信用不安、中国メモリーメーカーの追い上げ懸念が半導体株を圧迫し、SKハイニックスが4.23%、サムスン電子が2.98%下落した。"
  },
  {
   "date": "2026-10-20",
@@ -367,7 +459,11 @@
   ],
   "orgs": [
    "서울외환시장"
-  ]
+  ],
+  "headline_en": "Won-dollar rate posts lowest close of the year, down 2.2 won at 1,328.1 won [Kim Hye-ran's FX]",
+  "summary_en": "On the 20th, the won-dollar exchange rate closed daytime trading at 1,328.1 won, down 2.2 won, setting a new lowest close for the year. It opened at 1,330.3 won and fell as low as 1,325.4 won intraday. Analysts said that despite the KOSPI's plunge and foreigners' net selling of stocks, dollar selling (nego) by exporters pushed the rate down.",
+  "headline_ja": "ウォン・ドル相場、今年最安値の終値…2.2ウォン安の1328.1ウォンで終了【キム・ヘランのFX】",
+  "summary_ja": "20日、ウォン・ドル相場は日中取引終値ベースで2.2ウォン安の1328.1ウォンで取引を終え、今年の最安値終値を再び更新した。1330.3ウォンで始まり、取引時間中には1325.4ウォンまで下落した。KOSPIの急落と外国人の株式売り越しにもかかわらず、輸出企業のドル売り（ネゴ）が相場を押し下げたとの分析だ。"
  },
  {
   "date": "2026-10-20",
@@ -383,7 +479,11 @@
   "orgs": [
    "한국은행",
    "금융투자협회"
-  ]
+  ],
+  "headline_en": "93% of bond market expects base rate hold at October MPB meeting",
+  "summary_en": "In a Korea Financial Investment Association survey, 93% of bond market professionals expected the Bank of Korea to hold the base rate (3.00% per year) at the Monetary Policy Board meeting on the 22nd, 7% expected a hike, and none expected a cut. The view is that the BOK will take time to assess the effects of its consecutive 0.25-percentage-point hikes in July and August. Brokerages anticipate a 'hawkish hold' that leaves open the possibility of another hike in November.",
+  "headline_ja": "債券市場の93%「10月金通委で政策金利据え置き見通し」",
+  "summary_ja": "金融投資協会の調査で、債券市場関係者の93%が22日の金通委で韓国銀行が政策金利（年3.00%）を据え置くと予想し、7%は利上げ、利下げの回答はなかった。韓国銀行が7・8月に連続で0.25%ポイント引き上げた効果を点検する時間を置くとの判断だ。証券業界は11月の追加利上げの可能性を残す「タカ派的据え置き」を予想している。"
  },
  {
   "date": "2026-10-20",
@@ -403,7 +503,11 @@
    "하나은행",
    "우리은행",
    "NH농협은행"
-  ]
+  ],
+  "headline_en": "Household loans stir again amid soaring home prices; five major banks up 2.8 trillion won in two weeks",
+  "summary_en": "Household loan balances at the five major banks—KB Kookmin, Shinhan, Hana, Woori and NH NongHyup—stood at 783.5983 trillion won as of October 15, up 2.7643 trillion won from the end of September. Mortgage loans rose by 893.4 billion won and credit loans by 1.4819 trillion won, with both categories increasing. Household lending, which had declined in September for the first time in six months, returned to growth in October along with rising Seoul home prices.",
+  "headline_ja": "高騰する住宅価格で家計向け融資が再び「動き出す」…5大銀行で半月に2.8兆ウォン増",
+  "summary_ja": "KB国民・新韓・ハナ・ウリィ・NH農協の5大銀行の家計向け融資残高は、10月15日時点で783兆5983億ウォンとなり、9月末より2兆7643億ウォン増加した。住宅担保ローンが8934億ウォン、信用ローンが1兆4819億ウォン増え、両項目がともに増加した。9月に6カ月ぶりに減少した家計向け融資は、ソウルの住宅価格上昇とともに10月に入って再び増加に転じた。"
  },
  {
   "date": "2026-10-20",
@@ -419,7 +523,11 @@
   ],
   "orgs": [
    "케이뱅크"
-  ]
+  ],
+  "headline_en": "How high will mortgage rates go? K Bank's top mortgage rate breaks 9%",
+  "summary_en": "K Bank's 6-month variable rate on apartment-backed loans reached 4.55-9.24% per year, the highest since the product's launch. This reflects the rise in COFIX, and the upper end of variable rates at major commercial banks has also climbed to the mid-6% range.",
+  "headline_ja": "住宅ローンはどこまで上がるのか…Kバンクの住宅ローン金利、最高9%突破",
+  "summary_ja": "Kバンクのマンション担保ローン6カ月変動型金利が年4.55〜9.24%となり、商品発売以来最も高い水準を記録した。COFIXの上昇分が反映された結果で、主要市中銀行の変動金利の上限も6%台半ばまで上昇した。"
  },
  {
   "date": "2026-10-19",
@@ -434,7 +542,11 @@
   ],
   "orgs": [
    "한국거래소"
-  ]
+  ],
+  "headline_en": "KOSPI rebounds after opening down 3%, closes up 1.76% at 5,768.01",
+  "summary_en": "On the 19th, the KOSPI opened sharply lower at 5,488.41, down 3.17%, but turned higher on institutional buying and closed at 5,768.01, up 99.96 points (1.76%). The KOSDAQ also rose 14.11 points (1.78%) to 808.89, recovering the 800 level. Institutions were net buyers of over 570 billion won, individuals were net sellers of more than 1 trillion won, and pharmaceutical and secondary battery sectors were strong.",
+  "headline_ja": "KOSPI、3%急落スタート後に反発…1.76%高の5768.01で終了",
+  "summary_ja": "19日、KOSPIは3.17%急落の5488.41で始まったが、機関投資家の買いに支えられて上昇に転じ、99.96ポイント（1.76%）高の5768.01で取引を終えた。KOSDAQも14.11ポイント（1.78%）高の808.89で800台を回復した。機関が5700億ウォン台を買い越し、個人は1兆ウォン以上を売り越し、製薬・二次電池業種が堅調だった。"
  },
  {
   "date": "2026-10-19",
@@ -449,7 +561,11 @@
   ],
   "orgs": [
    "서울외환시장"
-  ]
+  ],
+  "headline_en": "Won-dollar rate closes at 1,330.3 won, lowest in over two years",
+  "summary_en": "On the 19th, the won-dollar exchange rate closed daytime trading on the Seoul foreign exchange market at 1,330.3 won, down 1.1 won from the previous day, the lowest in over two years. Hana Bank's posted base rate also opened lower at 1,336.40 won. The won also continued to strengthen against major currencies such as the yen and euro.",
+  "headline_ja": "ウォン・ドル相場、1330.3ウォンで終了…2年余りぶりの安値",
+  "summary_ja": "19日、ソウル外国為替市場の日中取引終値ベースでウォン・ドル相場は前日比1.1ウォン安の1330.3ウォンとなり、2年余りぶりの安値を記録した。ハナ銀行が告示する売買基準率も1336.40ウォンと下落して始まった。円・ユーロなど主要通貨に対してもウォン高が続いた。"
  },
  {
   "date": "2026-10-19",
@@ -466,7 +582,11 @@
   "orgs": [
    "한국거래소",
    "연합인포맥스"
-  ]
+  ],
+  "headline_en": "Kospi becomes world's worst-performing major stock market in October",
+  "summary_en": "According to data from the Korea Exchange and Yonhap Infomax, the KOSPI fell 17.11% from October 1 to 16, the largest decline among major global indices this month. Indonesia's IDX (-14.59%), the Shenzhen Composite (-7.4%) and the KOSDAQ (-7.14%) followed. The plunge in Samsung Electronics and SK hynix, which account for nearly half of market capitalization, concerns over the profitability of AI investment, and the unwinding of leveraged positions were cited as causes.",
+  "headline_ja": "KOSPI、10月に入り17%下落…世界主要指数で最悪の騰落率",
+  "summary_ja": "韓国取引所・聯合インフォマックスの資料によると、KOSPIは10月1日から16日までに17.11%下落し、今月の世界主要指数の中で最大の下落幅を記録した。インドネシアIDX（-14.59%）、深圳総合（-7.4%）、KOSDAQ（-7.14%）が続いた。時価総額の半分近くを占めるサムスン電子・SKハイニックスの急落、AI投資の収益性への懸念、レバレッジポジションの解消が原因として挙げられている。"
  },
  {
   "date": "2026-10-19",
@@ -487,7 +607,11 @@
    "우리은행",
    "하나은행",
    "NH농협은행"
-  ]
+  ],
+  "headline_en": "Heads of five major banks apologize for hacking incidents at audit; FSS: \"We will hold CEOs accountable for internal controls\"",
+  "summary_en": "On the 19th, the heads of KB Kookmin, Shinhan, Woori, Hana and NH NongHyup banks appeared as witnesses at the National Assembly Political Affairs Committee's audit of the Financial Supervisory Service for the first time in four years and apologized for a series of hacking incidents. Shinhan Bank came under intense criticism because it took 15 hours and 26 minutes to detect the hack, information of 25,729 customers was leaked, and there were allegations that access logs were deleted. FSS Governor Lee Chan-jin said he would hold management accountable for internal controls and conduct inspections equivalent to a full survey of attack surfaces across the entire financial sector, and also pledged to submit an FSS reform plan in November.",
+  "headline_ja": "国政監査に出席した5大銀行頭取がハッキング事態を謝罪…金監院「CEOの内部統制責任を問う」",
+  "summary_ja": "19日、国会政務委員会の金融監督院国政監査に、KB国民・新韓・ウリィ・ハナ・NH農協の各銀行頭取が4年ぶりに証人として出席し、連続ハッキング事態について謝罪した。新韓銀行は、ハッキングの認知まで15時間26分かかり、顧客2万5729人の情報が流出した点と、アクセス記録削除の疑惑で集中的に追及された。李燦振（イ・チャンジン）金融監督院長は経営陣の内部統制責任を問い、全金融業界の攻撃露出面について全数調査に準ずる点検を行うと明らかにし、11月の金融監督院革新案提出も約束した。"
  },
  {
   "date": "2026-10-19",
@@ -504,7 +628,11 @@
   "orgs": [
    "금융감독원",
    "금융위원회"
-  ]
+  ],
+  "headline_en": "Legal basis for household loan volume caps disputed at audit; FSS chief: \"No direct regulatory provision\"",
+  "summary_en": "At the Political Affairs Committee audit, the legal basis for total household loan volume regulation became a point of contention. FSS Governor Lee Chan-jin replied that there appears to be no direct regulatory provision, while the Financial Services Commission said it is not regulation because banks set volume targets voluntarily. With household loans posting a net decrease of 2.2 trillion won in September for the first time this year, authorities raised the year-end volume target and excluded group loans for newly built move-in complexes from the cap.",
+  "headline_ja": "国政監査で家計向け融資総量規制の法的根拠が論争に…金監院長「直接の規制条項はない」",
+  "summary_ja": "政務委員会の国政監査で、家計向け融資総量規制の法的根拠が争点となった。李燦振金融監督院長は直接的な規制条項はないようだと答え、金融委員会は銀行が自主的に総量目標を設定するものであり規制ではないとの立場を示した。9月の家計向け融資が今年初めて2兆2000億ウォンの純減となる中、当局は年末の総量目標を引き上げ、新築入居団地の集団融資を総量から除外した。"
  },
  {
   "date": "2026-10-19",
@@ -520,7 +648,11 @@
   ],
   "orgs": [
    "금융위원회"
-  ]
+  ],
+  "headline_en": "Youth Future Savings 2nd round draws 688,000 applicants; cumulative 2.819 million",
+  "summary_en": "The Financial Services Commission said on the 19th that 688,000 people applied in the second round of Youth Future Savings enrollment held October 7-16, bringing cumulative applicants including the first round to 2.819 million, excluding duplicates. By type, there were 558,000 general income earners, 108,000 SME employees and 21,000 small business owners, with those aged 25-29 accounting for the largest share at 33.9%. Screening runs until November 13, and accounts will be opened November 16-27 via the participating institutions' apps.",
+  "headline_ja": "青年未来積立の第2次申請68.8万人…累計281.9万人",
+  "summary_ja": "金融委員会は19日、10月7〜16日に実施した青年未来積立の第2次加入申請に68万8000人が参加し、第1次を含む累計申請者は重複を除き281万9000人だと明らかにした。類型別では一般所得者55万8000人、中小企業在職者10万8000人、小規模事業者2万1000人で、25〜29歳の割合が33.9%で最も高かった。審査は11月13日まで、口座開設は11月16〜27日に取扱機関のアプリで行われる。"
  },
  {
   "date": "2026-10-19",
@@ -536,7 +668,11 @@
   ],
   "orgs": [
    "재정경제부"
-  ]
+  ],
+  "headline_en": "Capital gains tax card amid rental market jitters: Deputy PM Lee Hyung-il \"reviewing additional cuts for sales of rental apartments to the public sector\"",
+  "summary_en": "In response to instability in the jeonse and monthly rent market, Deputy Prime Minister Lee Hyung-il said he would consider additional capital gains tax reductions when rental apartments are sold to the public sector. The government's position is that overall real estate taxation will be reviewed during National Assembly discussions in November. Marking one year since the October 15 measures, Seoul apartment prices were found to have risen more than 10% since right after the measures, fueling continued debate over the effectiveness of the regulations.",
+  "headline_ja": "チョンセ・月極家賃不安に譲渡税カード…李亨一副首相「賃貸マンションの公共売却時に追加減免を検討」",
+  "summary_ja": "チョンセ・月極家賃市場の不安に対応し、李亨一（イ・ヒョンイル）副首相は賃貸マンションを公共に売却する場合、譲渡所得税の追加減免を検討すると明らかにした。政府は不動産税制全般については11月の国会審議の過程で検討するとの立場だ。10・15対策から1年を迎え、ソウルのマンション価格は対策直後より10%以上上昇したと集計され、規制効果をめぐる論争も続いている。"
  },
  {
   "date": "2026-10-19",
@@ -552,7 +688,11 @@
   "orgs": [
    "삼성전자",
    "SK하이닉스"
-  ]
+  ],
+  "headline_en": "Foreigners sold 17 trillion won of KOSPI stocks in October, 80% concentrated in Samsung Electronics and SK hynix",
+  "summary_en": "Foreign investors have net sold more than 17 trillion won in the KOSPI so far in October, with about 80% of the selling concentrated in Samsung Electronics and SK hynix. On the 19th, foreigners turned to net buying, and the KOSPI closed up 1.76% at 5,768.01 and the KOSDAQ up 1.78% at 808.89. However, foreigners' cumulative net selling for the month still exceeds 17 trillion won.",
+  "headline_ja": "外国人、10月にKOSPIで17兆ウォン売り越し…「サムスン・ハイニックス」に80%集中",
+  "summary_ja": "外国人投資家は10月に入りKOSPIで17兆ウォン以上を売り越し、売り物の約80%がサムスン電子とSKハイニックスに集中した。19日には外国人が買い越しに転じ、KOSPIは1.76%高の5768.01、KOSDAQは1.78%高の808.89で取引を終えた。ただし、外国人の月間累計売り越し規模は依然として17兆ウォンを上回っている。"
  },
  {
   "date": "2026-10-19",
@@ -567,7 +707,11 @@
   ],
   "orgs": [
    "한국은행"
-  ]
+  ],
+  "headline_en": "Government bond yields rebound ahead of Bank of Korea rate decision; 3-year closes at 3.877%",
+  "summary_en": "On the 19th, the 3-year government bond yield in the Seoul bond market closed at 3.877% per year, up 2.3bp from the previous trading day, and the 10-year rose 2.3bp to 4.205%. This is seen as the combined result of a pullback from last week's yield decline and a wait-and-see stance ahead of the Monetary Policy Board meeting on the 22nd. Foreigners were net buyers of 7,021 contracts of 3-year government bond futures and 10,243 contracts of 10-year government bond futures.",
+  "headline_ja": "韓国銀行の金利決定を前に国債利回りが反発…3年物は年3.877%で終了",
+  "summary_ja": "19日、ソウル債券市場で3年物国債利回りは前営業日比2.3bp上昇の年3.877%で取引を終え、10年物は2.3bp上昇の年4.205%を記録した。先週の金利低下の反動と、22日の金通委を前にした様子見ムードが重なった結果とみられる。外国人は3年国債先物を7021枚、10年国債先物を1万243枚買い越した。"
  },
  {
   "date": "2026-10-19",
@@ -584,7 +728,11 @@
   "orgs": [
    "금융감독원",
    "국회 정무위원회"
-  ]
+  ],
+  "headline_en": "\"Raise your hand if you supported single-stock ETFs\": opposition question sparks ruling party backlash, clash at FSS audit",
+  "summary_en": "At the Political Affairs Committee's audit of the Financial Supervisory Service on the 19th, the introduction process of single-stock leveraged ETFs and supervisory responsibility emerged as key issues. When an opposition lawmaker asked senior FSS officials to indicate by show of hands whether they supported introducing the products, the ruling party objected and a clash ensued. Questions were raised about the listing review period, which was shorter than for ordinary ETFs, and whether the FSS responded adequately despite having obtained a risk report.",
+  "headline_ja": "「単一ETFに賛成なら手を挙げて」野党の質疑に与党反発…金監院の国政監査で衝突",
+  "summary_ja": "19日の政務委員会による金融監督院国政監査で、単一銘柄レバレッジETFの導入過程と監督責任が中心的な争点となった。野党議員が金融監督院の幹部に商品導入への賛否を挙手で問うと、与党が反発して衝突が起きた。一般ETFより短かった上場審査期間と、金融監督院がリスク報告書を確保しながら十分に対応したのかが問題として提起された。"
  },
  {
   "date": "2026-10-19",
@@ -602,7 +750,11 @@
    "보건복지부",
    "생명보험협회",
    "손해보험협회"
-  ]
+  ],
+  "headline_en": "'9.6 billion won in win-win insurance': fall accident and liability insurance support for 650,000 vulnerable seniors",
+  "summary_en": "On the 19th, Financial Services Commission Chairman Lee Eog-weon and Minister of Health and Welfare Jeong Eun-kyeong signed a 'comprehensive support for vulnerable seniors' MOU with the life and non-life insurance associations, the Korea Foundation for Vulnerable Elderly Support and the Comprehensive Support Center for Seniors Living Alone. Using 9.6 billion won from the insurance industry's win-win fund, a total of 10.5 billion won will provide about 650,000 vulnerable seniors with support for fall-accident treatment costs and free dementia liability insurance, among other things. Detailed plans will be drawn up in the fourth quarter, and the program will run for two years from next year through 2028.",
+  "headline_ja": "「共生保険に96億ウォン投入」…脆弱層の高齢者65万人に転倒事故・賠償保険などを支援",
+  "summary_ja": "李億遠（イ・オグォン）金融委員長と鄭銀敬（チョン・ウンギョン）保健福祉部長官は19日、生命保険協会・損害保険協会、韓国脆弱高齢者支援財団、独居高齢者総合支援センターと「シニア脆弱層統合支援」の業務協約を締結した。保険業界の共生基金96億ウォンを活用し、総額105億ウォン規模で脆弱な高齢者約65万人に転倒事故の治療費支援や無料の認知症賠償責任保険などを提供する。第4四半期中に細部計画を策定し、来年から2028年までの2年間実施する。"
  },
  {
   "date": "2026-10-19",
@@ -618,7 +770,11 @@
   ],
   "orgs": [
    "금융감독원"
-  ]
+  ],
+  "headline_en": "Told \"crypto fraud happens in an instant,\" Lee Chan-jin says \"hard to keep up with the speed\"",
+  "summary_en": "At the Political Affairs Committee's FSS audit on the 19th, it was pointed out that on-chain virtual asset fraud happens in an instant while supervisory authorities' responses cannot keep up. FSS Governor Lee Chan-jin replied, \"It is difficult to keep up with the speed,\" acknowledging the limits of their response capabilities. The same day's audit also addressed bank hacking incidents and the controversy over the review of single-stock ETFs.",
+  "headline_ja": "「コイン詐欺は一瞬で行われる」との指摘に…李燦振氏「スピードについていくのは難しい」",
+  "summary_ja": "19日の政務委員会による金融監督院国政監査で、オンチェーンの暗号資産詐欺は一瞬で行われるのに監督当局の対応が追いつかないとの指摘が出た。李燦振金融監督院長は「スピードについていくのは難しい」と答え、対応能力の限界を認めた。同日の国政監査では、銀行のハッキング事故と単一銘柄ETF審査をめぐる論争も併せて取り上げられた。"
  },
  {
   "date": "2026-10-19",
@@ -634,7 +790,11 @@
   "orgs": [
    "한국거래소",
    "유안타증권"
-  ]
+  ],
+  "headline_en": "'Volatility index' again just below 50: how far will the KOSPI slide?",
+  "summary_en": "The KOSPI volatility index (VKOSPI) again approached 50, heightening market anxiety. From October 8 to 15, the KOSPI and KOSDAQ plunged 18.4% and 15.3% respectively, and brokerages set a wide expected range of 5,100-6,100 for this week. According to Yuanta Securities' analysis, of 12 past cases in which the index fell more than 10% over seven trading days, 83% rebounded a week later, but when it fell more than 15%, the share that was higher a month later was only 20%.",
+  "headline_ja": "「変動性指数」再び50台目前…KOSPIはどこまで下がるか",
+  "summary_ja": "KOSPI変動性指数（VKOSPI）が再び50台に迫り、市場の不安が高まった。10月8〜15日にKOSPIとKOSDAQはそれぞれ18.4%、15.3%急落し、証券業界は今週の予想変動幅を5100〜6100と広く提示した。ユアンタ証券の分析によると、過去に7営業日で10%以上下落した12回のうち83%は1週間後に反発したが、15%を超えて下落した場合、1カ月後に上昇していた割合は20%にとどまった。"
  },
  {
   "date": "2026-10-19",
@@ -650,7 +810,11 @@
   ],
   "orgs": [
    "국토교통부"
-  ]
+  ],
+  "headline_en": "\"Has the housing market peaked?\" As listings pile up 30%, government says \"overheating easing\"",
+  "summary_en": "The Ministry of Land, Infrastructure and Transport explained that following the September 7 supply expansion, August 13 fast-track supply and October 15 stabilization measures, leading supply indicators have improved and the market is showing signs of stabilizing downward. Sale prices in Gangnam and Seocho districts have fallen for 10 consecutive weeks, Seoul's rate of increase has slowed since July, and sale listings have increased about 30% from the start of the year. The government's position is that it will closely monitor the market and minimize sources of instability.",
+  "headline_ja": "「住宅価格は今日が天井？」…売り物件が30%積み上がり政府「過熱は沈静化」",
+  "summary_ja": "国土交通部は、9・7供給拡大、8・13迅速供給、10・15安定化対策以降、供給の先行指標が改善し、市場が下向きに安定する兆しを見せていると説明した。江南区・瑞草区の売買価格は10週連続で下落し、ソウルの上昇率も7月以降鈍化しており、売買物件は年初比約30%増加した。政府は市場を綿密にモニタリングし、不安要因を最小化するとの立場だ。"
  },
  {
   "date": "2026-10-19",
@@ -666,7 +830,11 @@
   "orgs": [
    "SK증권",
    "코스닥"
-  ]
+  ],
+  "headline_en": "KOSDAQ falls less than KOSPI as foreigners scoop up chip materials, parts and equipment stocks",
+  "summary_en": "According to SK Securities, last week (12th-16th) the KOSPI fell 14.5% and the KOSDAQ 10.9%, a relatively smaller decline for the KOSDAQ. This is interpreted as foreigners taking profits on large-cap chip stocks and then bargain-buying semiconductor materials, parts and equipment stocks that had fallen sharply. On the 19th, the KOSDAQ closed up 1.78% at 808.89.",
+  "headline_ja": "KOSPIより下落が小さかったKOSDAQ…外国人、半導体素材・部品・装置株を買い集め",
+  "summary_ja": "SK証券によると、先週（12〜16日）KOSPIは14.5%、KOSDAQは10.9%下落し、KOSDAQの下落幅が相対的に小さかった。外国人が大型半導体株で利益を確定した後、下落幅の大きい半導体素材・部品・装置株を安値で買った動きと解釈される。19日のKOSDAQは1.78%高の808.89で取引を終えた。"
  },
  {
   "date": "2026-10-19",
@@ -683,7 +851,11 @@
   "orgs": [
    "금융감독원",
    "금융위원회"
-  ]
+  ],
+  "headline_en": "Lee Chan-jin: \"FSS reform plan in final consultations with FSC, to be submitted in November\"",
+  "summary_en": "At the National Assembly Political Affairs Committee audit on the 19th, FSS Governor Lee Chan-jin said consultations with the Financial Services Commission on the FSS reform plan are nearly complete and there are no significant disagreements. He added that the reform plan is expected to be submitted in November. The heads of the five major banks appeared as witnesses at the audit that day, and this week the FSC is scheduled to designate innovative financial services on the 21st and the Bank of Korea's Monetary Policy Board to decide on the base rate on the 22nd.",
+  "headline_ja": "李燦振氏「金監院革新案、金融委との協議は最終段階…11月に提出」",
+  "summary_ja": "李燦振金融監督院長は19日、国会政務委員会の国政監査で、金融監督院の革新案について金融委員会との協議がほぼ最終段階にあり、特段の異論はないと明らかにした。革新案は11月中に提出される見込みだと付け加えた。この日の国政監査には5大銀行の頭取が証人として出席し、今週は21日に金融委の革新金融サービス指定、22日に韓国銀行金通委の政策金利決定が予定されている。"
  },
  {
   "date": "2026-10-19",
@@ -698,7 +870,11 @@
   ],
   "orgs": [
    "연합인포맥스"
-  ]
+  ],
+  "headline_en": "Dollar-won trades in low 1,330 won range in New York session",
+  "summary_en": "As of 9:06 p.m. on the 19th, during New York trading hours, the dollar-won exchange rate was trading at 1,330.60 won, down 0.80 won from the previous session. After closing the daytime regular session at 1,330.3 won, the lowest in over two years, the won's strength in the low 1,330 won range continued in night trading.",
+  "headline_ja": "ドル・ウォン、ニューヨーク市場で1330ウォン台前半で取引",
+  "summary_ja": "19日夜、ニューヨーク市場の取引時間帯である午後9時6分時点で、ドル・ウォン相場は前場比0.80ウォン安の1330.60ウォンで取引された。日中の正規取引で2年余りぶりの安値となる1330.3ウォンで取引を終えた後も、夜間取引で1330ウォン台前半のウォン高の流れが続いた。"
  },
  {
   "date": "2026-10-19",
@@ -715,7 +891,11 @@
   "orgs": [
    "서울시",
    "국토교통위원회"
-  ]
+  ],
+  "headline_en": "Oh Se-hoon: \"Jeonse shortage pushing people to buy; home prices may keep rising through early next year\" [Audit 2026]",
+  "summary_en": "At the National Assembly Land, Infrastructure and Transport Committee audit on the 19th, Seoul Mayor Oh Se-hoon replied that experts generally predict home prices are more likely to keep rising than to fall through the end of the year or early next year. He diagnosed that a shortage of jeonse supply and rising jeonse and monthly rents are stimulating purchase demand in outlying areas, and asked the government for cooperation on redevelopment and reconstruction supply.",
+  "headline_ja": "呉世勲氏「チョンセ難で購入に加勢…来年初めまで住宅価格は右肩上がりの可能性」【国政監査2026】",
+  "summary_ja": "呉世勲（オ・セフン）ソウル市長は19日、国会国土交通委員会の国政監査で、年末か来年初めまで住宅価格が下落する確率より上昇する可能性が高いというのが専門家の大方の予測だと答えた。チョンセ物件の不足とチョンセ・月極家賃の上昇が郊外地域の購入需要を刺激していると診断し、政府に再開発・再建築による供給への協力を要請した。"
  },
  {
   "date": "2026-10-19",
@@ -732,7 +912,11 @@
   "orgs": [
    "SK하이닉스",
    "나스닥"
-  ]
+  ],
+  "headline_en": "U.S. stocks fight back after chip rout: SOXL jumps 9%, SK hynix ADR up 4%",
+  "summary_en": "On the 19th (local time), early in the New York session, the Nasdaq rose 0.96% to around 26,390 and the S&P 500 rose 0.45% to around 7,693, while the Dow fell 0.21%, a mixed picture. Chip stocks that had plunged last week led the rebound, with the 3x leveraged semiconductor ETF SOXL rising more than 9%, the SK hynix ADR gaining over 4%, and Micron, Nvidia, AMD and Intel all rising. Analysts said falling international oil prices and U.S. Treasury yields supported investor sentiment toward tech stocks.",
+  "headline_ja": "米国株、半導体急落後に反撃…SOXLが9%急騰・SKハイニックスADRは4%上昇",
+  "summary_ja": "19日（現地時間）のニューヨーク株式市場は序盤、ナスダックが0.96%高の26,390台、S&P500が0.45%高の7,693台を記録した一方、ダウは0.21%下落と明暗が分かれた。先週急落した半導体株が反発を主導し、半導体3倍レバレッジETFのSOXLが9%超上昇、SKハイニックスADRも4%台の上昇を見せ、マイクロン・エヌビディア・AMD・インテルがそろって上昇した。国際原油価格と米国債利回りの低下がテック株の投資心理を支えたとの分析だ。"
  },
  {
   "date": "2026-10-19",
@@ -747,7 +931,11 @@
   ],
   "orgs": [
    "KB부동산"
-  ]
+  ],
+  "headline_en": "Average jeonse price for Gangbuk apartments nears 600 million won; record-high contracts in Seongbuk, Nowon and elsewhere",
+  "summary_en": "KB Real Estate statistics as of October 19 showed that the average jeonse price for apartments in Seoul's Gangbuk area is about to exceed 600 million won. With record-high jeonse contracts continuing in Seongbuk-gu and elsewhere, rising jeonse prices are spreading to outlying areas amid a decline in jeonse listings.",
+  "headline_ja": "江北のマンションのチョンセ平均6億ウォン突破目前…城北・蘆原区で最高値契約が相次ぐ",
+  "summary_ja": "KB不動産の10月19日時点の統計で、ソウル江北圏のマンションの平均チョンセ価格が6億ウォン突破を目前にしていることが分かった。城北区などでチョンセの最高値契約が続くなど、チョンセ物件の減少の中でチョンセ価格の上昇が郊外地域にまで広がっている。"
  },
  {
   "date": "2026-10-18",
@@ -761,7 +949,11 @@
   ],
   "orgs": [
    "한국은행"
-  ]
+  ],
+  "headline_en": "All 10 expect \"hold this month\"; two more hikes from November seen taking rate to 3.5% [MPB Poll]",
+  "summary_en": "Ahead of the October 22 Monetary Policy Board meeting, all 10 brokerage experts expected the base rate (3.00% per year) to be held. While they see it as a pause to assess the effects of the consecutive July-August hikes, most forecast one additional hike each in November and the first quarter of next year, bringing the terminal rate to 3.5%. For borrowers, this means high interest rates could persist beyond 2027.",
+  "headline_ja": "10人全員「今月は据え置き」…11月から2回追加利上げで3.5%の見通し【金通委ポール】",
+  "summary_ja": "10月22日の金通委を前に、証券会社の専門家10人全員が政策金利（年3.00%）の据え置きを予想した。7〜8月の連続利上げの効果を点検する一息とみる一方、11月と来年第1四半期にそれぞれ1回ずつ追加利上げし、最終金利が3.5%に達するとの見通しが多数だ。借り手にとっては、高金利が2027年以降まで長引く可能性があることを意味する。"
  },
  {
   "date": "2026-10-18",
@@ -776,7 +968,11 @@
   "orgs": [
    "서울외환시장",
    "신한은행"
-  ]
+  ],
+  "headline_en": "Won strengthens on robust exports, increased dollar supply",
+  "summary_en": "The average exchange rate for the first 12 trading days of October was 1,342.6 won per dollar, the lowest since September 2024, and it fell as low as 1,328.9 won on Friday evening. The monthly average exchange rate fell for four consecutive months, from 1,528 won in June to 1,488.9 won in July, 1,404.4 won in August and 1,358.8 won in September. Dollar selling by semiconductor exporters, a daily average trade surplus of $2.5 billion and the base rate hike to 3% supported the won's strength, and experts expect the low-to-mid 1,300 won range through the end of the year.",
+  "headline_ja": "輸出好調・ドル供給拡大でウォン高",
+  "summary_ja": "10月最初の12営業日の平均為替レートは1ドル＝1342.6ウォンで2024年9月以来の低水準となり、金曜日の夕方には1328.9ウォンまで下落した。月平均為替レートは6月の1528ウォンから7月1488.9ウォン、8月1404.4ウォン、9月1358.8ウォンと4カ月連続で下落した。半導体輸出企業のドル売りと1日平均25億ドルの貿易黒字、政策金利の3%への引き上げがウォン高を支えており、専門家は年末まで1300ウォン台前半から半ばを予想している。"
  },
  {
   "date": "2026-10-16",
@@ -792,7 +988,11 @@
   "orgs": [
    "한국은행",
    "금융위원회"
-  ]
+  ],
+  "headline_en": "Bank household loans rise for 6th straight month; growth slows as 'debt-financed investment' other loans decline",
+  "summary_en": "According to Bank of Korea data, bank household loan balances in September stood at 1,198.9 trillion won, up 600 billion won, rising for the sixth consecutive month, but the increase was much smaller than in August (3.5 trillion won). Mortgage loans rose by 2.9 trillion won, but other loans including credit loans fell by 2.3 trillion won, indicating cooling demand for debt-financed investment. According to the Financial Services Commission, household loans across the entire financial sector posted a net decrease of 2.2 trillion won in September, the first decline since December 2025.",
+  "headline_ja": "銀行の家計向け融資、6カ月連続増加…「借金投資」のその他融資減少で増加幅は足踏み",
+  "summary_ja": "韓国銀行の集計によると、9月の銀行家計向け融資残高は1198兆9000億ウォンで6000億ウォン増え、6カ月連続で増加したが、増加幅は8月（3兆5000億ウォン）より大きく縮小した。住宅担保ローンは2兆9000億ウォン増えたが、信用ローンなどその他融資が2兆3000億ウォン減り、借金投資の需要が冷え込んだ。金融委員会の集計では、全金融業界の家計向け融資は9月に2.2兆ウォンの純減となり、2025年12月以来初めて減少した。"
  },
  {
   "date": "2026-10-16",
@@ -807,7 +1007,11 @@
   ],
   "orgs": [
    "한국은행"
-  ]
+  ],
+  "headline_en": "Export prices fall for 2nd month on weaker exchange rate; import prices rise on oil surge",
+  "summary_en": "According to the Bank of Korea, the average won-dollar exchange rate in September was 1,359 won, down 3.4% from the previous month, causing the export price index to fall for the second consecutive month. In contrast, Dubai crude surged 28.1%, pushing import prices up 1.7%. This shows that while exchange rate stability holds down import prices, the Middle East-driven oil price rise remains a source of consumer price pressure.",
+  "headline_ja": "為替下落で輸出物価が2カ月連続↓…原油急騰で輸入物価は上昇",
+  "summary_ja": "韓国銀行の発表で、9月の平均ウォン・ドル相場が1359ウォンと前月比3.4%下落し、輸出物価指数が2カ月連続で下落した。一方、ドバイ原油が28.1%急騰し、輸入物価は1.7%上昇した。為替の安定は輸入物価を抑えるが、中東発の原油高が消費者物価への圧力として残っていることを示している。"
  },
  {
   "date": "2026-10-16",
@@ -823,7 +1027,11 @@
   ],
   "orgs": [
    "한국거래소"
-  ]
+  ],
+  "headline_en": "Foreigners net buyers for first time in 8 trading days; KOSPI rebounds 2.05% to close at 5,668",
+  "summary_en": "On the 16th, the KOSPI closed at 5,668.05, up 113.83 points (2.05%), ending a seven-day losing streak. It rose as high as 5,809.94 intraday, and foreigners ended eight consecutive trading days of net selling that began on the 2nd, net buying about 340-360 billion won. Individuals and institutions sold 509.5 billion won and 682.7 billion won respectively, and the won-dollar exchange rate closed at 1,331.4 won, down 13.2 won.",
+  "headline_ja": "外国人が8営業日ぶりに買い越し…KOSPIは2.05%反発し5668で終了",
+  "summary_ja": "16日、KOSPIは113.83ポイント（2.05%）高の5668.05で取引を終え、7営業日連続の下落に歯止めをかけた。取引時間中には5809.94まで上昇し、外国人は2日から続いた8営業日連続の売り越しを終え、約3400億〜3600億ウォンを買い越した。個人と機関はそれぞれ5095億ウォン、6827億ウォンを売り、ウォン・ドル相場は13.2ウォン安の1331.4ウォンで取引を終えた。"
  },
  {
   "date": "2026-10-16",
@@ -840,7 +1048,11 @@
   "orgs": [
    "연방준비제도",
    "한국은행"
-  ]
+  ],
+  "headline_en": "U.S. inflation shock fuels outlook for prolonged high rates; October FOMC leans toward 'hawkish hold'",
+  "summary_en": "Following the shock from U.S. inflation data, expectations have grown that the Fed will keep rates high for longer, tilting the October FOMC toward a hawkish hold. In the rate futures market, the 3.75-4.00% range was priced with the highest probability. Domestically, the prevailing view is that the Bank of Korea will hold the base rate at its Monetary Policy Board meeting on the 22nd and then raise it further in November.",
+  "headline_ja": "米物価ショックで高金利長期化の見通し…10月FOMCは「タカ派的据え置き」に比重",
+  "summary_ja": "米物価指標のショック以降、FRBが高金利をより長く維持するとの観測が強まり、10月のFOMCはタカ派的据え置きに比重が置かれている。金利先物市場では3.75〜4.00%の区間の確率が最も高く織り込まれた。国内では、韓国銀行が22日の金通委で政策金利を据え置いた後、11月に追加利上げに踏み切るとの見通しが優勢だ。"
  },
  {
   "date": "2026-10-15",
@@ -858,7 +1070,11 @@
    "금융위원회"
   ],
   "video": "https://www.youtube.com/watch?v=LP4LS8m4SEU",
-  "video_channel": "연합뉴스TV"
+  "video_channel": "연합뉴스TV",
+  "headline_en": "KOSPI closes down over 7%; circuit breaker triggered",
+  "summary_en": "On October 15, the KOSPI plunged 7.57% to close at 5,554.22, and the KOSDAQ also fell 7.65%, triggering circuit breakers in both markets. Foreigners net sold more than 3.6 trillion won, and the U.S. inflation shock and controversy over the profitability of AI investment hammered chip stocks. The Financial Services Commission held an emergency review meeting chaired by Chairman Lee Eog-weon and prepared to activate its emergency response plan, and with the market down nearly 40% from its June peak, losses for debt-financed investors mounted.",
+  "headline_ja": "KOSPI、7%台の下落で終了…サーキットブレーカー発動",
+  "summary_ja": "10月15日、KOSPIは7.57%暴落の5,554.22で取引を終え、KOSDAQも7.65%下落し、両市場で同時にサーキットブレーカーが発動された。外国人が3兆6000億ウォン超を売り越し、米国の物価ショックとAI投資の収益性をめぐる論争が半導体株を直撃した。金融委員会は李億遠委員長の主宰で緊急点検会議を開き、非常対応計画の稼働を準備した。6月の高値から40%近く下落し、借金投資家の損失が膨らんだ。"
  },
  {
   "date": "2026-10-15",
@@ -875,7 +1091,11 @@
    "금융감독원",
    "국회 정무위원회",
    "5대 시중은행"
-  ]
+  ],
+  "headline_en": "Financial sector hacking incidents top agenda at FSS audit on 19th; comprehensive financial audit on 22nd [2026 Audit]",
+  "summary_en": "All heads of the five major commercial banks were called as witnesses for the October 19 audit of the Financial Supervisory Service, where financial sector hacking incidents are expected to be the top issue. No witnesses related to single-stock leveraged ETFs were called, and the process will conclude with the comprehensive financial audit on the 22nd. Bank security incidents are directly tied to the protection of customer assets and personal information.",
+  "headline_ja": "19日の金監院国政監査、金融業界のハッキング事故が最大の懸案…22日に金融総合監査【2026国政監査】",
+  "summary_ja": "10月19日の金融監督院国政監査に5大市中銀行の頭取全員が証人として採択され、金融業界のハッキング事故が最大の懸案として扱われる予定だ。単一銘柄レバレッジETF関連の証人は採択されず、22日の金融総合監査で締めくくられる。銀行のセキュリティ事故は顧客資産と個人情報保護の問題に直結する。"
  },
  {
   "date": "2026-10-13",
@@ -894,7 +1114,11 @@
    "SK하이닉스"
   ],
   "video": "https://www.youtube.com/watch?v=GMtpAzu3Lfs",
-  "video_channel": "KBS News"
+  "video_channel": "KBS News",
+  "headline_en": "[Market Close] KOSPI ends at 6,035.35, plunging 5.46% on heavy foreign selling",
+  "summary_en": "On October 13, the KOSPI plunged 5.46% to close at 6,035.35 on net selling of about 2 trillion won by foreigners, and broke below the 6,000 level intraday, triggering a sell-side sidecar for the first time in two months. China's CXMT's server memory announcement, weakness in U.S. chip stocks and higher oil prices due to Middle East tensions combined to push Samsung Electronics and SK hynix sharply lower. It marked the start of a sharp sell-off that took the index down nearly 14% in less than two weeks from the 7,000 level on October 2.",
+  "headline_ja": "【引け市況】KOSPI 6,035.35で終了…外国人の大量売りで5.46%急落",
+  "summary_ja": "10月13日、KOSPIは外国人の約2兆ウォンの売り越しで5.46%急落の6,035.35で取引を終え、取引時間中には6,000台を割り込み、2カ月ぶりに売りサイドカーが発動された。中国CXMTのサーバー用メモリー発表、米半導体株の軟調、中東の緊張による原油高が重なり、サムスン電子・SKハイニックスが大きく下落した。10月2日の7,000台から半月足らずで14%近く下落した急落相場の始まりだった。"
  },
  {
   "date": "2026-10-13",
@@ -913,7 +1137,11 @@
    "금융위원회"
   ],
   "video": "https://www.youtube.com/watch?v=TBVYHWJjN74",
-  "video_channel": "목포MBC뉴스"
+  "video_channel": "목포MBC뉴스",
+  "headline_en": "President Lee: \"We are entering a prolonged era of high interest rates\"; orders measures for low-income financing",
+  "summary_en": "At a Cabinet meeting on October 13, President Lee Jae-myung said a hike in Korea's base rate is a foregone conclusion and that high interest rates could become structurally prolonged, adding that the Korea-U.S. interest rate gap should be narrowed. He also proposed having the government use fiscal funds to buy up and settle delinquent loans in the market at around 5% of principal. The unusual remark, in which the president directly mentioned the direction of interest rates, drew attention ahead of the Monetary Policy Board meeting on the 22nd.",
+  "headline_ja": "李大統領「長期間の高金利時代になる」…庶民金融対策を指示",
+  "summary_ja": "李在明（イ・ジェミョン）大統領は10月13日の閣議で、韓国の政策金利引き上げは既定事実であり、高金利が構造的に長期化する可能性があると言及し、韓米の金利逆転幅を縮小すべきだと述べた。また、政府財政で市中の延滞債権を元金の5%程度で買い取って整理する案を提案した。大統領が金利の方向性に直接言及した異例の発言として、22日の金通委を前に注目を集めた。"
  },
  {
   "date": "2026-10-13",
@@ -930,7 +1158,11 @@
    "신한금융",
    "하나금융",
    "우리금융"
-  ]
+  ],
+  "headline_en": "Big four financial groups' second-half net profit nears 9 trillion won; KB and Shinhan growth in 20% range",
+  "summary_en": "Based on FnGuide consensus, the four major financial holding companies' second-half (Q3 and Q4) net profit is forecast at 8.9741 trillion won, up 16.5% from a year earlier. With Shinhan at 26.9% and KB at 20.3%, the structure is one in which expanded interest income during a rate-hike period is driving up earnings. As bank profits grow, pressure to lower lending rates and calls for win-win finance also increase.",
+  "headline_ja": "4大金融、下半期純利益9兆ウォンに迫る…KB・新韓金融の増加率は20%台",
+  "summary_ja": "FnGuideのコンセンサス基準で、4大金融持株会社の下半期（第3・第4四半期）純利益は8兆9741億ウォンで、前年比16.5%増加すると予想された。新韓26.9%、KB20.3%など、利上げ局面での利子利益拡大が業績を押し上げる構造だ。銀行の収益が大きくなるほど、貸出金利引き下げ圧力と共生金融の要求も同時に強まる。"
  },
  {
   "date": "2026-10-13",
@@ -945,7 +1177,11 @@
   ],
   "orgs": [
    "IMF"
-  ]
+  ],
+  "headline_en": "IMF raises S. Korea's growth forecast to 3.3% amid chip supercycle",
+  "summary_en": "In its October World Economic Outlook, the International Monetary Fund (IMF) raised its 2026 growth forecast for South Korea to 3.3%. The assessment is that strong external demand, centered on semiconductors, offset the negative impact of the Middle East war.",
+  "headline_ja": "IMF、半導体スーパーサイクルで韓国の今年の成長率見通しを3.3%に上方修正",
+  "summary_ja": "国際通貨基金（IMF）は10月の世界経済見通しで、韓国の2026年の成長率見通しを3.3%に引き上げた。半導体を中心とした強い対外需要が中東戦争の負の影響を相殺したとの評価だ。"
  },
  {
   "date": "2026-10-08",
@@ -961,7 +1197,11 @@
   "orgs": [
    "금융위원회",
    "국회 정무위원회"
-  ]
+  ],
+  "headline_en": "[2026 Audit] Lee Eog-weon: \"Stablecoin bill in final consultations\"; issuer still undecided",
+  "summary_en": "At the National Assembly Political Affairs Committee's audit of the Financial Services Commission on October 8, FSC Chairman Lee Eog-weon said most of the stablecoin bill's content is ready and in final consultations, but that the issuer of a won-denominated stablecoin and the licensing framework remain undecided. The audit that day also took up the fluctuating household loan volume regulation and how leveraged ETFs came to be introduced.",
+  "headline_ja": "【2026国政監査】李億遠氏「ステーブルコイン法は最終協議中」…発行主体は依然未定",
+  "summary_ja": "10月8日の国会政務委員会による金融委員会国政監査で、李億遠金融委員長はステーブルコイン法案の内容は大部分が準備され最終協議中だと明らかにしたが、ウォン建てステーブルコインの発行主体と認可体系は依然として未定だと述べた。この日の国政監査では、乱高下した家計向け融資の総量規制とレバレッジETF導入の経緯も争点となった。"
  },
  {
   "date": "2026-10-06",
@@ -975,7 +1215,11 @@
   ],
   "orgs": [
    "한국은행"
-  ]
+  ],
+  "headline_en": "September FX reserves at $440.56 billion, first decline in four months",
+  "summary_en": "Foreign exchange reserves at the end of September stood at $440.56 billion, down $1.72 billion from the previous month, ending the upward trend that had continued since June after four months. The main causes were a decrease in financial institutions' foreign currency deposits and the asset entrustment to the Korea-U.S. Strategic Investment Corporation (the first remittance for investment in the U.S.), and the Bank of Korea said it would fund U.S. investment from investment returns rather than principal. As an indicator of FX defense capacity, it is directly linked to exchange rate stability.",
+  "headline_ja": "9月の外貨準備高4405.6億ドル…4カ月ぶりに減少",
+  "summary_ja": "9月末の外貨準備高は4405億6000万ドルで、前月比17億2000万ドル減少し、6月から続いた増加傾向が4カ月ぶりに途切れた。金融機関の外貨預金の減少と韓米戦略投資公社への資産委託（初の対米投資送金）が主な原因で、韓国銀行は対米投資の財源を元本ではなく運用収益の範囲内で賄うと明らかにした。外貨防衛力の指標である点で、為替の安定に直結する。"
  },
  {
   "date": "2026-09-30",
@@ -991,7 +1235,11 @@
   "orgs": [
    "한국은행",
    "시중은행"
-  ]
+  ],
+  "headline_en": "Mortgage rate at 4.66%, highest in 3 years 9 months; credit loan rate also tops 6%",
+  "summary_en": "In the Bank of Korea's August weighted average interest rates, the mortgage rate at deposit banks rose for the fourth consecutive month to 4.66%, the highest since November 2022, and the credit loan rate exceeded 6% at 6.33%. This is the combined result of consecutive base rate hikes and wider bank spreads, and with market rates rising further in September, household interest burdens are expected to keep growing.",
+  "headline_ja": "住宅ローン金利「4.66%」で3年9カ月ぶりの高水準…信用ローン金利も6%突破",
+  "summary_ja": "韓国銀行の8月の加重平均金利で、預金銀行の住宅担保ローン金利が4.66%と4カ月連続で上昇し、2022年11月以来の最高を記録し、信用ローン金利は6.33%で6%を超えた。政策金利の連続引き上げと銀行の加算金利拡大が重なった結果で、9月にも市場金利がさらに上昇し、家計の利払い負担は引き続き増す見通しだ。"
  },
  {
   "date": "2026-09-28",
@@ -1007,7 +1255,11 @@
   "orgs": [
    "금융위원회",
    "국회 정무위원회"
-  ]
+  ],
+  "headline_en": "Won stablecoin bill misses September; parliamentary debate may slip to November",
+  "summary_en": "The government's draft Digital Asset Basic Act, which would institutionalize won-denominated stablecoins, has missed its September target, and National Assembly discussions are expected to be delayed to November. This is because differences over the issuer (bank consortium vs. allowing non-banks) and regulation of exchanges' major shareholders have not narrowed. Concerns were raised that the longer the regulatory vacuum lasts, the greater the reliance on overseas dollar stablecoins.",
+  "headline_ja": "ウォン建てステーブルコイン法案、9月を越える…国会審議は11月にずれ込むか",
+  "summary_ja": "ウォン建てステーブルコインの制度化を盛り込んだデジタル資産基本法の政府案が9月の目標を越え、国会審議が11月に遅れる見通しだ。発行主体（銀行コンソーシアムか非銀行の容認か）と取引所の大株主規制をめぐる意見の相違が縮まらないためだ。制度の空白が長引くほど、海外のドル建てステーブルコインへの依存が高まるとの懸念が提起された。"
  },
  {
   "date": "2026-09-22",
@@ -1021,7 +1273,11 @@
   ],
   "orgs": [
    "서울외환시장"
-  ]
+  ],
+  "headline_en": "Dollar strength pushes exchange rate back up",
+  "summary_en": "With the dollar strengthening after the Fed's hike, the won-dollar exchange rate, which had been falling since July, rebounded in late September. The highest level of September (the 1,380 won range) was recorded around this day, but the monthly average was 1,359 won, 3.4% lower than the previous month, so it was assessed as a temporary rebound within a downward trend.",
+  "headline_ja": "ドル高、再び上昇する為替レート",
+  "summary_ja": "FRBの利上げ後にドルが強含み、7月から下落していたウォン・ドル相場は9月下旬に再び反発した。9月に入って最も高い水準（1380ウォン台）がこの日前後に記録されたが、月平均は1359ウォンで前月より3.4%低く、下落傾向の中での一時的な反発と評価された。"
  },
  {
   "date": "2026-09-17",
@@ -1036,7 +1292,11 @@
   ],
   "orgs": [
    "미 연준"
-  ]
+  ],
+  "headline_en": "September 2026 FOMC Comments: Fed raises policy rate to 3.75-4.00%",
+  "summary_en": "At the September FOMC, the U.S. Federal Reserve raised its policy rate by 0.25 percentage points to 3.75-4.00%. It was a unanimous hike after five consecutive holds, and in the dot plot 16 of 18 members signaled further hikes within the year, which the market took as more hawkish than expected. As the Korea-U.S. interest rate gap widened again, it became a source of pressure for further Bank of Korea hikes and exchange rate volatility.",
+  "headline_ja": "2026年9月FOMCコメント：FRB、政策金利を3.75〜4.00%に引き上げ",
+  "summary_ja": "米FRBは9月のFOMCで政策金利を0.25%ポイント引き上げ、3.75〜4.00%とした。5回連続の据え置き後の全会一致での利上げで、ドットチャートでは委員18人中16人が年内の追加利上げを示唆し、市場は予想よりタカ派的と受け止めた。韓米の金利逆転幅が再び拡大し、韓国銀行の追加利上げ圧力と為替変動の要因となった。"
  },
  {
   "date": "2026-09-09",
@@ -1051,7 +1311,11 @@
   ],
   "orgs": [
    "금융위원회"
-  ]
+  ],
+  "headline_en": "August 2026 household lending trends (preliminary) and 'Household Debt Review Meeting' held",
+  "summary_en": "Household loans across the entire financial sector rose 2.6 trillion won in August, a much smaller increase than in July (6.4 trillion won). Mortgage loans rose 4.3 trillion won, but other loans including credit loans fell 1.7 trillion won, turning to a decline for the first time in four months, and the secondary financial sector decreased by 0.8 trillion won. It is a sign that demand for debt-financed investment is cooling after the rate hikes.",
+  "headline_ja": "2026年8月の家計向け融資動向（暫定）および「家計債務点検会議」開催",
+  "summary_ja": "8月の全金融業界の家計向け融資は2.6兆ウォン増加し、7月（6.4兆ウォン）より増加幅が大きく縮小した。住宅担保ローンは4.3兆ウォン増えたが、信用ローンなどその他融資が1.7兆ウォン減って4カ月ぶりに減少に転じ、第2金融圏は0.8兆ウォン減少した。利上げ後に借金投資の需要が冷え込んでいるシグナルだ。"
  },
  {
   "date": "2026-08-27",
@@ -1067,7 +1331,11 @@
    "한국은행"
   ],
   "video": "https://www.youtube.com/watch?v=TVynoCzy5ps",
-  "video_channel": "KBS News"
+  "video_channel": "KBS News",
+  "headline_en": "Bank of Korea raises base rate again to 3%, preemptively addressing inflation concerns amid growth",
+  "summary_en": "On August 27, the Bank of Korea's Monetary Policy Board raised the base rate from 2.75% to 3.00% per year, a second consecutive monthly hike following July. Board member Hwang Gun-il dissented in favor of a hold, and the growth forecast for this year was raised to 3.3% to reflect the semiconductor boom. Since the market had expected a hold, the decision was more hawkish than expected, further increasing upward pressure on mortgage and credit loan rates.",
+  "headline_ja": "韓国銀行金通委、政策金利を年3%に連続引き上げ…成長の中で物価懸念に先手",
+  "summary_ja": "韓国銀行の金融通貨委員会は8月27日、政策金利を年2.75%から3.00%に引き上げ、7月に続き2カ月連続の利上げとなった。黄健一（ファン・ゴンイル）委員が据え置きの少数意見を出し、半導体の好調を反映して今年の成長率見通しを3.3%に上方修正した。市場は据え置きを予想していただけに予想よりタカ派的な決定で、住宅担保ローン・信用ローン金利の上昇圧力が一段と強まった。"
  },
  {
   "date": "2026-08-21",
@@ -1083,7 +1351,11 @@
   "orgs": [
    "더불어민주당",
    "국회 정무위원회"
-  ]
+  ],
+  "headline_en": "Ruling party: \"We must seize leadership in the stablecoin market\"; pushes to pass basic act in second half",
+  "summary_en": "At a seminar on August 21, the ruling party said it would make sure to pass the Digital Asset Basic Act, which would institutionalize won-denominated stablecoins, in the second half of the year. With the original target of passage in the first quarter repeatedly postponed, key issues are whether issuance will be bank-centered and limits on the stakes of exchanges' major shareholders. If the law passes, protections for domestic virtual asset investors and the environment for won stablecoin payments will change.",
+  "headline_ja": "与党「ステーブルコイン市場の主導権を握るべき」…下半期に基本法成立を推進",
+  "summary_ja": "与党は8月21日のセミナーで、ウォン建てステーブルコインの制度化を盛り込んだデジタル資産基本法を下半期に必ず成立させると明らかにした。当初の第1四半期処理目標が繰り返し先送りされる中、銀行中心の発行とするかどうかと、取引所の大株主の持ち分制限が主要な争点だ。法が成立すれば、国内の暗号資産投資家の保護とウォン建てステーブルコインの決済環境が変わる。"
  },
  {
   "date": "2026-08-14",
@@ -1098,7 +1370,11 @@
   "orgs": [
    "금융위원회",
    "한국은행"
-  ]
+  ],
+  "headline_en": "July household loans up 6.2 trillion won; growth slows for 2nd month as mortgage and credit loan increases shrink",
+  "summary_en": "According to the Financial Services Commission, household loans across the entire financial sector rose 6.2 trillion won in July, but growth slowed for the second consecutive month as increases in both mortgage and credit loans shrank. On the same day, the Bank of Korea announced that bank household loans rose 5.4 trillion won in July, approaching 20 trillion won over three months. It was the point at which loan growth began to turn down as rate hikes and volume management took effect together.",
+  "headline_ja": "7月の家計向け融資6.2兆ウォン増…住宅ローン・信用ローンの増加幅縮小で2カ月連続鈍化",
+  "summary_ja": "金融委員会の集計で、7月の全金融業界の家計向け融資は6.2兆ウォン増加したが、住宅担保ローンと信用ローンの増加幅がともに縮小し、2カ月連続で鈍化した。同日、韓国銀行は7月の銀行家計向け融資が5.4兆ウォン増え、3カ月で20兆ウォンに迫ったと発表した。利上げと総量管理がかみ合い、融資の増加傾向が折れ始めた時点だ。"
  },
  {
   "date": "2026-08-14",
@@ -1114,7 +1390,11 @@
   "orgs": [
    "서울외환시장",
    "미 연준"
-  ]
+  ],
+  "headline_en": "Dollar-won falls to 1,411 won on slowing U.S. inflation, rebounds late to 1,418.3 won",
+  "summary_en": "On news of slowing U.S. inflation, the won-dollar exchange rate fell to the 1,411 won range intraday before closing at 1,418.3 won. On the same day, the KOSPI ended up 2.42% at 6,977.94 on large-scale net buying by foreigners. It was a day that clearly showed overseas influence, with the exchange rate and stock market moving together on a single U.S. indicator.",
+  "headline_ja": "米物価鈍化でドル・ウォンは1411ウォンまで下落…終盤に反発し1418.3ウォン",
+  "summary_ja": "米国の物価鈍化のニュースで、ウォン・ドル相場は取引時間中に1411ウォン台まで下落した後、1418.3ウォンで取引を終えた。同日、外国人の大規模な買い越しでKOSPIは2.42%高の6977.94で取引を終えた。米国の指標一つで為替と株式市場が同時に動く、海外発の影響が鮮明な一日だった。"
  },
  {
   "date": "2026-08-13",
@@ -1132,7 +1412,11 @@
    "금융감독원"
   ],
   "video": "https://www.youtube.com/watch?v=3mqq1tYrVPY",
-  "video_channel": "KBS News"
+  "video_channel": "KBS News",
+  "headline_en": "\"Fixed after loans got blocked\": household loan volume target doubled",
+  "summary_en": "In its 'comprehensive financial measures for real estate market stabilization' on August 13, the financial authorities doubled this year's household loan volume growth target from 1.5% to 3.0%. The move came after the cumulative increase through July exceeded the annual target of 30 trillion won, blocking lending at bank branches and setting off a 'loan open run.' The aim is to maintain LTV and DSR regulations while managing genuine-demand loans such as relocation costs, interim payments and balance payments separately to prevent a year-end lending cliff.",
+  "headline_ja": "「融資が止まりついに手直し」…家計向け融資の総量目標を2倍に",
+  "summary_ja": "金融当局は8月13日の「不動産市場安定のための金融総合対策」で、今年の家計向け融資の総量増加率目標を1.5%から3.0%に2倍に引き上げた。7月までの累計増加額が年間目標の30兆ウォンを超え、銀行窓口での融資が止まり「融資オープンラン」が起きたことを受けた措置だ。LTV・DSR規制は維持しつつ、移転費・中途金・残金など実需向け融資は別途管理し、年末の融資の崖を防ぐ趣旨だ。"
  },
  {
   "date": "2026-07-31",
@@ -1148,7 +1432,11 @@
    "한국거래소"
   ],
   "video": "https://www.youtube.com/watch?v=Uid1pWXMWQw",
-  "video_channel": "연합뉴스TV"
+  "video_channel": "연합뉴스TV",
+  "headline_en": "\"Foreigners bought 7 trillion won in two hours\": KOSPI soars 17%, the biggest ever",
+  "summary_en": "On July 31, foreigners net bought more than 7 trillion won in the KOSPI intraday, and the index at one point surged as much as 17%, the largest jump on record. The semiconductor sector led the rally, rising more than 20%. The extreme volatility of repeated plunges followed by surges made for a market that posed great risk to leveraged and debt-financed investors.",
+  "headline_ja": "「外国人が2時間で7兆ウォン買い」…17%急騰のKOSPI「過去最大」",
+  "summary_ja": "7月31日、外国人がKOSPIで取引時間中に7兆ウォン超を買い越し、指数が一時17%まで急騰する過去最大幅の上昇となった。半導体業種が20%以上上昇し、上昇を牽引した。急落の後に急騰が繰り返される極端な変動性は、レバレッジ・借金投資家にとって大きなリスクとなる相場だった。"
  },
  {
   "date": "2026-07-28",
@@ -1162,7 +1450,11 @@
   ],
   "orgs": [
    "서울외환시장"
-  ]
+  ],
+  "headline_en": "Exchange rate falling step by step; closes at 1,462.4 won",
+  "summary_en": "The won-dollar exchange rate closed at 1,462.4 won on July 28, extending closes in the 1,400 won range for the tenth day. It reflects a steady decline from the June peak in the 1,550 won range on dollar selling by exporters and improved dollar supply, showing that the high-exchange-rate situation that had continued since autumn 2025 has effectively entered a resolution phase.",
+  "headline_ja": "じりじりと下がる為替レート…1462.4ウォンで終了",
+  "summary_ja": "ウォン・ドル相場は7月28日に1462.4ウォンで取引を終え、1400ウォン台の終値を10日連続で維持した。6月の1550ウォン台の高値から、輸出企業のドル売りとドル供給の改善で着実に下がる流れで、2025年秋から続いたウォン安事態が事実上解消局面に入ったことを示している。"
  },
  {
   "date": "2026-07-20",
@@ -1179,7 +1471,11 @@
    "신한금융",
    "하나금융",
    "우리금융"
-  ]
+  ],
+  "headline_en": "Big four financial groups' first-half net profit expected to top 11 trillion won; record high driven by both interest income and stock market",
+  "summary_en": "The consensus for the second-quarter net profit of the four major financial holding companies—KB, Shinhan, Hana and Woori—came to 5.7778 trillion won, signaling record first-half results exceeding 11 trillion won combined. Interest income was solid due to rising market rates, and brokerage and WM fees increased thanks to the booming stock market. As bank profits grow, pressure regarding the loan-deposit rate spread and the burden of inclusive finance also increases.",
+  "headline_ja": "4大金融持株、上半期純利益11兆ウォン突破の見通し…利子・株式市場の「両輪」で過去最大",
+  "summary_ja": "KB・新韓・ハナ・ウリィの4大金融持株会社の第2四半期純利益のコンセンサスは5兆7778億ウォンとなり、上半期合計で11兆ウォンを超える過去最大の業績が予告された。市場金利の上昇で利子利益が堅調で、株式市場の活況で証券・WM手数料が増えた影響だ。銀行の利益が大きくなるほど、預貸金利差と包容金融の負担に対する圧力も強まる構造だ。"
  },
  {
   "date": "2026-07-16",
@@ -1195,7 +1491,11 @@
    "한국은행"
   ],
   "video": "https://www.youtube.com/watch?v=aIUNGKIBflg",
-  "video_channel": "KBS News"
+  "video_channel": "KBS News",
+  "headline_en": "Korea Raises Rates for First Time Since 2023 on Chip-Led Boom",
+  "summary_en": "On July 16, the Bank of Korea's Monetary Policy Board raised the base rate by 0.25 percentage points from 2.50% to 2.75% per year. It was the first hike in three and a half years since January 2023 and marked the end of the easing cycle that began in late 2024, in a unanimous decision. The backdrop was inflation in the 3% range above target, combined with the semiconductor export boom and rising household loans and home prices, and it was a turning point at which interest burdens for variable-rate borrowers began to grow.",
+  "headline_ja": "韓国、半導体主導の好況で2023年以来初の利上げ",
+  "summary_ja": "韓国銀行の金融通貨委員会は7月16日、政策金利を年2.50%から2.75%へ0.25%ポイント引き上げた。2023年1月以来3年半ぶりの初の利上げで、2024年末から続いた利下げサイクルの終了となり、全会一致の決定だった。物価が3%台で目標を上回り、半導体輸出の好況と家計向け融資・住宅価格の上昇が重なったことが背景で、変動金利の借り手の利払い負担が増え始めた転換点だ。"
  },
  {
   "date": "2026-07-16",
@@ -1211,7 +1511,11 @@
   "orgs": [
    "한국거래소",
    "SK하이닉스"
-  ]
+  ],
+  "headline_en": "KOSPI plunges 5-6% on U.S. chip weakness, falls below 7,000 again",
+  "summary_en": "In the wake of weakness in U.S. chip stocks, including a sharp drop in the SK hynix ADR, the KOSPI plunged 5-6% intraday on July 16, giving up the 7,000 level again in just one day. In a market so heavily concentrated in semiconductors that it plunged right after rising more than 6% the previous day, the phase continued in which index volatility directly affected individual investors' gains and losses.",
+  "headline_ja": "KOSPI、米半導体安で5〜6%台急落…再び7,000台割れ",
+  "summary_ja": "SKハイニックスADRの急落など米半導体株安の余波で、7月16日にKOSPIは取引時間中に5〜6%台急落し、1日で再び7,000台を明け渡した。前日に6%超上昇した直後に急落するほど半導体への偏りが激しい相場で、指数の変動が個人投資家の損益に直結する局面が続いた。"
  },
  {
   "date": "2026-07-15",
@@ -1225,7 +1529,11 @@
   ],
   "orgs": [
    "금융위원회"
-  ]
+  ],
+  "headline_en": "\"Accelerating 'financial structural reform' to lead an irreplaceable Korea's great leap\" - FSC second-half work report",
+  "summary_en": "In its second-half work report, the Financial Services Commission presented key tasks including expanding the National Growth Fund, structural innovation of the KOSDAQ, institutionalizing inclusive finance, settling long-term delinquent debts and fully lifting network separation. With the direction being to maintain total household debt management while increasing financial support for small business owners and young people, it outlines the broad framework for the lending environment and policy finance products in the second half.",
+  "headline_ja": "「代替不可能な大韓民国の大躍進を先導する『金融構造改革』の加速」－金融委員会下半期業務報告",
+  "summary_ja": "金融委員会は下半期業務報告で、国民成長ファンドの拡大、KOSDAQの構造革新、包容金融の制度化、長期延滞債権の整理、ネットワーク分離の全面解除などを重点課題として提示した。家計債務の総量管理基調は維持しつつ、小規模事業者・青年向けの金融支援を増やす方向で、下半期の融資環境と政策金融商品の大枠を示している。"
  },
  {
   "date": "2026-07-13",
@@ -1240,7 +1548,11 @@
   ],
   "orgs": [
    "시중은행"
-  ]
+  ],
+  "headline_en": "Dollar deposits rise 9 trillion won as won-dollar rate falls to 1,400 won range",
+  "summary_en": "When the won-dollar exchange rate, which had stayed above 1,500 won for more than two months, fell to the 1,400 won range in July, bargain-buying demand surged and bank dollar deposits rose by about 9 trillion won. It is a sign that the high-exchange-rate phase has begun to turn, characterized by easing burdens on overseas travel, study abroad and import prices, alongside revived investor sentiment toward dollar assets.",
+  "headline_ja": "ウォン・ドル相場の1400ウォン台への下落でドル預金が9兆ウォン増加",
+  "summary_ja": "2カ月以上1500ウォンを上回っていたウォン・ドル相場が7月に入って1400ウォン台に下がると、安値買いの需要が集まり、銀行のドル預金が約9兆ウォン増加した。ウォン安局面が折れ始めたシグナルで、海外旅行・留学・輸入物価の負担が和らぐ一方、ドル資産への投資心理が回復したのが特徴だ。"
  },
  {
   "date": "2026-06-26",
@@ -1256,7 +1568,11 @@
    "한국거래소"
   ],
   "video": "https://www.youtube.com/watch?v=wznGJ6-jtus",
-  "video_channel": "MBCNEWS"
+  "video_channel": "MBCNEWS",
+  "headline_en": "[Market Insight] KOSPI plunge triggers sidecar and circuit breaker; 9,000 level slips away",
+  "summary_en": "On June 26, the KOSPI and KOSDAQ closed sharply lower, triggering a sell-side sidecar, and the KOSPI was even hit by a circuit breaker intraday. It was the second circuit breaker this week and the fifth this year, with individuals absorbing the large volumes sold by foreigners and institutions. As volatility peaked right after the index broke through 9,000, the risk of losses for individuals who had invested with borrowed money grew.",
+  "headline_ja": "【株式市場インサイト】KOSPI急落でサイドカー・サーキットブレーカー…遠のく9000台",
+  "summary_ja": "6月26日、KOSPIとKOSDAQが急落して取引を終え、売りサイドカーが発動され、KOSPIは取引時間中にサーキットブレーカーまで発動された。今週2回目、今年5回目のサーキットブレーカーで、外国人と機関が大量に売った分を個人が受け止める様相だった。9000台突破直後に変動性が極大化し、借金をして投資した個人の損失リスクが高まった。"
  },
  {
   "date": "2026-06-18",
@@ -1274,7 +1590,11 @@
    "SK하이닉스"
   ],
   "video": "https://www.youtube.com/watch?v=EX6XQO9gBp8",
-  "video_channel": "KBS News"
+  "video_channel": "KBS News",
+  "headline_en": "'9,000': KOSPI breaks through the ceiling, momentum builds for '10,000-pi'",
+  "summary_en": "On June 18, the KOSPI closed at 9,063.84, up 199.60 points (2.25%) from the previous day, topping the 9,000 level for the first time ever. It came 34 days after breaking 8,000, driven by strength in chip stocks such as SK hynix and eased war risk following the U.S.-Iran agreement to end the war, and the KOSPI's market capitalization hit a record 7,413 trillion won. Individuals and institutions took profits, and brokerages put forward forecasts of a '10,000-pi.'",
+  "headline_ja": "「9000」…天井を突き破ったKOSPI、勢いづく「1万ピ」",
+  "summary_ja": "6月18日、KOSPIは前日比199.60ポイント（2.25%）高の9063.84で取引を終え、史上初めて9000台を超えた。8000台突破から34日目で、SKハイニックスなど半導体株の上昇と米・イランの終戦合意による戦争リスクの緩和が背景にあり、KOSPIの時価総額は7413兆ウォンと過去最大を記録した。個人と機関は利益確定に動き、証券業界は「1万ピ」の見通しを示した。"
  },
  {
   "date": "2026-06-16",
@@ -1288,7 +1608,11 @@
   ],
   "orgs": [
    "한국은행"
-  ]
+  ],
+  "headline_en": "May MPB member who voted for hold: \"Need to consider rate hike for price stability\"",
+  "summary_en": "In the minutes of the May 28 Monetary Policy Board meeting released by the Bank of Korea on June 16, one member said it is necessary to consider a rate hike for price stability and that the risk of not acting has grown. Besides the two members who dissented in favor of a hike, two others also turned out to sympathize with a hike to 2.75%, further solidifying expectations of a July hike. For variable-rate mortgage borrowers, it was a signal that higher interest burdens were imminent.",
+  "headline_ja": "「金利据え置き」の5月金通委員「物価安定のため利上げの検討が必要」",
+  "summary_ja": "韓国銀行が6月16日に公開した5月28日の金通委議事録で、ある委員は物価安定のために利上げを検討する必要があり、行動しないリスクが高まったと述べた。利上げの少数意見を出した2人のほかに、別の2人も2.75%への引き上げに共感していたことが分かり、7月の利上げ期待が一層固まった。変動金利型住宅ローンの借り手にとっては、利払い負担の増加が迫っているシグナルだった。"
  },
  {
   "date": "2026-06-09",
@@ -1304,7 +1628,11 @@
   "orgs": [
    "국회",
    "금융위원회"
-  ]
+  ],
+  "headline_en": "When will the stablecoin bill come? All eyes on the National Assembly",
+  "summary_en": "Discussion of the Digital Asset Basic Act, which would provide the legal basis for issuing won-denominated stablecoins, has effectively stalled amid a change in the ruling party's leadership and the reshuffling of National Assembly standing committee chairs. The early-year target of 'passage in the first quarter' fell through, and other financial bills such as a financial holding company governance reform plan and a low-income financial stability fund are also tied up, leaving financial authorities watching the formation of the new standing committees. This means the introduction of protections for virtual asset investors is being delayed.",
+  "headline_ja": "ステーブルコイン法案はいつ？…国会に集まる視線",
+  "summary_ja": "ウォン建てステーブルコインの発行根拠を盛り込んだデジタル資産基本法の議論が、与党指導部の交代と国会常任委員長の再配置の過程で事実上止まった。年初の「第1四半期処理」目標は頓挫し、金融持株会社のガバナンス改編案、庶民金融安定基金など他の金融法案も足止めされ、金融当局は新たな常任委員会の構成を見守っている状況だ。暗号資産投資家の保護策づくりが遅れていることになる。"
  },
  {
   "date": "2026-05-29",
@@ -1318,7 +1646,11 @@
   ],
   "orgs": [
    "한국거래소"
-  ]
+  ],
+  "headline_en": "[Breaking] KOSPI hits another record high, closes at 8,476.15",
+  "summary_en": "On the 29th, the last trading day of May, the KOSPI closed at 8,476.15, setting another record closing high. Even though the Bank of Korea had signaled a July hike with a hawkish hold the previous day, expectations for semiconductor earnings underpinned the index. With the index, which started the year around 4,300, nearly doubling in five months, individual investors' valuation gains grew along with concerns about overheating.",
+  "headline_ja": "【速報】KOSPI、また史上最高値…8476.15で終了",
+  "summary_ja": "5月最後の営業日である29日、KOSPIは8476.15で取引を終え、終値ベースの史上最高値を再び更新した。前日に韓国銀行がタカ派的据え置きで7月の利上げを予告したにもかかわらず、半導体業績への期待が指数を下支えした。年初に4300台から始まった指数が5カ月で2倍近く上昇し、個人投資家の評価益とともに過熱への懸念も高まった。"
  },
  {
   "date": "2026-05-28",
@@ -1334,7 +1666,11 @@
    "한국은행"
   ],
   "video": "https://www.youtube.com/watch?v=sdbu2zDnyMA",
-  "video_channel": " YTN"
+  "video_channel": " YTN",
+  "headline_en": "BOK holds base rate at 2.50% for 8th straight time; \"could have raised this time\" makes July hike a foregone conclusion",
+  "summary_en": "At the May 28 Monetary Policy Board meeting, the first since Governor Shin Hyun-song took office, the Bank of Korea held the base rate at 2.50% per year for the eighth consecutive time, but members Jang Yong-sung and Yoo Sang-dae dissented in favor of a 0.25-percentage-point hike. The 2026 growth forecast was raised from 2.0% to 2.6% and the inflation forecast from 2.2% to 2.7%, and Governor Shin said \"it is necessary to raise the base rate at an appropriate time.\" The market accepted a July hike as a foregone conclusion, and households with loans had to prepare for increased interest burdens.",
+  "headline_ja": "韓国銀行、8回連続で政策金利を年2.50%に据え置き…「今回引き上げることもできた」7月利上げは既定路線に",
+  "summary_ja": "申鉉松総裁の就任後初の金通委となった5月28日、韓国銀行は政策金利を年2.50%で8回連続据え置いたが、張容成（チャン・ヨンソン）、劉相大（ユ・サンデ）両委員が0.25%ポイント引き上げの少数意見を出した。2026年の成長率見通しは2.0%から2.6%に、物価見通しは2.2%から2.7%に引き上げ、申総裁は「適切な時期に政策金利を引き上げる必要がある」と述べた。市場は7月の利上げを既定事実として受け止め、融資を抱える家計は利払い負担の増加に備えなければならない状況となった。"
  },
  {
   "date": "2026-05-15",
@@ -1352,7 +1688,11 @@
    "SK하이닉스"
   ],
   "video": "https://www.youtube.com/watch?v=lN57goHc-ik",
-  "video_channel": "KBS News"
+  "video_channel": "KBS News",
+  "headline_en": "KOSPI breaks through 8,000, opening the era of the 'dream 8,000-pi'",
+  "summary_en": "On May 15, the KOSPI topped the 8,000 level for the first time ever around 9:19 a.m. and rose as high as 8,046.78 intraday. The record came seven trading days after breaking 7,000, with Samsung Electronics and SK hynix accounting for much of the gains on increased demand for memory chips driven by AI capital spending. Brokerages forecast 10,000 points within the year, but concerns about foreign selling and short-term volatility were also raised.",
+  "headline_ja": "KOSPI、8,000も突破…「夢の8千ピ」時代の幕開け",
+  "summary_ja": "5月15日、KOSPIは午前9時19分ごろに史上初めて8000台を超え、取引時間中に8046.78まで上昇した。7000台突破から7営業日での記録で、AI設備投資によるメモリー半導体需要の増加で、サムスン電子とSKハイニックスが上昇分の相当部分を牽引した。証券業界からは年内1万ポイントの見通しが出たが、外国人の売りと短期的な変動性への懸念も同時に提起された。"
  },
  {
   "date": "2026-05-11",
@@ -1368,7 +1708,11 @@
    "한국거래소",
    "삼성전자",
    "SK하이닉스"
-  ]
+  ],
+  "headline_en": "KOSPI breaks 7,800 intraday, another record high",
+  "summary_en": "On May 11, the KOSPI opened at 7,775.31, up 3.7%, crossed the 7,800 level intraday for the first time and set another record high, while the combined market capitalization of the KOSPI and KOSDAQ exceeded 7,000 trillion won. Semiconductors led the rally, with SK hynix rising more than 10% and Samsung Electronics topping 290,000 won intraday. Hyundai Motor Securities set a year-end target of 9,750, and JP Morgan put forward 10,000 in its bull scenario, as forecasts were raised one after another.",
+  "headline_ja": "取引時間中に7,800台突破…KOSPIがまた史上最高値",
+  "summary_ja": "5月11日、KOSPIは3.7%急騰の7775.31で始まり、取引時間中に初めて7800台を超えてまたも史上最高値を記録し、KOSPI・KOSDAQの合計時価総額は7000兆ウォンを超えた。SKハイニックスが10%以上上昇し、サムスン電子が取引時間中に29万ウォンを超えるなど、半導体がラリーを主導した。現代自動車証券は年末目標値を9750、JPモルガンは強気シナリオとして1万を提示し、見通しが相次いで引き上げられた。"
  },
  {
   "date": "2026-05-08",
@@ -1385,7 +1729,11 @@
    "하나금융",
    "KB금융",
    "신한금융"
-  ]
+  ],
+  "headline_en": "[DQN] Big four financial groups: rising risks behind record results; Woori faces 'profitability', Hana 'loss absorption' challenges [Financial Firms 2026 Q1 League Table]",
+  "summary_en": "Analysis shows that although the four major financial holding companies posted record first-quarter results, the increase in risk-weighted assets from expanded corporate lending and the high exchange rate are putting pressure on capital ratios and asset soundness. Woori Financial's net profit fell due to higher provisions and costs despite increased interest income, and Hana Financial's NPL coverage ratio fell below 100%, weakening its loss-absorbing capacity. This means the impact of a prolonged high exchange rate and high interest rates on bank soundness has become visible.",
+  "headline_ja": "【DQN】4大金融、過去最大の業績の裏でリスク拡大…ウリィは「収益性」・ハナは「損失吸収力」が課題【金融会社2026年第1四半期リーグテーブル】",
+  "summary_ja": "4大金融持株会社は第1四半期に過去最大の業績を上げたが、企業向け融資の拡大によるリスク加重資産の増加とウォン安が自己資本比率と資産健全性を圧迫しているとの分析だ。ウリィ金融は利子利益が増えたにもかかわらず引当金・費用の増加で純利益が減少し、ハナ金融は不良債権カバレッジ比率が100%を下回り、損失吸収力が弱まった。ウォン安・高金利の長期化が銀行の健全性に及ぼす影響が顕在化したことになる。"
  },
  {
   "date": "2026-05-06",
@@ -1401,7 +1749,11 @@
    "한국거래소"
   ],
   "video": "https://www.youtube.com/watch?v=NxMGxa9y5Lc",
-  "video_channel": " YTN"
+  "video_channel": " YTN",
+  "headline_en": "KOSPI tops 7,000; market cap also exceeds 6,000 trillion won",
+  "summary_en": "On May 6, the KOSPI opened at 7,093, up 2.25% from the previous trading day, surpassing the 7,000 level for the first time ever. It came just over two months after breaking 6,000; a buy-side sidecar was triggered six minutes after the open, the index soared as high as the 7,300 level intraday, and the market capitalization of listed shares exceeded 6,000 trillion won. In the bull market driven by the semiconductor boom, inflows of individual investor funds accelerated further.",
+  "headline_ja": "KOSPI 7,000突破…時価総額も6000兆ウォン超え",
+  "summary_ja": "5月6日、KOSPIは前営業日比2.25%高の7093で始まり、史上初めて7000台を超えた。6000台突破から2カ月余りで、取引開始6分後に買いサイドカーが発動され、取引時間中に7300台まで急騰し、上場株式の時価総額は6000兆ウォンを突破した。半導体好況が牽引する強気相場で、個人投資家の資金流入がさらに加速した。"
  },
  {
   "date": "2026-04-24",
@@ -1418,7 +1770,11 @@
    "신한금융",
    "하나금융",
    "우리금융"
-  ]
+  ],
+  "headline_en": "Banks pulled, brokerages pushed: big four financial groups' Q1 net profit at record 5.3 trillion won",
+  "summary_en": "The combined first-quarter 2026 net profit of the four major financial holding companies—KB, Shinhan, Hana and Woori—was 5.3288 trillion won, up 8.1% from a year earlier, a record high. KB Financial posted 1.8924 trillion won, Shinhan 1.6226 trillion won and Hana 1.21 trillion won, with non-interest income such as brokerage affiliate fees from the booming stock market lifting results, while only Woori Financial fell slightly to 603.8 billion won. For households holding financial group shares, expectations of higher dividends grew, while for loan customers, the controversy over interest burdens intensified at the same time.",
+  "headline_ja": "銀行が引っ張り証券が押した…4大金融、第1四半期純利益5.3兆ウォンで「過去最大」",
+  "summary_ja": "KB・新韓・ハナ・ウリィの4大金融持株会社の2026年第1四半期の合計純利益は5兆3288億ウォンで、前年同期比8.1%増加し過去最大を記録した。KB金融1兆8924億ウォン、新韓1兆6226億ウォン、ハナ1兆2100億ウォンで、株式市場の活況による証券子会社の手数料など非利子利益が業績を押し上げ、ウリィ金融のみ6038億ウォンと小幅に減少した。金融持株株を保有する家計には配当拡大への期待が、融資顧客には利払い負担をめぐる論争が同時に高まった。"
  },
  {
   "date": "2026-04-21",
@@ -1435,7 +1791,11 @@
    "한국은행"
   ],
   "video": "https://www.youtube.com/watch?v=_VuDcwgO1e4",
-  "video_channel": "KBS News"
+  "video_channel": "KBS News",
+  "headline_en": "BOK Governor Shin Hyun-song: \"A time of great transition; we must strengthen price and financial stability\"",
+  "summary_en": "At his inauguration ceremony on April 21, new Bank of Korea Governor Shin Hyun-song referred to a 'time of great transition' driven by geopolitical tensions and AI, and said he would safeguard both price and financial stability through prudent and flexible monetary policy. He also pledged to strengthen early-warning capabilities using market price signals, expand the won's international role, build digital payment and settlement infrastructure, and carry on predecessor Governor Rhee Chang-yong's structural reform agenda. With a change at the head of interest rate decisions, interest grew in the direction of monetary policy in the second half.",
+  "headline_ja": "申鉉松韓国銀行総裁「大転換の時期…物価・金融安定を強化すべき」",
+  "summary_ja": "申鉉松新韓国銀行総裁は4月21日の就任式で、地政学的緊張とAIが牽引する「大転換の時期」に言及し、慎重かつ柔軟な金融政策で物価と金融の安定をともに守ると述べた。市場価格シグナルを活用した早期警報能力の強化、ウォンの国際的役割の拡大とデジタル決済インフラの構築、前任の李昌鏞（イ・チャンヨン）総裁の構造改革課題の継承も約束した。金利決定のトップが交代し、下半期の金融政策の方向性への関心が高まった。"
  },
  {
   "date": "2026-04-10",
@@ -1451,7 +1811,11 @@
    "한국은행"
   ],
   "video": "https://www.youtube.com/watch?v=6UtEHl1nJ2Y",
-  "video_channel": "MBCNEWS"
+  "video_channel": "MBCNEWS",
+  "headline_en": "BOK unanimously holds base rate at 2.5%; war-driven 'inflation, exchange rate, growth' dilemma",
+  "summary_en": "On April 10, the Bank of Korea's Monetary Policy Board held the base rate at 2.50% per year for the seventh consecutive time. With upward pressure on prices and downward pressure on growth both intensifying due to the Middle East war and the exchange rate above 1,500 won, all seven members voted for a hold. It was Governor Rhee Chang-yong's last Monetary Policy Board meeting, and the market focused on the possibility of a hike in the second half after the new governor takes office.",
+  "headline_ja": "韓国銀行、政策金利2.5%で全会一致の据え置き…戦争発の「物価・為替・成長」ジレンマ",
+  "summary_ja": "韓国銀行の金融通貨委員会は4月10日、政策金利を年2.50%で7回連続据え置いた。中東戦争で物価の上振れ圧力と成長の下振れ圧力が同時に高まり、為替レートが1500ウォンを上回る状況で、委員7人全員が据え置きに賛成した。李昌鏞総裁の最後の金通委で、市場は新総裁就任後の下半期の利上げの可能性に注目した。"
  },
  {
   "date": "2026-04-06",
@@ -1466,7 +1830,11 @@
   "orgs": [
    "한국은행",
    "키움증권"
-  ]
+  ],
+  "headline_en": "[Morning Report] BOK's April MPB meeting expected to deliver 'hawkish hold'; rate-cut cycle over",
+  "summary_en": "Ahead of the April Monetary Policy Board meeting, Kiwoom Securities and others in the market expected the Bank of Korea to opt for a 'hawkish hold,' keeping rates unchanged while emphasizing inflation risks, and said the rate-cut cycle that began in 2024 has effectively ended. The future direction of rates depends on oil prices and U.S.-Iran negotiations, and the possibility of a hike next year was also mentioned. Households with variable-rate loans entered a phase in which they had to give up hopes for falling rates.",
+  "headline_ja": "【モーニングリポート】韓国銀行4月金通委、「タカ派的据え置き」の見通し…利下げサイクル終了",
+  "summary_ja": "4月の金通委を前に、キウム証券など市場は、韓国銀行が金利を据え置きつつ物価リスクを強調する「タカ派的据え置き」を選び、2024年から続いた利下げサイクルは事実上終わったと予想した。今後の金利の方向性は原油価格と米・イラン交渉にかかっており、来年の利上げの可能性も取り沙汰された。変動金利の融資を抱える家計は、金利低下への期待を捨てなければならない局面となった。"
  },
  {
   "date": "2026-04-01",
@@ -1481,7 +1849,11 @@
   ],
   "orgs": [
    "금융위원회"
-  ]
+  ],
+  "headline_en": "'2026 Household Debt Management Plan' announced to decouple the real estate market from finance",
+  "summary_en": "The Financial Services Commission, jointly with related ministries, announced the 2026 household debt management plan. It lowered the household loan growth target to 1.5%, below the previous year's actual figure (1.7%), and set a medium- to long-term goal of reducing the household debt-to-GDP ratio to 80% by 2030. From April 17, maturity extensions on mortgage loans to multiple-home owners and rental business operators secured by apartments in the Seoul metropolitan area and regulated areas are in principle not allowed, putting those households under pressure to repay or sell.",
+  "headline_ja": "不動産市場と金融の切り離しに向けた「2026年度家計債務管理方案」発表",
+  "summary_ja": "金融委員会は関係省庁と合同で2026年の家計債務管理方案を発表した。家計向け融資の増加率目標を1.5%と前年実績（1.7%）より引き下げ、家計債務の対GDP比率を2030年に80%まで下げる中長期目標を立てた。首都圏・規制地域のマンションを担保とする複数住宅保有者・賃貸事業者の住宅担保ローンは、4月17日から原則として満期延長が認められず、該当する家計は返済や売却の圧力を受けることになった。"
  },
  {
   "date": "2026-03-30",
@@ -1496,7 +1868,11 @@
   ],
   "orgs": [
    "외환당국"
-  ]
+  ],
+  "headline_en": "\"Same 1,500 won, different crisis\": exchange rate emergency qualitatively different from January",
+  "summary_en": "Analysis suggests that the won-dollar exchange rate, which hovered around 1,500 won throughout March, differs in nature from January's high exchange rate. While the surge at the start of the year was mainly due to an imbalance in domestic dollar supply and demand, in March the oil price spike from the Middle East war, dollar strength and record foreign capital outflows combined, prompting warnings that it could spread into a real-economy crisis. It was also pointed out that the government's policy tools are limited, since raising rates could further dampen consumption and investment.",
+  "headline_ja": "「同じ1500ウォン、違う危機」…1月とは質的に異なる為替非常事態",
+  "summary_ja": "3月を通じて1500ウォン前後を行き来したウォン・ドル相場は、1月のウォン安とは性格が異なるとの分析だ。年初の急騰は国内のドル需給の不均衡が主因だったが、3月は中東戦争による原油急騰、ドル高、過去最大の外国人資金流出が重なり、実体経済の危機に波及しかねないとの警告が出た。金利を上げれば消費・投資がさらに萎縮しかねず、政府の対応手段も限られているとの指摘だ。"
  },
  {
   "date": "2026-03-16",
@@ -1513,7 +1889,11 @@
    "외환시장"
   ],
   "video": "https://www.youtube.com/watch?v=SHn2nSOWDoM",
-  "video_channel": " YTN"
+  "video_channel": " YTN",
+  "headline_en": "'1,500 won exchange rate' breached in daytime trading too, first in 17 years since the financial crisis",
+  "summary_en": "On March 16, the won-dollar exchange rate exceeded 1,500 won in daytime trading. It is the highest level in 17 years since the global financial crisis in March 2009, after having already broken 1,500 won in night trading on March 4 and 13. The causes were the oil price spike due to the Iran war and dollar strength, and household burdens grew due to rising import prices and higher costs of overseas consumption.",
+  "headline_ja": "「為替1500ウォン」日中取引でも突破…金融危機以来17年ぶり",
+  "summary_ja": "3月16日、ウォン・ドル相場が日中取引で1500ウォンを超えた。2009年3月のグローバル金融危機以来17年ぶりの水準で、これに先立ち3月4日と13日の夜間取引でも1500ウォンを突破していた。イラン戦争による原油急騰とドル高が原因で、輸入物価の上昇と海外消費コストの増加で家計の負担が大きくなった。"
  },
  {
   "date": "2026-03-15",
@@ -1528,7 +1908,11 @@
   ],
   "orgs": [
    "한국투자증권"
-  ]
+  ],
+  "headline_en": "\"Exchange rate could go above 1,550 won\": the won swayed more by oil prices",
+  "summary_en": "As the military conflict between the U.S. and Israel and Iran dragged on and oil prices surged, the won-dollar exchange rate closed in on 1,500 won, and the won weakened by a larger margin than other major currencies. This is due to high dependence on energy imports combined with foreign stock selling, and Korea Investment & Securities saw a base scenario of the mid-1,400 won range to 1,550 won, and above 1,550 won possible if the war is prolonged. It is a phase in which rising fuel and import prices translate directly into higher household price burdens.",
+  "headline_ja": "「為替は1550ウォン以上もあり得る」…原油価格にいっそう振り回される「ウォン」",
+  "summary_ja": "米国・イスラエルとイランの軍事衝突が長引き原油価格が急騰する中、ウォン・ドル相場は1500ウォンに迫り、ウォンは主要通貨の中でもより大きな幅で下落した。エネルギーの輸入依存度が高く、外国人の株式売りが重なったためで、韓国投資証券は基本シナリオとして1400ウォン台半ば〜1550ウォン、戦争が長期化すれば1550ウォン以上もあり得るとみた。燃料価格と輸入物価の上昇が家計の物価負担に直結する局面だ。"
  },
  {
   "date": "2026-02-26",
@@ -1542,7 +1926,11 @@
   ],
   "orgs": [
    "한국은행"
-  ]
+  ],
+  "headline_en": "What to watch at the February MPB meeting amid expectations of a rate hold",
+  "summary_en": "Ahead of the February 26 Monetary Policy Board meeting, the market regarded a sixth consecutive hold of the base rate at 2.50% as a foregone conclusion. Attention focused on whether the Bank of Korea would leave room for further cuts, how much it would raise its 2026 growth forecast from 1.8%, and how it would present the 2027 growth and inflation path. For households hoping for lower lending rates, the signal that the easing cycle was coming to an end was important.",
+  "headline_ja": "政策金利据え置き見通しの中、2月金通委で注目すべき点は",
+  "summary_ja": "2月26日の金通委を前に、市場は政策金利2.50%の6回連続据え置きを既定事実とみていた。関心は、韓国銀行が追加利下げの余地を残すか、1.8%だった2026年の成長率見通しをどれだけ引き上げるか、2027年の成長・物価の経路をどう示すかに集まった。貸出金利の低下を期待していた家計には、利下げサイクルが終わりつつあるというシグナルが重要だった。"
  },
  {
   "date": "2026-02-26",
@@ -1558,7 +1946,11 @@
    "한국은행"
   ],
   "video": "https://www.youtube.com/watch?v=93hKD4b0xmY",
-  "video_channel": "MBCNEWS"
+  "video_channel": "MBCNEWS",
+  "headline_en": "BOK Holds Base Rate Steady as Economic Risks Roughly Balanced",
+  "summary_en": "On February 26, the Bank of Korea's Monetary Policy Board unanimously held the base rate at 2.50% per year. It was the sixth consecutive hold, and on the same day the 2026 growth forecast was raised from 1.8% to 2.0%, with inflation running above the 2% target cited as the reason for the hold. Expectations for further declines in mortgage and credit loan rates weakened accordingly.",
+  "headline_ja": "韓国銀行、景気リスクは均衡との判断の中で政策金利を据え置き",
+  "summary_ja": "韓国銀行の金融通貨委員会は2月26日、政策金利を年2.50%で全会一致で据え置いた。6回連続の据え置きで、同日、2026年の成長率見通しは1.8%から2.0%に上方修正され、物価が目標の2%を上回っている点が据え置きの背景に挙げられた。住宅担保ローン・信用ローン金利のさらなる低下への期待はその分弱まった。"
  },
  {
   "date": "2026-02-25",
@@ -1574,7 +1966,11 @@
    "한국거래소"
   ],
   "video": "https://www.youtube.com/watch?v=rddnXKk7OT8",
-  "video_channel": "KBS News"
+  "video_channel": "KBS News",
+  "headline_en": "[Photo] KOSPI closes above 6,000, the era of the 'dream 6,000-pi'",
+  "summary_en": "On February 25, the KOSPI closed at 6,083.86, up 114.22 points (1.91%) from the previous session, ending trading above the 6,000 level for the first time ever. The record came just over a month after breaking 5,000, market capitalization also exceeded 5,000 trillion won for the first time, and the year-to-date gain reached 44%. As individual investor funds flowed rapidly into the stock market, warnings of overheating were also issued.",
+  "headline_ja": "【フォト】KOSPI、6000台突破で終了…夢の6千ピ時代",
+  "summary_ja": "2月25日、KOSPIは前場比114.22ポイント（1.91%）高の6083.86で取引を終え、史上初めて6000台の上で取引を終えた。5000台突破から1カ月余りでの記録で、時価総額も初めて5000兆ウォンを超え、年初来の上昇率は44%に達した。個人投資家の資金が急速に株式市場に流入する中、過熱への警告も同時に出された。"
  },
  {
   "date": "2026-01-28",
@@ -1589,7 +1985,11 @@
   ],
   "orgs": [
    "금융위원회"
-  ]
+  ],
+  "headline_en": "Lee Eog-weon: \"Household debt management to be further tightened in 2026; growth to be kept below 1.8%\"",
+  "summary_en": "Financial Services Commission Chairman Lee Eog-weon said bank household loan growth in 2026 will be managed below the existing 1.8%. Inclusive finance such as loans to low-credit borrowers will be partially excluded from the management target so that the supply of funds to ordinary people does not shrink, and he also presented plans to increase home pension payments, reform financial sector governance in March and launch a public-participation National Growth Fund in June. With reduced loan limits signaled, the remarks directly affected households planning to buy homes.",
+  "headline_ja": "李億遠氏「2026年は家計債務管理を一段と強化…増加率は1.8%より低く管理」",
+  "summary_ja": "李億遠金融委員長は、2026年の銀行の家計向け融資増加率を従来の1.8%より低く管理すると明らかにした。低信用者向け融資など包容金融は管理目標から一部除外して庶民への資金供給が萎縮しないようにし、住宅年金の支給額拡大、3月の金融業界のガバナンス改革、6月の国民参加型国民成長ファンドの発売計画も併せて示した。融資限度の縮小が予告されただけに、住宅購入を計画する家計に直接影響を与える発言だった。"
  },
  {
   "date": "2026-01-27",
@@ -1605,7 +2005,11 @@
    "한국거래소"
   ],
   "video": "https://www.youtube.com/watch?v=rjrI4wpIV6w",
-  "video_channel": "연합뉴스TV"
+  "video_channel": "연합뉴스TV",
+  "headline_en": "KOSPI tops 5,000: 'future growth engines' key to going beyond the January effect",
+  "summary_en": "On January 27, the KOSPI closed at 5,084.85, ending above the 5,000 level for the first time ever. Following the intraday breakthrough on the 22nd, it confirmed the 5,000 era on a closing basis as well, and brokerages saw the possibility of a technical correction after the short-term surge, while viewing 'future growth engine' industries beyond semiconductors as key to sustaining the rally. It marked the point at which the wealth effect for households with large stock holdings began in earnest.",
+  "headline_ja": "KOSPI 5000突破…1月効果を超える鍵は「未来の成長産業」",
+  "summary_ja": "1月27日、KOSPIは終値ベースで5084.85となり、史上初めて5000台で取引を終えた。22日の取引時間中の突破に続き、終値でも5000時代を確定させたもので、証券業界は短期急騰に伴うテクニカルな調整の可能性とともに、半導体に続く「未来の成長産業」が上昇基調持続の鍵だとみた。株式の比重が大きい家計の資産効果が本格化した時点だ。"
  },
  {
   "date": "2026-01-22",
@@ -1619,7 +2023,11 @@
   ],
   "orgs": [
    "한국거래소"
-  ]
+  ],
+  "headline_en": "[Money+] The dream 'KOSPI 5,000' finally achieved; outlook mixed between hope and worry",
+  "summary_en": "On January 22, the KOSPI crossed the 5,000 level intraday for the first time in the history of the Korean stock market. It is assessed as the result of a chip-led rally, government stock market stimulus measures and the 'January effect' of early-year strength, but cautious views were also raised over narrow market breadth, the weak won and the AI bubble debate. It became a catalyst for a surge in individual investors' participation in the stock market.",
+  "headline_ja": "【マネー+】夢の「KOSPI 5000」ついに達成…見通しは期待半分・懸念半分",
+  "summary_ja": "1月22日、KOSPIは韓国株式市場の歴史上初めて取引時間中に5000台を超えた。半導体株主導の上昇と政府の株式市場振興策、年初に強含む「1月効果」が重なった結果と評価されるが、市場の幅の狭さやウォン安、AIバブル論争など慎重論も同時に提起された。個人投資家の株式市場への参加が急増するきっかけとなった。"
  },
  {
   "date": "2026-01-09",
@@ -1635,7 +2043,11 @@
   "orgs": [
    "재정경제부",
    "금융위원회"
-  ]
+  ],
+  "headline_en": "Stablecoin law to be passed by March: economy minister reports to presidential office",
+  "summary_en": "The government reported to the presidential office a schedule to pass the enactment bill for the Digital Asset Basic Act concerning won-denominated stablecoins within the first quarter (March) and to pursue amendments to related laws in the second half. With issues such as the method of phased bank participation still unresolved, the actual pace of legislation was uncertain, and the bill's passage was later pushed back to the second half. It was a timetable that would determine the direction of virtual asset investor protection and won-based digital payment infrastructure.",
+  "headline_ja": "ステーブルコイン法、3月までに処理…経済副首相が大統領府に報告",
+  "summary_ja": "政府は、ウォン建てステーブルコイン関連のデジタル資産基本法制定案を第1四半期（3月）内に処理し、下半期に関連法の改正に着手する日程を大統領室に報告した。銀行の段階的参加方式などの争点が残っており、実際の立法のスピードは不透明で、その後法案処理は下半期にずれ込んだ。暗号資産投資家の保護とウォン建てデジタル決済インフラの行方を分ける日程表だった。"
  },
  {
   "date": "2026-01-08",
@@ -1650,7 +2062,11 @@
   ],
   "orgs": [
    "외환시장"
-  ]
+  ],
+  "headline_en": "Exchange rate is again the 2026 keyword: market braced for up to 1,500 won, players crunching the numbers",
+  "summary_en": "Analysis suggests that with the won-dollar exchange rate returning to the 1,450 won range at the start of the year, the market is even considering the possibility of 1,500 won. The cause is a structural imbalance in won-dollar supply and demand, including expanded deficit-covering bond issuance and capital outflows; banks are calculating pressure on capital ratios, refiners and airlines cost burdens, and shipbuilders and automakers the benefits. For households, it translates into higher costs for imported consumer goods and overseas payments.",
+  "headline_ja": "2026年の焦点は再び「為替」…1500ウォンまで覚悟する市場、「電卓」をたたくプレーヤーたち",
+  "summary_ja": "年初にウォン・ドル相場が1450ウォン台に戻り、市場は1500ウォンの可能性まで念頭に置いているとの分析だ。赤字国債の発行拡大や資本流出などウォン・ドル需給の構造的な不均衡が原因で、銀行は自己資本比率への圧力を、精油・航空はコスト負担を、造船・自動車は恩恵をそれぞれ計算している。家計にとっては、輸入消費財と海外決済コストの上昇につながる流れだ。"
  },
  {
   "date": "2026-01-05",
@@ -1667,7 +2083,11 @@
    "금융위원회",
    "한국은행",
    "국회"
-  ]
+  ],
+  "headline_en": "Digital Asset Basic Act to be introduced in National Assembly this month; battle for stablecoin leadership heats up in new year",
+  "summary_en": "The Digital Asset Basic Act (phase-two virtual asset legislation), which would provide the legal basis for issuing won-denominated stablecoins, is reportedly to be introduced in the National Assembly in January. With the Financial Services Commission, which has left open the possibility of allowing non-bank operators, and the Bank of Korea, which insists on bank-majority consortia, divided over the issuer, banks and big tech companies have entered a race to get ahead. For ordinary investors, the concern is whether institutional safeguards for won-based digital asset transactions will be put in place.",
+  "headline_ja": "デジタル資産基本法、今月国会に発議…新年にステーブルコイン主導権争いが本格化",
+  "summary_ja": "ウォン建てステーブルコインの発行根拠を盛り込んだデジタル資産基本法（暗号資産第2段階立法）が1月中に国会に発議される見通しだと伝えられた。発行主体をめぐり、非銀行事業者の容認に含みを持たせた金融委員会と、銀行過半のコンソーシアムに固執する韓国銀行の立場が分かれる中、銀行とビッグテックが先取り競争に乗り出した。一般投資家にとっては、ウォン建てデジタル資産取引の制度的な安全装置が整うかどうかが関心事だ。"
  },
  {
   "date": "2026-01-02",
@@ -1681,7 +2101,11 @@
   ],
   "orgs": [
    "한국거래소"
-  ]
+  ],
+  "headline_en": "KOSPI hits record high on first trading day of 2026",
+  "summary_en": "On January 2, the first trading day of 2026, the KOSPI closed at 4,309.63, up 95.46 points (2.27%) from the previous trading day, setting a new record high. Expectations for corporate earnings centered on semiconductors lifted the index from the start of the year, marking the starting point of a rally that went on to break the 5,000 and 6,000 levels. It had the effect of swelling the valuation of assets held by households with stock, fund and pension accounts from the beginning of the year.",
+  "headline_ja": "KOSPI、2026年最初の取引日から史上最高値を更新",
+  "summary_ja": "2026年最初の取引日である1月2日、KOSPIは前営業日比95.46ポイント（2.27%）高の4309.63で取引を終え、史上最高値を更新した。半導体中心の企業利益への期待が年初から指数を押し上げ、その後の5000・6000台突破につながるラリーの出発点となった。株式・ファンド・年金口座を持つ家計の資産評価額が年初から膨らむ効果があった。"
  },
  {
   "date": "2026-01-01",
@@ -1695,6 +2119,10 @@
   ],
   "orgs": [
    "조선비즈"
-  ]
+  ],
+  "headline_en": "[2026 Exchange Rate Outlook] 85% of macroeconomists: \"Won-dollar rate at 1,400-1,450 won this year\"",
+  "summary_en": "In a Chosun Biz survey of 20 macroeconomic experts, 17 forecast an average won-dollar exchange rate of 1,400-1,450 won for 2026. The diagnosis is that the record-high exchange rate, which averaged 1,422 won in 2025, will continue this year due to expanded overseas investment by individuals, companies and the National Pension Service. For households, it means the burden of import prices and overseas travel and study costs will remain high.",
+  "headline_ja": "【2026年為替大展望】マクロ経済専門家の85%「今年のウォン・ドル相場は1400〜1450ウォン」",
+  "summary_ja": "朝鮮ビズがマクロ経済専門家20人を対象に調査した結果、17人が2026年の年平均ウォン・ドル相場を1400〜1450ウォンと予想した。2025年の年平均1422ウォンという過去最高水準のウォン安が、個人・企業・国民年金の海外投資拡大により今年も続くとの診断だ。家計にとっては、輸入物価と海外旅行・留学費用の負担が引き続き高く維持されることを意味する。"
  }
 ]
