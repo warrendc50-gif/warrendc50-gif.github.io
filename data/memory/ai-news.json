@@ -95,6 +95,25 @@
   ]
  },
  {
+  "date": "2026-10-22",
+  "headline": "마이크론 중국 CXMT와 '4F² D램' 경쟁 회의적, 삼성전자와 SK하이닉스 선택의 기로",
+  "headline_ko": "마이크론, 중국 CXMT의 '4F² D램'에 회의적…삼성전자·SK하이닉스 선택의 기로",
+  "outlet": "비즈니스포스트",
+  "url": "https://www.businesspost.co.kr/BP?command=article_view&num=449996",
+  "video": "",
+  "summary_ko": "마이크론이 21일 온라인 사업설명회에서 D램·HBM·낸드 기술 로드맵을 발표하며, 중국 CXMT가 추진하는 4F² D램에는 회의적인 입장을 보이고 미세공정과 3D D램에 집중하겠다고 밝혔다. 두 회사의 기술 경로가 엇갈리면서 삼성전자와 SK하이닉스도 선택의 기로에 설 수 있다는 분석이 나온다.",
+  "topics": [
+   "chips",
+   "korea"
+  ],
+  "orgs": [
+   "Micron",
+   "CXMT",
+   "삼성전자",
+   "SK하이닉스"
+  ]
+ },
+ {
   "date": "2026-10-21",
   "headline": "NVIDIA Advances Isaac Platform for General-Purpose Robotics With New Reference Humanoid, Frameworks, Simulation Pipelines and Data",
   "headline_ko": "엔비디아, GTC 베를린서 아이작 로보틱스 플랫폼 확장…레퍼런스 휴머노이드 공개",
