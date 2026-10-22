@@ -247,6 +247,21 @@
   ]
  },
  {
+  "date": "2026-10-21",
+  "headline": "Anthropic announces preview of Claude Duet, a personal AI agent to take on Muse, Dots",
+  "headline_ko": "앤트로픽, 개인 AI 에이전트 '클로드 듀엣' 미리보기 공개…메타 Muse·Dots와 경쟁",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/10/21/anthropic-preview-of-claude-duet-personal-ai-agent-take-on-muse-dots.html",
+  "video": "",
+  "summary_ko": "앤트로픽이 사용자를 대신해 먼저 일을 처리하는 개인 AI 에이전트 '클로드 듀엣'의 미리보기 버전을 공개했다. 메타의 Muse, Dots 같은 개인 비서형 AI 에이전트와 경쟁하는 제품이다.",
+  "topics": [
+   "model"
+  ],
+  "orgs": [
+   "Anthropic"
+  ]
+ },
+ {
   "date": "2026-10-20",
   "headline": "OpenAI acquires Orchestra Bio to bring AI agents into drug development",
   "headline_ko": "오픈AI, 신약개발 AI 에이전트 스타트업 오케스트라 바이오 인수",
