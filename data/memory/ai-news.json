@@ -420,6 +420,24 @@
   ]
  },
  {
+  "date": "2026-10-21",
+  "headline": "애플, 한국어 지원 '시리 AI' 이달 공개…네이버·카카오 연동",
+  "headline_ko": "애플, 한국어 지원 '시리 AI' 이달 공개…네이버·카카오 연동",
+  "outlet": "ZDNet Korea",
+  "url": "https://zdnet.co.kr/view/?no=20261021160933",
+  "video": "",
+  "summary_ko": "애플이 한국어를 지원하는 '시리 AI'를 이달 공개한다. 네이버와 카카오 서비스와도 연동된다.",
+  "topics": [
+   "model",
+   "korea"
+  ],
+  "orgs": [
+   "Apple",
+   "Naver",
+   "Kakao"
+  ]
+ },
+ {
   "date": "2026-10-20",
   "headline": "OpenAI acquires Orchestra Bio to bring AI agents into drug development",
   "headline_ko": "오픈AI, 신약개발 AI 에이전트 스타트업 오케스트라 바이오 인수",
