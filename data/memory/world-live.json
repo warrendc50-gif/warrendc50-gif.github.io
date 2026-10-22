@@ -31,6 +31,22 @@
  ],
  "items": [
   {
+   "date": "2026-10-22",
+   "headline": "U.S., Israel prepare for renewed Iran strikes after midterm elections - NYT",
+   "headline_ko": "NYT \"미국·이스라엘, 중간선거 뒤 이란 재공습 계획 마련\"",
+   "outlet": "Investing.com",
+   "url": "https://www.investing.com/news/economy-news/us-israel-prepare-for-renewed-iran-strikes-after-midterm-elections--nyt-4964461",
+   "video": "",
+   "summary_ko": "뉴욕타임스에 따르면 미국과 이스라엘 군이 11월 3일 미국 중간선거 이후 이란을 다시 공습하는 계획을 마련했다. 핵시설과 에너지 기반시설, 미사일·드론 시스템을 겨냥한 짧고 강한 공격이 검토되고 있으며, 최종 결정은 내려지지 않았다.",
+   "topics": [
+    "conflict"
+   ],
+   "orgs": [
+    "US military",
+    "IDF"
+   ]
+  },
+  {
    "date": "2026-10-21",
    "headline": "Japan braces for 30th named storm this year as Typhoon Champi heads for Okinawa",
    "headline_ko": "슈퍼태풍 '참피' 오키나와 사키시마 열도로 북상…대만·필리핀 바타네스도 영향권",
@@ -757,6 +773,21 @@
    "orgs": [
     "우크라이나",
     "러시아"
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "headline": "Gaza: Funding cuts leave half a million without food assistance",
+   "headline_ko": "WFP, 자금 부족에 가자 주민 50만명 식량 지원 중단",
+   "outlet": "UN News",
+   "url": "https://news.un.org/en/story/2026/10/1168622",
+   "video": "",
+   "summary_ko": "유엔 세계식량계획(WFP)이 자금 부족으로 가자지구 식량 지원 대상을 월 160만명에서 110만명으로 줄였다. 약 50만명이 지원을 받지 못하게 되며, 식량 배급량도 절반으로 줄었다.",
+   "topics": [
+    "health"
+   ],
+   "orgs": [
+    "WFP"
    ]
   },
   {
