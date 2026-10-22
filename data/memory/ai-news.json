@@ -17,6 +17,21 @@
   ]
  },
  {
+  "date": "2026-10-22",
+  "headline": "DeepSeek raises $15 billion, aims for Shanghai IPO in early 2027",
+  "headline_ko": "딥시크, 150억달러 투자 유치…2027년 초 상하이 상장 추진",
+  "outlet": "Digital Today",
+  "url": "https://www.digitaltoday.co.kr/en/view/118385/deepseek-raises-15-billion-aims-for-shanghai-ipo-in-early-2027",
+  "video": "",
+  "summary_ko": "월스트리트저널이 소식통을 인용해 중국 AI 기업 딥시크가 두 번째 비공개 투자 라운드에서 150억달러를 유치했다고 보도했다. 투자 수요가 몰려 당초 목표의 약 두 배로 늘었으며, 딥시크는 2027년 초 상하이 증시 상장을 추진하고 있다.",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "DeepSeek"
+  ]
+ },
+ {
   "date": "2026-10-21",
   "headline": "NVIDIA Advances Isaac Platform for General-Purpose Robotics With New Reference Humanoid, Frameworks, Simulation Pipelines and Data",
   "headline_ko": "엔비디아, GTC 베를린서 아이작 로보틱스 플랫폼 확장…레퍼런스 휴머노이드 공개",
@@ -279,6 +294,22 @@
   ]
  },
  {
+  "date": "2026-10-21",
+  "headline": "Exclusive: AI code-testing startup Blacksmith hits $1 billion valuation as AI-written code surges",
+  "headline_ko": "AI 코드 테스트 스타트업 블랙스미스, 기업가치 10억달러 돌파",
+  "outlet": "Fortune",
+  "url": "https://fortune.com/2026/10/21/exclusive-ai-code-testing-startup-blacksmith-hits-1-billion-valuation-as-ai-written-code-surges",
+  "video": "",
+  "summary_ko": "AI 코드 테스트 인프라 스타트업 블랙스미스가 세쿼이아캐피털 주도로 6600만달러를 투자받아 기업가치 10억달러를 인정받았다. AI가 작성하는 코드가 급증하면서 이를 검증하는 도구 수요가 커지고 있다.",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "Blacksmith",
+   "Sequoia Capital"
+  ]
+ },
+ {
   "date": "2026-10-20",
   "headline": "OpenAI acquires Orchestra Bio to bring AI agents into drug development",
   "headline_ko": "오픈AI, 신약개발 AI 에이전트 스타트업 오케스트라 바이오 인수",
@@ -517,6 +548,21 @@
   ],
   "orgs": [
    "OpenAI"
+  ]
+ },
+ {
+  "date": "2026-10-20",
+  "headline": "Former OpenAI exec has quietly built $1.5 billion startup, betting AI can revive U.S. manufacturing",
+  "headline_ko": "오픈AI 출신 밥 맥그루의 제조업 AI 스타트업 '아르다', 기업가치 15억달러",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/10/20/ex-openai-executive-builds-1point5-billion-ai-manufacturing-startup-arda.html",
+  "video": "",
+  "summary_ko": "오픈AI 임원 출신 밥 맥그루가 세운 제조업 AI 스타트업 아르다가 2억3000만달러를 투자받아 기업가치 15억달러를 인정받았다. 투자는 알티미터캐피털, 액셀, 코슬라벤처스가 주도했다.",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "Arda"
   ]
  },
  {
