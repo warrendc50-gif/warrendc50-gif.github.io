@@ -19,8 +19,10 @@
 - 수익화(쿠팡 배너, AdSense), 자동 글 빈도 같은 설정은 **운영자에게 먼저 묻고** 바꾼다.
 
 ## Memory 게시판 (/memory/)
-- config.json `memory.boards`에 분야(ai-news, world-economy, korea-economy)가 있다. 한국어 사이트 전용.
+- config.json `memory.boards`에 분야(ai-news, world-economy, korea-economy)가 있다. 한국어·영어(/en/memory/)·일본어(/ja/memory/) 사이트에 모두 만들어진다.
+  영어·일본어 게시판 이름과 설명은 config.json `translations.<lang>.memory`에 있다. 운영자 메모(giscus)는 한국어 사이트에만 둔다.
 - 각 분야의 기사 목록은 `data/memory/<board-key>.json`(배열)에 있다. 항목 키: date(YYYY-MM-DD), headline(원문), headline_ko, outlet, url, summary_ko(2~3문장), topics(목록), orgs(목록).
+  각 항목에는 headline_en·summary_en·headline_ja·summary_ja도 넣는다. 한국어 제목·요약을 그대로 옮긴 번역이고(새 사실을 더하지 않는다), 원문 제목이 영어면 headline_en은 원문 그대로 쓴다. 이 칸이 없는 항목은 영어·일본어 페이지에서 원문 제목만 보인다.
   topics 값은 autoblog/memory.py `TOPIC_LABELS`에 있는 키만 쓴다. 페이지는 최신순·월별로 묶고, 헤드라인을 누르면 요약과 원문 링크가 열린다.
 - 기사 추가: 운영자가 링크나 주제를 주면 **실제 검색 결과에서 확인한 URL만** 항목으로 추가한다. 헤드라인·날짜·URL을 지어내지 않는다. 같은 사건은 한 건만.
 - 운영자 메모는 giscus(GitHub Discussions) 위젯. `giscus.category_id`가 비어 있으면 위젯이 나오지 않는다.

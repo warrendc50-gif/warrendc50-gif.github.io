@@ -120,6 +120,7 @@ def test_memory_boards(tmp_path, monkeypatch):
          "url": "https://example.com/a?x=1&y=2", "summary_ko": "요약 A", "topics": ["model"], "orgs": ["OpenAI"]},
         {"date": "2026-03-09", "headline": "새 소식", "headline_ko": "새 소식", "outlet": "연합뉴스",
          "url": "https://example.com/b", "summary_ko": "요약 B", "topics": ["policy", "korea"], "orgs": ["과기정통부"],
+         "headline_en": "New story", "summary_en": "Summary B",
          "video": "https://www.youtube.com/watch?v=abc123", "video_channel": "연합뉴스TV"},
     ], ensure_ascii=False), encoding="utf-8")
     (data_dir / "world-live.json").write_text(json.dumps({
@@ -150,7 +151,12 @@ def test_memory_boards(tmp_path, monkeypatch):
     assert "아직 모아 둔 기사가 없습니다" in empty
     assert "memory/ai-news/" in (public_dir / "sitemap.xml").read_text(encoding="utf-8")
     assert "/memory/" in (public_dir / "index.html").read_text(encoding="utf-8")  # nav link
-    assert "/memory/" not in (public_dir / "en/index.html").read_text(encoding="utf-8")  # Korean only
+    assert "/en/memory/" in (public_dir / "en/index.html").read_text(encoding="utf-8")  # every language has it
+    board_en = (public_dir / "en/memory/ai-news/index.html").read_text(encoding="utf-8")
+    assert "New story" in board_en and "Summary B" in board_en and "October" not in board_en
+    assert "March 2026" in board_en and "Policy &amp; regulation" in board_en and "요약 B" not in board_en
+    assert "Old &lt;story&gt;" in board_en  # no English fields: the original headline is shown
+    assert 'hreflang="ja"' in board_en and "giscus.app" not in board_en
     privacy = (public_dir / "privacy/index.html").read_text(encoding="utf-8")
     assert "<h1>개인정보처리방침</h1>" in privacy and "giscus" in privacy  # Korean page, not the English one
 

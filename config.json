@@ -61,6 +61,32 @@
           "emoji": "🎬",
           "desc": "Know-how on vMix, live streaming and broadcast audio"
         }
+      },
+      "memory": {
+        "title": "Memory",
+        "desc": "The operator's scrapbook of notable articles, sorted by field",
+        "boards": {
+          "world-live": {
+            "name": "Global Breaking Live",
+            "emoji": "🚨",
+            "desc": "Riots, conflicts, disasters and other breaking events worldwide, with live channels"
+          },
+          "ai-news": {
+            "name": "Latest AI News",
+            "emoji": "🤖",
+            "desc": "AI industry news, new models and services, and notable analysis"
+          },
+          "world-economy": {
+            "name": "Global Economy",
+            "emoji": "🌍",
+            "desc": "The global economy, rates and currencies, and major economies"
+          },
+          "korea-economy": {
+            "name": "Korean Economy",
+            "emoji": "🇰🇷",
+            "desc": "Korea's economy, housing and rates, and news that affects households"
+          }
+        }
       }
     },
     "ja": {
@@ -85,6 +111,32 @@
           "name": "映像・放送ノート",
           "emoji": "🎬",
           "desc": "vMix、配信、放送音響の現場ノウハウ"
+        }
+      },
+      "memory": {
+        "title": "Memory",
+        "desc": "運営者が注目した記事や資料を分野別にまとめたスクラップブック",
+        "boards": {
+          "world-live": {
+            "name": "世界の緊急ライブ",
+            "emoji": "🚨",
+            "desc": "暴動・紛争・災害など、いま世界で起きている緊急事態とライブ配信"
+          },
+          "ai-news": {
+            "name": "AI最新ニュース",
+            "emoji": "🤖",
+            "desc": "AI業界の動き、新モデル・サービスの発表、注目の分析記事"
+          },
+          "world-economy": {
+            "name": "世界経済",
+            "emoji": "🌍",
+            "desc": "世界の景気、金利・為替、主要国の経済ニュース"
+          },
+          "korea-economy": {
+            "name": "韓国経済",
+            "emoji": "🇰🇷",
+            "desc": "韓国の景気、不動産・金利、家計に影響する経済ニュース"
+          }
         }
       }
     }

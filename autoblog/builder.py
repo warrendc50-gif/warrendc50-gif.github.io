@@ -228,8 +228,8 @@ def _nav_links(cfg: dict, current: str) -> str:
     items = [(key, f"{base}/category/{key}/", c["name"]) for key, c in cfg["categories"].items()]
     if _is_ko(cfg):  # the calculators are Korea-specific (KRW, pyeong), so they stay Korean-only
         items.append(("tools", f"{base}/tools/", "계산기"))
-        if cfg.get("memory", {}).get("boards"):
-            items.append(("memory", f"{base}/memory/", cfg["memory"]["title"]))
+    if cfg.get("memory", {}).get("boards"):
+        items.append(("memory", f"{base}/memory/", cfg["memory"]["title"]))
     return "".join(
         f'<a href="{href}"{" class=on" if key == current else ""}>{escape(name)}</a>'
         for key, href, name in items
@@ -528,11 +528,15 @@ def build_site(cfg: dict) -> int:
                  canonical=f"{base}/tools/", nav="tools", langs=["ko"]))
 
     urls += [f"{base}/tools/"] + [f"{base}/tools/{t['slug']}/" for t in TOOLS]
-    for path, title, description, body in memory_pages(cfg):
-        _write(PUBLIC_DIR / path / "index.html",
-               _page(cfg, title, body, nav="memory", description=description,
-                     canonical=f"{base}/{path}", path=path, langs=["ko"], body_class="memory-page"))
-        urls.append(f"{base}/{path}")
+    # Memory boards exist in every site language; the /<lang>/ pages read headline_<lang>/summary_<lang>.
+    for lang in site_languages(cfg):
+        lcfg = cfg if lang == "ko" else lang_config(cfg, lang)
+        out = PUBLIC_DIR if lang == "ko" else PUBLIC_DIR / lang
+        for path, title, description, body in memory_pages(lcfg):
+            _write(out / path / "index.html",
+                   _page(lcfg, title, body, nav="memory", description=description,
+                         canonical=f"{lcfg['site_url']}/{path}", path=path, body_class="memory-page"))
+            urls.append(f"{lcfg['site_url']}/{path}")
     sitemap = "".join(f"<url><loc>{escape(u)}</loc></url>" for u in urls)
     _write(PUBLIC_DIR / "sitemap.xml",
            f'<?xml version="1.0" encoding="UTF-8"?>\n'

@@ -6,7 +6,9 @@ branch per topic or per organization, one dot per article) and, below it, the he
 first, grouped by month, with topic filters and a search box; each headline expands to a Korean
 summary and a link to the original article. Clicking a dot on the timeline opens that headline.
 A giscus widget (GitHub Discussions) for operator notes renders once giscus is configured.
-Korean site only.
+Built for the Korean site and for each translation site (/en/, /ja/): items carry headline_<lang>
+and summary_<lang>, and an item without them shows its original headline only. The operator
+notes stay on the Korean site.
 """
 import json
 from collections import Counter, OrderedDict
@@ -30,6 +32,76 @@ TOPIC_LABELS = {
     "fed": "미 연준·금리", "centralbank": "중앙은행", "markets": "글로벌 증시", "trade": "무역·관세",
     "energy": "에너지·원자재", "china": "중국 경제", "macro": "성장·물가·고용", "crisis": "위기·채무·환율",
 }
+TOPIC_LABELS_I18N = {
+    "ko": TOPIC_LABELS,
+    "en": {
+        "model": "Models & products", "chips": "Chips & infra", "policy": "Policy & regulation",
+        "business": "Investment & companies", "research": "Research & safety", "korea": "Korea",
+        "rates": "Rates & monetary policy", "fx": "FX", "stocks": "Stocks", "realestate": "Housing & household debt",
+        "banks": "Banks & financials", "crypto": "Crypto", "global": "Global spillovers",
+        "unrest": "Protests & riots", "conflict": "War & conflict", "disaster": "Disasters & weather",
+        "accident": "Accidents", "terror": "Terror & security", "politics": "Political upheaval",
+        "health": "Health", "economy": "Economic shocks",
+        "fed": "Fed & US rates", "centralbank": "Central banks", "markets": "Global markets",
+        "trade": "Trade & tariffs", "energy": "Energy & commodities", "china": "China economy",
+        "macro": "Growth, inflation & jobs", "crisis": "Crises, debt & currencies",
+    },
+    "ja": {
+        "model": "モデル・製品", "chips": "半導体・インフラ", "policy": "政策・規制", "business": "投資・企業",
+        "research": "研究・安全", "korea": "韓国",
+        "rates": "金利・金融政策", "fx": "為替", "stocks": "株式", "realestate": "不動産・家計債務",
+        "banks": "銀行・金融機関", "crypto": "暗号資産", "global": "海外からの影響",
+        "unrest": "デモ・暴動", "conflict": "戦争・紛争", "disaster": "災害・気象", "accident": "事故",
+        "terror": "テロ・治安", "politics": "政変", "health": "保健", "economy": "経済ショック",
+        "fed": "米FRB・金利", "centralbank": "中央銀行", "markets": "世界の株式市場", "trade": "貿易・関税",
+        "energy": "エネルギー・資源", "china": "中国経済", "macro": "成長・物価・雇用", "crisis": "危機・債務・通貨",
+    },
+}
+# Page texts per language. "month" formats a month header from (year, month).
+UI = {
+    "ko": {"all": "전체", "search": "검색: 회사, 키워드, 언론사", "count": "건", "as_of": "기준",
+           "empty": "아직 모아 둔 기사가 없습니다.", "orig": "원제", "read": "원문 보기 ↗",
+           "video": "영상 보기", "video_title": "영상 보기 (YouTube)", "yt_search": "YouTube에서 영상 검색",
+           "yt_search_title": "YouTube에서 관련 영상 검색", "timeline": "타임라인",
+           "tl_hint": "누르면 펼쳐집니다 · 왼쪽 끝이 오늘 · 뉴스 없는 날은 건너뜀 · 연도·월을 여러 개 골라 볼 수 있고, 위의 분류·검색도 그대로 적용됩니다",
+           "period": "기간", "by_topic": "분야별", "by_org": "회사·기관별", "other": "기타",
+           "today": "오늘", "day": "일", "mo": "월", "tl_empty": "선택한 기간에 해당하는 기사가 없습니다.",
+           "view_all": "전체 {n}건 보기 →", "open_board": "게시판 열기 →",
+           "month": lambda y, m: f"{y}년 {m}월"},
+    "en": {"all": "All", "search": "Search: company, keyword, outlet", "count": " articles", "as_of": "as of",
+           "empty": "No articles yet.", "orig": "Original headline", "read": "Read the original ↗",
+           "video": "Watch video", "video_title": "Watch video (YouTube)", "yt_search": "Search YouTube for videos",
+           "yt_search_title": "Search YouTube for related videos", "timeline": "Timeline",
+           "tl_hint": "Click to expand · today is on the far left · days without news are skipped · pick several years or months; the topic filter and search above still apply",
+           "period": "Period", "by_topic": "By topic", "by_org": "By company", "other": "Other",
+           "today": "Today", "day": "", "mo": "", "tl_empty": "No articles in the selected period.",
+           "view_all": "View all {n} →", "open_board": "Open board →",
+           "month": lambda y, m: f"{date(y, m, 1):%B} {y}"},
+    "ja": {"all": "すべて", "search": "検索: 企業、キーワード、メディア", "count": "件", "as_of": "時点",
+           "empty": "まだ記事がありません。", "orig": "原題", "read": "元記事を読む ↗",
+           "video": "動画を見る", "video_title": "動画を見る (YouTube)", "yt_search": "YouTubeで動画を検索",
+           "yt_search_title": "YouTubeで関連動画を検索", "timeline": "タイムライン",
+           "tl_hint": "クリックで展開 · 左端が今日 · ニュースのない日は省略 · 年・月は複数選択でき、上の分類・検索もそのまま適用されます",
+           "period": "期間", "by_topic": "分野別", "by_org": "企業・機関別", "other": "その他",
+           "today": "今日", "day": "日", "mo": "月", "tl_empty": "選択した期間の記事はありません。",
+           "view_all": "全{n}件を見る →", "open_board": "ボードを開く →",
+           "month": lambda y, m: f"{y}年{m}月"},
+}
+
+
+def _lang(cfg: dict) -> str:
+    return cfg.get("language", "ko") if cfg.get("language") in UI else "ko"
+
+
+def headline(item: dict, lang: str) -> str:
+    """The headline shown on a page in lang; falls back to the original headline."""
+    return item.get(f"headline_{lang}") or item["headline"]
+
+
+def summary(item: dict, lang: str) -> str:
+    return item.get(f"summary_{lang}") or ""
+
+
 YOUTUBE_SEARCH = "https://www.youtube.com/results?search_query="
 # Branch colors for the timeline; chosen to read on both the light and the dark background.
 LANE_COLORS = ["#2563eb", "#0f9f8f", "#d97706", "#7c3aed", "#dc2626", "#0891b2", "#65a30d", "#db2777", "#6b7280"]
@@ -173,16 +245,16 @@ MEMORY_JS = """
   var panel=document.querySelector('.tl-panel');
   function renderTl(){ if(dataEl&&host&&panel&&panel.open) draw(); }
   if(!dataEl||!host||!bar) return;
-  var D=JSON.parse(dataEl.textContent), COLORS=D.colors, ALT=D.alt;
+  var D=JSON.parse(dataEl.textContent), COLORS=D.colors, ALT=D.alt, U=D.ui;
   var allMonths=[]; D.items.forEach(function(it){var m=it.d.slice(0,7); if(allMonths.indexOf(m)<0)allMonths.push(m);});
   allMonths.sort().reverse();
   var years=[]; allMonths.forEach(function(m){var y=m.slice(0,4); if(years.indexOf(y)<0)years.push(y);});
   function monthsOf(y){return allMonths.filter(function(m){return m.slice(0,4)===y;});}
   function buildBar(){
-    var h='<button class="chip pchip on" data-all="1">전체</button>';
+    var h='<button class="chip pchip on" data-all="1">'+U.all+'</button>';
     years.forEach(function(y){
       h+='<span class="pgroup"><button class="chip pchip yr" data-year="'+y+'">'+y+'</button>';
-      monthsOf(y).forEach(function(m){h+='<button class="chip pchip mo" data-month="'+m+'">'+parseInt(m.slice(5),10)+'월</button>';});
+      monthsOf(y).forEach(function(m){h+='<button class="chip pchip mo" data-month="'+m+'">'+(U.mn?U.mn[parseInt(m.slice(5),10)-1]:parseInt(m.slice(5),10)+U.mo)+'</button>';});
       h+='</span>';
     });
     bar.innerHTML=h;
@@ -210,7 +282,7 @@ MEMORY_JS = """
     var mode=tlMode();
     var ms=per.size?allMonths.filter(function(m){return per.has(m);}):allMonths.slice();
     var vis=D.items.filter(function(it){var el=byId[it.i]; return ms.indexOf(it.d.slice(0,7))>=0&&!(el&&el.hidden);});
-    if(!vis.length){host.innerHTML='<p class="news-empty">선택한 기간에 해당하는 기사가 없습니다.</p>';return;}
+    if(!vis.length){host.innerHTML='<p class="news-empty">'+esc(U.empty)+'</p>';return;}
     var lanes=[];
     if(mode==='topic'){
       var cnt={}; vis.forEach(function(it){it.t.forEach(function(t){cnt[t]=(cnt[t]||0)+1;});});
@@ -218,9 +290,9 @@ MEMORY_JS = """
         .forEach(function(t){lanes.push({label:D.labels[t]||t,items:vis.filter(function(it){return it.t.indexOf(t)>=0;})});});
     } else {
       var oc={}; vis.forEach(function(it){oc[it.o]=(oc[it.o]||0)+1;});
-      var top=Object.keys(oc).filter(function(o){return o!=='기타';}).sort(function(a,b){return oc[b]-oc[a];}).slice(0,8);
+      var top=Object.keys(oc).filter(function(o){return o!==U.other;}).sort(function(a,b){return oc[b]-oc[a];}).slice(0,8);
       top.forEach(function(o){lanes.push({label:o,items:vis.filter(function(it){return it.o===o;})});});
-      var rest=vis.filter(function(it){return top.indexOf(it.o)<0;}); if(rest.length)lanes.push({label:'기타',items:rest});
+      var rest=vis.filter(function(it){return top.indexOf(it.o)<0;}); if(rest.length)lanes.push({label:U.other,items:rest});
     }
     // Only days that have news get a column (newest on the left, starting at today), so empty
     // stretches of time are skipped instead of drawn as blank space.
@@ -234,15 +306,15 @@ MEMORY_JS = """
     days.forEach(function(d){colW[d]=perDay[d]?Math.max(72,62*perDay[d]):40; colX[d]=cx; cx+=colW[d];});
     var width=Math.round(cx+right), height=top+lanes.length*laneH+8;
     function x(d,k,n){return colX[d]+(k+0.5)*colW[d]/n;}
-    var s='<svg class="tl" viewBox="0 0 '+width+' '+height+'" width="'+width+'" height="'+height+'" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="타임라인">';
+    var s='<svg class="tl" viewBox="0 0 '+width+' '+height+'" width="'+width+'" height="'+height+'" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="'+esc(U.timeline)+'">';
     days.forEach(function(d,i){
       var x0=colX[d], newMonth=i===0||days[i-1].slice(0,7)!==d.slice(0,7);
       s+='<line class="grid'+(newMonth?'':' wk')+'" x1="'+x0+'" y1="'+(top-6)+'" x2="'+x0+'" y2="'+(height-4)+'"/>';
-      s+='<text class="mo wk" x="'+(x0+colW[d]/2)+'" y="'+(top-12)+'" text-anchor="middle">'+(+d.slice(8,10))+'일</text>';
+      s+='<text class="mo wk" x="'+(x0+colW[d]/2)+'" y="'+(top-12)+'" text-anchor="middle">'+(+d.slice(8,10))+U.day+'</text>';
       if(newMonth)s+='<text class="mo" x="'+(x0+3)+'" y="'+(top-22)+'">'+d.slice(2,4)+'.'+d.slice(5,7)+'</text>';
     });
     if(colX[td]!==undefined){ var tx=colX[td]+colW[td]/2;
-      s+='<line class="today" x1="'+tx+'" y1="'+(top-4)+'" x2="'+tx+'" y2="'+(height-4)+'"/><text class="today-lb" x="'+(tx+4)+'" y="'+(top-2)+'">오늘</text>'; }
+      s+='<line class="today" x1="'+tx+'" y1="'+(top-4)+'" x2="'+tx+'" y2="'+(height-4)+'"/><text class="today-lb" x="'+(tx+4)+'" y="'+(top-2)+'">'+esc(U.today)+'</text>'; }
     var y1=top+laneH/2, y2=top+(lanes.length-1)*laneH+laneH/2;
     s+='<line class="spine" x1="14" y1="'+y1+'" x2="14" y2="'+y2+'"/><circle class="root" cx="14" cy="'+((y1+y2)/2)+'" r="6"/>';
     var slots=[-11,17,-24,30,-37];
@@ -293,15 +365,16 @@ def live_channels(key: str) -> list[dict]:
     return _load(key).get("live_channels", [])
 
 
-def _video_links(item: dict) -> tuple[str, str]:
+def _video_links(item: dict, lang: str) -> tuple[str, str]:
     """(icon for the headline row, link line for the expanded body)."""
-    search = YOUTUBE_SEARCH + quote_plus(item.get("headline_ko") or item["headline"])
+    u = UI[lang]
+    search = YOUTUBE_SEARCH + quote_plus(headline(item, lang))
     if item.get("video"):
-        return (f'<a class="yt" href="{escape(item["video"])}" title="영상 보기 (YouTube)">▶</a>',
-                f'<a class="go yt-go" href="{escape(item["video"])}" target="_blank" rel="noopener nofollow">▶ 영상 보기'
+        return (f'<a class="yt" href="{escape(item["video"])}" title="{escape(u["video_title"])}">▶</a>',
+                f'<a class="go yt-go" href="{escape(item["video"])}" target="_blank" rel="noopener nofollow">▶ {escape(u["video"])}'
                 f'{" · " + escape(item["video_channel"]) if item.get("video_channel") else ""}</a>')
-    return (f'<a class="yt s" href="{escape(search)}" title="YouTube에서 관련 영상 검색">▶</a>',
-            f'<a class="go yt-go s" href="{escape(search)}" target="_blank" rel="noopener nofollow">▶ YouTube에서 영상 검색</a>')
+    return (f'<a class="yt s" href="{escape(search)}" title="{escape(u["yt_search_title"])}">▶</a>',
+            f'<a class="go yt-go s" href="{escape(search)}" target="_blank" rel="noopener nofollow">▶ {escape(u["yt_search"])}</a>')
 
 
 def giscus_html(cfg: dict, term: str) -> str:
@@ -331,70 +404,77 @@ def _fit(text: str, cjk_chars: int) -> str:
     return out
 
 
-def timeline_panel(items: list[dict], title: str) -> str:
+def timeline_panel(items: list[dict], title: str, lang: str = "ko") -> str:
     """The timeline panel: a period picker (years and months, multi-select), the branch mode switch,
     and the data the page script draws the SVG from (one record per article)."""
+    u, labels_all = UI[lang], TOPIC_LABELS_I18N[lang]
     records = [{"i": it["_id"], "d": it["date"], "t": it.get("topics", []),
-                "o": (it.get("orgs") or ["기타"])[0],
-                "h": _fit(it.get("headline_ko") or it["headline"], 12),
-                "f": it.get("headline_ko") or it["headline"]} for it in items]
-    labels = {t: TOPIC_LABELS[t] for t in {t for it in items for t in it.get("topics", [])} if t in TOPIC_LABELS}
-    data = json.dumps({"title": title, "items": records, "labels": labels,
+                "o": (it.get("orgs") or [u["other"]])[0],
+                "h": _fit(headline(it, lang), 12), "f": headline(it, lang)} for it in items]
+    labels = {t: labels_all[t] for t in {t for it in items for t in it.get("topics", [])} if t in labels_all}
+    ui = {k: u[k] for k in ("all", "mo", "day", "today", "other", "timeline")}
+    ui["empty"] = u["tl_empty"]
+    if lang == "en":
+        ui["mn"] = [date(2000, m, 1).strftime("%b") for m in range(1, 13)]
+    data = json.dumps({"title": title, "items": records, "labels": labels, "ui": ui,
                        "colors": LANE_COLORS, "alt": LANE_ALT_COLORS}, ensure_ascii=False).replace("</", "<\\/")
-    return (f'<details class="tl-panel"><summary>🗺 타임라인 <span class="hint">누르면 펼쳐집니다 · 왼쪽 끝이 오늘 ·'
-            f'연도·월을 여러 개 골라 볼 수 있고, 위의 분류·검색도 그대로 적용됩니다</span></summary>'
-            f'<div class="tl-bar"><span>기간</span><span id="tl-period" class="chips"></span>'
-            f'<span class="tl-mode"><button class="chip on" data-mode="topic">분야별</button>'
-            f'<button class="chip" data-mode="org">회사·기관별</button></span></div>'
+    return (f'<details class="tl-panel"><summary>🗺 {escape(u["timeline"])} <span class="hint">{escape(u["tl_hint"])}</span></summary>'
+            f'<div class="tl-bar"><span>{escape(u["period"])}</span><span id="tl-period" class="chips"></span>'
+            f'<span class="tl-mode"><button class="chip on" data-mode="topic">{escape(u["by_topic"])}</button>'
+            f'<button class="chip" data-mode="org">{escape(u["by_org"])}</button></span></div>'
             f'<div class="tl-scroll" id="tl-host"></div></details>'
             f'<script type="application/json" id="tl-data">{data}</script>')
 
 
 # ---------------------------------------------------------------- headline list
 
-def _item_html(item: dict) -> str:
+def _item_html(item: dict, lang: str = "ko") -> str:
+    u, labels = UI[lang], TOPIC_LABELS_I18N[lang]
     d = date.fromisoformat(item["date"])
-    head_ko = item.get("headline_ko") or item["headline"]
-    orig = item["headline"] if item["headline"] != head_ko else ""
+    head = headline(item, lang)
+    orig = item["headline"] if item["headline"] != head else ""
     topics = " ".join(item.get("topics", []))
-    text = " ".join([head_ko, item["headline"], item.get("outlet", ""), *item.get("orgs", []),
-                     *(TOPIC_LABELS.get(t, t) for t in item.get("topics", []))]).lower()
-    tags = "".join(f"<span>{escape(TOPIC_LABELS.get(t, t))}</span>" for t in item.get("topics", []))
+    text = " ".join([head, item["headline"], item.get("outlet", ""), *item.get("orgs", []),
+                     *(labels.get(t, t) for t in item.get("topics", []))]).lower()
+    tags = "".join(f"<span>{escape(labels.get(t, t))}</span>" for t in item.get("topics", []))
     tags += "".join(f"<span>{escape(o)}</span>" for o in item.get("orgs", []))
-    yt_icon, yt_link = _video_links(item)
+    yt_icon, yt_link = _video_links(item, lang)
+    body = summary(item, lang)
+    body_html = f"<p>{escape(body)}</p>" if body else ""
+    orig_html = f'<p class="orig">{escape(u["orig"])}: {escape(orig)}</p>' if orig else ""
     return (f'<details class="news" data-id="{item["_id"]}" data-topics="{escape(topics)}" data-text="{escape(text)}">'
-            f'<summary><span class="d">{d.month}.{d.day:02d}</span><span class="h">{escape(head_ko)}</span>'
+            f'<summary><span class="d">{d.month}.{d.day:02d}</span><span class="h">{escape(head)}</span>'
             f'<span class="o"><b>{escape(item.get("outlet", ""))}</b>{yt_icon}</span></summary>'
-            f'<div class="body"><p>{escape(item.get("summary_ko", ""))}</p>'
-            f'{f"<p class=orig>원제: {escape(orig)}</p>" if orig else ""}'
+            f'<div class="body">{body_html}{orig_html}'
             f'<div class="tags">{tags}</div>'
-            f'<a class="go" href="{escape(item["url"])}" target="_blank" rel="noopener nofollow">원문 보기 ↗</a> {yt_link}'
+            f'<a class="go" href="{escape(item["url"])}" target="_blank" rel="noopener nofollow">{escape(u["read"])}</a> {yt_link}'
             f'</div></details>')
 
 
-def news_list_html(items: list[dict], title: str = "") -> str:
+def news_list_html(items: list[dict], title: str = "", lang: str = "ko") -> str:
+    u, labels = UI[lang], TOPIC_LABELS_I18N[lang]
     if not items:
-        return '<p class="news-empty">아직 모아 둔 기사가 없습니다.</p>'
+        return f'<p class="news-empty">{escape(u["empty"])}</p>'
     items = [{**i, "_id": n} for n, i in enumerate(items)]
     topics = OrderedDict()
     for i in items:
         for t in i.get("topics", []):
             topics[t] = topics.get(t, 0) + 1
-    chips = '<button class="chip on" data-topic="all">전체</button>' + "".join(
-        f'<button class="chip" data-topic="{escape(t)}">{escape(TOPIC_LABELS.get(t, t))} {n}</button>'
+    chips = f'<button class="chip on" data-topic="all">{escape(u["all"])}</button>' + "".join(
+        f'<button class="chip" data-topic="{escape(t)}">{escape(labels.get(t, t))} {n}</button>'
         for t, n in sorted(topics.items(), key=lambda x: -x[1]))
-    out = [f'<div class="news-bar"><input id="news-q" type="search" placeholder="검색: 회사, 키워드, 언론사">'
+    out = [f'<div class="news-bar"><input id="news-q" type="search" placeholder="{escape(u["search"])}">'
            f'<div class="chips">{chips}</div>'
-           f'<span class="meta"><span id="news-count">{len(items)}</span>건 · {items[0]["date"]} 기준</span></div>',
-           timeline_panel(items, title)]
+           f'<span class="meta"><span id="news-count">{len(items)}</span>{escape(u["count"])} · {items[0]["date"]} {escape(u["as_of"])}</span></div>',
+           timeline_panel(items, title, lang)]
     month = None
     for i in items:
         m = i["date"][:7]
         if m != month:
             month = m
             y, mo = m.split("-")
-            out.append(f'<h2 class="news-month">{y}년 {int(mo)}월</h2>')
-        out.append(_item_html(i))
+            out.append(f'<h2 class="news-month">{escape(u["month"](int(y), int(mo)))}</h2>')
+        out.append(_item_html(i, lang))
     out.append(f"<script>{MEMORY_JS}</script>")
     return "".join(out)
 
@@ -403,6 +483,8 @@ def news_list_html(items: list[dict], title: str = "") -> str:
 
 def board_cards(cfg: dict, preview: int = 6) -> str:
     """One card per board: name, count, and the latest headlines (linking to the originals)."""
+    lang = _lang(cfg)
+    u = UI[lang]
     m = cfg["memory"]
     base = cfg["site_url"]
     cards = []
@@ -412,12 +494,12 @@ def board_cards(cfg: dict, preview: int = 6) -> str:
         if items:
             rows = "".join(
                 f'<li><span class="d">{i["date"][5:].replace("-", ".")}</span>'
-                f'<a href="{escape(i["url"])}" target="_blank" rel="noopener nofollow" title="{escape(i.get("headline_ko") or i["headline"])}">'
-                f'{escape(i.get("headline_ko") or i["headline"])}</a></li>'
+                f'<a href="{escape(i["url"])}" target="_blank" rel="noopener nofollow" title="{escape(headline(i, lang))}">'
+                f'{escape(headline(i, lang))}</a></li>'
                 for i in items[:preview])
-            body = f'<ul class="preview">{rows}</ul><a class="more" href="{href}">전체 {len(items)}건 보기 →</a>'
+            body = f'<ul class="preview">{rows}</ul><a class="more" href="{href}">{escape(u["view_all"].format(n=len(items)))}</a>'
         else:
-            body = f'<p class="news-empty">아직 모아 둔 기사가 없습니다.</p><a class="more" href="{href}">게시판 열기 →</a>'
+            body = f'<p class="news-empty">{escape(u["empty"])}</p><a class="more" href="{href}">{escape(u["open_board"])}</a>'
         cards.append(
             f'<section class="board-card"><a class="head" href="{href}"><span class="emoji">{b["emoji"]}</span>'
             f'<span><b>{escape(b["name"])}</b><small>{escape(b["desc"])}</small></span>'
@@ -433,6 +515,7 @@ def index_body(cfg: dict) -> str:
 
 
 def board_body(cfg: dict, key: str) -> str:
+    lang = _lang(cfg)
     m = cfg["memory"]
     b = m["boards"][key]
     others = "".join(
@@ -442,16 +525,17 @@ def board_body(cfg: dict, key: str) -> str:
     live = "".join(f'<a href="{escape(ch["url"])}" target="_blank" rel="noopener nofollow">{escape(ch["name"])}</a>'
                    for ch in live_channels(key))
     live_row = f'<div class="live-row"><span class="live-dot">LIVE</span>{live}</div>' if live else ""
+    notes = giscus_html(cfg, f"memory/{key}") if lang == "ko" else ""  # operator notes: Korean site only
     # One line: kicker · board name · description · links to the other boards
     return (f'<section class="hero compact"><span class="kicker">{b["emoji"]} {escape(m["title"])}</span>'
             f'<h1>{escape(b["name"])}</h1><p>{escape(b["desc"])}</p><nav class="boards">{others}</nav></section>'
             f'{live_row}'
-            f'<section class="board-feed">{news_list_html(load_items(key), b["name"])}</section>'
-            f'<section class="board-notes">{giscus_html(cfg, f"memory/{key}")}</section>')
+            f'<section class="board-feed">{news_list_html(load_items(key), b["name"], lang)}</section>'
+            f'<section class="board-notes">{notes}</section>')
 
 
 def memory_pages(cfg: dict) -> list[tuple[str, str, str, str]]:
-    """(path, title, description, body) for the memory index and each board."""
+    """(path, title, description, body) for the memory index and each board, in cfg's language."""
     m = cfg.get("memory")
     if not m or not m.get("boards"):
         return []
