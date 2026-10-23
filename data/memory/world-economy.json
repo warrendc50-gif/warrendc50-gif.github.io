@@ -1173,6 +1173,25 @@
   "summary_ja": "スコット・ベッセント米財務長官は18日、NBCの「ミート・ザ・プレス」で、9月の消費者物価3.7%上昇はイラン紛争によるエネルギーショックが原因だと述べた。9月のガソリン価格は9.1%上昇して月間物価上昇分の半分以上を占めており、同氏はイラン情勢が過ぎれば価格は下がるとの考えを示した。司会者はコア物価にはエネルギーが含まれないと反論した。中間選挙は11月3日で、16日後に迫っている。"
  },
  {
+  "date": "2026-10-17",
+  "headline": "ECB's Lagarde Says Bond Selloff Will Slow Inflation",
+  "headline_ko": "라가르드 ECB 총재 \"채권 매도세가 물가 둔화시킬 것\"",
+  "headline_en": "ECB's Lagarde Says Bond Selloff Will Slow Inflation",
+  "headline_ja": "ラガルドECB総裁「債券売りがインフレを鈍化させる」",
+  "outlet": "U.S. News (Reuters)",
+  "url": "https://money.usnews.com/investing/news/articles/2026-10-17/ecbs-lagarde-says-bond-selloff-will-slow-inflation",
+  "video": "",
+  "summary_ko": "라가르드 유럽중앙은행(ECB) 총재는 방콕에서 열린 회의에서, 채권 매도세로 유로존의 차입 비용이 오르고 있다고 말했다. 그는 장기 금리 상승이 금융 여건을 조여 성장과 물가 상승을 9월 전망보다 더 둔화시킬 것이라고 밝혔다.",
+  "summary_en": "Speaking at a meeting in Bangkok, European Central Bank President Christine Lagarde said a bond selloff is making borrowing more expensive in the euro zone. She said higher long-term rates are tightening financing conditions and will slow growth and inflation more than the ECB projected in September.",
+  "summary_ja": "ラガルド欧州中央銀行（ECB）総裁はバンコクでの会合で、債券売りによってユーロ圏の借り入れコストが上昇していると述べた。長期金利の上昇が金融環境を引き締め、成長と物価上昇を9月の見通し以上に鈍化させるとの見方を示した。",
+  "topics": [
+   "centralbank"
+  ],
+  "orgs": [
+   "ECB"
+  ]
+ },
+ {
   "date": "2026-10-16",
   "headline": "China Moves to Curb Tech Exports, Including AI, Citing National Security Risks",
   "headline_ko": "중국, AI 모델·칩 설계 등 23개 AI 기술 수출통제 추진",
