@@ -31,6 +31,23 @@
  ],
  "items": [
   {
+   "date": "2026-10-23",
+   "headline": "Taiwan shuts down ahead of Typhoon Champi, hundreds of flights cancelled",
+   "headline_ko": "태풍 참피에 대만 '셧다운'…1명 사망·94명 부상, 항공편 수백 편 결항",
+   "headline_en": "Taiwan shuts down ahead of Typhoon Champi, hundreds of flights cancelled",
+   "headline_ja": "台風チャンピ接近で台湾が機能停止…1人死亡・94人負傷、数百便が欠航",
+   "outlet": "Yahoo News (Reuters)",
+   "url": "https://www.yahoo.com/news/weather-news/articles/taiwan-shuts-down-ahead-weakening-232311247.html",
+   "video": "",
+   "summary_ko": "태풍 참피가 다가오면서 대만에서 1명이 숨지고 94명이 다쳤으며, 산간 지역 주민 1300명 가까이가 대피했다. 23일 국내선 262편과 국제선 669편이 모두 결항했고 대부분 지역의 학교와 관공서가 문을 닫았다.",
+   "summary_en": "As Typhoon Champi approached, one person was killed and 94 injured in Taiwan, and nearly 1,300 people were evacuated from mountainous areas. All 262 domestic flights and 669 international flights were cancelled on Oct. 23, and schools and offices closed across most of the island.",
+   "summary_ja": "台風チャンピの接近で台湾では1人が死亡、94人が負傷し、山間部の住民約1300人が避難した。23日は国内線262便と国際線669便がすべて欠航し、大部分の地域で学校や官公庁が休みとなった。",
+   "topics": [
+    "disaster"
+   ],
+   "orgs": []
+  },
+  {
    "date": "2026-10-22",
    "headline": "U.S., Israel prepare for renewed Iran strikes after midterm elections - NYT",
    "headline_ko": "NYT \"미국·이스라엘, 중간선거 뒤 이란 재공습 계획 마련\"",
