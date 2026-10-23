@@ -72,6 +72,40 @@
   "orgs": []
  },
  {
+  "date": "2026-10-23",
+  "headline": "코스피, 0.30% 상승한 5550.30 마감…코스닥 1.62%↓(2보)",
+  "headline_ko": "코스피, 0.30% 상승한 5550.30 마감…코스닥 1.62%↓",
+  "headline_en": "KOSPI closes up 0.30% at 5,550.30; KOSDAQ falls 1.62%",
+  "headline_ja": "KOSPI、0.30%高の5550.30で引け…KOSDAQは1.62%安",
+  "outlet": "뉴스1",
+  "url": "https://www.news1.kr/finance/general-stock/6330143",
+  "video": "",
+  "summary_ko": "23일 코스피가 16.53포인트(0.30%) 오른 5550.30에 거래를 마쳤다. 코스닥은 1.62% 내렸다.",
+  "summary_en": "On Oct. 23 the KOSPI closed up 16.53 points (0.30%) at 5,550.30. The KOSDAQ fell 1.62%.",
+  "summary_ja": "23日のKOSPIは16.53ポイント（0.30%）高の5550.30で取引を終えた。KOSDAQは1.62%下落した。",
+  "topics": [
+   "stocks"
+  ],
+  "orgs": []
+ },
+ {
+  "date": "2026-10-23",
+  "headline": "원/달러 환율, 0.4원 오른 1324.6원",
+  "headline_ko": "원/달러 환율, 0.4원 오른 1324.6원 마감",
+  "headline_en": "Won-dollar rate closes up 0.4 won at 1,324.6",
+  "headline_ja": "ウォン・ドル相場、0.4ウォン高の1324.6ウォンで引け",
+  "outlet": "머니투데이",
+  "url": "https://www.mt.co.kr/economy/2026/10/23/2026102315223170326",
+  "video": "",
+  "summary_ko": "23일 서울 외환시장에서 원/달러 환율은 전 거래일보다 0.4원 오른 1324.6원에 주간 거래를 마쳤다.",
+  "summary_en": "On Oct. 23 the won-dollar exchange rate ended daytime trading in Seoul at 1,324.6 won, up 0.4 won from the previous session.",
+  "summary_ja": "23日のソウル外国為替市場で、ウォン・ドル相場は前営業日比0.4ウォン高の1324.6ウォンで昼間の取引を終えた。",
+  "topics": [
+   "fx"
+  ],
+  "orgs": []
+ },
+ {
   "date": "2026-10-22",
   "headline": "[스팟] 코스피 65.55포인트(1.14%) 내린 5670.11 출발",
   "headline_ko": "코스피 65.55포인트(1.14%) 내린 5670.11 출발",
