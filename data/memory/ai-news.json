@@ -1340,6 +1340,27 @@
   "summary_ja": "Anthropicは18日、会社の株式5%を新設する「Anthropic公益基金」に拠出すると発表した。株主の承認が必要で、企業価値が基準線から50%上がるたびに取締役会が2%ずつ追加できる。基金は非営利団体への寄付とAIによる雇用ショックへの対応プログラムに使われ、ロビー活動や政治資金には使えない。創業者の誓約などを合わせると株式の約20%が公益目的に割り当てられた形になると同社は説明した。"
  },
  {
+  "date": "2026-10-17",
+  "headline": "Replit makes OpenAI its default over Anthropic, CEO says",
+  "headline_ko": "레플릿 CEO \"앤트로픽 대신 오픈AI를 기본 모델로\"",
+  "headline_en": "Replit makes OpenAI its default over Anthropic, CEO says",
+  "headline_ja": "Replit CEO「Anthropicに代えてOpenAIを標準モデルに」",
+  "outlet": "TechCrunch",
+  "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+  "video": "",
+  "summary_ko": "코딩 플랫폼 레플릿이 앤트로픽 대신 오픈AI의 챗GPT를 기본 모델로 삼았다고 CEO가 밝혔다. 레플릿은 고객들이 여전히 플랫폼에서 앤트로픽 모델을 쓸 수 있다고 설명했다.",
+  "summary_en": "Coding platform Replit has made OpenAI's ChatGPT its default model instead of Anthropic's, its CEO said. Replit said customers can still use Anthropic models on the platform.",
+  "summary_ja": "コーディングプラットフォームのReplitが、Anthropicに代えてOpenAIのChatGPTを標準モデルにしたとCEOが明らかにした。Replitは、顧客は引き続きプラットフォーム上でAnthropicのモデルを利用できると説明した。",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "Replit",
+   "OpenAI",
+   "Anthropic"
+  ]
+ },
+ {
   "date": "2026-10-16",
   "headline": "Anthropic Signs First Data-Center Deal in Canada With EverWind",
   "headline_ko": "앤트로픽, 에버윈드와 캐나다 첫 데이터센터 임차 계약",
