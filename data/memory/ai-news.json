@@ -667,6 +667,44 @@
   "summary_ja": "アップルが韓国語に対応した「Siri AI」を今月公開する。ネイバーとカカオのサービスとも連携する。"
  },
  {
+  "date": "2026-10-21",
+  "headline": "Year-old AI research lab Flapping Airplanes raises $1B at a reported $6B valuation",
+  "headline_ko": "설립 1년 AI 연구소 '플래핑 에어플레인스', 10억달러 유치…기업가치 60억달러",
+  "headline_en": "Year-old AI research lab Flapping Airplanes raises $1B at a reported $6B valuation",
+  "headline_ja": "設立1年のAI研究所Flapping Airplanes、10億ドル調達…企業価値60億ドルと報道",
+  "outlet": "SiliconANGLE",
+  "url": "https://siliconangle.com/2026/10/21/year-old-ai-research-lab-flapping-airplanes-raises-1b-at-a-reported-6b-valuation/",
+  "video": "",
+  "summary_ko": "설립된 지 1년 된 AI 연구소 플래핑 에어플레인스가 10억달러를 투자받았다. 보도에 따르면 기업가치는 60억달러로 평가됐다.",
+  "summary_en": "Flapping Airplanes, a year-old AI research lab, raised $1 billion at a reported valuation of $6 billion.",
+  "summary_ja": "設立から1年のAI研究所Flapping Airplanesが10億ドルを調達した。報道によると企業価値は60億ドルと評価された。",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "Flapping Airplanes"
+  ]
+ },
+ {
+  "date": "2026-10-21",
+  "headline": "Legora raises $550m at $8.8bn valuation in latest funding round",
+  "headline_ko": "법률 AI 기업 레고라, 5억5000만달러 유치…기업가치 88억달러",
+  "headline_en": "Legora raises $550m at $8.8bn valuation in latest funding round",
+  "headline_ja": "リーガルAIのLegora、5億5000万ドルを調達…企業価値88億ドル",
+  "outlet": "The Global Legal Post",
+  "url": "https://www.globallegalpost.com/news/legora-raises-550m-at-88bn-valuation-in-latest-funding-round-1485856155",
+  "video": "",
+  "summary_ko": "법률 AI 기업 레고라가 새 투자 라운드에서 5억5000만달러를 유치하며 기업가치 88억달러를 인정받았다.",
+  "summary_en": "Legal AI company Legora raised $550 million in its latest funding round at a valuation of $8.8 billion.",
+  "summary_ja": "リーガルAI企業のLegoraが新たな資金調達ラウンドで5億5000万ドルを調達し、企業価値88億ドルと評価された。",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "Legora"
+  ]
+ },
+ {
   "date": "2026-10-20",
   "headline": "OpenAI acquires Orchestra Bio to bring AI agents into drug development",
   "headline_ko": "오픈AI, 신약개발 AI 에이전트 스타트업 오케스트라 바이오 인수",
@@ -1293,6 +1331,25 @@
   "summary_en": "Meta's AI app 'Muse' has surpassed 10 million downloads, but its path to monetization remains unclear, according to assessments. Meta shares fell nearly 1% in pre-market trading on the 19th, as investors adjusted positions ahead of the company's third-quarter earnings on the 21st, weighing whether its AI investments will pay off.",
   "headline_ja": "メタのAIアプリ「Muse」、ダウンロード1000万件突破…収益化の道筋は不透明",
   "summary_ja": "メタのAIアプリ「Muse」はダウンロード1000万件を超えたが、収益化の道筋は不透明だとの評価が出た。メタの株価は19日のプレマーケット取引で1%近く下落し、投資家は21日の第3四半期決算発表を前に、AI投資の回収可能性を見極めながらポジションを調整している。"
+ },
+ {
+  "date": "2026-10-19",
+  "headline": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
+  "headline_ko": "AI 비서 스타트업 '타운', 출시 4개월 만에 유니콘 등극",
+  "headline_en": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
+  "headline_ja": "AIアシスタントのスタートアップTown、サービス開始4か月でユニコーンに",
+  "outlet": "TechCrunch",
+  "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+  "video": "",
+  "summary_ko": "AI 비서 스타트업 타운이 서비스를 내놓은 지 4개월 만에 기업가치 10억달러 이상(유니콘)을 인정받았다.",
+  "summary_en": "AI assistant startup Town reached a unicorn valuation of $1 billion or more just four months after launching.",
+  "summary_ja": "AIアシスタントのスタートアップTownが、サービス開始からわずか4か月で企業価値10億ドル以上（ユニコーン）と評価された。",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "Town"
+  ]
  },
  {
   "date": "2026-10-18",
