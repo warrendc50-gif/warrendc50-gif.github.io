@@ -219,6 +219,27 @@
   ]
  },
  {
+  "date": "2026-10-22",
+  "headline": "Saudi Arabia's Humain expands Nvidia deal with 84MW AI computing plan",
+  "headline_ko": "사우디 휴메인, 엔비디아와 84MW 규모 AI 컴퓨팅 협력 확대",
+  "headline_en": "Saudi Arabia's Humain expands Nvidia deal with 84MW AI computing plan",
+  "headline_ja": "サウジのHumain、エヌビディアとの提携を84MW規模のAI計算計画に拡大",
+  "outlet": "The National",
+  "url": "https://thenationalnews.com/future/technology/2026/10/22/saudi-arabias-humain-expands-nvidia-deal-with-84mw-ai-computing-plan",
+  "video": "",
+  "summary_ko": "사우디아라비아의 AI 기업 휴메인이 엔비디아와의 협력을 넓혀 최대 84MW 규모의 AI 컴퓨팅 설비를 짓기로 했다. 베를린 GTC에서 발표된 이번 계약은 첨단 GPU 약 2만7000개 규모로, 올해 하반기부터 배치가 시작되고 2027년에 추가 설비가 계획돼 있다.",
+  "summary_en": "Saudi Arabia's AI company Humain expanded its partnership with Nvidia to build up to 84 megawatts of AI computing capacity. The deal, announced at GTC in Berlin, covers about 27,000 advanced GPUs, with deployments starting later this year and more capacity planned for 2027.",
+  "summary_ja": "サウジアラビアのAI企業Humainがエヌビディアとの提携を拡大し、最大84メガワット規模のAI計算設備を構築することにした。ベルリンのGTCで発表された今回の契約は先端GPU約2万7000個規模で、今年後半から配備が始まり、2027年に追加の設備が計画されている。",
+  "topics": [
+   "chips",
+   "business"
+  ],
+  "orgs": [
+   "Humain",
+   "Nvidia"
+  ]
+ },
+ {
   "date": "2026-10-21",
   "headline": "NVIDIA Advances Isaac Platform for General-Purpose Robotics With New Reference Humanoid, Frameworks, Simulation Pipelines and Data",
   "headline_ko": "엔비디아, GTC 베를린서 아이작 로보틱스 플랫폼 확장…레퍼런스 휴머노이드 공개",
