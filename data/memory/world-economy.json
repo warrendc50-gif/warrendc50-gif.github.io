@@ -206,6 +206,27 @@
   "summary_ja": "前日の米国株売りやAI関連株への懸念、高い原油価格で慎重なムードが広がる中、欧州株は小幅安で始まった(ユーロストックス-0.3%、DAX-0.5%、CAC40-0.6%)。フランスの10月総合PMI速報値は9月の51.1から48.4に低下し、製造業とサービス業がともに悪化して民間部門は再び縮小局面に入った。"
  },
  {
+  "date": "2026-10-23",
+  "headline": "Stock market today: Dow sinks 600 points, S&P 500, Nasdaq drop to cap a volatile week, oil prices rise",
+  "headline_ko": "다우 600포인트 급락, S&P 500·나스닥도 하락하며 변동성 큰 한 주 마감…유가 상승",
+  "outlet": "Yahoo Finance",
+  "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-23-dow-sp-500-nasdaq-tesla-meta-093000521.html",
+  "video": "",
+  "summary_ko": "23일 뉴욕증시에서 다우는 1.2%, S&P 500은 0.5%, 나스닥은 0.2% 하락했고, S&P 500과 나스닥은 2주 연속 주간 하락했다. 매도세가 AI 종목을 넘어 확산된 가운데 중동 긴장 고조 우려로 브렌트유 12월물이 배럴당 116.72달러에 마감했고, 에너지 비용 부담에 유나이티드·델타·아메리칸 항공이 4% 넘게 떨어졌다.",
+  "topics": [
+   "energy"
+  ],
+  "orgs": [
+   "다우",
+   "S&P 500",
+   "나스닥"
+  ],
+  "headline_en": "Stock market today: Dow sinks 600 points, S&P 500, Nasdaq drop to cap a volatile week, oil prices rise",
+  "summary_en": "On the 23rd, the Dow fell 1.2%, the S&P 500 0.5% and the Nasdaq 0.2%, with the S&P 500 and Nasdaq posting a second straight weekly loss. As selling spread beyond AI stocks, worries over rising Middle East tensions sent December Brent to settle at $116.72 a barrel, and United, Delta and American Airlines each fell more than 4% on higher energy costs.",
+  "headline_ja": "ダウ600ドル急落、S&P500・ナスダックも下落し荒れた1週間を終える…原油高",
+  "summary_ja": "23日の米国株式市場でダウは1.2%、S&P500は0.5%、ナスダックは0.2%下落し、S&P500とナスダックは2週連続の週間下落となった。売りがAI銘柄以外にも広がる中、中東の緊張激化への懸念からブレント原油12月物は1バレル116.72ドルで引け、エネルギーコスト負担でユナイテッド、デルタ、アメリカン航空がそれぞれ4%超下落した。"
+ },
+ {
   "date": "2026-10-22",
   "headline": "Japan stocks lower at close of trade; Nikkei 225 down 2.40%",
   "headline_ko": "닛케이225 2.40% 하락 마감…한 달 만에 최저",
