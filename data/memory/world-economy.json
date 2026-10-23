@@ -167,6 +167,45 @@
   ]
  },
  {
+  "date": "2026-10-23",
+  "headline": "Unrest-hit France poised for Moody's ratings verdict",
+  "headline_ko": "시위로 흔들리는 프랑스, 무디스 신용등급 결정 앞둬",
+  "outlet": "Reuters (Global Banking & Finance Review)",
+  "url": "https://www.globalbankingandfinance.com/unrest-hit-france-poised-moodys-ratings-verdict/",
+  "video": "",
+  "summary_ko": "무디스의 프랑스 정기 신용등급 결정이 금요일 미국 증시 마감 후(20시 GMT) 나오며, 대부분의 분석가는 지난해 10월부터 부정적 전망이 붙은 Aa3 등급의 강등을 예상한다. 프랑스 10년물 국채 금리는 2002년 7월 이후 최고인 5.14%까지 올랐고, 목요일 독일 국채 대비 위험 프리미엄은 15년 만의 최고치를 기록했다. 하원은 적자 목표 5%(올해 5.4%)를 담은 2027년 예산에서 핵심 절감 조치 일부를 폐기했다.",
+  "topics": [
+   "crisis"
+  ],
+  "orgs": [
+   "무디스",
+   "프랑스"
+  ],
+  "headline_en": "Unrest-hit France poised for Moody's ratings verdict",
+  "summary_en": "Moody's regular rating decision on France comes after the US market close (2000 GMT) on Friday, and most analysts expect a downgrade of the Aa3 rating, which has carried a negative outlook since October last year. France's 10-year bond yield rose to 5.14%, the highest since July 2002, and on Thursday the risk premium over German bonds hit a 15-year high. The lower house scrapped some key savings measures in the 2027 budget, which targets a deficit of 5% (5.4% this year).",
+  "headline_ja": "抗議デモに揺れるフランス、ムーディーズの格付け判断を控える",
+  "summary_ja": "ムーディーズのフランス定例格付け判断は金曜の米市場終了後(GMT20時)に発表され、大半のアナリストは昨年10月から見通しがネガティブのAa3格付けの引き下げを予想している。フランス10年債利回りは2002年7月以来の高水準となる5.14%まで上昇し、木曜には独国債に対するリスクプレミアムが15年ぶりの高水準となった。下院は赤字目標5%(今年5.4%)を掲げる2027年予算から主要な歳出削減策の一部を撤廃した。"
+ },
+ {
+  "date": "2026-10-23",
+  "headline": "European stock market open: Stocks slip as weak French PMI adds to economic worries",
+  "headline_ko": "유럽 증시 약세 출발…프랑스 PMI 부진에 경기 우려",
+  "outlet": "investingLive",
+  "url": "https://investinglive.com/stocks/european-stock-market-open-stocks-slip-as-weak-french-pmi-adds-to-economic-worries/",
+  "video": "",
+  "summary_ko": "전날 월가 매도세와 AI 관련주 우려, 높은 유가로 위축된 분위기 속에 유럽 증시가 소폭 하락 출발했다(유로스톡스 -0.3%, DAX -0.5%, CAC 40 -0.6%). 프랑스 10월 종합 PMI 속보치는 9월 51.1에서 48.4로 떨어져 제조업과 서비스업이 모두 악화되며 민간 부문이 다시 위축 국면에 들어섰다.",
+  "topics": [
+   "macro"
+  ],
+  "orgs": [
+   "프랑스"
+  ],
+  "headline_en": "European stock market open: Stocks slip as weak French PMI adds to economic worries",
+  "summary_en": "European stocks opened slightly lower amid a cautious mood after the previous day's Wall Street selloff, worries about AI-related stocks and high oil prices (Eurostoxx -0.3%, DAX -0.5%, CAC 40 -0.6%). France's October flash composite PMI fell to 48.4 from 51.1 in September as both manufacturing and services deteriorated, putting the private sector back into contraction.",
+  "headline_ja": "欧州株、軟調な寄り付き…仏PMI低迷で景気懸念",
+  "summary_ja": "前日の米国株売りやAI関連株への懸念、高い原油価格で慎重なムードが広がる中、欧州株は小幅安で始まった(ユーロストックス-0.3%、DAX-0.5%、CAC40-0.6%)。フランスの10月総合PMI速報値は9月の51.1から48.4に低下し、製造業とサービス業がともに悪化して民間部門は再び縮小局面に入った。"
+ },
+ {
   "date": "2026-10-22",
   "headline": "Japan stocks lower at close of trade; Nikkei 225 down 2.40%",
   "headline_ko": "닛케이225 2.40% 하락 마감…한 달 만에 최저",
