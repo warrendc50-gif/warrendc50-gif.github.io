@@ -11,7 +11,11 @@
    "fed",
    "markets"
   ],
-  "orgs": []
+  "orgs": [],
+  "headline_en": "US 10-year Treasury yield falls below 5% for first time in a month as investors flock to safe havens",
+  "summary_en": "As AI-related tech stocks plunged, investors flocked to safe-haven assets, pushing the US 10-year Treasury yield below 5% for the first time in a month.",
+  "headline_ja": "米10年債利回り、1カ月ぶりに5%割れ…安全資産に資金集中",
+  "summary_ja": "AI関連のハイテク株が急落し、投資家が安全資産に殺到したことで、米国債10年物利回りが1カ月ぶりに5%を下回った。"
  },
  {
   "date": "2026-10-22",
@@ -24,7 +28,11 @@
   "topics": [
    "markets"
   ],
-  "orgs": []
+  "orgs": [],
+  "headline_en": "Japan stocks lower at close of trade; Nikkei 225 down 2.40%",
+  "summary_en": "On the 22nd, the Nikkei 225 index fell 2.40% on the Tokyo stock market, hitting its lowest level in a month. Decliners numbered 2,092, outnumbering advancers (1,404), and Ibiden plunged 9.49%.",
+  "headline_ja": "日経225、2.40%安で取引終了…1カ月ぶり安値",
+  "summary_ja": "22日の東京株式市場で日経225指数は2.40%下落し、1カ月ぶりの安値を記録した。値下がり銘柄は2092で値上がり銘柄（1404）を上回り、イビデンは9.49%急落した。"
  },
  {
   "date": "2026-10-22",
@@ -38,7 +46,11 @@
    "markets",
    "crisis"
   ],
-  "orgs": []
+  "orgs": [],
+  "headline_en": "European stocks buckle as French yields cross 5% barrier",
+  "summary_en": "European stocks weakened on the 22nd as French government bond yields topped 5%. The pan-European STOXX 600 index was trading down 0.8%.",
+  "headline_ja": "仏国債利回り5%突破で欧州株下落…STOXX600は0.8%安",
+  "summary_ja": "22日、フランス国債利回りが5%を超えたことで欧州株は軟調となった。汎欧州のSTOXX600指数は0.8%安で推移した。"
  },
  {
   "date": "2026-10-22",
@@ -53,7 +65,11 @@
   ],
   "orgs": [
    "US Labor Department"
-  ]
+  ],
+  "headline_en": "US jobless claims fell to 194,000 last week, lowest since July",
+  "summary_en": "According to the US Labor Department, initial jobless claims for the week ending October 17 fell by 6,000 from the previous week to 194,000, the lowest since July. Layoffs remain rare, and claims this year have stayed at historically low levels.",
+  "headline_ja": "米新規失業保険申請19万4000件…7月以来の低水準",
+  "summary_ja": "米労働省によると、10月17日までの週の新規失業保険申請件数は前週比6000件減の19万4000件で、7月以来の低水準となった。解雇は依然として少なく、今年の申請件数は歴史的な低水準を維持している。"
  },
  {
   "date": "2026-10-22",
@@ -68,7 +84,11 @@
   ],
   "orgs": [
    "Procter & Gamble"
-  ]
+  ],
+  "headline_en": "Procter & Gamble earnings beat as sales rise 4%, boosted by laundry and home products",
+  "summary_en": "Procter & Gamble (P&G) reported fiscal first-quarter results that beat market expectations. Sales rose 4% on higher sales of laundry detergent and household products.",
+  "headline_ja": "P&G、洗剤・日用品好調で売上高4%増…決算は予想上回る",
+  "summary_ja": "プロクター・アンド・ギャンブル（P&G）の第1四半期（会計年度）決算は市場予想を上回った。洗濯用洗剤や日用品の販売が伸び、売上高は4%増加した。"
  },
  {
   "date": "2026-10-22",
@@ -83,7 +103,11 @@
   ],
   "orgs": [
    "Lockheed Martin"
-  ]
+  ],
+  "headline_en": "Lockheed Martin Reports Third Quarter 2026 Financial Results",
+  "summary_en": "Lockheed Martin's third-quarter sales were $20.7 billion, up from $18.6 billion a year earlier, and net income was $1.8 billion ($7.97 per share). Its backlog hit a record $292 billion, and the company raised its 2026 outlook.",
+  "headline_ja": "ロッキード・マーチン、7〜9月期売上高207億ドル…受注残高2920億ドルで過去最高",
+  "summary_ja": "ロッキード・マーチンの第3四半期売上高は207億ドルで、前年同期（186億ドル）から増加し、純利益は18億ドル（1株当たり7.97ドル）だった。受注残高は2920億ドルと過去最高を記録し、同社は2026年の業績見通しを引き上げた。"
  },
  {
   "date": "2026-10-22",
@@ -96,7 +120,11 @@
   "topics": [
    "energy"
   ],
-  "orgs": []
+  "orgs": [],
+  "headline_en": "Oil prices jump to five-month high as attacks threaten global supply",
+  "summary_en": "International oil prices rose to a five-month high as attacks on tankers near the Strait of Hormuz and attacks targeting Saudi Arabian facilities heightened fears of disruptions to global crude supply.",
+  "headline_ja": "原油価格、5カ月ぶり高値…ホルムズ・サウジへの攻撃で供給懸念",
+  "summary_ja": "ホルムズ海峡付近でのタンカー攻撃やサウジアラビアの施設を狙った攻撃により、世界の原油供給に支障が出るとの懸念が強まり、国際原油価格は5カ月ぶりの高値に上昇した。"
  },
  {
   "date": "2026-10-22",
@@ -111,7 +139,11 @@
    "china",
    "crypto"
   ],
-  "orgs": []
+  "orgs": [],
+  "headline_en": "Asian market selloff deepens as oil rises. Bitcoin (BTC) price slips to $82,000",
+  "summary_en": "On the 22nd, selling in Asian stock markets intensified amid rising oil prices, with tech stocks leading the decline, and China's CSI 300 index entered a bear market. Bitcoin also slipped to around $82,000.",
+  "headline_ja": "原油高でアジア株の売り拡大…中国CSI300が弱気相場入り、ビットコインは8万2000ドルに後退",
+  "summary_ja": "22日、原油価格の上昇を受けてアジア株式市場の売りが拡大し、ハイテク株が下落を主導、中国CSI300指数は弱気相場入りした。ビットコインも8万2000ドル台に下落した。"
  },
  {
   "date": "2026-10-22",
@@ -125,7 +157,11 @@
    "energy",
    "fed"
   ],
-  "orgs": []
+  "orgs": [],
+  "headline_en": "Gold drops over 1% as oil rally reinforces higher-for-longer rate outlook",
+  "summary_en": "Gold prices fell more than 1% on the 22nd, as a surge in oil prices heightened inflation concerns and strengthened expectations that interest rates will remain high for longer.",
+  "headline_ja": "金価格1%超下落…原油急騰で「高金利長期化」観測強まる",
+  "summary_ja": "22日、金価格が1%以上下落した。原油価格の急騰でインフレ懸念が高まり、金利が高水準に長くとどまるとの見方が強まったことが影響した。"
  },
  {
   "date": "2026-10-22",
@@ -140,7 +176,11 @@
   ],
   "orgs": [
    "Meta"
-  ]
+  ],
+  "headline_en": "Stock market today: S&P 500, Nasdaq tanks as tech stocks sink amid AI trade worries, Meta shares plummet",
+  "summary_en": "On the 22nd, the Dow was nearly flat on Wall Street, while the S&P 500 fell 1.2% and the Nasdaq dropped 2.6% on a decline in chip stocks. Meta plunged nearly 7% after announcing quarterly results and a 2-for-1 stock split.",
+  "headline_ja": "NY株、AI懸念でハイテク株急落…ナスダック2.6%安、メタは7%近く下落",
+  "summary_ja": "22日のニューヨーク株式市場で、ダウ平均はほぼ横ばい、S&P500は1.2%、ナスダックは半導体株の下落で2.6%下落した。メタは四半期決算と2対1の株式分割を発表した後、7%近く急落した。"
  },
  {
   "date": "2026-10-22",
@@ -153,7 +193,11 @@
   "topics": [
    "markets"
   ],
-  "orgs": []
+  "orgs": [],
+  "headline_en": "European stocks post biggest drop in three weeks as bank shares plunge 4.2%",
+  "summary_en": "On the 22nd, the pan-European STOXX 600 index fell 1.05% to close at 637.74, its biggest drop in three weeks. The euro zone bank index plunged 4.2%, its worst day since March, as rising oil prices and a surge in French government bond yields dampened investor sentiment.",
+  "headline_ja": "欧州株、3週間ぶりの大幅下落…銀行株4.2%急落",
+  "summary_ja": "22日、汎欧州のSTOXX600指数は1.05%安の637.74で取引を終え、3週間ぶりの大きな下げとなった。ユーロ圏銀行株指数は4.2%急落して3月以来最悪の1日となり、原油高とフランス国債利回りの急上昇が投資家心理を冷やした。"
  },
  {
   "date": "2026-10-21",
@@ -170,7 +214,11 @@
    "코스피",
    "삼성전자",
    "SK하이닉스"
-  ]
+  ],
+  "headline_en": "KOSPI surges 3.29% to close at 5,735.66 as foreign investors return; Samsung Electronics and SK Hynix up 5%, buy sidecar triggered",
+  "summary_en": "On the 21st, the KOSPI rose 182.92 points (3.29%) to close at 5,735.66, reclaiming the 5,700 level. Samsung Electronics and SK Hynix each rose more than 5% on a US earnings-driven rally and easing concerns about AI profitability, while foreign investors were net buyers of 660 billion won. The index soared as high as around 5,816 intraday, triggering the year's 25th buy sidecar, and the KOSDAQ rose 1.38% to finish at 792.76. On the same day, the Nikkei rose 0.9% to 64,621.24, while the Hang Seng fell 0.7%.",
+  "headline_ja": "KOSPI、3.29%急騰の5735.66で終了…外国人買い戻しでサムスン電子・SKハイニックス5%高、買いサイドカー発動",
+  "summary_ja": "21日のKOSPIは182.92ポイント（3.29%）高の5735.66で取引を終え、5700台を回復した。米国株の好決算ラリーとAI収益性への懸念緩和でサムスン電子とSKハイニックスがそれぞれ5%以上上昇し、外国人は6600億ウォンを買い越した。取引時間中には5816台まで急伸し、今年25回目の買いサイドカーが発動された。KOSDAQは1.38%高の792.76で終えた。同日、日経平均は0.9%高の64,621.24、ハンセン指数は0.7%下落した。"
  },
  {
   "date": "2026-10-21",
@@ -187,7 +235,11 @@
   "orgs": [
    "일본",
    "일본 재무성"
-  ]
+  ],
+  "headline_en": "Japan's export growth stays solid, supported by chips and cars",
+  "summary_en": "Japan's Ministry of Finance announced on the 21st that September exports rose 16.7% year on year, increasing for a 13th consecutive month. However, this fell short of market expectations (20–21%). Semiconductor exports rose 49.4%, chipmaking equipment 43.9% and automobiles 15.1%, while exports to the US increased 22.9%. Imports rose 18.9%, and the trade deficit narrowed to 536.6 billion yen from the previous month (1.1 trillion yen).",
+  "headline_ja": "日本の9月輸出16.7%増、13カ月連続増も予想下回る…半導体は49%急増",
+  "summary_ja": "財務省は21日、9月の輸出が前年比16.7%増加し、13カ月連続で増えたと発表した。ただし市場予想（20〜21%）には届かなかった。半導体輸出が49.4%、半導体製造装置が43.9%、自動車が15.1%増え、対米輸出は22.9%増加した。輸入は18.9%増え、貿易赤字は5366億円と前月（1.1兆円）から縮小した。"
  },
  {
   "date": "2026-10-21",
@@ -202,7 +254,11 @@
   ],
   "orgs": [
    "비트코인"
-  ]
+  ],
+  "headline_en": "Bitcoin Price Today: BTC Holds Near $82,600 as $100K Outlook Divides Analysts",
+  "summary_en": "On the 21st, Bitcoin traded around $82,600, moving in a range of $81,273 to $83,249 overnight. Spot ETFs saw inflows of $526.7 million, but the price is about 34% below its all-time high ($126,080) set last October. With the US CPI release and the FOMC meeting scheduled within ten days, the market is in wait-and-see mode.",
+  "headline_ja": "ビットコイン8万2600ドル付近で横ばい…ETFに5.3億ドル流入、10万ドル予想は割れる",
+  "summary_ja": "21日、ビットコインは8万2600ドル前後で取引され、夜間には8万1273〜8万3249ドルの範囲で推移した。現物ETFには5億2670万ドルが流入したが、価格は昨年10月の過去最高値（12万6080ドル）より約34%低い水準だ。10日以内に米CPIの発表とFOMCが予定されており、市場は様子見ムードとなっている。"
  },
  {
   "date": "2026-10-21",
@@ -218,7 +274,11 @@
   "orgs": [
    "이란",
    "API"
-  ]
+  ],
+  "headline_en": "Oil rises on Middle East supply fears, US inventory drawdowns",
+  "summary_en": "On the 21st, Brent crude rose about 1.5% to around $110 a barrel, while WTI traded in the $99 range. Prices were lifted after the speaker of Iran's parliament said Iran would not trust the US until Hormuz conditions were met, and American Petroleum Institute (API) data showed continued declines in crude and petroleum product inventories.",
+  "headline_ja": "中東供給懸念・米在庫減で原油上昇…ブレント110ドル台",
+  "summary_ja": "21日、ブレント原油は約1.5%上昇して1バレル110ドル前後、WTIは99ドル台で取引された。イラン国会議長がホルムズの条件が満たされるまで米国を信用しないと述べたことに加え、米国石油協会（API）のデータで原油・石油製品在庫の減少が続いたことが価格を押し上げた。"
  },
  {
   "date": "2026-10-21",
@@ -234,7 +294,11 @@
   ],
   "orgs": [
    "연준"
-  ]
+  ],
+  "headline_en": "Treasury Yields Flat As Fed Rate Decision Approaches",
+  "summary_en": "On the 21st, the US 10-year Treasury yield hovered around 5.12% and the 2-year yield around 4.79%, with little change. Investors are awaiting mortgage rates and employment data ahead of the Fed meeting on October 28.",
+  "headline_ja": "FRB会合を前に米国債利回り横ばい…10年債5.12%",
+  "summary_ja": "21日、米国債10年物利回りは5.12%前後、2年物は4.79%程度で大きな変動なく推移した。投資家は10月28日のFRB会合を前に、住宅ローン金利と雇用指標を待っている。"
  },
  {
   "date": "2026-10-21",
@@ -251,7 +315,11 @@
   "orgs": [
    "영국",
    "에실로룩소티카"
-  ]
+  ],
+  "headline_en": "European Shares Little Changed as Investors Await US Technology Earnings: DAX, CAC, FTSE100",
+  "summary_en": "On the morning of the 21st, European stock markets were little changed as investors awaited US tech earnings. The FTSE 100 fell 0.2% after UK consumer price inflation rose to 3.5% in September, while EssilorLuxottica surged more than 11% after third-quarter sales beat expectations.",
+  "headline_ja": "欧州株は小動き…英9月物価上昇率3.5%に拡大",
+  "summary_ja": "21日午前の欧州株式市場は、米ハイテク企業の決算を待って小動きとなった。英国の9月消費者物価上昇率が3.5%に高まるとFTSE100は0.2%下落し、第3四半期売上高が予想を上回ったエシロールルックスオティカは11%超急騰した。"
  },
  {
   "date": "2026-10-21",
@@ -267,7 +335,11 @@
   "orgs": [
    "스페이스X",
    "테슬라"
-  ]
+  ],
+  "headline_en": "SpaceX pops over 8% after revenue rose 161%, Elon Musk floats Tesla merger",
+  "summary_en": "SpaceX's third-quarter revenue rose 161% from a year earlier to $14.58 billion, far exceeding expectations, and it swung to a net profit of $4.4 billion. Musk said SpaceX and Tesla had formed a special committee to consider a merger, but stressed that nothing had been finalized.",
+  "headline_ja": "スペースX、売上高161%急増で株価8%高…マスク氏、テスラとの合併を検討",
+  "summary_ja": "スペースXの第3四半期売上高は145億8000万ドルと前年同期比161%増加して予想を大きく上回り、純利益は44億ドルで黒字転換した。マスク氏はスペースXとテスラが合併検討のための特別委員会を設置したと明らかにしたが、確定ではないと一線を画した。"
  },
  {
   "date": "2026-10-21",
@@ -282,7 +354,11 @@
   ],
   "orgs": [
    "미국 증시"
-  ]
+  ],
+  "headline_en": "Tech futures rise in premarket trading as SpaceX stock rockets overnight—and Wells Fargo's 'buy' signal is triggered",
+  "summary_en": "On the 21st, before the US market opened, tech stocks were strong, with Nasdaq 100 futures up around 0.5%. SpaceX's strong results boosted investor sentiment, and the market is awaiting Tesla's and Meta's third-quarter results due after the close.",
+  "headline_ja": "スペースX急騰で米ハイテク株先物上昇…テスラ・メタの決算待ち",
+  "summary_ja": "21日、米国市場の取引開始前にナスダック100先物が0.5%前後上昇するなど、ハイテク株を中心に堅調だった。スペースXの好決算が投資家心理を押し上げ、市場は引け後に発表されるテスラとメタの第3四半期決算を待っている。"
  },
  {
   "date": "2026-10-21",
@@ -297,7 +373,11 @@
   ],
   "orgs": [
    "자민당"
-  ]
+  ],
+  "headline_en": "Tokyo home prices double in 10 years; Japan also moves to tax speculative deals more heavily",
+  "summary_en": "Japan's Liberal Democratic Party is considering strengthening taxes on gains from short-term real estate trading. In fiscal 2025, the average price of a newly built condominium in Tokyo's 23 wards was 137.84 million yen (about 1.1675 billion won), up 18.5% from the previous year. The measure aims to curb speculative transactions after home prices doubled over the past decade.",
+  "headline_ja": "東京の住宅価格、10年で2倍…日本も投機的取引への課税強化へ",
+  "summary_ja": "日本の自民党は、不動産の短期売買による利益への課税を強化する案を検討している。2025年度の東京23区の新築マンション平均価格は1億3784万円（約11億6750万ウォン）で、前年より18.5%上昇した。住宅価格が10年で2倍になったことを受け、投機的取引を抑制しようとする措置だ。"
  },
  {
   "date": "2026-10-21",
@@ -312,7 +392,11 @@
   ],
   "orgs": [
    "AT&T"
-  ]
+  ],
+  "headline_en": "AT&T (T) Shares Dip 4.6% Premarket After Q3 Earnings Beat but Subscriber Growth Misses",
+  "summary_en": "AT&T's third-quarter revenue rose 5.3% to $32.3 billion, and adjusted earnings per share of $0.65 beat market expectations. The company raised its 2026 adjusted EPS outlook to around $2.40, but its shares fell 4.6% before the market opened as net additions of postpaid phone subscribers fell short of expectations.",
+  "headline_ja": "AT&T、7〜9月期決算は予想上回るも加入者伸び悩みで取引前に4.6%安",
+  "summary_ja": "AT&Tの第3四半期売上高は323億ドルで5.3%増加し、調整後1株当たり利益は0.65ドルと市場予想を上回った。同社は2026年の調整後EPS見通しを2.40ドル程度に引き上げたが、後払い携帯電話加入者の純増が期待に届かず、株価は取引開始前に4.6%下落した。"
  },
  {
   "date": "2026-10-21",
@@ -327,7 +411,11 @@
   ],
   "orgs": [
    "EIA"
-  ]
+  ],
+  "headline_en": "U.S. crude oil inventories decrease by 3.1 million barrels",
+  "summary_en": "According to the US Energy Information Administration (EIA), US commercial crude oil inventories (excluding the Strategic Petroleum Reserve) for the week ending October 16 fell by 3.1 million barrels from the previous week to 412.5 million barrels. That is 3% below the five-year average for this time of year.",
+  "headline_ja": "米原油在庫310万バレル減少…5年平均を3%下回る",
+  "summary_ja": "米エネルギー情報局（EIA）によると、10月16日までの週の米国商業用原油在庫（戦略石油備蓄を除く）は前週比310万バレル減の4億1250万バレルだった。これは同時期の5年平均を3%下回る水準だ。"
  },
  {
   "date": "2026-10-21",
@@ -342,7 +430,11 @@
   ],
   "orgs": [
    "SpaceX"
-  ]
+  ],
+  "headline_en": "Stock market today: Dow, S&P 500, Nasdaq rise as tech rallies, SpaceX stock surges nearly 8%",
+  "summary_en": "On the 21st, the Dow rose 360.21 points (0.69%) to close at 52,856.09. The S&P 500 gained about 0.5% and the Nasdaq about 1%. Tech stocks led the rebound, and SpaceX, which reported its first results since going public, surged nearly 8%.",
+  "headline_ja": "NY株、ハイテク株ラリーで主要3指数そろって上昇…スペースXは8%近く急騰",
+  "summary_ja": "21日のニューヨーク株式市場で、ダウ平均は360.21ポイント（0.69%）高の52,856.09で取引を終えた。S&P500は約0.5%、ナスダックは約1%上昇した。ハイテク株が反発を主導し、上場後初の決算を発表したスペースXは8%近く急騰した。"
  },
  {
   "date": "2026-10-21",
@@ -357,7 +449,11 @@
   ],
   "orgs": [
    "Tesla"
-  ]
+  ],
+  "headline_en": "Tesla beats on earnings and sales even as auto revenue declines",
+  "summary_en": "Tesla's third-quarter adjusted earnings per share were $0.48, beating market expectations ($0.43), and revenue also exceeded expectations. However, revenue from its automotive segment declined.",
+  "headline_ja": "テスラ、7〜9月期の利益・売上高とも予想上回る…自動車売上高は減少",
+  "summary_ja": "テスラの第3四半期の調整後1株当たり利益は0.48ドルで市場予想（0.43ドル）を上回り、売上高も予想を超えた。ただし自動車部門の売上高は減少した。"
  },
  {
   "date": "2026-10-21",
@@ -372,7 +468,11 @@
   ],
   "orgs": [
    "IBM"
-  ]
+  ],
+  "headline_en": "IBM RELEASES THIRD-QUARTER RESULTS",
+  "summary_en": "IBM's third-quarter revenue rose 5% to $17.1 billion. Software revenue grew 8% to about $7.8 billion, driving results; within it, the data segment rose 19% and hybrid cloud, including Red Hat, rose 11%. Consulting revenue was flat at $5.3 billion.",
+  "headline_ja": "IBM、7〜9月期売上高171億ドルで5%増…ソフトウェアは8%成長",
+  "summary_ja": "IBMの第3四半期売上高は171億ドルで5%増加した。ソフトウェア売上高が約78億ドルと8%成長して業績をけん引し、そのうちデータ部門は19%、レッドハットを含むハイブリッドクラウドは11%増加した。コンサルティング売上高は53億ドルで横ばいだった。"
  },
  {
   "date": "2026-10-21",
@@ -387,7 +487,11 @@
   ],
   "orgs": [
    "Southwest Airlines"
-  ]
+  ],
+  "headline_en": "SOUTHWEST AIRLINES REPORTS THIRD QUARTER 2026 RESULTS; RECORD REVENUE PERFORMANCE DRIVES YEAR-OVER-YEAR MARGIN EXPANSION",
+  "summary_en": "Southwest Airlines' third-quarter operating revenue rose 21.2% to $8.4 billion, a quarterly record. Net income was $270 million ($0.55 per share), and adjusted net income was $328 million ($0.66 per share). The company said strong revenue improved its margin compared with a year earlier.",
+  "headline_ja": "サウスウエスト航空、7〜9月期売上高84億ドルで21%増…過去最高",
+  "summary_ja": "サウスウエスト航空の第3四半期営業収益は84億ドルで21.2%増加し、四半期として過去最高を記録した。純利益は2億7000万ドル（1株当たり0.55ドル）、調整後純利益は3億2800万ドル（1株当たり0.66ドル）だった。同社は売上好調により前年より利益率が改善したと明らかにした。"
  },
  {
   "date": "2026-10-21",
@@ -401,7 +505,11 @@
    "china",
    "markets"
   ],
-  "orgs": []
+  "orgs": [],
+  "headline_en": "China's blue-chip index hits 14-month low",
+  "summary_en": "On the 21st, China's large-cap CSI 300 index fell 1% to its lowest level since August 2025. The Shanghai Composite Index fell 0.6% to close at 3,713.03. Expectations for additional stimulus faded after third-quarter growth came in solid at 4.5% and the loan prime rate was held steady.",
+  "headline_ja": "中国CSI300指数、14カ月ぶり安値…上海総合は0.6%安",
+  "summary_ja": "21日、中国の大型株中心のCSI300指数が1%下落し、2025年8月以来の低水準を記録した。上海総合指数は0.6%安の3713.03で取引を終えた。第3四半期の成長率が4.5%と堅調で、ローンプライムレートが据え置かれたことから、追加景気刺激策への期待が後退した。"
  },
  {
   "date": "2026-10-21",
@@ -416,7 +524,11 @@
   ],
   "orgs": [
    "Bank of Japan"
-  ]
+  ],
+  "headline_en": "BoJ's Himino says underlying inflation almost at 2% target",
+  "summary_en": "Bank of Japan Deputy Governor Ryozo Himino said underlying inflation has almost reached the central bank's 2% target and that financial conditions remain accommodative.",
+  "headline_ja": "氷見野日銀副総裁「基調的物価、2%目標にほぼ到達」",
+  "summary_ja": "日本銀行の氷見野良三副総裁は、基調的なインフレ率が中央銀行の目標である2%にほぼ達しており、金融環境は依然として緩和的だと述べた。"
  },
  {
   "date": "2026-10-21",
@@ -430,7 +542,11 @@
    "crisis",
    "markets"
   ],
-  "orgs": []
+  "orgs": [],
+  "headline_en": "French 10-year bond yield hits 5% for first time since 2002 amid unrest",
+  "summary_en": "France's 10-year government bond yield briefly topped 5% intraday on the 21st, reaching that level for the first time since 2002. Prime Minister Lecornu's government is pushing for €54 billion in spending cuts in the 2027 budget, but there are strong concerns that a divided parliament will make agreement difficult.",
+  "headline_ja": "仏10年債利回り、2002年以来初の5%突破…デモ拡大で財政不安",
+  "summary_ja": "フランスの10年物国債利回りは21日、取引時間中に一時5%を超え、2002年以来初めてこの水準に達した。ルコルニュ首相の政府は2027年予算で540億ユーロの歳出削減を目指しているが、議会が分裂しており合意は難しいとの懸念が強い。"
  },
  {
   "date": "2026-10-20",
@@ -448,7 +564,11 @@
    "다우",
    "S&P500",
    "나스닥"
-  ]
+  ],
+  "headline_en": "Markets News, Oct. 20, 2026: Dow Closes Up 500 Points; S&P 500 Rises, Nasdaq Ticks Lower; Oil Prices Pull Back",
+  "summary_en": "On the 20th, the Dow rose 529.85 points (1.02%) to close at 52,495.88, a one-month high, while the S&P 500 rose 0.28% to 7,712.57 and the Nasdaq fell 0.02% to 26,424.82. Strong earnings and lower oil prices supported investor sentiment, but AI-related tech stocks were weak. 3M rose more than 5% on strong results and a raised annual guidance, leading the Dow's gains.",
+  "headline_ja": "【NY市況】ダウ530ドル（1.02%）高の52,495.88…S&P500は0.28%高、ナスダックは横ばい",
+  "summary_ja": "20日のニューヨーク株式市場で、ダウ平均は529.85ポイント（1.02%）高の52,495.88と1カ月ぶりの高値で取引を終え、S&P500は0.28%高の7,712.57、ナスダックは0.02%安の26,424.82となった。好決算と原油安が投資家心理を支えたが、AI関連のハイテク株は振るわなかった。3Mは好決算と年間ガイダンスの上方修正で5%超上昇し、ダウの上昇をけん引した。"
  },
  {
   "date": "2026-10-20",
@@ -463,7 +583,11 @@
   ],
   "orgs": [
    "넷플릭스"
-  ]
+  ],
+  "headline_en": "Netflix (NFLX) earnings Q3 2026",
+  "summary_en": "On the 20th, Netflix reported third-quarter revenue of $12.87 billion (up 12% year on year), earnings per share of $0.87 (versus an expected $0.82) and an operating margin of 34.6%. However, it lowered its 2026 advertising revenue forecast from $3 billion to $2.7 billion and announced about 1,000 job cuts, or 6% of its total workforce, sending its shares lower in after-hours trading. Its annual revenue forecast is $51.1 billion.",
+  "headline_ja": "ネットフリックス、7〜9月期EPS0.87ドルで予想上回る…広告収入見通し下方修正・1000人削減で株価下落",
+  "summary_ja": "ネットフリックスは20日、第3四半期の売上高128.7億ドル（前年比12%増）、1株当たり利益0.87ドル（予想0.82ドル）、営業利益率34.6%を発表した。しかし2026年の広告収入見通しを30億ドルから27億ドルに引き下げ、全従業員の6%に当たる約1000人の削減を明らかにしたことで、時間外取引で株価が下落した。年間売上高見通しは511億ドル。"
  },
  {
   "date": "2026-10-20",
@@ -480,7 +604,11 @@
    "브렌트유",
    "WTI",
    "이란"
-  ]
+  ],
+  "headline_en": "Oil Slips as Iran Talks Fuel Volatility",
+  "summary_en": "On the 20th, Brent crude hit $111.99 a barrel intraday, a five-month high, before closing down 0.69% at $108.79 on unconfirmed reports that Qatar and Pakistan were pushing a proposal to resume US-Iran negotiations. Tanker attacks and mine incidents around Hormuz, along with Houthi threats to attack Saudi energy facilities, raised the risk premium, while Trump's suspension of Russia sanctions also acted as a supply factor. During Asian hours on the 21st, it rebounded to around $110.",
+  "headline_ja": "ブレント原油、取引中に5カ月ぶり高値111.99ドルの後108.79ドルに下落して終了…イラン交渉観測で乱高下",
+  "summary_ja": "20日、ブレント原油は取引時間中に1バレル111.99ドルと5カ月ぶりの高値を付けた後、カタールとパキスタンが米イラン交渉再開案を推進しているとの未確認報道を受け、0.69%安の108.79ドルで取引を終えた。ホルムズ周辺でのタンカー被弾や機雷事故、フーシ派によるサウジのエネルギー施設攻撃の脅威がリスクプレミアムを押し上げる中、トランプ氏の対ロシア制裁猶予も供給要因として作用した。21日のアジア時間には再び110ドル台に反発した。"
  },
  {
   "date": "2026-10-20",
@@ -497,7 +625,11 @@
   "orgs": [
    "미 국채",
    "연준"
-  ]
+  ],
+  "headline_en": "Treasury Rates Today: October 20, 2026",
+  "summary_en": "On the 20th, the US 10-year Treasury yield fell 3bp from the previous day to 5.12%, while the 30-year yield was 5.42%, the 2-year 4.79% and the 1-month 4.10%. Long-term yields edged down as oil prices retreated from their highs and expectations of an October Fed rate hike weakened. Mortgage rates were little changed.",
+  "headline_ja": "米10年債利回り3bp低下の5.12%…30年債5.42%、2年債4.79%",
+  "summary_ja": "20日、米国債10年物利回りは前日比3bp低下の5.12%となり、30年物は5.42%、2年物は4.79%、1カ月物は4.10%だった。原油価格が高値から後退し、10月のFRB利上げ観測が弱まったことで長期金利が小幅に低下した。住宅ローン金利は大きな変動がなかった。"
  },
  {
   "date": "2026-10-20",
@@ -514,7 +646,11 @@
    "유럽증시",
    "스톡스600",
    "CAC40"
-  ]
+  ],
+  "headline_en": "Europe close: Stocks end off lows as oil falls but French markets underperform",
+  "summary_en": "On the 20th, European stocks recovered most of their intraday losses thanks to falling oil prices, but the STOXX 600 closed down 0.1% at 638.64. France's CAC 40 fell 0.4% to 7,838.49 on concerns over unrest and political instability, underperforming other markets. Weakness in global tech and AI stocks and the spread of cost-of-living protests also weighed.",
+  "headline_ja": "欧州株、STOXX600は0.1%安の638.64…仏CAC40は0.4%安で出遅れ続く",
+  "summary_ja": "20日の欧州株式市場は原油安に支えられて取引中の下げ幅の大半を取り戻したが、STOXX600は0.1%安の638.64で取引を終えた。フランスのCAC40は騒乱と政治不安への懸念から0.4%安の7,838.49となり、他の市場より不振だった。世界的なハイテク・AI株の軟調さや生活費デモの拡大も重荷となった。"
  },
  {
   "date": "2026-10-20",
@@ -530,7 +666,11 @@
   ],
   "orgs": [
    "중국 인민은행"
-  ]
+  ],
+  "headline_en": "China's loan prime rates remain unchanged",
+  "summary_en": "On the 20th, the People's Bank of China kept the one-year LPR at 3.00% and the five-year LPR at 3.50%, holding them steady for a 17th consecutive month. All 22 institutions in a Reuters survey had expected a hold, and the decision is seen as a signal that the central bank will not rush to ease after third-quarter growth of 4.5% beat expectations. The PBOC is moving toward using the seven-day reverse repo rate as its key policy rate and diversifying lending benchmark rates.",
+  "headline_ja": "中国人民銀行、ローンプライムレート（LPR）17カ月連続据え置き…1年3.00%・5年3.50%",
+  "summary_ja": "中国人民銀行は20日、1年物LPRを3.00%、5年物LPRを3.50%に据え置き、17カ月連続で維持した。ロイターの調査に参加した22機関すべてが据え置きを予想しており、第3四半期の成長率が4.5%と予想を上回った後、緩和を急がないというシグナルと受け止められている。人民銀行は7日物リバースレポ金利を主要政策金利とし、貸出基準金利を多様化する方向に移行している。"
  },
  {
   "date": "2026-10-20",
@@ -545,7 +685,11 @@
   ],
   "orgs": [
    "테슬라"
-  ]
+  ],
+  "headline_en": "Tesla (TSLA) Q3 2026 earnings preview: flat revenue, falling profits",
+  "summary_en": "Tesla will report third-quarter results after the US market closes on the 21st. The market expects earnings per share of about $0.45 and revenue of about $27.9 billion, slightly lower than the same period last year ($0.50 and $28.1 billion). Tesla delivered more than 486,000 vehicles this quarter.",
+  "headline_ja": "テスラ、7〜9月期決算を21日発表…売上横ばい・減益の見通し",
+  "summary_ja": "テスラは21日の米国市場引け後に第3四半期決算を発表する。市場は1株当たり利益約0.45ドル、売上高約279億ドルと、前年同期（0.50ドル、281億ドル）をやや下回るとみている。テスラは今四半期に48万6000台余りを納車した。"
  },
  {
   "date": "2026-10-19",
@@ -562,7 +706,11 @@
   "orgs": [
    "중국",
    "국가통계국"
-  ]
+  ],
+  "headline_en": "China's third-quarter economic growth quickens to 4.5% as exports surge, beating estimates",
+  "summary_en": "China's National Bureau of Statistics announced on the 19th that third-quarter GDP grew 4.5% year on year. The figure beat the Reuters forecast of 4.4% and rebounded from 4.3% in the second quarter, the lowest in more than three years; cumulative growth for the first three quarters was 4.6%. Exports of technology products supported growth, while retail sales growth was just 1.1% and real estate and fixed-asset investment declined, as weak domestic demand persisted.",
+  "headline_ja": "中国7〜9月期GDP4.5%成長…輸出急増で予想（4.4%）上回り、4〜6月期の4.3%から持ち直し",
+  "summary_ja": "中国国家統計局は19日、第3四半期のGDPが前年比4.5%成長したと発表した。ロイターの予想4.4%を上回り、3年余りぶりの低水準だった第2四半期の4.3%から持ち直した数字で、1〜9月の累計成長率は4.6%だった。技術製品の輸出が成長を支えた一方、小売売上高の伸びは1.1%にとどまり、不動産・固定資産投資は減少して内需の不振が続いた。"
  },
  {
   "date": "2026-10-19",
@@ -580,7 +728,11 @@
    "미국",
    "러시아",
    "OPEC+"
-  ]
+  ],
+  "headline_en": "Oil slips from 5-month high as Trump's Russia sanctions waiver may bring more supplies",
+  "summary_en": "In Asian trading on the 19th, Brent crude fell about 2% to the $107 range per barrel, and WTI dropped to around $100. On the 16th, Brent had closed at $109.86, its highest since May. Expectations of increased supply grew with President Trump's waiver of the Graham Act and a Russian diesel import deal, but continued attacks in the Strait of Hormuz limited the decline.",
+  "headline_ja": "国際原油価格、5カ月ぶり高値から2%下落…トランプ氏の対ロ制裁猶予で供給拡大期待",
+  "summary_ja": "19日のアジア市場でブレント原油は約2%下落して1バレル107ドル台、WTIは100ドル前後に下落した。16日にブレントは109.86ドルで取引を終え、5月以来の高値を記録していた。トランプ大統領のグラハム法の猶予とロシア産ディーゼル輸入合意で供給拡大への期待が高まったが、ホルムズ海峡での攻撃が続き、下げ幅は限られた。"
  },
  {
   "date": "2026-10-19",
@@ -596,7 +748,11 @@
   "orgs": [
    "코스피",
    "한국거래소"
-  ]
+  ],
+  "headline_en": "KOSPI opens down 3%, then closes up 1.76% at 5,768.01 in a 280-point rollercoaster day",
+  "summary_en": "On the 19th, the KOSPI opened down 3.17% at 5,488.41 on AI bubble concerns and news of a Chinese chipmaker unveiling its technology, but closed up 1.76% at 5,768.01 as institutional buying (about 576 billion won) flowed in on the view that the sell-off was overdone. It was the second straight day of gains, and the KOSDAQ also rose 1.78% to 808.89, reclaiming the 800 level. Individuals and foreigners were net sellers.",
+  "headline_ja": "KOSPI、3%急落で始まった後1.76%高で終了（5768.01）…1日280ポイントのジェットコースター",
+  "summary_ja": "19日のKOSPIは、AIバブル懸念と中国半導体メーカーの技術公開の報を受けて3.17%急落の5488.41で始まったが、下げすぎとの見方から機関投資家の買い（約5760億ウォン）が入り、1.76%高の5768.01で取引を終えた。2営業日連続の上昇で、KOSDAQも1.78%高の808.89と800台を回復した。個人と外国人は売り越した。"
  },
  {
   "date": "2026-10-19",
@@ -614,7 +770,11 @@
    "프랑스",
    "무디스",
    "ECB"
-  ]
+  ],
+  "headline_en": "Le risque: How the rioting in France might trigger a 'blow up' in the bond market",
+  "summary_en": "Ahead of weekend violent protests and a vote on the 2027 budget, France's 10-year government bond yield rose to 4.84–4.89% on the 19th, and the spread over German Bunds widened to the mid-140bp range, nearing its highest level since the euro zone debt crisis. French bank stocks and the CAC 40 also fell. Moody's credit rating review on the 23rd and a general strike on November 5 are seen as the next variables.",
+  "headline_ja": "フランスの暴動、国債市場「爆発」のリスク高める…10年債4.8%台、独との利回り差140bp前後",
+  "summary_ja": "週末の暴力的なデモと2027年予算の採決を控え、19日のフランス10年物国債利回りは4.84〜4.89%に上昇し、ドイツ国債（ブント）とのスプレッドは140bp台半ばまで拡大して、ユーロ圏債務危機以来の高水準に迫った。フランスの銀行株とCAC40も下落した。23日のムーディーズによる信用格付け評価と11月5日のゼネストが次の変数とされる。"
  },
  {
   "date": "2026-10-19",
@@ -630,7 +790,11 @@
   ],
   "orgs": [
    "연준"
-  ]
+  ],
+  "headline_en": "Gold prices today, Monday, October 19, 2026: Little change in gold prices as oil sailed to May highs",
+  "summary_en": "On the 19th, December gold opened at $4,185 an ounce and edged up to around $4,190, while spot gold traded around $4,170. A slight decline in the US 10-year Treasury yield to around 5.08% and fading expectations of an October Fed rate hike supported gold prices. However, gold is down about 4% over the past month.",
+  "headline_ja": "金価格、1オンス4170〜4190ドルで横ばい…10月利上げ観測後退・国債利回り低下が支え",
+  "summary_ja": "19日、金12月限は1オンス4185ドルで始まり4190ドル台へ小幅上昇し、現物は4170ドル前後で取引された。米10年債利回りが5.08%程度に小幅低下し、10月のFRB利上げ観測が後退したことが金価格を支えた。ただし直近1カ月では約4%下落している。"
  },
  {
   "date": "2026-10-19",
@@ -649,7 +813,11 @@
    "테슬라",
    "메타",
    "넷플릭스"
-  ]
+  ],
+  "headline_en": "Stock Market Today: Dow, S&P Live Updates for October 19",
+  "summary_en": "Nasdaq 100 futures, which plunged 5.5% last week, rebounded 1% before the open on the 19th, and S&P 500 futures also rose 0.5%. On the 16th, the S&P 500 closed down 1.1% at 7,659 and the Nasdaq down 2.1% at 26,140, giving the Nasdaq its worst week since late June. This week, earnings from Netflix (20th) and Tesla and Meta (21st) will test the enthusiasm for AI investment.",
+  "headline_ja": "米株、半導体急落後に反発の動き…ナスダック100先物1%高、ネットフリックス・テスラ・メタの決算週",
+  "summary_ja": "先週5.5%急落したナスダック100先物は19日の取引開始前に1%反発し、S&P500先物も0.5%上昇した。16日のS&P500は1.1%安の7,659、ナスダックは2.1%安の26,140で取引を終え、ナスダックは6月末以来最悪の1週間となった。今週はネットフリックス（20日）、テスラ・メタ（21日）の決算がAI投資熱を試す。"
  },
  {
   "date": "2026-10-19",
@@ -666,7 +834,11 @@
    "IMF",
    "세계은행",
    "태국"
-  ]
+  ],
+  "headline_en": "Thailand Makes History as Host of the 2026 IMF-World Bank Group Annual Meetings, Releases \"Bangkok Dialogue Notes\"",
+  "summary_en": "The IMF-World Bank Annual Meetings, held in Bangkok from October 12 to 18, have concluded. Representatives from 191 member countries attended the meetings, the first held in Bangkok since 1991, and Thailand's Finance Ministry said registrations exceeded 19,000, the most ever. Through the 'Bangkok Dialogue Notes,' a host document rather than a negotiated outcome, Thailand summarized five takeaways, including people-centered resilience.",
+  "headline_ja": "IMF・世界銀行のバンコク年次総会閉幕…登録1万9000人で過去最多、タイが「バンコク対話ノート」発表",
+  "summary_ja": "10月12〜18日にバンコクで開かれたIMF・世界銀行年次総会が閉幕した。1991年以来初めてバンコクで開かれた今回の会議には191の加盟国の代表が参加し、タイ財務省は登録者数が1万9000人以上で過去最多だと明らかにした。タイは交渉の成果物ではないホスト文書「バンコク対話ノート」を通じて、人間中心のレジリエンスなど5つの示唆をまとめた。"
  },
  {
   "date": "2026-10-19",
@@ -681,7 +853,11 @@
   ],
   "orgs": [
    "비트코인"
-  ]
+  ],
+  "headline_en": "Bitcoin Price Today: BTC Coils Near $82,500 as Daily Bollinger Bands Reach Multi-Year Tightness",
+  "summary_en": "On the 19th, Bitcoin traded between $82,400 and $83,000, up 1–2% over 24 hours. Analysts say the daily Bollinger Band width has narrowed to its tightest in 2.5 years, indicating a compression phase ahead of a large directional move. It remains well below its October 2025 peak of about $126,000.",
+  "headline_ja": "ビットコイン8万2000〜8万3000ドルで横ばい…ボリンジャーバンド、2.5年ぶりの最大収縮",
+  "summary_ja": "19日、ビットコインは8万2400〜8万3000ドルの間で取引され、24時間ベースで1〜2%上昇した。日足のボリンジャーバンド幅が2.5年ぶりに最も狭まり、大きな方向性のある動きを控えた収縮局面だとの分析が出ている。2025年10月の高値約12万6000ドルと比べると依然として大きく下回る水準だ。"
  },
  {
   "date": "2026-10-19",
@@ -697,7 +873,11 @@
   "orgs": [
    "닛케이",
    "ASX"
-  ]
+  ],
+  "headline_en": "Asian markets mixed on Monday: Nikkei down 1.2%, Hong Kong closed, ASX up 0.4%",
+  "summary_en": "On the 19th, Asian stock markets got off to a weak start in the wake of last Friday's tech-led sell-off on Wall Street (S&P 500 -1.1%, Nasdaq -2.1%). Japan's Nikkei 225 closed around the 64,500 level, down about 1.2%, on weakness in semiconductor and AI-related stocks, while the Hong Kong market was closed. Australia's ASX 200 closed up 0.4%, supported by energy stocks and merger news, and oil prices slipped slightly from around $110 a barrel.",
+  "headline_ja": "アジア株、月曜は高安まちまち…日経1.2%安、香港は休場、ASXは0.4%高",
+  "summary_ja": "19日のアジア株式市場は、先週金曜日の米国市場でのハイテク株中心の売り（S&P500 -1.1%、ナスダック -2.1%）の影響で軟調な出だしとなった。日本の日経225は半導体・AI関連株の軟調で1.2%前後下落して64,500台で取引を終え、香港市場は休場だった。オーストラリアのASX200はエネルギー株とM&Aの報に支えられて0.4%高で終え、原油価格は1バレル110ドル台から小幅に下落した。"
  },
  {
   "date": "2026-10-19",
@@ -714,7 +894,11 @@
   "orgs": [
    "프랑스",
    "유럽"
-  ]
+  ],
+  "headline_en": "European markets close lower; Stoxx 600 falls 0.82% as France's CAC 40 tumbles 1.35% after violent weekend protests",
+  "summary_en": "On Monday the 19th, the STOXX 600 index closed down 0.82% in Europe, while France's CAC 40 fell 1.35%, the biggest drop, after weekend cost-of-living protests turned violent. France's 10-year government bond yield rose about 10bp to around 4.89%, and its spread over Germany widened to 146bp. Brent crude fell more than 1% to around $108 a barrel, while WTI traded around $101.",
+  "headline_ja": "欧州株が下落して終了…仏の暴力的デモの影響でCAC40は1.35%急落、STOXX600は0.82%安",
+  "summary_ja": "19日（月）の欧州株式市場で、STOXX600指数は0.82%安で取引を終え、週末の生活費デモが暴力事態に発展したフランスのCAC40は1.35%下落し、下げ幅が最も大きかった。フランス10年物国債利回りは10bp前後上昇して約4.89%となり、ドイツとのスプレッドは146bpまで拡大した。ブレント原油は1%以上下落して1バレル108ドル前後、WTIは101ドル台で取引された。"
  },
  {
   "date": "2026-10-19",
@@ -731,7 +915,11 @@
   "orgs": [
    "미 재무부",
    "연준"
-  ]
+  ],
+  "headline_en": "Treasury yields ease as oil prices retreat amid fading Fed rate-hike bets",
+  "summary_en": "On the 19th, the US 10-year Treasury yield fell 1bp to 5.09%, and the 30-year yield dropped to 5.432%. This came as oil prices retreated following Trump's Russia sanctions waiver, weakening expectations of further Fed rate hikes. The Fed raised its benchmark rate to 3.75–4.00% in September, and the next FOMC meeting is on October 27–28, with the Fed currently in its blackout period.",
+  "headline_ja": "米国債利回りが小幅低下…原油安でFRB追加利上げ観測弱まる",
+  "summary_ja": "19日、米国債10年物利回りは1bp低下の5.09%、30年物は5.432%に低下した。トランプ氏の対ロシア制裁免除で原油価格が後退し、FRBの追加利上げ観測が弱まった影響だ。FRBは9月に政策金利を3.75〜4.00%に引き上げており、次回FOMCは10月27〜28日で、現在はブラックアウト期間中だ。"
  },
  {
   "date": "2026-10-19",
@@ -747,7 +935,11 @@
   "orgs": [
    "뉴욕증시",
    "나스닥"
-  ]
+  ],
+  "headline_en": "Stock market today: Dow slips, Nasdaq, S&P 500 rise as the AI trade rebounds",
+  "summary_en": "On the 19th, the Nasdaq and S&P 500 opened higher on Wall Street as AI-related stocks that plunged last week rebounded, while the Dow was slightly weaker. Shortly after the open, the Nasdaq was up about 1.1% and the S&P 500 about 0.6%, and CoreWeave, which plunged more than 25% last week, rebounded 6.6% in premarket trading. Big Tech earnings, including Netflix, SpaceX, Tesla and Meta, are scheduled this week.",
+  "headline_ja": "NY株（取引中）：ダウは小幅安、ナスダック・S&P500は上昇…AI関連が反発",
+  "summary_ja": "19日のニューヨーク株式市場は、先週急落したAI関連株が反発し、ナスダックとS&P500が上昇して始まり、ダウは小幅安となった。取引開始直後にナスダックは約1.1%、S&P500は約0.6%上昇し、先週25%超急落したコアウィーブは取引開始前に6.6%反発した。今週はネットフリックス、スペースX、テスラ、メタなどビッグテックの決算発表が予定されている。"
  },
  {
   "date": "2026-10-19",
@@ -763,7 +955,11 @@
   "orgs": [
    "닛케이",
    "코스피"
-  ]
+  ],
+  "headline_en": "Asian tech stocks mixed after Wall St losses, eyes on earnings",
+  "summary_en": "On the 19th, Asian stock markets were mixed in the wake of last Friday's sharp drop in Wall Street tech stocks. Tokyo's Nikkei opened weak and declined, Seoul's KOSPI rebounded 1.7–1.8%, and Shanghai rose 0.4%. Hong Kong was closed, and oil prices around $110 a barrel and this week's Big Tech earnings were cited as key variables.",
+  "headline_ja": "アジアのハイテク株は高安まちまち…日経は下落、KOSPIは反発、香港は休場",
+  "summary_ja": "19日のアジア株式市場は、先週金曜日の米国ハイテク株急落の影響で高安まちまちとなった。東京の日経平均は軟調に始まって下落し、ソウルのKOSPIは1.7〜1.8%反発、上海は0.4%上昇した。香港は休場で、1バレル110ドル前後の原油価格と今週のビッグテック決算が変数とされた。"
  },
  {
   "date": "2026-10-19",
@@ -780,7 +976,11 @@
   "orgs": [
    "프랑스",
    "무디스"
-  ]
+  ],
+  "headline_en": "Chart of the day: France's bond market is flashing another warning for EUR/USD",
+  "summary_en": "Following violent weekend protests, the yield gap between France's 10-year government bond (OAT) and the German Bund widened to about 145bp on the morning of the 19th, nearing its October high, and France's 10-year yield, at 4.84–4.86%, approached its highest level since 2002 (4.989%). French yields are now higher than those of Italy and Greece, and Moody's is scheduled to review France's credit rating on October 23.",
+  "headline_ja": "仏独10年債スプレッド145bpに拡大…騒乱で債券市場に警戒信号",
+  "summary_ja": "週末の暴力的なデモの後、19日午前にフランス10年物国債（OAT）とドイツ国債（ブント）の利回り差は約145bpまで拡大して10月の高値に迫り、フランス10年債利回りは4.84〜4.86%と2002年以来の最高値（4.989%）に近づいた。フランスの利回りはイタリアやギリシャより高くなっており、ムーディーズは10月23日にフランスの信用格付けを見直す予定だ。"
  },
  {
   "date": "2026-10-19",
@@ -797,7 +997,11 @@
    "S&P500",
    "나스닥",
    "다우"
-  ]
+  ],
+  "headline_en": "Stock market today: Dow jumps, S&P 500, Nasdaq gain as AI jitters fade",
+  "summary_en": "On the 19th, the S&P 500 and Nasdaq rose on Wall Street as last week's AI-related selling subsided, and the Dow, which was weak early in the session, also turned higher. A rebound in chip stocks led the Nasdaq, with the S&P 500 rising to around 7,727 (+0.89%) and the Nasdaq to around 26,592 intraday. The 10-year US Treasury yield was about 5.07%, roughly 29bp below its October 7 high, and the market is watching earnings from Netflix (20th) and Meta and Tesla (21st).",
+  "headline_ja": "NY株、AI不安和らぎ主要3指数上昇…ダウ反発、10年債利回り5.07%",
+  "summary_ja": "19日のニューヨーク株式市場は、先週のAI関連の売りが落ち着き、S&P500とナスダックが上昇し、序盤は軟調だったダウも上昇に転じた。半導体株の反発がナスダックをけん引し、取引時間中にS&P500は7,727台（+0.89%）、ナスダックは26,592台まで上昇した。米10年債利回りは約5.07%と10月7日の高値より29bpほど低く、市場はネットフリックス（20日）とメタ・テスラ（21日）の決算を注視している。"
  },
  {
   "date": "2026-10-19",
@@ -812,7 +1016,11 @@
   ],
   "orgs": [
    "메타"
-  ]
+  ],
+  "headline_en": "Why is Meta Platforms stock sliding today?",
+  "summary_en": "Meta shares traded around $696 on the 19th, down 1.8% intraday. Analysts attributed the decline to a combination of profit-taking ahead of its third-quarter results due after the close on the 21st, concerns that AI capital spending will squeeze free cash flow, and recent analyst price-target cuts. Meta also fell 3.7% on the 16th on analyst downgrades and AI spending concerns, and is trading well below its 52-week high (about $779).",
+  "headline_ja": "メタ株、決算発表を前に再び下落…AI投資負担・目標株価引き下げが重なる",
+  "summary_ja": "メタの株価は19日、取引時間中に1.8%安の696ドル台で取引された。21日の引け後の第3四半期決算発表を前にした利益確定売り、AI設備投資がフリーキャッシュフローを圧迫するとの懸念、最近のアナリストによる目標株価引き下げが重なったとの分析だ。メタは16日にもアナリストの引き下げとAI支出への懸念で3.7%下落しており、52週高値（約779ドル）を大きく下回っている。"
  },
  {
   "date": "2026-10-19",
@@ -828,7 +1036,11 @@
   "orgs": [
    "연준",
    "FOMC"
-  ]
+  ],
+  "headline_en": "What To Look For From The Fed's October Meeting",
+  "summary_en": "The Fed entered its blackout period on the 17th, suspending public remarks ahead of the October 27–28 FOMC meeting. Chair Warsh mentioned a global 'synchronized tightening' in a speech in Bangkok on the 16th but did not signal whether rates would rise in October. The bond market puts the probability of an October hold at about 80% and is pricing in a likely hike on December 9, while consumer price inflation has risen to 3.7% since the September hike.",
+  "headline_ja": "FRB、10月27〜28日のFOMCを前にブラックアウト入り…市場は10月据え置き80%、12月利上げが有力との見方",
+  "summary_ja": "FRBは10月27〜28日のFOMCを前に、17日から公の発言を控えるブラックアウト期間に入った。ウォーシュ議長は16日のバンコクでの講演で世界的な「同時引き締め」に言及したが、10月の利上げの有無は示唆しなかった。債券市場は10月据え置きの確率を約80%とみて、12月9日の利上げを有力視して織り込んでおり、9月の利上げ以降、消費者物価上昇率は3.7%に上昇した。"
  },
  {
   "date": "2026-10-18",
@@ -844,7 +1056,11 @@
   ],
   "orgs": [
    "미국 재무부"
-  ]
+  ],
+  "headline_en": "Treasury Secretary Scott Bessent says Iran war drives current energy shock",
+  "summary_en": "US Treasury Secretary Scott Bessent said on NBC's 'Meet the Press' on the 18th that the 3.7% rise in consumer prices in September was caused by an energy shock stemming from the Iran conflict. Gasoline prices rose 9.1% in September, accounting for more than half of the monthly price increase, and he said prices would come down once the Iran situation passes. The host pushed back, noting that core inflation does not include energy; the midterm elections are on November 3, 16 days away.",
+  "headline_ja": "ベッセント米財務長官「9月の物価急騰はイラン戦争発のエネルギーショックが原因」",
+  "summary_ja": "スコット・ベッセント米財務長官は18日、NBCの「ミート・ザ・プレス」で、9月の消費者物価3.7%上昇はイラン紛争によるエネルギーショックが原因だと述べた。9月のガソリン価格は9.1%上昇して月間物価上昇分の半分以上を占めており、同氏はイラン情勢が過ぎれば価格は下がるとの考えを示した。司会者はコア物価にはエネルギーが含まれないと反論した。中間選挙は11月3日で、16日後に迫っている。"
  },
  {
   "date": "2026-10-16",
@@ -860,7 +1076,11 @@
   ],
   "orgs": [
    "중국 상무부"
-  ]
+  ],
+  "headline_en": "China Moves to Curb Tech Exports, Including AI, Citing National Security Risks",
+  "summary_en": "On October 16, China's Ministry of Commerce issued a draft of export controls on 40 technologies, including 23 AI technologies such as large models with 2 trillion or more parameters, AI agents, chip design and computing clusters, and immediately implemented a temporary registration system. Observers said the trade truce extended during Xi Jinping's US visit was being shaken after just three weeks. The deeper the US-China technology bloc division becomes, the harder the choices will be for Korean IT companies entangled in Chinese supply chains.",
+  "headline_ja": "中国、AIモデル・チップ設計など23のAI技術の輸出規制を推進",
+  "summary_ja": "中国商務省は10月16日、2兆パラメータ以上の大規模モデル、AIエージェント、チップ設計、コンピューティングクラスターなど23のAI技術を含む40技術の輸出規制案を公表し、臨時登録制を即時施行した。習近平氏の訪米で延長された貿易休戦が3週間で揺らいでいるとの評価が出た。米中の技術ブロック化が深まるほど、中国のサプライチェーンに絡む韓国IT企業の選択は難しくなる。"
  },
  {
   "date": "2026-10-16",
@@ -876,7 +1096,11 @@
   "orgs": [
    "뉴욕증권거래소",
    "미 연준"
-  ]
+  ],
+  "headline_en": "Stock market today: Dow, S&P 500, Nasdaq sink as tech sell-off caps volatile week",
+  "summary_en": "On October 16, the S&P 500 closed down 1.09% at 7,659 and the Nasdaq down 2.14% at 26,140, falling about 2% and more than 4% for the week, respectively, with the Nasdaq posting its worst week since June. The decline reflected a combination of AI infrastructure debt concerns, 3.7% inflation, Brent crude touching $110 and Treasury yields above 5%, and the VIX jumped to its highest since June. Ahead of the October 28 FOMC meeting and China's third-quarter GDP release, global investors' risk aversion became pronounced.",
+  "headline_ja": "NY株、ハイテク株の投げ売りで下落して終了…S&P500は週間2%安、ナスダックは6月以来最悪の週",
+  "summary_ja": "10月16日、S&P500は1.09%安の7,659、ナスダックは2.14%安の26,140で取引を終え、週間でそれぞれ約2%、4%超下落し、ナスダックは6月以来最悪の1週間となった。AIインフラ債務への懸念、3.7%の物価上昇、110ドルに達したブレント原油、5%台の国債利回りが重なった結果で、VIXは6月以来の高水準に跳ね上がった。10月28日のFOMCと中国の第3四半期GDP発表を前に、世界の投資家のリスク回避姿勢が鮮明になった。"
  },
  {
   "date": "2026-10-15",
@@ -894,7 +1118,11 @@
    "삼성전자",
    "SK하이닉스"
   ],
-  "video_channel": "Arirang News"
+  "video_channel": "Arirang News",
+  "headline_en": "'Black Thursday': KOSPI plunges 7.57%, circuit breakers triggered on both KOSPI and KOSDAQ",
+  "summary_en": "With the shock of the US September CPI and concerns over AI infrastructure debt (CoreWeave's plunge) combined, on October 15 the KOSPI fell 454 points (7.57%) to close at 5,554 and the KOSDAQ fell 7.65% to 760, with circuit breakers triggered in both markets. Semiconductors led the decline, with Samsung Electronics down 9.5% and SK Hynix down 11%, and foreign investors sold more than 3.6 trillion won. The Nikkei also plunged 4.9%, spreading into a global chip sell-off, and the KOSPI's weekly drop was the largest since 2008.",
+  "headline_ja": "「暗黒の木曜日」KOSPI7.57%暴落…KOSPI・KOSDAQで同時にサーキットブレーカー",
+  "summary_ja": "米国の9月CPIショックとAIインフラ債務への懸念（コアウィーブ急落）が重なり、10月15日にKOSPIは454ポイント（7.57%）安の5,554、KOSDAQは7.65%安の760で取引を終え、両市場でサーキットブレーカーが発動された。サムスン電子が-9.5%、SKハイニックスが-11%と半導体が下げを主導し、外国人は3兆6000億ウォン超を売った。日経平均も4.9%急落して世界的な半導体の投げ売りに広がり、KOSPIの週間下落幅は2008年以来最大となった。"
  },
  {
   "date": "2026-10-15",
@@ -912,7 +1140,11 @@
    "코어위브",
    "엔비디아"
   ],
-  "video_channel": "Reuters"
+  "video_channel": "Reuters",
+  "headline_en": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
+  "summary_en": "Yields on AI cloud company CoreWeave's bonds maturing in 2031 topped 16%, and its five-year CDS spread soared above 1,100bp, to a level at which the market sees the probability of default within five years at around 60%. Doubts about the business model of building AI data centers with more than $50 billion in debt led to sharp declines across AI-related stocks, including Oracle and Dell. The debate over an 'AI boom built on debt' is also behind the sharp fall in Korean chip stocks.",
+  "headline_ja": "コアウィーブのCDS、「デフォルト危険」水準に急騰…AI債務への恐怖が拡散",
+  "summary_ja": "AIクラウド企業コアウィーブの2031年満期債の利回りが16%を超え、5年物CDSスプレッドが1100bp以上に急騰し、市場が5年以内のデフォルト確率を60%前後とみる水準になった。500億ドルを超える債務でAIデータセンターを建設するビジネスモデルへの疑念が、オラクルやデルなどAI関連株全般の急落につながった。「借金で積み上げたAIブーム」論争は、韓国半導体株急落の背景でもある。"
  },
  {
   "date": "2026-10-14",
@@ -930,7 +1162,11 @@
    "미 노동통계국(BLS)",
    "미 연준"
   ],
-  "video_channel": "CBS News"
+  "video_channel": "CBS News",
+  "headline_en": "September CPI report shows inflation accelerated to 3.7% as energy costs soared",
+  "summary_en": "September consumer prices rose 0.6% from the previous month and 3.7% from a year earlier, above the 3.6% forecast, and core CPI also rebounded to 2.6%. Gasoline prices jumped 9.1%, accounting for half of the increase, showing that the Iran war is feeding directly into prices. The probability of an October FOMC hike rose again and Treasury yields jumped, triggering the plunge in Korean and Japanese stock markets the next day.",
+  "headline_ja": "米9月CPI3.7%に再加速…ガソリンは1カ月で9.1%急騰",
+  "summary_ja": "9月の消費者物価は前月比0.6%、前年比3.7%上昇して予想の3.6%を上回り、コアCPIも2.6%に反発した。ガソリン価格が9.1%跳ね上がって上昇分の半分を占め、イラン戦争が物価に直結していることを示した。10月FOMCでの利上げ確率が再び上昇し、国債利回りが跳ね上がったことで、翌日の韓国・日本株暴落の引き金となった。"
  },
  {
   "date": "2026-10-14",
@@ -946,7 +1182,11 @@
   ],
   "orgs": [
    "중국 해관총서"
-  ]
+  ],
+  "headline_en": "China's exports and imports surge past expectations in September",
+  "summary_en": "China's September exports rose 36.3% year on year, far exceeding the 25.5% forecast, imports increased 31%, and the monthly trade surplus hit a record $133.5 billion. Semiconductor exports surged 108% in January–September and auto exports rose 56%, driven by AI demand and a rush of shipments to the EU. The cumulative January–September surplus of $938.1 billion heightens pressure from Europe to rebalance trade and means intensifying competition for Korean exporters.",
+  "headline_ja": "中国9月輸出36.3%急増…月間貿易黒字1335億ドルで過去最大",
+  "summary_ja": "中国の9月の輸出は前年比36.3%増と予想の25.5%を大きく上回り、輸入も31%増加し、月間貿易黒字は1335億ドルと過去最大を記録した。半導体輸出が1〜9月に108%急増し、自動車輸出が56%増えるなど、AI需要とEU向け出荷ラッシュがけん引した。1〜9月の累計黒字9381億ドルは、欧州による貿易不均衡是正の圧力を強め、韓国の輸出企業との競争激化を意味する。"
  },
  {
   "date": "2026-10-14",
@@ -963,7 +1203,11 @@
   "orgs": [
    "이란 정부",
    "미 중부사령부"
-  ]
+  ],
+  "headline_en": "Iran steps up Hormuz surveillance: Attacks soar, oil flows crash again",
+  "summary_en": "As Iranian attacks on ships in Hormuz surged, with more than six tankers attacked on October 11 alone, tanker traffic fell to its lowest since late July and Brent crude topped $106. Iranian officials said they would intensify attacks with new tactics, heightening concerns of a prolonged situation. For Korea, which relies heavily on Gulf crude, diversification of import sources and management of oil reserves are being put to the test again.",
+  "headline_ja": "イラン、ホルムズでの監視・攻撃を強化…原油通航量は7月以来の低水準",
+  "summary_ja": "10月11日の1日だけでタンカー6隻以上が攻撃されるなど、イランによるホルムズでの船舶攻撃が急増し、タンカーの通航量は7月末以来の低水準に落ち込み、ブレント原油は106ドルを超えた。イラン当局者は新たな戦術で攻撃を強化すると表明し、事態長期化への懸念が高まった。湾岸産原油の比率が高い韓国は、輸入先の多角化と備蓄油の運用が再び試されている。"
  },
  {
   "date": "2026-10-14",
@@ -979,7 +1223,11 @@
   ],
   "orgs": [
    "Federal Reserve"
-  ]
+  ],
+  "headline_en": "The Fed - Monetary Policy: Beige Book",
+  "summary_en": "The Fed's October Beige Book assessed that US economic activity grew weakly or modestly. Only two of the 12 districts reported 'moderate' growth, and three saw little change. Consumer spending stalled in most districts, and more than half said spending was being driven by high-income households.",
+  "headline_ja": "FRBベージュブック「経済成長は弱いか緩やか…消費は高所得層が下支え」",
+  "summary_ja": "FRBの10月のベージュブックは、米国の経済活動が弱いか緩やかに成長したと評価した。12地区のうち「中程度」の成長を報告したのは2地区のみで、3地区はほとんど変化がなかった。大半の地区で消費支出は停滞し、半数以上が消費は高所得層がけん引していると伝えた。"
  },
  {
   "date": "2026-10-13",
@@ -995,7 +1243,11 @@
   "orgs": [
    "국제통화기금(IMF)"
   ],
-  "video_channel": "IMF"
+  "video_channel": "IMF",
+  "headline_en": "IMF raises 2026 global growth forecast to 3.1% as economic inequality widens",
+  "summary_en": "In its October World Economic Outlook released at the Annual Meetings in Bangkok, the IMF projected 2026 global growth at 3.1%, 0.1 percentage point higher than in July, and 3.4% for 2027, and forecast global inflation at 4.7%. It warned that while the AI investment boom offset the shock of the Middle East war, 95% of growth is concentrated in 32 countries, widening disparities. Korea's forecast was raised by 0.7 percentage point to 3.3% thanks to chip demand, but a key variable is that the outlook assumes 'the reopening of Hormuz next March.'",
+  "headline_ja": "IMF10月世界経済見通し、今年の成長率を3.1%に上方修正…韓国は3.3%",
+  "summary_ja": "IMFはバンコク年次総会で発表した10月の世界経済見通しで、2026年の世界成長率を7月より0.1ポイント高い3.1%、2027年を3.4%とし、世界の物価上昇率は4.7%と予想した。AI投資ブームが中東戦争の衝撃を相殺したものの、成長の95%が32カ国に集中して格差が拡大していると警告した。韓国は半導体需要により0.7ポイント上方修正の3.3%とされたが、見通しの前提が「来年3月のホルムズ再開通」である点が変数だ。"
  },
  {
   "date": "2026-10-13",
@@ -1013,7 +1265,11 @@
    "삼성전자",
    "SK하이닉스"
   ],
-  "video_channel": "Yahoo Finance"
+  "video_channel": "Yahoo Finance",
+  "headline_en": "Chip Selloff Sparks 7% Korea Rout on Brewing Worries Over AI",
+  "summary_en": "With news of China's CXMT catching up in memory and comments on AI demand by Broadcom executives coinciding, the KOSPI slid more than 7% intraday on October 13 before closing down 5.46% at 6,035, threatening the 6,000 level. Foreign selling poured in, sending Samsung Electronics and SK Hynix sharply lower, and the selling spread to US memory stocks. Down more than 20% from its September peak, the KOSPI has effectively entered a bear market.",
+  "headline_ja": "半導体の投げ売りでKOSPI5.5%急落、6000台割れ危機…AIバブル懸念が再燃",
+  "summary_ja": "中国CXMTのメモリー追い上げの報とブロードコム経営陣のAI需要に関する発言が重なり、10月13日にKOSPIは取引時間中に7%以上下落した後、5.46%安の6,035で取引を終え、6000台を脅かした。外国人の売りが殺到してサムスン電子・SKハイニックスが急落し、米国のメモリー株にも売りが広がった。9月の高値から20%以上下落したKOSPIは事実上の弱気相場入りとなった。"
  },
  {
   "date": "2026-10-08",
@@ -1029,7 +1285,11 @@
   "orgs": [
    "이란 정부",
    "OPEC"
-  ]
+  ],
+  "headline_en": "Oil prices jump as Iran steps up tanker attacks, hurricane threatens U.S. Gulf production",
+  "summary_en": "After a record 10 tankers were attacked in the Strait of Hormuz during the week of September 28 to October 4, Brent crude rose 4.8% in a single day to close at $105. A hurricane threat to the US Gulf of Mexico and the fading of expectations for reserve releases also played a part. For Korea, a crude importer, this is an across-the-board burden on prices, the trade balance and airline fuel costs, and it was a direct cause of the surge in the US September CPI.",
+  "headline_ja": "イランのタンカー攻撃急増で原油5%急騰…ブレント105ドル",
+  "summary_ja": "9月28日〜10月4日の1週間にホルムズ海峡でタンカー10隻が攻撃される過去最多の記録が出ると、ブレント原油は1日で4.8%上昇して105ドルで取引を終えた。米メキシコ湾のハリケーンの脅威や備蓄放出期待の剥落も重なった。原油輸入国の韓国にとっては物価・貿易収支・航空燃料費など全方位の負担であり、米国9月CPI急騰の直接的な原因となった。"
  },
  {
   "date": "2026-10-07",
@@ -1046,7 +1306,11 @@
   "orgs": [
    "미 재무부",
    "미 연준"
-  ]
+  ],
+  "headline_en": "Why The 10-Year Treasury Yield Just Hit A 24-Year High",
+  "summary_en": "The US 10-year Treasury yield topped 5.3% in early October, rising to its highest since 2002. It has jumped more than 90bp this year, the result of the Fed's shift to rate hikes, a reacceleration of inflation driven by surging oil prices and concerns over the fiscal deficit. When the benchmark for global long-term rates rises, Korean government bond and lending rates as well as growth-stock valuations all come under pressure.",
+  "headline_ja": "米10年債利回り、24年ぶりの高水準…5.3%突破",
+  "summary_ja": "米10年物国債利回りは10月初めに5.3%を超え、2002年以来の高水準に上昇した。FRBの利上げへの転換、原油急騰による物価の再加速、財政赤字への懸念が重なった結果で、今年に入って90bp以上跳ね上がった。世界の長期金利の基準が上昇すると、韓国の国債・貸出金利と成長株のバリュエーションがいずれも圧迫を受ける。"
  },
  {
   "date": "2026-10-02",
@@ -1063,7 +1327,11 @@
   "orgs": [
    "유로스타트",
    "유럽중앙은행(ECB)"
-  ]
+  ],
+  "headline_en": "Euro area annual inflation up to 3.8%",
+  "summary_en": "According to Eurostat's flash estimate, euro zone consumer prices rose 3.8% year on year in September, up sharply from 3.2% in August and the highest since September 2023. The biggest factor was a 18.8% surge in energy prices, and core inflation also rose to 2.5%. The figure adds pressure for a further hike at the ECB meeting on October 29, and slowing European demand is also a burden on Korea's exports to Europe.",
+  "headline_ja": "ユーロ圏9月物価3.8%…2023年以来の高水準、エネルギーは18.8%急騰",
+  "summary_ja": "ユーロスタットの速報値によると、9月のユーロ圏消費者物価は前年比3.8%と8月の3.2%から大きく上昇し、2023年9月以来の高水準を記録した。エネルギー物価が18.8%急騰した影響が最も大きく、コア物価も2.5%に上昇した。10月29日のECB理事会で追加利上げの圧力を高める指標であり、欧州の需要減速は韓国の対欧州輸出にも負担となる。"
  },
  {
   "date": "2026-10-02",
@@ -1079,7 +1347,11 @@
   "orgs": [
    "미 노동통계국(BLS)"
   ],
-  "video_channel": "Bloomberg Television"
+  "video_channel": "Bloomberg Television",
+  "headline_en": "U.S. September 2026 jobs report: payrolls miss forecasts badly",
+  "summary_en": "September nonfarm payrolls rose by just 29,000, far below the forecast of 84,000, and the unemployment rate rose to 4.2%. July was revised to a decline of 10,000 and August down to 133,000, and hourly wage growth of 3.0% was the lowest since 2021. As the last jobs report before the midterm elections, it led the market to begin pricing in a high probability of a hold at the October FOMC meeting.",
+  "headline_ja": "米9月雇用は2万9000人増にとどまる…失業率4.2%",
+  "summary_ja": "9月の非農業部門雇用者数は2万9000人増と予想の8万4000人を大きく下回り、失業率は4.2%に上昇した。7月は1万人減、8月は13万3000人に下方修正され、時間当たり賃金の伸び3.0%は2021年以来の低さだった。中間選挙前最後の雇用統計で、市場は10月FOMCでの据え置きの可能性を高く織り込み始めた。"
  },
  {
   "date": "2026-09-30",
@@ -1096,7 +1368,11 @@
   "orgs": [
    "미 상무부 경제분석국(BEA)",
    "미 연준"
-  ]
+  ],
+  "headline_en": "PCE inflation eases to 3.4% — cooling the case for another Fed rate hike",
+  "summary_en": "The Fed's preferred August personal consumption expenditures (PCE) price index rose 3.4% year on year, and the core index 3.0%, below forecasts of 3.7% and 3.3%, respectively, and the July figures were also revised down. Coming right after the September hike, the data raised hopes that the pace of further hikes could slow. However, inflation remains far from the 2% target, so the outlook for higher-for-longer rates was maintained.",
+  "headline_ja": "米8月PCE物価3.4%・コア3.0%…予想下回り追加利上げの論拠弱まる",
+  "summary_ja": "FRBが重視する8月の個人消費支出（PCE）物価は前年比3.4%、コアは3.0%で、それぞれ予想の3.7%、3.3%を下回り、7月の数値も下方修正された。9月の利上げ直後に出た指標であるため、追加利上げのペースを緩められるとの期待が生じた。ただし2%目標との距離は依然大きく、高金利長期化の見通しは維持された。"
  },
  {
   "date": "2026-09-24",
@@ -1114,7 +1390,11 @@
    "미 재무부",
    "중국 정부"
   ],
-  "video_channel": "FRANCE 24 English"
+  "video_channel": "FRANCE 24 English",
+  "headline_en": "U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit",
+  "summary_en": "During President Xi Jinping's state visit to Washington on September 23–25, the US and China agreed to extend their trade truce, which was set to expire on November 10, to January 10, 2027, and to lower tariffs on about $30 billion worth of 'non-core' goods, including agricultural products and energy. However, this fell short for a market that had hoped for an extension of six months or more, and there was no agreement on issues such as AI and Iran. For Korean exporters caught between the US and China, it meant little more than a breather.",
+  "headline_ja": "習近平氏訪米の中、米中貿易休戦を2カ月延長…300億ドル分の関税引き下げ",
+  "summary_ja": "習近平国家主席の9月23〜25日のワシントン国賓訪問中、米中は11月10日に期限を迎える予定だった貿易休戦を2027年1月10日まで延長し、農産物・エネルギーなど約300億ドル規模の「非中核」品目の関税を引き下げることにした。しかし6カ月以上の延長を期待した市場には物足りず、AIやイラン問題などでの合意はなかった。米中の間に挟まれた韓国の輸出業界にとっては、一息つく以上の意味はなかった。"
  },
  {
   "date": "2026-09-18",
@@ -1130,7 +1410,11 @@
   "orgs": [
    "일본은행"
   ],
-  "video_channel": "ANNnewsCH"
+  "video_channel": "ANNnewsCH",
+  "headline_en": "Bank of Japan raises interest rates to 31-year high, flags concerns over inflation",
+  "summary_en": "On September 18, the Bank of Japan voted 7–2 to raise its short-term policy rate from 1.0% to 1.25%, the highest level since 1995. The additional hike came three months after the June increase, citing the risk of inflation exceeding the 2% target and rising inflation expectations. The unwinding of the yen carry trade and rising Japanese government bond yields are sources of volatility for Asian financial markets, including Korea.",
+  "headline_ja": "日銀、政策金利を1.25%に引き上げ…1995年以来の高水準",
+  "summary_ja": "日本銀行は9月18日、7対2で短期政策金利を1.0%から1.25%に引き上げ、1995年以来の高水準とした。6月の利上げから3カ月での追加利上げで、物価が2%目標を上回るリスクと期待インフレの上昇を理由に挙げた。円キャリートレードの巻き戻しと日本国債利回りの上昇は、韓国を含むアジア金融市場の変動要因となる。"
  },
  {
   "date": "2026-09-16",
@@ -1146,7 +1430,11 @@
   "orgs": [
    "미 연준"
   ],
-  "video_channel": "CNBC Television"
+  "video_channel": "CNBC Television",
+  "headline_en": "Fed rate decision September 2026: Rates rise to 3.75%-4%",
+  "summary_en": "On September 16, the Fed voted unanimously, 12–0, to raise its benchmark rate by 0.25 percentage point to 3.75–4.00%. In the first hike since 2023, Chair Warsh said the Fed had 'removed some of the accommodation' and that inflation had been too high for too long, and the dot plot signaled further hikes within the year. The White House pushed back, but the market priced in further hikes, putting direct pressure on the Bank of Korea's room to cut rates and on the won exchange rate.",
+  "headline_ja": "米FRB、3年ぶりの利上げ…政策金利3.75〜4.00%",
+  "summary_ja": "FRBは9月16日、12対0の全会一致で政策金利を0.25ポイント引き上げ、3.75〜4.00%とした。2023年以来初の利上げで、ウォーシュ議長は「緩和の一部を取り除いた」とし、物価があまりにも長く高すぎたと述べ、ドットチャートは年内の追加利上げを示唆した。ホワイトハウスは反発したが、市場は追加利上げを織り込み、韓国銀行の利下げ余地とウォン相場に直接的な圧力となった。"
  },
  {
   "date": "2026-09-10",
@@ -1162,7 +1450,11 @@
   "orgs": [
    "유럽중앙은행(ECB)"
   ],
-  "video_channel": "European Central Bank"
+  "video_channel": "European Central Bank",
+  "headline_en": "ECB hikes rates as expected, but questions remain",
+  "summary_en": "On September 10, the European Central Bank unanimously raised its three key policy rates by 0.25 percentage point, lifting the deposit rate to 2.50%. It cited the shock of the Middle East war, with euro zone inflation at 3.3% and energy inflation at 14.3% in August, but did not commit to a future path, saying it would decide 'meeting by meeting based on data.' It was one pillar of a resumption of global tightening, with the US, Europe and Japan all raising rates in the same month.",
+  "headline_ja": "ECB、預金金利を0.25ポイント引き上げ2.50%に…中東戦争発の物価圧力",
+  "summary_ja": "欧州中央銀行は9月10日、全会一致で3つの政策金利を0.25ポイント引き上げ、預金金利を2.50%とした。8月のユーロ圏物価3.3%、エネルギー物価14.3%という中東戦争の衝撃を理由に挙げたが、今後の道筋は「会合ごとにデータで判断する」として約束しなかった。米国・欧州・日本が同じ月にそろって利上げに踏み切る、世界的な引き締め再開の一角だった。"
  },
  {
   "date": "2026-09-04",
@@ -1179,7 +1471,11 @@
   "orgs": [
    "일본은행",
    "미 연준"
-  ]
+  ],
+  "headline_en": "US Dollar Slumps to Start September as Yen Surges on Rate Bets",
+  "summary_en": "The Bloomberg Dollar Index fell 0.7% in the first week of September to its lowest since May, while the yen rose to a one-month high amid expectations of a Bank of Japan rate hike and wariness about intervention. A temporary retreat in bets on Fed rate hikes also played a part. The dollar's weakness gave some breathing room to the won exchange rate and foreign capital inflows.",
+  "headline_ja": "9月初めにドルは5月以来の安値…日銀利上げ期待で円が急騰",
+  "summary_ja": "ブルームバーグ・ドル指数は9月第1週に0.7%下落して5月以来の安値に沈み、円は日銀の利上げ期待と介入への警戒の中、1カ月ぶりの高値に上昇した。FRBの利上げ観測が一時後退した影響も重なった。ドル安局面は、ウォン相場と外国人資金の流入に一息つかせる要因だった。"
  },
  {
   "date": "2026-09-01",
@@ -1195,7 +1491,11 @@
   ],
   "orgs": [
    "미국 의회"
-  ]
+  ],
+  "headline_en": "House passes funding stopgap, averting government shutdown in October",
+  "summary_en": "The US House passed the stopgap spending bill sent by the Senate by a vote of 370 to 48, averting a federal government shutdown that had been feared with the start of the new fiscal year on October 1. It was a relief for markets that had gone through a 43-day shutdown last year, but the next deadline has merely been pushed back to December 11, after the midterm elections. US fiscal risk also affects capital flows to emerging markets through Treasury yields and the dollar.",
+  "headline_ja": "米下院、つなぎ予算案を可決…10月の政府閉鎖を回避、12月11日まで延長",
+  "summary_ja": "米下院は上院から送られたつなぎ予算案を370対48で可決し、10月1日の新会計年度開始とともに懸念されていた連邦政府の閉鎖を回避した。昨年43日間の政府閉鎖を経験した市場には安心材料だったが、次の期限は中間選挙後の12月11日に先送りされたにすぎない。米国の財政リスクは、国債利回りとドルを通じて新興国の資金の流れにも影響を与える。"
  },
  {
   "date": "2026-08-29",
@@ -1210,7 +1510,11 @@
   ],
   "orgs": [
    "일본 재무성"
-  ]
+  ],
+  "headline_en": "Japan spends record ¥15.39 trillion in July-August forex interventions",
+  "summary_en": "Japan's Ministry of Finance announced that its foreign exchange interventions from July 30 to August 26 totaled 15.3993 trillion yen, a monthly record. Cumulative interventions this year have exceeded 27 trillion yen, already surpassing the 2024 annual record (about 15 trillion yen). As the yen weakened again despite the massive intervention, pressure on the Bank of Japan to raise rates grew, and unease spread across Asian currencies.",
+  "headline_ja": "日本、7〜8月に過去最大の15兆3900億円の為替介入",
+  "summary_ja": "財務省は、7月30日〜8月26日の外国為替市場への介入規模が15兆3993億円で、月間ベースで過去最大だったと発表した。今年の累計介入額は27兆円を超え、2024年の年間記録（約15兆円）をすでに上回った。巨額の介入にもかかわらず円が再び弱含むと、日銀への利上げ圧力が強まり、アジア通貨全般に不安が広がった。"
  },
  {
   "date": "2026-08-28",
@@ -1226,7 +1530,11 @@
   "orgs": [
    "미 연준"
   ],
-  "video_channel": "CNBC Television"
+  "video_channel": "CNBC Television",
+  "headline_en": "Fed Chairman Warsh warns on inflation at Jackson Hole",
+  "summary_en": "In his first Jackson Hole keynote since taking office, Chair Kevin Warsh said that even if summer inflation data had improved, the underlying trend had not changed, leaving the door open to a rate hike, and he offered no forward guidance. Immediately after the speech, the probability of a September hike jumped from one-third to 56%, and Treasury yields and the dollar rose. A US shift to rate hikes is a factor that narrows Korea's room to manage interest rates and the exchange rate.",
+  "headline_ja": "ウォーシュFRB議長、ジャクソンホール初講演で「物価は依然高い」とタカ派シグナル",
+  "summary_ja": "ケビン・ウォーシュ議長は就任後初のジャクソンホールでの基調講演で、夏の物価指標が改善したとしても基調的な流れが変わったわけではないとして利上げの可能性を残し、フォワードガイダンスは示さなかった。講演直後、9月利上げの確率は3分の1から56%に跳ね上がり、国債利回りとドルが上昇した。米国の利上げへの転換は、韓国の金利・為替運営の余地を狭める要因だ。"
  },
  {
   "date": "2026-08-26",
@@ -1242,7 +1550,11 @@
   "orgs": [
    "엔비디아"
   ],
-  "video_channel": "CNBC International Live"
+  "video_channel": "CNBC International Live",
+  "headline_en": "Nvidia earnings takeaways: Huang forecasts 70% fiscal 2028 revenue growth, far above estimates",
+  "summary_en": "Nvidia's revenue for the second quarter of fiscal 2027 was $96.2 billion, more than double a year earlier, and its forecast of 70% revenue growth in fiscal 2028 far exceeded market expectations (44%). Its shares rose more than 8% in a single day, confirming that the AI investment cycle is still alive. The results were directly relevant to Samsung Electronics and SK Hynix, which supply HBM to Nvidia, and to Korean chip investors.",
+  "headline_ja": "エヌビディア、四半期売上高962億ドルで2倍に…フアンCEO「来年70%成長」見通し",
+  "summary_ja": "エヌビディアの2027会計年度第2四半期の売上高は962億ドルと前年の2倍を超え、2028会計年度の売上高が70%成長するとの見通しは市場予想（44%）を大きく上回った。株価は1日で8%超上昇し、AI投資サイクルがまだ続いていることを確認した。エヌビディアにHBMを供給するサムスン電子・SKハイニックスと韓国の半導体投資家に直結する決算だった。"
  },
  {
   "date": "2026-08-22",
@@ -1259,7 +1571,11 @@
    "미국 백악관",
    "캐나다 정부"
   ],
-  "video_channel": "CBC News: The National"
+  "video_channel": "CBC News: The National",
+  "headline_en": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
+  "summary_en": "A 50% tariff on about $20 billion worth of Canadian goods, invoking Section 338 of the Tariff Act of 1930 for the first time in 77 years, took effect on August 22, and Prime Minister Carney announced retaliatory tariffs of the same scale starting September 8. Two days later, President Trump added that he would raise tariffs on Canadian autos and steel to 50% from 2027. As the entire North American supply chain was shaken, Korean auto and battery companies with plants in Canada also grew tense.",
+  "headline_ja": "米加交渉が決裂…米国の50%関税発効、カーニー首相「9月8日から報復関税」",
+  "summary_ja": "1930年関税法338条を77年ぶりに発動したカナダ産約200億ドル相当の商品に対する50%関税が8月22日に発効し、カーニー首相は9月8日から同規模の報復関税を予告した。トランプ大統領は2日後、2027年からカナダの自動車・鉄鋼への関税を50%に引き上げると付け加えた。北米サプライチェーン全体が揺らぐ中、カナダに工場を持つ韓国の自動車・バッテリー業界も緊張した。"
  },
  {
   "date": "2026-08-12",
@@ -1274,7 +1590,11 @@
   ],
   "orgs": [
    "미 노동통계국(BLS)"
-  ]
+  ],
+  "headline_en": "CPI inflation report July 2026: Prices rose 0.1%, annual rate 3.4%",
+  "summary_en": "July consumer prices rose 0.1% from the previous month and 3.4% from a year earlier, slowing slightly from 3.5% in June, and core CPI was 2.5%. However, energy prices were 14.7% higher and gasoline 24.6% higher than a year earlier, as the shadow of the Iran war lingered. The market lowered the probability of a September rate hike, but the structure of inflation running well above target remained unchanged.",
+  "headline_ja": "米7月CPI3.4%…エネルギー下落で上昇ペースが小幅鈍化",
+  "summary_ja": "7月の消費者物価は前月比0.1%、前年比3.4%上昇し、6月の3.5%から小幅に鈍化し、コアCPIは2.5%だった。ただしエネルギー価格は前年より14.7%、ガソリンは24.6%高く、イラン戦争の影が依然として残っていた。市場は9月の利上げ確率を引き下げたが、物価が目標を大きく上回る構図はそのままだった。"
  },
  {
   "date": "2026-08-07",
@@ -1289,7 +1609,11 @@
   ],
   "orgs": [
    "미 노동통계국(BLS)"
-  ]
+  ],
+  "headline_en": "July jobs report: US economy shed 23,000 jobs, a sudden reversal",
+  "summary_en": "July nonfarm payrolls fell by 23,000, shocking a market that had expected an increase in the 80,000 range, and the May–June figures were also revised down by more than 100,000. The unemployment rate fell to 4.1%, but this was due to an increase in people giving up looking for work, and wage growth was the lowest in five years. The dilemma of slowing employment amid high inflation intensified market debate over whether the Fed would hike in September.",
+  "headline_ja": "米7月雇用2万3000人減少…予想外のマイナス",
+  "summary_ja": "7月の非農業部門雇用者数は2万3000人減少し、8万人台の増加を予想していた市場に衝撃を与え、5〜6月の数値も10万人以上下方修正された。失業率は4.1%に低下したが、これは求職をあきらめる人が増えたためで、賃金上昇率は5年ぶりの低さだった。高インフレ下の雇用減速というジレンマが、FRBの9月利上げをめぐる市場の議論を激しくした。"
  },
  {
   "date": "2026-08-03",
@@ -1307,7 +1631,11 @@
    "일본 재무성",
    "미 재무부"
   ],
-  "video_channel": "Bloomberg Television"
+  "video_channel": "Bloomberg Television",
+  "headline_en": "U.S., Japan confirm coordinated yen intervention, signal readiness for more",
+  "summary_en": "Finance Minister Katayama and Secretary Bessent confirmed that Japan's Ministry of Finance and the US Treasury jointly bought yen on July 31 to stem the yen's weakness, which had driven it as low as 164 per dollar. It was the first time in about 28 years that the US joined in defending Japan's currency, and the yen rebounded sharply to the 155 range. The event affects both the price competitiveness of Korean exporters that had benefited from the weak yen and yen investors.",
+  "headline_ja": "日米、28年ぶりの協調円買い介入を確認…追加介入を示唆",
+  "summary_ja": "1ドル＝164円まで進んだ円安を食い止めるため、財務省と米財務省が7月31日に協調して円を買ったと、片山財務相とベッセント長官が確認した。米国が日本の通貨防衛に加わったのは約28年ぶりで、円は155円台まで急反発した。円安の恩恵を受けていた韓国の輸出企業の価格競争力と、円の投資家の双方に影響を与える出来事だ。"
  },
  {
   "date": "2026-07-30",
@@ -1322,7 +1650,11 @@
   ],
   "orgs": [
    "미 상무부 경제분석국(BEA)"
-  ]
+  ],
+  "headline_en": "US economy grew 1.5% in second quarter, Commerce Department estimates",
+  "summary_en": "The Commerce Department's Bureau of Economic Analysis's advance estimate of second-quarter GDP was an annualized 1.5%, below both the first quarter's 2.1% and the market forecast of 2.1%. Lower government spending and slowing investment and exports were the causes, and quarterly PCE prices rose as much as 5.1%, heightening concerns about 'low growth and high inflation.' It was later revised up to 2.2% in the final estimate, but at the time the data further complicated the Fed's tightening burden.",
+  "headline_ja": "米4〜6月期GDP成長率1.5%…予想を下回る",
+  "summary_ja": "米商務省経済分析局による第2四半期GDP速報値は年率1.5%で、第1四半期の2.1%と市場予想の2.1%をいずれも下回った。政府支出の減少と投資・輸出の鈍化が原因で、四半期のPCE物価は5.1%も上昇し、「低成長・高インフレ」への懸念を強めた。その後の確定値で2.2%に上方修正されたが、当時はFRBの引き締めの負担をより複雑にした指標だった。"
  },
  {
   "date": "2026-07-29",
@@ -1337,7 +1669,11 @@
   ],
   "orgs": [
    "미 연준"
-  ]
+  ],
+  "headline_en": "Fed rate decision July 2026: Divided Fed holds interest rates steady",
+  "summary_en": "At its July 28–29 meeting, the Fed held its benchmark rate at 3.50–3.75% for a fifth straight time, but three regional Fed presidents, Hammack, Kashkari and Logan, dissented, calling for a 0.25 percentage point hike. This effectively made official the internal dissatisfaction over inflation running above the 2% target for more than five years. It later foreshadowed the September hike, and tightening pressure was transmitted to Korean interest rates and the exchange rate as well.",
+  "headline_ja": "米FRB7月FOMC、金利3.50〜3.75%で据え置き…3人が利上げを主張し反対",
+  "summary_ja": "FRBは7月28〜29日の会合で政策金利を3.50〜3.75%に5会合連続で据え置いたが、ハマック、カシュカリ、ローガンの地区連銀総裁3人が0.25ポイントの利上げを求めて反対票を投じた。5年以上2%目標を上回る物価に対する内部の不満が公式化された形だ。その後の9月利上げの伏線となり、韓国の金利・為替にも引き締め圧力が伝わった。"
  },
  {
   "date": "2026-07-29",
@@ -1354,7 +1690,11 @@
    "한국거래소",
    "삼성전자",
    "SK하이닉스"
-  ]
+  ],
+  "headline_en": "South Korea's stock market plunges as AI-driven boom fades",
+  "summary_en": "After plunging 10.84% on July 28, the KOSPI fell further on the 29th, triggering circuit breakers for two consecutive days. With Chinese memory makers catching up, doubts over returns on AI investment and selling from leveraged ETFs combined, Samsung Electronics and SK Hynix plunged by double digits. The extreme volatility, with the index falling more than 30% in a month before rebounding 17.9% on the 31st, shook individual investors.",
+  "headline_ja": "AI熱が冷めて韓国株が暴落…KOSPIで2日連続サーキットブレーカー",
+  "summary_ja": "KOSPIは7月28日に10.84%暴落した後、29日もさらに下落し、2日連続でサーキットブレーカーが発動された。中国メモリーメーカーの追い上げとAI投資回収への疑問、レバレッジETFの売りが重なり、サムスン電子・SKハイニックスが2桁の急落となった。1カ月で30%以上下落した後、31日に17.9%反発する極端な変動が個人投資家を揺さぶった。"
  },
  {
   "date": "2026-07-23",
@@ -1369,7 +1709,11 @@
   ],
   "orgs": [
    "유럽중앙은행(ECB)"
-  ]
+  ],
+  "headline_en": "Lagarde Signals ECB Is Primed for Possible Move in September",
+  "summary_en": "On July 23, the European Central Bank held its deposit rate at 2.25%, deciding to watch the impact of the Iran war on inflation. Some members argued for an immediate hike, and President Lagarde laid the groundwork for a September hike. It was a signal that the energy shock could spill over into a European rate-hike cycle.",
+  "headline_ja": "ECBが金利据え置き…ラガルド総裁「9月利上げの可能性」示唆",
+  "summary_ja": "欧州中央銀行は7月23日、預金金利を2.25%に据え置き、イラン戦争が物価に与える影響を見守ることにした。一部の委員は即時利上げを主張し、ラガルド総裁は9月利上げの地ならしをした。エネルギーショックが欧州の利上げサイクルに波及しうるというシグナルだった。"
  },
  {
   "date": "2026-07-08",
@@ -1387,7 +1731,11 @@
    "미국 백악관",
    "이란 정부"
   ],
-  "video_channel": "Bloomberg Television"
+  "video_channel": "Bloomberg Television",
+  "headline_en": "Oil prices surge and markets fall after Trump says Iran ceasefire is over",
+  "summary_en": "As President Trump declared that the April ceasefire and the June memorandum of understanding were effectively over and resumed airstrikes on Iran, Brent crude jumped more than 5% to the $78 range, and major European stock markets fell more than 2%. It marked a turning point at which oil prices, which had fallen back to pre-war levels, rebounded again. Korea, which is highly dependent on crude imports, came under pressure on both prices and its trade balance.",
+  "headline_ja": "トランプ氏「イラン停戦は終わった」発言で原油急騰・株価下落",
+  "summary_ja": "トランプ大統領が4月の停戦と6月の覚書は事実上終わったと宣言し、イランへの空爆を再開したことで、ブレント原油は5%超上昇して78ドル台となり、欧州の主要株式市場は2%以上下落した。戦争前の水準まで下がっていた原油価格が再び反発する転換点となった。原油輸入への依存度が高い韓国は、物価と貿易収支の双方で負担を受けることになった。"
  },
  {
   "date": "2026-07-01",
@@ -1404,7 +1752,11 @@
    "미국 무역대표부(USTR)",
    "캐나다 정부",
    "멕시코 정부"
-  ]
+  ],
+  "headline_en": "U.S. won't renew USMCA, will review trade pact with Canada and Mexico",
+  "summary_en": "At the joint review on July 1, the Office of the US Trade Representative did not agree to renew the North American free trade agreement (USMCA), leaving the agreement in a 'non-renewed' state subject to annual review. The agreement itself remains in effect, but uncertainty over North American supply chains increased, and it later became a precursor to high tariffs on Canada. It is also a direct variable for Korean auto and parts companies with production bases in Mexico and Canada.",
+  "headline_ja": "米国、USMCA更新を拒否…カナダ・メキシコと毎年見直しへ",
+  "summary_ja": "米通商代表部は7月1日の共同見直しで北米自由貿易協定（USMCA）の更新に同意せず、協定は「未更新」の状態で毎年の見直し対象となった。協定自体は有効だが北米サプライチェーンの不確実性が高まり、その後のカナダに対する高関税の前兆となった。メキシコ・カナダに生産拠点を置く韓国の自動車・部品企業にとっても直接的な変数だ。"
  },
  {
   "date": "2026-06-23",
@@ -1420,7 +1772,11 @@
   "orgs": [
    "나스닥",
    "마이크론"
-  ]
+  ],
+  "headline_en": "Is AI 'one big bubble'? Behind the tech sell-off",
+  "summary_en": "With concerns over soaring AI infrastructure investment costs, reports of a delay in OpenAI's IPO and the possibility of a Fed rate hike combined, the Nasdaq plunged on June 23, and memory and storage stocks such as Micron and SanDisk fell more than 10%. Doubts grew over the profitability of the four Big Tech companies' 2026 capital spending, which exceeded $450 billion. The event brought the 'AI cycle peak' debate to the Korean stock market, which has a large weighting in memory chips, and to SK Hynix and Samsung Electronics investors.",
+  "headline_ja": "「AIバブル」懸念でナスダック急落…マイクロン13%暴落、半導体の時価総額1兆ドル消失",
+  "summary_ja": "AIインフラ投資コスト急増への懸念、オープンAIの上場延期報道、FRBの利上げ可能性が重なり、6月23日にナスダックが急落し、マイクロンやサンディスクなどメモリー・ストレージ株が10%以上下落した。ビッグテック4社の2026年の設備投資が4500億ドルを超えたことに対し、収益性への疑問が高まったのだ。メモリー半導体の比重が大きい韓国株式市場とSKハイニックス・サムスン電子の投資家に「AIサイクルのピーク」論争をもたらした出来事だ。"
  },
  {
   "date": "2026-06-17",
@@ -1436,7 +1792,11 @@
   "orgs": [
    "미 연준"
   ],
-  "video_channel": "The Union Herald"
+  "video_channel": "The Union Herald",
+  "headline_en": "Fed interest rate decision June 2026: Fed holds rates steady",
+  "summary_en": "At the first FOMC meeting chaired by new Chair Kevin Warsh, the Fed unanimously held rates at 3.50–3.75%, but significantly shortened its statement and deleted language indicating an easing bias. The median projection for the end-2026 rate rose from 3.4% to 3.8%, signaling a hike within the year, and Chair Warsh announced Fed reforms through five task forces covering areas such as communication and the balance sheet. The signal that US rates could rise again is a burden on Korean interest rates, the exchange rate and stocks alike.",
+  "headline_ja": "ウォーシュ議長初のFOMC、全会一致で据え置き…ドットチャートは「年内利上げ」に転換",
+  "summary_ja": "ケビン・ウォーシュ新議長が主宰した初のFOMCで、FRBは金利を3.50〜3.75%に全会一致で据え置いたが、声明文を大幅に短くし、利下げバイアスの文言を削除した。2026年末の金利中央値見通しは3.4%から3.8%に上がって年内利上げを示唆し、ウォーシュ議長はコミュニケーション・バランスシートなど5つのタスクフォースによるFRB改革を予告した。米金利が再び上がりうるというシグナルは、韓国の金利・為替・株式のすべてにとって負担要因だ。"
  },
  {
   "date": "2026-06-16",
@@ -1451,7 +1811,11 @@
   ],
   "orgs": [
    "일본은행"
-  ]
+  ],
+  "headline_en": "Bank of Japan hikes rates to 1%, highest since 1995, as yen and inflation worries take hold",
+  "summary_en": "The Bank of Japan raised its policy rate from 0.75% to 1%, returning it to the highest level since 1995. The decision was made by a 7–1 vote against the backdrop of the yen's weakness and war-driven increases in energy prices, and the BOJ also decided to continue reducing its government bond purchases. Concerns about an unwinding of the yen carry trade and the possibility of a yen rebound are variables that directly affect the Korean stock market, the won-yen exchange rate and the cost of travel to Japan.",
+  "headline_ja": "日銀、金利を1%に引き上げ、1995年以来の高水準…円安・物価圧力で引き締め加速",
+  "summary_ja": "日本銀行は政策金利を0.75%から1%に引き上げ、1995年以来の高い水準に戻した。7対1の採決で、円安と戦争によるエネルギー物価の上昇が背景にあり、国債買い入れの縮小も続けることにした。円キャリートレードの巻き戻しへの懸念と円反発の可能性は、韓国株式市場とウォン・円相場、日本旅行の費用に直接影響を与える変数だ。"
  },
  {
   "date": "2026-06-16",
@@ -1468,7 +1832,11 @@
   "orgs": [
    "미국",
    "이란"
-  ]
+  ],
+  "headline_en": "Brent falls below $80 per barrel on report U.S. will allow Iran to sell oil immediately",
+  "summary_en": "Brent crude plunged 5% to close at $78.96 on reports that the US and Iran had agreed on a memorandum of understanding covering an end to the war and the reopening of the Strait of Hormuz, and that the US would allow Iran to sell oil for 60 days. It was the first time since March that Brent fell below $80, and the Nikkei and KOSPI hit record highs. However, volatility remained, as the text of the agreement was not released and President Trump warned that he 'could bomb again.'",
+  "headline_ja": "米イランが終戦の枠組みで合意…ブレント原油、3月以来初めて80ドル割れ",
+  "summary_ja": "米国とイランが戦争終結とホルムズ海峡の再開放を盛り込んだ覚書に合意し、米国が60日間イラン産原油の販売を認めるとの報道を受け、ブレント原油は5%急落して78.96ドルで取引を終えた。3月以来初めて80ドルを下回ったもので、日経平均とKOSPIは過去最高値を更新した。ただし合意文は公開されず、トランプ大統領が「再び爆撃しうる」と警告するなど、変動性は残った。"
  },
  {
   "date": "2026-06-11",
@@ -1484,7 +1852,11 @@
   "orgs": [
    "ECB"
   ],
-  "video_channel": "European Central Bank"
+  "video_channel": "European Central Bank",
+  "headline_en": "ECB hikes interest rates for first time since 2023 as Iran war ramps up energy costs",
+  "summary_en": "The European Central Bank raised its deposit rate from 2% to 2.25%, its first hike since 2023. President Lagarde said war-driven inflation was spreading beyond energy, raising the inflation outlook and lowering the growth outlook, and said the ECB would not commit in advance to a specific rate path. As the first major central bank to raise rates in response to the Iran war, it signaled that global monetary policy was changing direction from 'cuts' to 'hikes.'",
+  "headline_ja": "ECB、2023年以来初の利上げで預金金利2.25%…戦争による物価上昇で主要国中最初に動く",
+  "summary_ja": "欧州中央銀行は預金金利を2%から2.25%に引き上げ、2023年以来初の利上げに踏み切った。ラガルド総裁は戦争発のインフレがエネルギーを超えて広がっているとして物価見通しを引き上げ、成長見通しを引き下げ、特定の金利経路をあらかじめ約束しないと明らかにした。イラン戦争に対応して利上げした最初の主要中央銀行であり、世界の金融政策が「利下げ」から「利上げ」へと方向を変えるシグナルだった。"
  },
  {
   "date": "2026-06-11",
@@ -1499,7 +1871,11 @@
   ],
   "orgs": [
    "세계은행"
-  ]
+  ],
+  "headline_en": "World Bank lowers 2026 global growth forecast to 2.5%",
+  "summary_en": "In its June Global Economic Prospects, the World Bank lowered its 2026 growth forecast to 2.5%, the lowest figure since the COVID-19 pandemic. It cut its forecasts for two-thirds of all countries due to the Middle East war, and warned that growth could fall to 2.1% if energy disruptions worsen and oil prices average $115, and to 1.3% if financial turmoil spreads. Per capita income growth in emerging economies is the lowest since the pandemic, foreshadowing slowing demand in Korea's export markets.",
+  "headline_ja": "世界銀行、2026年の世界成長率を2.5%に下方修正…「景気後退期以外で20年ぶりの低水準」",
+  "summary_ja": "世界銀行は6月の世界経済見通しで、2026年の成長率を2.5%に引き下げ、新型コロナのパンデミック以降で最も低い数値を示した。中東戦争により全体の3分の2の国の見通しを引き下げ、エネルギー供給の混乱が深刻化して原油価格が平均115ドルに達すれば2.1%、金融不安が広がれば1.3%まで下がりうると警告した。新興国の1人当たり所得の伸びはパンデミック以降で最低で、韓国の輸出市場の需要減速を予告している。"
  },
  {
   "date": "2026-06-03",
@@ -1515,7 +1891,11 @@
   "orgs": [
    "일본",
    "도쿄증권거래소"
-  ]
+  ],
+  "headline_en": "Japan's Nikkei tops 68,000 for first time on AI-driven chip stock surge",
+  "summary_en": "The Nikkei 225 rose 2.5% to close at 68,402, topping the 68,000 level for the first time ever, and the TOPIX also broke through 4,000 intraday. AI chip equipment stocks led the gains, with Tokyo Electron soaring 13.4% and Advantest jumping 5%. It was a period when Korea's KOSPI, riding the same AI chip cycle, was also continuing to set new highs, led by Samsung Electronics and SK Hynix.",
+  "headline_ja": "日経平均、初の6万8000円突破…東京エレクトロン13%急騰、AI半導体が押し上げた最高値",
+  "summary_ja": "日経225は2.5%上昇して68,402で取引を終え、史上初めて6万8000台を突破し、TOPIXも取引時間中に4000を超えた。東京エレクトロンが13.4%、アドバンテストが5%急騰するなど、AI半導体装置株が上昇を主導した。同じAI半導体サイクルに乗る韓国のKOSPIも、サムスン電子・SKハイニックスを中心にそろって最高値を更新していた時期だ。"
  },
  {
   "date": "2026-05-28",
@@ -1531,7 +1911,11 @@
   "orgs": [
    "미국",
    "이란"
-  ]
+  ],
+  "headline_en": "Oil prices turn lower as U.S.-Iran ceasefire extension awaits Trump approval",
+  "summary_en": "As Iranian state TV reported that Iran had agreed on a draft memorandum of understanding (MOU) with the US and a ceasefire extension awaited President Trump's approval, oil prices gave up their gains and turned lower. It was the first time that negotiations, stalled over the Strait of Hormuz issue since the April ceasefire, reached the stage of a concrete document. Since the direction of oil prices feeds directly into Korea's inflation and interest rate outlook, the domestic market also reacted sensitively to news of the negotiations.",
+  "headline_ja": "イラン「米国と覚書草案で合意」…停戦延長への期待で原油は下落に転換",
+  "summary_ja": "イラン国営テレビが米国と覚書（MOU）草案で合意したと伝え、停戦延長がトランプ大統領の承認を待つ中、原油価格は上昇分を失って下落に転じた。4月の停戦以降、ホルムズ海峡問題で行き詰まっていた交渉が初めて具体的な文書の段階に入ったのだ。原油価格の方向性が韓国の物価と金利見通しに直結するだけに、国内市場も交渉のニュースに敏感に反応した。"
  },
  {
   "date": "2026-05-15",
@@ -1548,7 +1932,11 @@
   "orgs": [
    "미국",
    "중국"
-  ]
+  ],
+  "headline_en": "Trump-Xi summit: The 3 big takeaways from historic meeting in Beijing",
+  "summary_en": "During President Trump's visit to Beijing, which had been delayed for more than a month by the Iran war, China pledged to buy US agricultural products and Boeing aircraft and to reopen its markets to beef and poultry, and the two countries agreed to establish a trade council and an investment council. However, an extension of the tariff truce from the October 2025 Busan agreement was not specified, and rare earth export controls also remained unresolved. Korea is one of the countries most sensitive to supply chain realignment and tariff changes between the US and China.",
+  "headline_ja": "北京での米中首脳会談、成果は限定的…関税休戦延長の明記なくボーイング・農産物購入",
+  "summary_ja": "イラン戦争で1カ月以上延期されていたトランプ大統領の北京訪問で、中国は米国産農産物・ボーイング機の購入と牛肉・家禽市場の再開放を約束し、両国は貿易委員会・投資委員会の新設で合意した。しかし2025年10月の釜山合意による関税休戦の延長は明記されず、レアアースの輸出規制も未解決のまま残った。韓国は米中間のサプライチェーン再編と関税の変化に最も敏感な国の一つだ。"
  },
  {
   "date": "2026-05-14",
@@ -1563,7 +1951,11 @@
   ],
   "orgs": [
    "뉴욕증시"
-  ]
+  ],
+  "headline_en": "S&P 500 Soars To New Record High—Closes Above 7,500 For First Time",
+  "summary_en": "The S&P 500 closed at 7,501.24, topping the 7,500 level for the first time ever, and the Dow also reclaimed the 50,000 level. The US stock market, which at one point in March had fallen more than 7% from the start of the year due to the war and the oil shock, returned to record highs in just over two months, buoyed by ceasefire hopes and AI earnings. For Korean retail investors in overseas stocks with large holdings of US stocks and ETFs, it was a time of large valuation gains, further boosted by the strong dollar.",
+  "headline_ja": "S&P500、史上初めて7500超えで取引終了…ダウも5万台を回復",
+  "summary_ja": "S&P500は7,501.24で取引を終えて史上初めて7500台を超え、ダウ平均も5万台を再び回復した。戦争と原油ショックで3月に一時年初比7%超下落していた米国株式市場が、停戦期待とAI関連の好業績に支えられ、2カ月余りで最高値に戻ったのだ。米国株・ETFの比重が大きい韓国の海外株個人投資家（「西学アリ」）にとっては、ドル高も加わって大きな評価益が出た時期だった。"
  },
  {
   "date": "2026-05-13",
@@ -1579,7 +1971,11 @@
   "orgs": [
    "미 연준",
    "미 상원"
-  ]
+  ],
+  "headline_en": "Kevin Warsh wins Senate confirmation as the next Federal Reserve chair",
+  "summary_en": "The US Senate confirmed Kevin Warsh as the 17th Fed chair by a vote of 54 to 45. Only Senator Fetterman voted in favor among Democrats, making it the most partisan vote in the history of Fed chair confirmations, and the path opened only after the Justice Department's investigation into Chair Powell was dropped. The rate decisions of the new chair, who takes office amid controversy over Fed independence, are the biggest external variable for Korean interest rates and the exchange rate.",
+  "headline_ja": "米上院、ウォーシュFRB議長を54対45で承認…史上最も党派的な採決",
+  "summary_ja": "米上院はケビン・ウォーシュ氏を第17代FRB議長として54対45で承認した。民主党ではフェッターマン議員のみが賛成し、FRB議長承認史上最も党派的な採決として記録され、パウエル議長に対する司法省の捜査が取り下げられた後にようやく道が開かれた。FRBの独立性をめぐる論争の中で就任する新議長の金利決定は、韓国の金利と為替にとって最大の外部変数だ。"
  },
  {
   "date": "2026-04-30",
@@ -1595,7 +1991,11 @@
   "orgs": [
    "이란",
    "미국"
-  ]
+  ],
+  "headline_en": "Brent oil pulls back after climbing to $126 per barrel on U.S.-Iran escalation fears",
+  "summary_en": "On reports that US Central Command would brief President Trump on plans for military action against Iran, Brent crude soared to $126 intraday, its highest since the war began, before slipping to $114. President Trump's statement that he would maintain the naval blockade until a nuclear deal is reached also added to the unease. Oil prices, nearly double their level at the start of the year, were a key variable that shook Korea's inflation, trade balance and the outlook for the refining and airline industries.",
+  "headline_ja": "ブレント原油、取引中に126ドルと4年ぶり高値…米国の対イラン攻撃計画報道で乱高下",
+  "summary_ja": "米中央軍がトランプ大統領にイランへの軍事行動計画を報告するとの報道を受け、ブレント原油は取引時間中に126ドルまで急騰して戦争開始以来の高値を付けた後、114ドルに押し戻された。トランプ大統領が核合意まで海上封鎖を維持すると表明したことも不安を強めた。年初比でほぼ2倍になった原油価格は、韓国の物価、貿易収支、石油精製・航空業界の見通しを揺るがした中核的な変数だった。"
  },
  {
   "date": "2026-04-29",
@@ -1611,7 +2011,11 @@
   "orgs": [
    "미 연준"
   ],
-  "video_channel": "Federal Reserve"
+  "video_channel": "Federal Reserve",
+  "headline_en": "Fed interest rate decision April 2026: Fed holds rates steady amid dissent",
+  "summary_en": "The Fed held rates at 3.50–3.75% for a third straight meeting, but the vote was split 8–4. Governor Miran called for a cut, while Presidents Hammack, Logan and Kashkari called for removing the easing-bias language from the statement, producing the most dissents since 1992. It was the last meeting under Chair Powell, revealing internal rifts at the Fed between oil-driven inflation and slowing employment.",
+  "headline_ja": "パウエル議長最後のFOMC、金利据え置きに4人が反対…1992年以来最多の異論",
+  "summary_ja": "FRBは3会合連続で金利を3.50〜3.75%に据え置いたが、採決は8対4に割れた。ミラン理事は利下げを、ハマック、ローガン、カシュカリの各総裁は声明文の緩和バイアスの文言削除を求め、1992年以来最も多い反対が出た。パウエル議長体制最後の会合で、原油発の物価上昇と雇用減速の間でFRB内部の亀裂が露呈した場面だ。"
  },
  {
   "date": "2026-04-26",
@@ -1628,7 +2032,11 @@
   "orgs": [
    "이란",
    "미국"
-  ]
+  ],
+  "headline_en": "Oil prices increase after Iran doubles down on Strait of Hormuz closure, accuses US of undermining trust",
+  "summary_en": "Brent crude rose again to around $107 as Iran held firm on its closure of the Strait of Hormuz even during the ceasefire and accused the US of undermining trust. The US countered with a naval blockade of Iranian ports from April 13, and traffic through the strait remained at a tiny fraction of normal levels. As long as the chokepoint through which 20% of global oil trade passes remained blocked, unease over oil prices, inflation and shipping costs was bound to continue.",
+  "headline_ja": "イラン「ホルムズ海峡は元には戻らない」…原油価格が再び上昇",
+  "summary_ja": "停戦中にもかかわらずイランがホルムズ海峡の封鎖を堅持し、米国が信頼を損なったと非難したことで、ブレント原油は再び107ドル台に上昇した。米国は4月13日からイランの港を海上封鎖して対抗し、海峡の通航は平時のごく一部の水準にとどまった。世界の原油貿易の20%が通過する要衝が塞がれている限り、原油価格・物価・海運費の不安は続かざるを得なかった。"
  },
  {
   "date": "2026-04-23",
@@ -1644,7 +2052,11 @@
   "orgs": [
    "일본",
    "도쿄증권거래소"
-  ]
+  ],
+  "headline_en": "Nikkei 225 hits record and breaks 60,000 for the first time",
+  "summary_en": "On April 23, the Nikkei 225 topped the 60,000 level intraday for the first time, setting a record high. It came just over two months after breaking 57,000 in February, as the weak yen, AI chip demand and hopes for a Middle East ceasefire converged. With a growing number of Korean individuals investing in Japanese stocks and ETFs, whether to hedge currency risk, as the yen exchange rate and share prices moved in opposite directions, determined returns.",
+  "headline_ja": "日経225、史上初の6万突破…停戦期待・円安・AI需要で快進撃",
+  "summary_ja": "日経225は4月23日、取引時間中に初めて6万台を超え、史上最高値を付けた。2月の5万7000突破から2カ月余りで、円安とAI半導体需要、中東停戦への期待がかみ合った。日本株・ETFに投資する韓国の個人が増える中、円相場と株価が逆に動くことから「為替ヘッジの有無」が収益率を左右した。"
  },
  {
   "date": "2026-04-16",
@@ -1661,7 +2073,11 @@
   "orgs": [
    "중국",
    "중국 국가통계국"
-  ]
+  ],
+  "headline_en": "China economic growth accelerates to 5% in first quarter — but Iran war clouds outlook",
+  "summary_en": "China's first-quarter GDP grew 5.0% year on year, faster than in the fourth quarter of 2025 (4.5%) and above market expectations. Growth was driven by a 6.1% increase in industrial production and record exports, but retail sales rose only 2.4%, as weak domestic demand persisted. With energy costs up due to the Middle East war and the US tariff variable still in play, the assessment is that it is too early to be optimistic about a recovery in Korea's exports to China.",
+  "headline_ja": "中国1〜3月期成長率5.0%で「予想上回る」…輸出がけん引も戦争・消費不振が変数",
+  "summary_ja": "中国の第1四半期GDPは前年比5.0%成長し、2025年第4四半期（4.5%）より加速して市場予想も上回った。鉱工業生産の6.1%増加と過去最大の輸出がけん引したが、小売売上高は2.4%増にとどまり、内需の不振は続いた。中東戦争でエネルギーコストが上昇したうえ米国の関税という変数も残っており、韓国の対中輸出の回復を楽観するのは早いとの評価だ。"
  },
  {
   "date": "2026-04-14",
@@ -1677,7 +2093,11 @@
   "orgs": [
    "IMF"
   ],
-  "video_channel": "IMF"
+  "video_channel": "IMF",
+  "headline_en": "World Economic Outlook, April 2026: Global Economy in the Shadow of War",
+  "summary_en": "In its April World Economic Outlook, the IMF lowered its 2026 global growth forecast to 3.1%, 0.2 percentage point lower than in January, and projected global inflation at 4.4%. This assumes that the Middle East war ends in a limited way, and it warned of 2.5% growth and 5.4% inflation in a pessimistic scenario in which the energy shock is prolonged. Korea, which is highly dependent on trade, faces both a slowdown in global growth and rising oil prices at the same time.",
+  "headline_ja": "IMF世界経済見通し「戦争の影」…2026年成長率を3.1%に下方修正、物価は4.4%",
+  "summary_ja": "IMFは4月の世界経済見通しで、2026年の世界成長率を1月より0.2ポイント低い3.1%に引き下げ、世界の物価上昇率は4.4%とした。中東戦争が限定的に終わるとの前提で、エネルギーショックが長引く悲観シナリオでは成長率2.5%、物価5.4%を警告した。貿易依存度の高い韓国は、世界の成長鈍化と原油高に同時に直面する構造だ。"
  },
  {
   "date": "2026-04-10",
@@ -1693,7 +2113,11 @@
   ],
   "orgs": [
    "미국 노동부"
-  ]
+  ],
+  "headline_en": "CPI inflation report March 2026: Consumer prices rose 3.3%",
+  "summary_en": "US CPI for March jumped from 2.4% the previous month to 3.3%, and the monthly increase of 0.9% was the largest since June 2022. Gasoline prices rose 21.2% in a single month, the largest monthly increase since records began in 1967, accounting for three-quarters of the overall increase. Core inflation was calm at 2.6%, but the energy-driven inflation shock effectively eliminated the Fed's room to cut rates.",
+  "headline_ja": "米3月消費者物価3.3%に急騰…ガソリンの1カ月21%上昇は1967年の統計開始以来最大",
+  "summary_ja": "米国の3月CPIは前月の2.4%から3.3%に跳ね上がり、月間上昇率0.9%は2022年6月以来最大だった。ガソリン価格が1カ月で21.2%上昇して1967年の統計開始以来最大の月間上昇幅を記録し、全体の上昇分の4分の3を占めた。コア物価は2.6%と落ち着いていたが、エネルギー発の物価ショックはFRBの利下げ余地を事実上なくした。"
  },
  {
   "date": "2026-04-08",
@@ -1710,7 +2134,11 @@
   "orgs": [
    "미국",
    "이란"
-  ]
+  ],
+  "headline_en": "U.S.-Iran ceasefire relief rally lifts global assets as oil plunges below $100",
+  "summary_en": "When President Trump announced a two-week ceasefire conditional on the reopening of the Strait of Hormuz, WTI fell more than 16% to below $100, and the Dow rose 1,325 points, its biggest percentage gain in a year. The KOSPI jumped more than 5% and the Nikkei 4%. However, with unease lingering, including Iranian claims that the US had violated the ceasefire, assessments followed that the relief rally was fragile.",
+  "headline_ja": "米イラン2週間停戦で原油16%暴落・100ドル割れ…ダウ1300ドル急騰、KOSPIは5%高",
+  "summary_ja": "トランプ大統領がホルムズ海峡の再開放を条件に2週間の停戦を発表すると、WTIは16%超下落して100ドルを割り込み、ダウ平均は1325ポイント上昇して1年ぶりの大きな上昇率を記録した。KOSPIは5%以上、日経平均は4%急騰した。ただしイラン側が米国の停戦違反を主張するなど不安が残り、安堵ラリーはもろいとの評価が続いた。"
  },
  {
   "date": "2026-03-30",
@@ -1726,7 +2154,11 @@
   "orgs": [
    "이란",
    "OPEC"
-  ]
+  ],
+  "headline_en": "Brent oil heads for record monthly surge, WTI settles above $100 for first time since 2022",
+  "summary_en": "Brent crude rose about 55% in March, the largest monthly gain since futures were listed in 1988, and WTI also settled above $100 for the first time since 2022. The Hormuz blockade combined with attacks by Yemen's Houthis maximized supply fears. It was the starting point of a burden that weighed throughout the second quarter on Korean consumer prices, the trade balance and the earnings of the airline and chemical industries.",
+  "headline_ja": "ブレント原油、3月の1カ月で55%急騰し「過去最大」…WTIも2022年以来初めて100ドルで終了",
+  "summary_ja": "ブレント原油は3月の1カ月間で約55%上昇し、1988年の先物上場以来最大の月間上昇率を記録し、WTIも2022年以来初めて100ドルを上回って取引を終えた。ホルムズ封鎖にイエメンのフーシ派の攻撃まで重なり、供給不安が極限に達した。韓国の消費者物価と貿易収支、航空・化学業界の業績に第2四半期を通じて負担となった出発点だった。"
  },
  {
   "date": "2026-03-27",
@@ -1743,7 +2175,11 @@
   "orgs": [
    "일본 재무성",
    "일본"
-  ]
+  ],
+  "headline_en": "Japan's Katayama Flags Possible Intervention as Yen Nears 160",
+  "summary_en": "As the yen approached 160 per dollar due to war-driven dollar strength and surging oil prices, Finance Minister Katayama mentioned 'bold action,' signaling intervention in the foreign exchange market. The yen weakened past 160 in early April, after which Japan carried out actual intervention on a record scale. A deepening weak yen is a variable affecting Korea's export competitiveness, the value of the won, and travelers to Japan and investors in yen deposits alike.",
+  "headline_ja": "円が1ドル＝160円に接近…片山財務相「大胆な措置」と介入を警告",
+  "summary_ja": "戦争に伴うドル高と原油急騰で円が1ドル＝160円に近づくと、片山財務相は「大胆な措置」に言及し、外国為替市場への介入を予告した。円は4月初めに160円を超え、その後日本は過去最大規模の実弾介入に踏み切った。円安の深刻化は、韓国の輸出競争力とウォンの価値、日本旅行・円預金の投資家のすべてに影響を与える変数だ。"
  },
  {
   "date": "2026-03-19",
@@ -1758,7 +2194,11 @@
   ],
   "orgs": [
    "ECB"
-  ]
+  ],
+  "headline_en": "European Central Bank holds rates steady, warns outlook is 'significantly more uncertain'",
+  "summary_en": "The European Central Bank kept its deposit rate at 2%, warning that the Iran war had made the outlook 'significantly more uncertain,' and raised its 2026 inflation forecast to 2.6%. President Lagarde said the ECB could raise rates if necessary even if the energy shock is temporary, prompting markets to increase bets on a hike within the year. A slowing euro zone economy and a weaker euro affect Korea's exports to Europe and the returns of European funds.",
+  "headline_ja": "ECB金利2%で据え置き…「戦争で見通しははるかに不確実」と利上げの可能性残す",
+  "summary_ja": "欧州中央銀行は預金金利を2%に維持し、イラン戦争で見通しが「はるかに不確実」になったと警告し、2026年の物価見通しを2.6%に引き上げた。ラガルド総裁はエネルギーショックが一時的であっても必要なら利上げできると述べ、市場は年内利上げへの賭けを増やした。ユーロ圏の景気減速とユーロ安は、韓国の対欧州輸出と欧州ファンドの収益率に影響を与える。"
  },
  {
   "date": "2026-03-18",
@@ -1774,7 +2214,11 @@
   "orgs": [
    "미 연준"
   ],
-  "video_channel": "Federal Reserve"
+  "video_channel": "Federal Reserve",
+  "headline_en": "Fed interest rate decision March 2026: Holds rates steady",
+  "summary_en": "The Fed held its benchmark rate at 3.50–3.75% for a second straight meeting and stated explicitly that the impact of the Middle East situation on the US economy is uncertain. It raised its 2026 PCE inflation forecast from 2.4% to 2.7%, and the dot plot left only one cut for the year. Governor Miran alone argued for a cut, and some members preferred two-way language saying a hike was also possible if inflation stayed high.",
+  "headline_ja": "FRB、3月FOMCも金利据え置き…イラン戦争の原油ショックで物価見通しを2.7%に上方修正",
+  "summary_ja": "FRBは政策金利を3.50〜3.75%に2会合連続で据え置き、中東情勢が米国経済に与える影響は不確実だと明記した。2026年のPCE物価見通しは2.4%から2.7%に引き上げ、ドットチャート上の年内利下げは1回のみとなった。ミラン理事だけが利下げを主張し、一部の委員は物価が高止まりすれば利上げもありうるという双方向の文言を好んだ。"
  },
  {
   "date": "2026-03-12",
@@ -1791,7 +2235,11 @@
   "orgs": [
    "중국",
    "전인대"
-  ]
+  ],
+  "headline_en": "China's key NPC meeting comes to a close as lower growth target set",
+  "summary_en": "At the National People's Congress, China lowered its 2026 growth target from 'around 5%,' which it had set for three consecutive years, to a range of '4.5–5%.' It emphasized quality over quantity in the first year of the 15th Five-Year Plan, but it is seen as a realistic downgrade mindful of the property slump and the energy shock from the Middle East war. As its largest trading partner lowers its growth expectations, an impact on Korea's exports to China and its intermediate goods industries is inevitable.",
+  "headline_ja": "中国全人代が閉幕、今年の成長目標を4.5〜5%に引き下げ…30年ぶりの低水準",
+  "summary_ja": "中国は全国人民代表大会で、2026年の成長目標を3年連続の「5%前後」から「4.5〜5%」の範囲に引き下げた。第15次5カ年計画の初年度に量より質を強調したものだが、不動産不況と中東戦争によるエネルギーショックを意識した現実的な引き下げとの評価だ。最大の貿易相手国の成長目標が下がれば、韓国の対中輸出と中間財産業への影響は避けられない。"
  },
  {
   "date": "2026-03-11",
@@ -1807,7 +2255,11 @@
   "orgs": [
    "IEA",
    "한국"
-  ]
+  ],
+  "headline_en": "IEA agrees to release record 400 million barrels of oil to address Iran war supply disruption",
+  "summary_en": "Member countries of the International Energy Agency (IEA) unanimously agreed to release a record 400 million barrels of oil reserves in response to supply disruptions caused by the Middle East war. It is the sixth joint release, following those in 1991, 2011 and 2022, among others, and Korea also participated with an allocation of about 22.46 million barrels. However, Executive Director Birol stressed that stability would be difficult without the reopening of the Strait of Hormuz.",
+  "headline_ja": "IEA32カ国、過去最大の4億バレルの備蓄放出で合意…韓国も2246万バレル参加",
+  "summary_ja": "国際エネルギー機関（IEA）の加盟国は、中東戦争による供給の混乱に対応し、過去最大となる4億バレルの備蓄石油を放出することで全会一致で合意した。1991年、2011年、2022年などに続く6回目の協調放出で、韓国も約2246万バレルを割り当てられて参加した。ただしビロル事務局長は、ホルムズ海峡の再開放なしには安定は難しいと強調した。"
  },
  {
   "date": "2026-03-09",
@@ -1824,7 +2276,11 @@
   "orgs": [
    "이란",
    "OPEC"
-  ]
+  ],
+  "headline_en": "Oil prices surge 20% as expanding U.S.-Israeli war with Iran cuts supplies from Mideast",
+  "summary_en": "With traffic through the Strait of Hormuz effectively blocked and Iraq and Kuwait cutting output, oil prices soared about 20% in a single day on March 9, and Brent crude topped $100 for the first time since July 2022. The Korean stock market plunged and the won-dollar exchange rate surged. For Korea, which imports all of its crude oil, it is a classic supply shock that deals a direct blow to gasoline prices, inflation and the trade balance.",
+  "headline_ja": "国際原油価格が1日で20%暴騰、ブレント100ドル突破…中東の供給途絶で4年ぶりのオイルショック",
+  "summary_ja": "ホルムズ海峡の通航が事実上塞がれ、イラクとクウェートが減産に入ると、3月9日に原油価格は1日で約20%急騰し、ブレント原油は2022年7月以来初めて100ドルを超えた。韓国株式市場は急落し、ウォン・ドル相場は急騰した。原油を全量輸入に頼る韓国にとっては、ガソリン価格・物価・貿易収支を直撃する典型的な供給ショックだ。"
  },
  {
   "date": "2026-03-06",
@@ -1839,7 +2295,11 @@
   ],
   "orgs": [
    "미국 노동부"
-  ]
+  ],
+  "headline_en": "U.S. payrolls unexpectedly fell by 92,000 in February; unemployment rate rises to 4.4%",
+  "summary_en": "US nonfarm payrolls fell by 92,000 in February, defying expectations of a 50,000 increase, and the unemployment rate rose to 4.4%. A healthcare strike and severe cold also played a role, but it was the third decline in five months, heightening concerns about a slowing labor market. With employment faltering as the war drives up prices, the 'stagflation' dilemma, in which it is difficult for the Fed either to raise or cut rates, came to the fore.",
+  "headline_ja": "米2月雇用9万2000人減の「衝撃」…失業率4.4%に上昇",
+  "summary_ja": "米国の2月の非農業部門雇用者数は5万人増の予想を覆して9万2000人減少し、失業率は4.4%に上昇した。医療業界のストライキや厳しい寒さの影響もあったが、5カ月で3回目の減少で、労働市場の減速への懸念が強まった。戦争で物価が跳ね上がる中で雇用まで落ち込み、FRBが利上げも利下げもしにくい「スタグフレーション」のジレンマが浮き彫りになった。"
  },
  {
   "date": "2026-03-02",
@@ -1856,7 +2316,11 @@
   "orgs": [
    "미국",
    "이란"
-  ]
+  ],
+  "headline_en": "Global markets after Iran strikes: Oil surges, airlines sink, bonds defy safe-haven playbook",
+  "summary_en": "On the first trading day after the US and Israeli airstrikes on Iran on February 28, oil prices surged, airline and travel stocks plunged, and European stock markets and the Nikkei also fell. US stocks recovered most of their intraday losses, but Treasuries failed to act as a safe haven due to inflation concerns. It was the day 'war risk' began to be fully reflected in the Korean economy, which is highly dependent on crude imports, and in the KOSPI.",
+  "headline_ja": "米・イスラエルのイラン空爆後初の取引日…原油急騰、航空株急落、債券は安全資産の定石崩れる",
+  "summary_ja": "2月28日の米国とイスラエルによるイラン空爆後初の取引日、原油価格が急騰し、航空・旅行株が急落し、欧州株式市場と日経平均も下落した。米国株は取引中の下げ幅の大半を取り戻したが、国債はインフレ懸念から安全資産の役割を果たせなかった。原油輸入への依存度が高い韓国経済とKOSPIに「戦争リスク」が本格的に反映され始めた日だ。"
  },
  {
   "date": "2026-02-20",
@@ -1872,7 +2336,11 @@
   "orgs": [
    "미 대법원",
    "미국"
-  ]
+  ],
+  "headline_en": "Supreme Court strikes down Trump tariffs, rebuking president's signature economic policy",
+  "summary_en": "The US Supreme Court ruled 6–3 that the International Emergency Economic Powers Act (IEEPA) does not give the president the authority to impose tariffs, invalidating all of them, including the 2025 'Liberation Day' reciprocal tariffs. The issue of refunding more than $200 billion in existing tariffs was sent to the lower courts. For exporting countries such as Korea, tariff uncertainty seemed to be resolved, but replacement tariffs came immediately, so the relief did not last long.",
+  "headline_ja": "米最高裁、トランプ氏のIEEPA関税を6対3で違法と判断…「相互関税」無効に",
+  "summary_ja": "米連邦最高裁は、国際緊急経済権限法（IEEPA）は大統領に関税を課す権限を与えていないと6対3で判断し、2025年の「解放の日」の相互関税などをすべて無効とした。2000億ドルを超える既存関税の還付問題は下級審に委ねられた。韓国などの輸出国にとっては関税の不確実性が解消されるかに見えたが、すぐに代替関税が出され、安堵は長続きしなかった。"
  },
  {
   "date": "2026-02-20",
@@ -1887,7 +2355,11 @@
   ],
   "orgs": [
    "미국"
-  ]
+  ],
+  "headline_en": "Trump announces new 10% global tariff after raging over Supreme Court loss",
+  "summary_en": "On the day of the Supreme Court ruling, President Trump signed a proclamation imposing a 10% tariff on all countries for 150 days under Section 122 of the Trade Act of 1974, and the next day signaled he would raise it to 15%. Agricultural products, critical minerals, pharmaceuticals, some electronics and passenger cars were exempted. With only the legal basis changing and the tariff burden continuing, the pressure on Korean exporters and the exchange rate remained.",
+  "headline_ja": "トランプ氏、最高裁敗訴から数時間で通商法122条により全世界に10%関税",
+  "summary_ja": "最高裁判決の当日、トランプ大統領は1974年通商法122条に基づき、150日間すべての国に10%の関税を課す布告に署名し、翌日には15%に引き上げると予告した。農産物・重要鉱物・医薬品・一部の電子製品・乗用車は例外とした。法的根拠が変わっただけで関税負担は続き、韓国の輸出企業と為替への圧力はそのまま残った。"
  },
  {
   "date": "2026-02-09",
@@ -1903,7 +2375,11 @@
   "orgs": [
    "일본",
    "도쿄증권거래소"
-  ]
+  ],
+  "headline_en": "Nikkei 225 rises 3.89% and hits record after Takaichi's big win on Sunday",
+  "summary_en": "The day after Prime Minister Takaichi's Liberal Democratic Party won a landslide 316 seats in the general election, the Nikkei 225 surged 3.89%, hitting a record high of 57,337 intraday. The resolution of political uncertainty and expectations of large-scale fiscal expansion reignited the 'Takaichi trade' (weaker yen, higher stock prices, higher long-term interest rates). The weak yen weighs on the price competitiveness of Korean exporters that compete with Japan.",
+  "headline_ja": "日経平均3.89%急騰で史上最高値…高市氏圧勝で「日本の財政拡大」期待",
+  "summary_ja": "高市首相の自民党が総選挙で316議席の圧勝を収めた翌日、日経225は3.89%急騰し、取引時間中に57,337と史上最高値を付けた。政治的不確実性の解消と大規模な財政拡大への期待が「高市トレード」（円安・株高・長期金利上昇）を再燃させた。円安は、日本と競合する韓国の輸出企業の価格競争力の負担となる。"
  },
  {
   "date": "2026-02-05",
@@ -1919,7 +2395,11 @@
   ],
   "orgs": [
    "가상자산 시장"
-  ]
+  ],
+  "headline_en": "Bitcoin's sell-off pushes price below $70,000. What to know",
+  "summary_en": "On February 5, Bitcoin fell below $70,000 for the first time in 15 months and slid as low as around $60,000 intraday, about half of its October 2025 peak (about $126,000). It was the result of a combination of a correction in growth stocks, the Fed's hawkish stance and ETF outflows. The event reminded Korean individual investors with large crypto holdings of the risk of leveraged liquidations.",
+  "headline_ja": "ビットコイン7万ドル割れ…高値から半値になった暗号資産市場",
+  "summary_ja": "ビットコインは2月5日に15カ月ぶりに7万ドルを下回り、取引時間中に6万ドル台まで押し下げられ、2025年10月の高値（約12万6000ドル）の半分程度となった。グロース株の調整、FRBのタカ派姿勢、ETFからの資金流出が重なった結果だった。暗号資産の比重が高い韓国の個人投資家に、レバレッジ清算のリスクを改めて思い起こさせた出来事だ。"
  },
  {
   "date": "2026-01-30",
@@ -1936,7 +2416,11 @@
   "orgs": [
    "미 연준",
    "미국"
-  ]
+  ],
+  "headline_en": "Trump nominates Kevin Warsh for Federal Reserve chair to succeed Jerome Powell",
+  "summary_en": "President Trump nominated former Fed Governor Kevin Warsh to succeed Chair Powell, whose term ends in May. Immediately after the announcement, stocks fell slightly, the dollar and Treasury yields rose, and gold and silver prices plunged on concerns over his hawkish leanings. With Fed independence and the future rate path potentially changing, it became a key variable for global asset markets.",
+  "headline_ja": "トランプ氏、次期FRB議長にケビン・ウォーシュ氏を指名…パウエル氏の後任",
+  "summary_ja": "トランプ大統領は、元FRB理事のケビン・ウォーシュ氏を5月に任期が切れるパウエル議長の後任に指名した。発表直後に株価は小幅下落し、ドルと国債利回りは上昇し、タカ派的傾向への懸念から金・銀価格が急落した。FRBの独立性と今後の金利経路が変わりうるため、世界の資産市場の重要な変数となった。"
  },
  {
   "date": "2026-01-28",
@@ -1952,7 +2436,11 @@
   "orgs": [
    "미 연준"
   ],
-  "video_channel": "Federal Reserve"
+  "video_channel": "Federal Reserve",
+  "headline_en": "Fed rate decision January 2026: Holds key rate steady",
+  "summary_en": "At its first FOMC meeting of 2026, the Fed held its benchmark rate at 3.50–3.75%, ending a run of three consecutive cuts in late 2025. Governors Miran and Waller dissented, arguing for further cuts, and Chair Powell assessed that inflation remains somewhat elevated. The decision served as a benchmark for gauging the Korea-US interest rate gap, the won-dollar exchange rate and the direction of domestic lending rates.",
+  "headline_ja": "米FRB1月FOMC、金利3.50〜3.75%で据え置き…3会合連続の利下げが止まる",
+  "summary_ja": "FRBは2026年初のFOMCで政策金利を3.50〜3.75%に据え置き、2025年末の3会合連続の利下げに区切りをつけた。ミラン理事とウォラー理事は追加利下げを主張して反対票を投じ、パウエル議長は物価が依然としてやや高いと評価した。韓米金利差とウォン・ドル相場、韓国国内の貸出金利の方向性を見極める基準となる決定だった。"
  },
  {
   "date": "2026-01-25",
@@ -1968,7 +2456,11 @@
   ],
   "orgs": [
    "금 시장"
-  ]
+  ],
+  "headline_en": "Gold (XAU) Tops $5,000 as Global Upheaval Fuels Precious Metals Rally",
+  "summary_en": "The spot gold price topped $5,000 an ounce for the first time ever on January 25. Following a 65% surge in 2025, it rose another 15% in less than a month into the new year, with conflict between the US and its allies, weakening confidence in the dollar and central bank buying cited as the background. For Korean individuals investing in gold ETFs and the KRX gold market, it was a time of heightened volatility in returns, compounded by exchange rate movements.",
+  "headline_ja": "金価格、史上初の1オンス5000ドル突破…不安な世界が貴金属ラリー呼ぶ",
+  "summary_ja": "金の現物価格は1月25日、史上初めて1オンス5000ドルを超えた。2025年の65%急騰に続き、年明けから1カ月足らずでさらに15%上昇したもので、米国と同盟国の対立、ドルへの信頼低下、中央銀行の購入が背景に挙げられた。韓国の金ETFやKRX金市場に投資する個人にとっては、為替も重なって収益率の変動が大きくなった時期だった。"
  },
  {
   "date": "2026-01-21",
@@ -1986,7 +2478,11 @@
    "미국",
    "WEF"
   ],
-  "video_channel": "The Wall Street Journal"
+  "video_channel": "The Wall Street Journal",
+  "headline_en": "Trump says 'I won't use force' to obtain Greenland, in Davos speech",
+  "summary_en": "In a speech at the World Economic Forum (Davos), President Trump said he would not take Greenland by force, but repeatedly criticized European allies and emphasized tariffs and America First economic policies. It was a scene in which geopolitical risk was directly reflected in global investor sentiment and dollar and gold prices at the start of the year. Conflict between the US and Europe also comes back to exporting countries such as Korea as uncertainty in the trade environment.",
+  "headline_ja": "トランプ氏ダボス演説「グリーンランドは武力で奪わない」…関税・欧州への圧力は継続",
+  "summary_ja": "トランプ大統領は世界経済フォーラム（ダボス会議）の演説で、グリーンランドを武力で手に入れることはしないと述べつつも、欧州の同盟国を繰り返し批判し、関税と米国第一の経済政策を強調した。年初の世界の投資家心理とドル・金価格に地政学リスクがそのまま反映された場面だった。米国と欧州の対立は、韓国のような輸出国にも通商環境の不確実性として跳ね返ってくる。"
  },
  {
   "date": "2026-01-09",
@@ -2003,6 +2499,10 @@
   "orgs": [
    "중국",
    "완커"
-  ]
+  ],
+  "headline_en": "China Vanke Preps Restructuring Plan in Move Toward Default",
+  "summary_en": "China Vanke, one of China's largest property developers, moved a step closer to a formal default as it prepared a debt restructuring plan at the request of authorities. With even a company with state-owned backing being shaken, it was taken as a signal that China's property crisis is not over. China's economic slowdown directly affects Korean exports and the returns of China-related funds and ETFs.",
+  "headline_ja": "中国万科、当局の要請で債務再編案を準備…デフォルトへの手順",
+  "summary_ja": "中国最大級の不動産開発会社の一つである万科（バンカ）が、当局の要請に応じて債務再編案をまとめ、正式なデフォルトにさらに一歩近づいた。国有系の企業まで揺らいでいることから、中国の不動産危機は終わっていないというシグナルと受け止められた。中国の景気減速は、韓国の輸出と中国関連ファンド・ETFの収益率に直接影響を与える。"
  }
 ]
