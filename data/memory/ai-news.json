@@ -79,6 +79,67 @@
   "summary_ja": "カウンターポイント・リサーチの速報値によると、2026年7〜9月期の世界PC出荷台数は5700万台で、前年同期比21%、前期比13.8%減少した。レノボが1500万台(シェア26.3%)で首位、HPは前年同期比31%減の1030万台だった。カウンターポイントは10〜12月期の出荷台数が前年同期比27%減少すると予想している。"
  },
  {
+  "date": "2026-10-23",
+  "headline": "Student's AI-Cheating Boast Triggers Retest for 600 at Konkuk",
+  "headline_ko": "\"AI로 99점\" 자랑글에…건국대 600명 중간고사 재시험",
+  "outlet": "서울경제 (Sedaily)",
+  "url": "https://en.sedaily.com/society/2026/10/23/students-boast-of-99-with-ai-konkuk-orders-600-to-retake",
+  "video": "",
+  "summary_ko": "건국대 교양 국어 과목 온라인 중간고사에서 AI를 이용한 부정행위 정황이 드러나 수강생 약 600명이 대면 재시험을 치르게 됐다. 담당 교수는 19일 온라인으로 치른 중간고사에서 AI 사용 등 부정행위가 있었다고 판단해 시험을 무효로 했고, 재시험은 12월 14일 기말고사와 함께 대면으로 치른다. 한 학생이 온라인 커뮤니티에 AI가 알려준 답으로 99점을 받았다고 올리면서 의혹이 퍼졌다.",
+  "topics": [
+   "korea",
+   "policy"
+  ],
+  "orgs": [
+   "건국대"
+  ],
+  "headline_en": "Student's AI-Cheating Boast Triggers Retest for 600 at Konkuk",
+  "summary_en": "About 600 students in a general education Korean-language course at Konkuk University must retake their midterm in person after signs of AI-assisted cheating on the online test. The professor voided the midterm held online on the 19th after concluding cheating, including AI use, had occurred, and the in-person retest will be held with the final exam on December 14. The allegations spread after a student posted on an online community that they scored 99 using answers supplied by AI.",
+  "headline_ja": "「AIで99点」の自慢投稿で…建国大、600人が中間試験の再試験",
+  "summary_ja": "建国大学の教養国語科目のオンライン中間試験でAIを使った不正の疑いが浮上し、受講生約600人が対面で再試験を受けることになった。担当教授は19日にオンラインで実施した中間試験でAI使用などの不正があったと判断して試験を無効とし、再試験は12月14日の期末試験とあわせて対面で行う。ある学生がオンラインコミュニティにAIが示した答えで99点を取ったと投稿したことで疑惑が広がった。"
+ },
+ {
+  "date": "2026-10-23",
+  "headline": "Google will target ads based on Gmail, Photos data if Personal Intelligence is enabled",
+  "headline_ko": "구글, '퍼스널 인텔리전스' 켜면 지메일·포토 데이터로 맞춤 광고",
+  "outlet": "9to5Google",
+  "url": "https://9to5google.com/2026/10/23/google-will-target-ads-based-on-gmail-photos-data-if-personal-intelligence-is-enabled/",
+  "video": "",
+  "summary_ko": "10월 16일 시행된 구글 개인정보처리방침 개정으로, 맞춤 광고가 드라이브·지메일·포토 콘텐츠를 기반으로 하지 않는다는 문구에 '이 서비스의 데이터를 맞춤 광고를 지원하는 다른 구글 서비스에 제공하기로 선택하지 않는 한'이라는 단서가 붙었다. 기사는 2026년 초 베타로 출시된 퍼스널 인텔리전스가 '당분간은' 선택 사항이며, 광고주는 허락 없이 이름·이메일 같은 식별 정보를 볼 수 없다고 전했다.",
+  "topics": [
+   "policy",
+   "business"
+  ],
+  "orgs": [
+   "Google"
+  ],
+  "headline_en": "Google will target ads based on Gmail, Photos data if Personal Intelligence is enabled",
+  "summary_en": "A Google privacy policy update effective October 16 added a caveat to the statement that personalized ads are not based on content from Drive, Gmail or Photos: 'unless you choose to make data from these services available to other Google services that support personalized ads.' The article says Personal Intelligence, which began beta rollout in early 2026, remains opt-in 'for the time being,' and advertisers cannot see identifying details such as name and email without permission.",
+  "headline_ja": "グーグル、「パーソナル・インテリジェンス」有効時はGmail・フォトのデータでターゲティング広告",
+  "summary_ja": "10月16日施行のグーグルのプライバシーポリシー改定で、パーソナライズ広告はドライブ・Gmail・フォトのコンテンツに基づかないとする文言に「これらのサービスのデータをパーソナライズ広告に対応する他のグーグルサービスに提供することを選択しない限り」という但し書きが加わった。記事によると、2026年初めにベータ提供が始まったパーソナル・インテリジェンスは「当面は」任意で、広告主は許可なく氏名やメールなどの識別情報を見ることはできない。"
+ },
+ {
+  "date": "2026-10-23",
+  "headline": "Washington's curbs on foreign robots could slash the U.S.'s humanoid robotics revenue by 58%, as companies lose access to China",
+  "headline_ko": "美 외국산 로봇 규제로 휴머노이드 매출 58% 감소 전망…IDC",
+  "outlet": "Fortune",
+  "url": "https://fortune.com/2026/10/23/fcc-robot-ban-humanoid-revenue-idc/",
+  "video": "",
+  "summary_ko": "IDC의 무역정책 모델에 따르면 미국 휴머노이드 로봇 매출은 2030년까지 규제 전 기준보다 58% 낮아지고, 10년 말까지 60억달러 이상의 매출이 사라지며 연간 성장률은 13%에서 약 9%로 떨어질 전망이다. 미 연방통신위원회(FCC)는 7월 28일 '외국산 첨단 로봇 기기'를 규제 목록에 올려 신규 모델의 미국 수입·판매 승인을 막았다. IDC에 따르면 중국 업체가 전 세계 휴머노이드 출하량의 약 95%를 차지한다.",
+  "topics": [
+   "policy",
+   "business"
+  ],
+  "orgs": [
+   "IDC",
+   "FCC"
+  ],
+  "headline_en": "Washington's curbs on foreign robots could slash the U.S.'s humanoid robotics revenue by 58%, as companies lose access to China",
+  "summary_en": "According to IDC's trade policy model, US humanoid robot revenue will be 58% below the pre-restriction baseline by 2030, with over $6 billion in lost revenue by decade's end and annual growth falling from 13% to about 9%. The FCC added 'foreign-produced advanced robotic devices' to its Covered List on July 28, blocking new models from obtaining US import and sales authorization. Per IDC, Chinese vendors account for roughly 95% of global humanoid shipments.",
+  "headline_ja": "米の外国製ロボット規制でヒューマノイド売上高58%減の見通し…IDC",
+  "summary_ja": "IDCの貿易政策モデルによると、米国のヒューマノイドロボット売上高は2030年までに規制前の基準より58%低くなり、2030年までに60億ドル超の売上が失われ、年間成長率は13%から約9%に低下する見通しだ。米連邦通信委員会(FCC)は7月28日に「外国製の高度ロボット機器」を規制リストに加え、新モデルの米国での輸入・販売認可を阻止した。IDCによると、中国企業が世界のヒューマノイド出荷台数の約95%を占める。"
+ },
+ {
   "date": "2026-10-22",
   "headline": "오픈AI, 구글클라우드에 AI 모델 제공…안티그래비티 등에서 사용 가능",
   "headline_ko": "오픈AI, 구글 클라우드에 AI 모델 제공…안티그래비티 등에서 사용 가능",
