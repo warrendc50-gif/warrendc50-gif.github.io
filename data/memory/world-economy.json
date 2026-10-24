@@ -247,6 +247,45 @@
   "summary_ja": "ムーディーズはフランス国債の格付けを変更せず、Aa3と見通しネガティブを維持した。フィッチやS&Pと同水準への格下げが多く予想されていた。ムーディーズは声明で、Aa3格付けは赤字を削減できる2027年予算が採択され、今後数カ月で借入コストと社会的緊張がやや和らぐとの前提に基づくと説明した。"
  },
  {
+  "date": "2026-10-23",
+  "headline": "China stocks rebound on ETF buying",
+  "headline_ko": "중국 증시 ETF 매수에 반등…CSI300은 11주 연속 주간 하락",
+  "outlet": "Reuters (Business Recorder)",
+  "url": "https://www.brecorder.com/news/40445687/china-stocks-rebound-on-etf-buying",
+  "video": "",
+  "summary_ko": "23일(금) 중국 증시는 장 초반 손실을 뒤집고 상승 마감해 상하이종합지수가 0.9%, CSI300이 1.7% 올랐다. 그래도 CSI300은 주간 1.6% 내려 2005년 지수 출범 이후 최장인 11주 연속 주간 하락을 기록했다. 반등은 국가 지원 투자자인 '국가대표팀'이 선호하는 ETF 거래가 급증해 당국 개입 추측이 나온 뒤 이뤄졌다.",
+  "topics": [
+   "china"
+  ],
+  "orgs": [
+   "중국"
+  ],
+  "headline_en": "China stocks rebound on ETF buying",
+  "summary_en": "On Friday the 23rd, Chinese stocks reversed early losses to close higher, with the Shanghai Composite up 0.9% and the CSI300 up 1.7%. Even so, the CSI300 lost 1.6% for the week, its 11th consecutive weekly decline, the longest losing streak since the index was created in 2005. The rebound followed a spike in trading in ETFs favored by the state-backed 'National Team,' fuelling speculation of official support.",
+  "headline_ja": "中国株、ETF買いで反発…CSI300は11週連続の週間下落",
+  "summary_ja": "23日(金)の中国株式市場は序盤の下落を覆して上昇して引け、上海総合指数は0.9%、CSI300は1.7%上昇した。それでもCSI300は週間で1.6%下落し、2005年の指数創設以来最長となる11週連続の週間下落を記録した。反発は、国の支援を受ける投資家「国家隊」が好むETFの取引が急増し、当局の支援観測が広がった後に起きた。"
+ },
+ {
+  "date": "2026-10-23",
+  "headline": "Euro sinks on French debt worries",
+  "headline_ko": "프랑스 부채 우려에 유로화 약세…엔화 대비 1년 만의 최저",
+  "outlet": "Reuters (Business Recorder)",
+  "url": "https://www.brecorder.com/news/40445691/euro-sinks-on-french-debt-worries",
+  "video": "",
+  "summary_ko": "프랑스 국채 매도세로 프랑스 부채 위험 프리미엄이 2011년 유로존 재정위기 이후 최고 수준으로 오르면서 23일(금) 유로화가 하락해 달러와 엔화 대비 주간 하락을 앞뒀다. 유로화는 0.12% 내린 1.12달러에 거래됐고, 엔화 대비로는 2025년 10월 이후 최저인 175.08엔까지 떨어졌다. 기사는 유로화 약세의 원인으로 프랑스의 소요 확산을 꼽았다.",
+  "topics": [
+   "centralbank"
+  ],
+  "orgs": [
+   "프랑스",
+   "유로존"
+  ],
+  "headline_en": "Euro sinks on French debt worries",
+  "summary_en": "The euro fell on Friday the 23rd and was on track for a weekly loss against the dollar and yen, as a selloff in French government bonds pushed France's debt risk premium to its highest since the 2011 euro zone debt crisis. The euro was last down 0.12% at $1.12 and touched 175.08 yen, its lowest since October 2025. The article attributed the euro's weakness to growing unrest in France.",
+  "headline_ja": "フランスの債務懸念でユーロ安…対円で約1年ぶり安値",
+  "summary_ja": "フランス国債の売りでフランスの債務リスクプレミアムが2011年のユーロ圏債務危機以来の高水準に上昇し、23日(金)にユーロは下落して対ドル・対円で週間下落となる見通しとなった。ユーロは0.12%安の1.12ドルで推移し、対円では2025年10月以来の安値となる175.08円まで下落した。記事はユーロ安の要因としてフランスで広がる騒乱を挙げた。"
+ },
+ {
   "date": "2026-10-22",
   "headline": "Japan stocks lower at close of trade; Nikkei 225 down 2.40%",
   "headline_ko": "닛케이225 2.40% 하락 마감…한 달 만에 최저",
