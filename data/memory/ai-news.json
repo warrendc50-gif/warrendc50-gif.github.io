@@ -36,6 +36,27 @@
   "orgs": []
  },
  {
+  "date": "2026-10-23",
+  "headline": "SK Hyper Seeks $350 Billion for First 5GW Phase of 15GW AI Data Center Plan",
+  "headline_ko": "SK하이퍼, 15GW AI 데이터센터 계획 중 첫 5GW에 3500억달러 조달 추진",
+  "outlet": "서울경제 (Sedaily)",
+  "url": "https://en.sedaily.com/technology/2026/10/23/sk-hyper-seeks-350-billion-to-build-15gw-of-ai-data-centers",
+  "video": "",
+  "summary_ko": "SK텔레콤의 AI 데이터센터 법인 SK하이퍼가 15GW 규모 데이터센터 구축 계획의 첫 5GW 단계에 약 3500억달러(463조원)를 조달하려 한다. 정석근 대표는 23일 블룸버그TV에서 첫 5GW는 전력과 부지 확보에 큰 어려움이 없을 것으로 보지만 글로벌 수요 확보와 자금 조달이 가장 큰 과제라고 말했다. 회사는 2035년까지 15GW를 구축하고 2029년부터 단계적으로 가동하며, 첫 외부 투자 유치는 올해 말이나 내년 초를 목표로 한다.",
+  "topics": [
+   "business",
+   "korea"
+  ],
+  "orgs": [
+   "SK하이퍼",
+   "SK텔레콤"
+  ],
+  "headline_en": "SK Hyper Seeks $350 Billion for First 5GW Phase of 15GW AI Data Center Plan",
+  "summary_en": "SK Hyper, SK Telecom's AI data center arm, is seeking about $350 billion (463 trillion won) for the first 5GW phase of a plan to build 15GW of data center capacity. CEO Chung Suk-keun told Bloomberg TV on the 23rd that he expects little difficulty securing power and sites for the first 5GW, but that securing global demand and raising capital are the biggest challenges. The company plans 15GW by 2035 with phased operations from 2029, targeting its first outside investment for late this year or early next year.",
+  "headline_ja": "SKハイパー、15GWのAIデータセンター計画で最初の5GWに3500億ドルの調達を目指す",
+  "summary_ja": "SKテレコムのAIデータセンター法人SKハイパーは、15GW規模のデータセンター建設計画の最初の5GW段階に約3500億ドル(463兆ウォン)の調達を目指している。チョン・ソククン代表は23日、ブルームバーグTVで、最初の5GWは電力と用地の確保に大きな困難はないとみる一方、グローバル需要の確保と資金調達が最大の課題だと述べた。同社は2035年までに15GWを構築し、2029年から段階的に稼働させる計画で、初の外部投資は年末か来年初めを目標としている。"
+ },
+ {
   "date": "2026-10-22",
   "headline": "오픈AI, 구글클라우드에 AI 모델 제공…안티그래비티 등에서 사용 가능",
   "headline_ko": "오픈AI, 구글 클라우드에 AI 모델 제공…안티그래비티 등에서 사용 가능",
