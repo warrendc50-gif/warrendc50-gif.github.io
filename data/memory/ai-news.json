@@ -705,6 +705,28 @@
   ]
  },
  {
+  "date": "2026-10-21",
+  "headline": "AI tools discovered the PHP vulnerability that could take down 70% of the internet. Now, the race is on to patch it before AI-powered hackers attack",
+  "headline_ko": "AI가 찾아낸 PHP 치명적 취약점 'php2shell'…긴급 패치 속 대규모 공격 시도",
+  "outlet": "Fortune",
+  "url": "https://fortune.com/2026/10/21/ai-tools-discovered-the-php-vulnerability-that-could-take-down-70-of-the-internet-now-the-race-is-on-to-patch-it-before-ai-powered-hackers-attack/",
+  "video": "",
+  "summary_ko": "PHP 재단은 21일 'php2shell'로 불리는 치명적 취약점 2건(CVE-2026-109618, CVE-2026-109619)을 공개하고 즉시 패치하거나 그때까지 사이트를 내리라고 촉구했다. Calif·Wiz·OpenAI가 8월 무렵 각각 AI로 버그 일부를 찾아냈으며, Calif는 GPT-5.6 Sol을, Wiz는 Gemini 4 Argon·GPT-5.6 Sol 등을 사용했다. 클라우드플레어는 소식이 알려진 지 45분 만에 수만 건의 공격 시도를 확인했고, AWS는 취약점이 '광범위하게 악용되고 있다'고 밝혔다.",
+  "topics": [
+   "model",
+   "research"
+  ],
+  "orgs": [
+   "OpenAI",
+   "Wiz",
+   "PHP"
+  ],
+  "headline_en": "AI tools discovered the PHP vulnerability that could take down 70% of the internet. Now, the race is on to patch it before AI-powered hackers attack",
+  "summary_en": "On the 21st the PHP Foundation disclosed two critical vulnerabilities dubbed 'php2shell' (CVE-2026-109618 and CVE-2026-109619), urging sites to patch immediately or go offline until they can. Calif, Wiz and OpenAI each found parts of the bug around August using AI, with Calif using GPT-5.6 Sol and Wiz using Gemini 4 Argon, GPT-5.6 Sol and others. Cloudflare saw tens of thousands of exploit attempts within 45 minutes of the news, and AWS said the flaw is 'now being broadly exploited in the wild.'",
+  "headline_ja": "AIが発見したPHPの重大脆弱性「php2shell」…緊急パッチの中で大規模な攻撃の試み",
+  "summary_ja": "PHP財団は21日、「php2shell」と呼ばれる重大な脆弱性2件(CVE-2026-109618、CVE-2026-109619)を公表し、直ちにパッチを適用するか、それまでサイトを停止するよう呼びかけた。Calif、Wiz、OpenAIが8月ごろそれぞれAIでバグの一部を発見し、CalifはGPT-5.6 Solを、WizはGemini 4 ArgonやGPT-5.6 Solなどを使った。クラウドフレアは情報公開から45分で数万件の攻撃の試みを確認し、AWSは脆弱性が「広く悪用されている」と述べた。"
+ },
+ {
   "date": "2026-10-20",
   "headline": "OpenAI acquires Orchestra Bio to bring AI agents into drug development",
   "headline_ko": "오픈AI, 신약개발 AI 에이전트 스타트업 오케스트라 바이오 인수",
