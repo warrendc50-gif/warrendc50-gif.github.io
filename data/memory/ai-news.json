@@ -223,6 +223,27 @@
   "summary_ja": "SVTがスウェーデン・ラジオのエコートを引用して伝えたところによると、スウェーデン政府庁舎は月曜からChatGPTとClaudeへのアクセスを遮断し、職員は業務用コンピューターでこれらのAIツールを使えなくなる。公務員は代わりに、政府庁舎が審査しセキュリティを強化したうえで承認したマイクロソフトのCopilotを使う。スウェーデン税務庁と国家施設保護委員会はすでにAIサービスを遮断している。"
  },
  {
+  "date": "2026-10-23",
+  "headline": "Figure 04 Reaches Design Lock as Adcock Details a Multibillion-Dollar AI Push",
+  "headline_ko": "피규어, 휴머노이드 '피규어 04' 설계 확정…데이터에 주 810만달러 지출",
+  "outlet": "Humanoids Daily",
+  "url": "https://www.humanoidsdaily.com/news/figure-all-hands-figure-04-index-data-helix-3",
+  "video": "",
+  "summary_ko": "피규어의 브렛 애드콕 CEO는 공개된 전사 회의 녹화에서 피규어 04가 설계 확정 단계에 이르렀으며 한 주에 데이터에 약 810만달러를 썼다고 말했다. 회사 발표 수치로 112개국에서 3750만 건의 Index 업로드가 있었고, Nscale과 35억달러 규모 컴퓨팅 계약을 맺어 60억달러로 늘릴 계획이며 현금은 20억달러를 넘는다고 했다. Helix 3.0도 예고했지만 기사에 따르면 구체적 성능이나 출시일은 밝히지 않았다.",
+  "topics": [
+   "business",
+   "model"
+  ],
+  "orgs": [
+   "Figure",
+   "Nscale"
+  ],
+  "headline_en": "Figure 04 Reaches Design Lock as Adcock Details a Multibillion-Dollar AI Push",
+  "summary_en": "In a public recording of an all-hands meeting, Figure CEO Brett Adcock said Figure 04 has reached design lock and that about $8.1 million was spent on data in a single week. By company figures, there were 37.5 million Index uploads across 112 countries, an initial $3.5 billion compute commitment with Nscale intended to expand to $6 billion, and cash above $2 billion. He teased Helix 3.0 but, per the article, gave no detailed capabilities or release date.",
+  "headline_ja": "フィギュア、人型ロボ「Figure 04」の設計確定…データに週810万ドル",
+  "summary_ja": "フィギュアのブレット・アドコックCEOは公開された全社会議の録画で、Figure 04が設計確定段階に達し、1週間でデータに約810万ドルを費やしたと述べた。会社発表の数字で112か国で3750万件のIndexアップロードがあり、Nscaleと35億ドル規模のコンピューティング契約を結んで60億ドルへの拡大を計画し、現金は20億ドルを超えるという。Helix 3.0も予告したが、記事によると具体的な性能や公開日は示さなかった。"
+ },
+ {
   "date": "2026-10-22",
   "headline": "오픈AI, 구글클라우드에 AI 모델 제공…안티그래비티 등에서 사용 가능",
   "headline_ko": "오픈AI, 구글 클라우드에 AI 모델 제공…안티그래비티 등에서 사용 가능",
@@ -529,6 +550,49 @@
   "summary_en": "Toronto-based 1Password announced its annual recurring revenue has passed $500 million, up from about $400 million a year ago. It added about 20,000 business customers to exceed 200,000, and customers paying more than $100,000 a year rose over 40% year over year. CEO David Faugno attributed the acceleration to AI and did not give an IPO timeline.",
   "headline_ja": "1Password、AI需要の加速で年間経常収益5億ドル突破",
   "summary_ja": "トロントに本社を置く1Passwordは、年間経常収益(ARR)が1年前の約4億ドルから5億ドルを超えたと発表した。法人顧客は約2万社増えて20万社を超え、年間10万ドル以上支払う顧客数は前年比40%超増加した。デビッド・ファウグノCEOは成長加速をAIの影響によるものとし、上場時期は明らかにしなかった。"
+ },
+ {
+  "date": "2026-10-22",
+  "headline": "Agility Robotics Standardizes Digit 5 on NVIDIA IGX Thor Compute",
+  "headline_ko": "어질리티 로보틱스, 휴머노이드 '디지트 5' 두뇌로 엔비디아 IGX Thor 단독 채택",
+  "outlet": "Unite.AI",
+  "url": "https://www.unite.ai/agility-robotics-standardizes-digit-5-on-nvidia-igx-thor-compute/",
+  "video": "",
+  "summary_ko": "어질리티 로보틱스는 10월 22일 디지트 5의 온보드 컴퓨팅을 엔비디아 IGX Thor 모듈로 표준화해, 정식 출시판에서 엔비디아를 온보드 컴퓨팅 독점 공급사로 삼는다고 발표했다. 회사에 따르면 조기 접근은 2027년 상반기 시작되고 이후 6~9개월에 걸쳐 공급이 늘어난다. 어질리티는 IGX Thor와 엔비디아 Halos 모델을 자체 인체 감지 안전 시스템에 통합한다.",
+  "topics": [
+   "chips",
+   "business"
+  ],
+  "orgs": [
+   "Agility Robotics",
+   "NVIDIA"
+  ],
+  "headline_en": "Agility Robotics Standardizes Digit 5 on NVIDIA IGX Thor Compute",
+  "summary_en": "Agility Robotics announced on October 22 that Digit 5 will standardize its onboard compute on NVIDIA IGX Thor modules, making NVIDIA the exclusive onboard compute provider for the general availability version. According to the company, early access begins in the first half of 2027, with availability increasing over the following six to nine months. Agility is integrating IGX Thor and NVIDIA Halos models into its proprietary safe human detection system.",
+  "headline_ja": "アジリティ・ロボティクス、人型ロボ「Digit 5」の頭脳にエヌビディアIGX Thorを単独採用",
+  "summary_ja": "アジリティ・ロボティクスは10月22日、Digit 5の搭載コンピューティングをエヌビディアのIGX Thorモジュールに標準化し、一般提供版でエヌビディアを搭載コンピューティングの独占供給元にすると発表した。同社によると、早期提供は2027年前半に始まり、その後6〜9か月で供給が拡大する。アジリティはIGX Thorとエヌビディアのハロスモデルを独自の人体検知安全システムに統合する。"
+ },
+ {
+  "date": "2026-10-22",
+  "headline": "Red-Teaming OpenAI's Internal Agent Monitoring Systems",
+  "headline_ko": "METR·레드우드리서치, OpenAI 내부 에이전트 감시 시스템 레드팀 결과 공개",
+  "outlet": "Redwood Research",
+  "url": "https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent",
+  "video": "",
+  "summary_ko": "METR과 레드우드리서치 직원이 7월 21일부터 8월 11일까지 3주간 높은 접근 권한으로 OpenAI의 내부 비정렬 감시 시스템을 시험해 61쪽 분량의 내부 보고서를 OpenAI에 전달했다. 공개 글에 따르면 당시 대상이 되는 에이전트형 Responses API 트래픽의 75~94%가 감시 대상이었고, 5~7월에는 컴팩션 때문에 내부 Codex 트래픽의 약 10%가 감시되지 않았을 가능성이 크다. 저자들은 OpenAI가 운영 안전장치의 취약점을 패치했다고 밝혔지만 이를 직접 평가하지는 않았다고 했다.",
+  "topics": [
+   "research",
+   "model"
+  ],
+  "orgs": [
+   "OpenAI",
+   "METR",
+   "Redwood Research"
+  ],
+  "headline_en": "Red-Teaming OpenAI's Internal Agent Monitoring Systems",
+  "summary_en": "Staff from METR and Redwood Research spent three weeks, from July 21 to August 11, stress-testing OpenAI's internal misalignment monitoring system with high access, producing a 61-page internal report shared with OpenAI. According to the public post, an estimated 75-94% of eligible agentic Responses API traffic was being monitored at the time, and compaction likely left about 10% of eligible internal Codex traffic unmonitored from May to July. The authors said OpenAI reports it has patched vulnerabilities in its production safeguards, but they have not evaluated that claim.",
+  "headline_ja": "METR・レッドウッド・リサーチ、OpenAI内部のエージェント監視システムのレッドチーム結果を公開",
+  "summary_ja": "METRとレッドウッド・リサーチの職員が7月21日から8月11日までの3週間、高いアクセス権限でOpenAIの内部ミスアライメント監視システムを検証し、61ページの内部報告書をOpenAIに提出した。公開記事によると、当時対象となるエージェント型Responses APIトラフィックの75〜94%が監視対象で、5〜7月にはコンパクションにより内部Codexトラフィックの約10%が監視されていなかった可能性が高い。著者らは、OpenAIが本番の安全装置の脆弱性を修正したと報告していると述べたが、それを自ら評価してはいないとした。"
  },
  {
   "date": "2026-10-21",
