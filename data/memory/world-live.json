@@ -441,6 +441,25 @@
    "summary_ja": "モデルナとメルクが開発した個別化mRNAワクチン「インティスメラン」は、ステージ3のメラノーマ患者1137人を対象とした後期治験で、標準治療に比べがんの再発・死亡リスクを42%低減した。治療2年後、ワクチンとキイトルーダを併用した患者の82%が再発しておらず、キイトルーダとプラセボの患者(70%)を上回った。結果は24日にマドリードの欧州臨床腫瘍学会(ESMO)で発表され、全データはまだ査読付き学術誌に掲載されていない。"
   },
   {
+   "date": "2026-10-23",
+   "headline": "Suspect arrested as fire engulfs Hitler's 'Eagle's Nest' retreat, German police say",
+   "headline_ko": "히틀러 별장 '독수리 둥지' 화재…용의자 체포",
+   "outlet": "NBC News (Reuters)",
+   "url": "https://www.nbcnews.com/world/germany/fire-engulfs-hitlers-eagles-nest-retreat-rcna605359",
+   "video": "",
+   "summary_ko": "독일 바이에른주 베르히테스가덴 인근의 나치 시대 별장 켈슈타인하우스, 이른바 '독수리 둥지'에서 23일(금) 화재가 발생해 소방관과 구조 인력 약 200명이 진화에 나섰다. 경찰은 현장 근처에서 용의자를 붙잡아 화재와의 관련성을 조사하고 있다. 동기에 대해서는 즉각 알려진 바가 없다.",
+   "topics": [
+    "accident"
+   ],
+   "orgs": [
+    "독일"
+   ],
+   "headline_en": "Suspect arrested as fire engulfs Hitler's 'Eagle's Nest' retreat, German police say",
+   "summary_en": "A fire broke out on Friday the 23rd at the Kehlsteinhaus, known as the 'Eagle's Nest,' a Nazi-era retreat near Berchtesgaden in Bavaria, Germany, and around 200 firefighters and emergency personnel fought the blaze. Police detained a suspect near the scene and are investigating whether they were connected to the fire. There was no immediate word on a possible motive.",
+   "headline_ja": "ヒトラーの山荘「鷲の巣」で火災…容疑者を逮捕",
+   "summary_ja": "ドイツ・バイエルン州ベルヒテスガーデン近郊のナチス時代の山荘ケールシュタインハウス、通称「鷲の巣」で23日(金)に火災が発生し、消防士や救急隊員約200人が消火にあたった。警察は現場近くで容疑者を拘束し、火災との関連を調べている。動機については直ちには明らかになっていない。"
+  },
+  {
    "date": "2026-10-22",
    "headline": "U.S., Israel prepare for renewed Iran strikes after midterm elections - NYT",
    "headline_ko": "NYT \"미국·이스라엘, 중간선거 뒤 이란 재공습 계획 마련\"",
@@ -1700,6 +1719,27 @@
    "summary_en": "According to medical staff and human rights groups, drone attacks across Sudan have killed more than 160 people in recent days. The heaviest toll came in West Kordofan, where an attack on a transport hub where residents had gathered to head home after market day killed 80 people.",
    "headline_ja": "スーダン全土でドローン攻撃が激化…ここ数日で160人超死亡",
    "summary_ja": "医療関係者と人権団体によると、ここ数日でスーダン全土のドローン攻撃により160人を超える人が死亡した。最大の被害は西コルドファンで出ており、市の立つ日を終えて帰宅しようとしていた住民が集まった交通拠点が攻撃を受け、80人が死亡した。"
+  },
+  {
+   "date": "2026-10-19",
+   "headline": "Russians locked out of bank accounts and apartments as Ukraine hits data centers",
+   "headline_ko": "우크라이나, 러시아 얀덱스 데이터센터 타격…시민들 은행 계좌·아파트 접근 막혀",
+   "outlet": "NBC News",
+   "url": "https://www.nbcnews.com/world/russia/russia-ukraine-yandex-data-centers-attacks-trump-rcna602753",
+   "video": "",
+   "summary_ko": "우크라이나의 얀덱스 데이터센터 공격으로 택시·음식 배달·파일 저장·얀덱스페이 등 러시아인 수백만 명이 쓰는 서비스가 마비됐고, 세 명은 NBC에 며칠간 현금과 예금에 접근하지 못했다고 말했다. 얀덱스는 10월 9일 직원 피해는 없으며 서비스 복구 중이라고 밝혔다. 기사는 최근 스베르방크와 VK 데이터센터도 표적이 됐다고 전했다.",
+   "topics": [
+    "conflict"
+   ],
+   "orgs": [
+    "우크라이나",
+    "러시아",
+    "Yandex"
+   ],
+   "headline_en": "Russians locked out of bank accounts and apartments as Ukraine hits data centers",
+   "summary_en": "Ukrainian strikes on Yandex data centers disrupted services used by millions of Russians, including taxis, food delivery, file storage and Yandex Pay, and three people told NBC they were locked out of their cash and savings for days. Yandex said on October 9 that no employees were hurt and it was working to restore service. The article says Sberbank and VK data centers have also been targeted in recent days.",
+   "headline_ja": "ウクライナ、ロシアのヤンデックスのデータセンターを攻撃…市民が銀行口座やアパートに入れず",
+   "summary_ja": "ウクライナによるヤンデックスのデータセンター攻撃で、タクシー、フードデリバリー、ファイル保存、ヤンデックス・ペイなど数百万人のロシア人が使うサービスが混乱し、3人はNBCに数日間現金や預金にアクセスできなかったと語った。ヤンデックスは10月9日、従業員に被害はなくサービス復旧に取り組んでいると発表した。記事によると、最近はズベルバンクやVKのデータセンターも標的になっている。"
   },
   {
    "date": "2026-10-18",
