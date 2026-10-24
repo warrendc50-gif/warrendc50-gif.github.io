@@ -161,6 +161,45 @@
    "summary_ja": "パリ郊外のトラップとラ・ヴェリエールで23日、銃撃犯が1人を殺害し、12歳の少女を含む5人を負傷させた。39歳の男性容疑者はまもなく拘束された。ヌニェス内相によると、容疑者は15分足らずの間に子どもの遊び場、ガソリンスタンド、医療センターに向けて発砲した。反テロ検察が「テロ関連の殺人」容疑で捜査を始め、人種や宗教などを理由に被害者が狙われたかを調べており、エリゼ宮は「人種差別的なテロ攻撃」と述べた。"
   },
   {
+   "date": "2026-10-23",
+   "headline": "Typhoon Champi hits Taiwan, killing one and injuring hundreds",
+   "headline_ko": "태풍 참피 대만 강타…1명 사망·수백 명 부상",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350",
+   "video": "",
+   "summary_ko": "태풍 참피가 대만을 강타해 1명이 숨지고 500명 넘게 다쳤다. 태풍은 금요일 대만 북동부를 지나며 나무를 쓰러뜨리고 일시적 침수와 전력선 피해를 일으켰고, 5000명 이상이 대피했으며 토요일에도 약 5만6000가구가 정전 상태였다. 항공편은 금요일 1000편 가까이에서 토요일 259편이 결항됐고, 일본 오키나와에서도 금요일 오후 약 8400가구가 정전되고 2명이 다쳤다.",
+   "topics": [
+    "disaster"
+   ],
+   "orgs": [
+    "대만",
+    "일본"
+   ],
+   "headline_en": "Typhoon Champi hits Taiwan, killing one and injuring hundreds",
+   "summary_en": "Typhoon Champi struck Taiwan, killing one person and injuring more than 500. Passing Taiwan's northeast on Friday, it toppled trees, caused brief flooding and damaged power lines; more than 5,000 people evacuated and about 56,000 households were still without power on Saturday. Flight cancellations fell from almost 1,000 on Friday to 259 on Saturday, and in Japan's Okinawa about 8,400 households lost power on Friday afternoon and two people were injured.",
+   "headline_ja": "台風チャンピが台湾を直撃、1人死亡・数百人負傷",
+   "summary_ja": "台風チャンピが台湾を直撃し、1人が死亡、500人以上が負傷した。台風は金曜に台湾北東部を通過して倒木や一時的な浸水、送電線の被害をもたらし、5000人以上が避難、土曜時点でも約5万6000世帯が停電していた。航空便の欠航は金曜の1000便近くから土曜は259便となり、沖縄でも金曜午後に約8400世帯が停電し2人が負傷した。"
+  },
+  {
+   "date": "2026-10-23",
+   "headline": "Rare unrest flares in Tunisian capital as police clash with protesters",
+   "headline_ko": "튀니지 수도서 이례적 소요…경찰-시위대 충돌",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/23/rare-unrest-flares-in-tunisian-capital-as-police-clash-with-protesters",
+   "video": "",
+   "summary_ko": "튀니지 수도 튀니스와 남부 제비니아나에서 최근 경찰과 관련된 사망 사건들을 둘러싸고 경찰과 시위대가 이례적으로 충돌했다. 튀니스 교외 에타다멘에서는 마약 거래 혐의로 체포된 남성이 숨진 뒤 목요일 경찰이 최루탄을 쐈으며, 가족은 경찰의 학대로 숨졌다고 주장했다. 이번 소요는 튀니지의 경제·사회·정치 위기가 깊어지는 가운데 벌어졌다.",
+   "topics": [
+    "unrest"
+   ],
+   "orgs": [
+    "튀니지"
+   ],
+   "headline_en": "Rare unrest flares in Tunisian capital as police clash with protesters",
+   "summary_en": "Police and protesters clashed in rare unrest in the Tunisian capital Tunis and the southern town of Jebiniana over recent deaths linked to police. In the Tunis suburb of Ettadhamen, police fired tear gas on Thursday after a man detained on suspicion of drug dealing died; his family said he died from police abuse. The unrest comes amid a deepening economic, social and political crisis in Tunisia.",
+   "headline_ja": "チュニジアの首都で異例の騒乱…警察とデモ隊が衝突",
+   "summary_ja": "チュニジアの首都チュニスと南部ジェビニアナで、警察が関わったとされる最近の死亡事件をめぐり、警察とデモ隊が異例の衝突を起こした。チュニス郊外エッタダメンでは、麻薬取引の疑いで拘束された男性が死亡した後、木曜に警察が催涙ガスを発射し、家族は警察の虐待で死亡したと主張した。騒乱はチュニジアの経済・社会・政治危機が深まる中で起きた。"
+  },
+  {
    "date": "2026-10-22",
    "headline": "U.S., Israel prepare for renewed Iran strikes after midterm elections - NYT",
    "headline_ko": "NYT \"미국·이스라엘, 중간선거 뒤 이란 재공습 계획 마련\"",
