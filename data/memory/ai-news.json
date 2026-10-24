@@ -57,6 +57,28 @@
   "summary_ja": "SKテレコムのAIデータセンター法人SKハイパーは、15GW規模のデータセンター建設計画の最初の5GW段階に約3500億ドル(463兆ウォン)の調達を目指している。チョン・ソククン代表は23日、ブルームバーグTVで、最初の5GWは電力と用地の確保に大きな困難はないとみる一方、グローバル需要の確保と資金調達が最大の課題だと述べた。同社は2035年までに15GWを構築し、2029年から段階的に稼働させる計画で、初の外部投資は年末か来年初めを目標としている。"
  },
  {
+  "date": "2026-10-23",
+  "headline": "Global PC shipments fall 21% YoY in Q3 2026, Q4 decline forecast at 27%: Counterpoint",
+  "headline_ko": "3분기 세계 PC 출하량 21% 급감…4분기 27% 감소 전망",
+  "outlet": "FoneArena (Counterpoint)",
+  "url": "https://www.fonearena.com/blog/495602/global-pc-shipments-q3-2026-counterpoint.html",
+  "video": "",
+  "summary_ko": "카운터포인트리서치 예비 집계에 따르면 2026년 3분기 세계 PC 출하량은 5700만 대로 전년 대비 21%, 전 분기 대비 13.8% 줄었다. 레노버가 1500만 대(점유율 26.3%)로 1위였고, HP는 전년 대비 31% 줄어든 1030만 대였다. 카운터포인트는 4분기 출하량이 전년 대비 27% 감소할 것으로 내다봤다.",
+  "topics": [
+   "chips",
+   "business"
+  ],
+  "orgs": [
+   "Counterpoint",
+   "Lenovo",
+   "HP"
+  ],
+  "headline_en": "Global PC shipments fall 21% YoY in Q3 2026, Q4 decline forecast at 27%: Counterpoint",
+  "summary_en": "According to preliminary Counterpoint Research data, global PC shipments in Q3 2026 fell 21% year over year and 13.8% quarter over quarter to 57 million units. Lenovo led with 15 million units (26.3% share), while HP fell 31% year over year to 10.3 million units. Counterpoint expects Q4 shipments to decline 27% year over year.",
+  "headline_ja": "7〜9月の世界PC出荷台数21%急減…10〜12月は27%減の見通し",
+  "summary_ja": "カウンターポイント・リサーチの速報値によると、2026年7〜9月期の世界PC出荷台数は5700万台で、前年同期比21%、前期比13.8%減少した。レノボが1500万台(シェア26.3%)で首位、HPは前年同期比31%減の1030万台だった。カウンターポイントは10〜12月期の出荷台数が前年同期比27%減少すると予想している。"
+ },
+ {
   "date": "2026-10-22",
   "headline": "오픈AI, 구글클라우드에 AI 모델 제공…안티그래비티 등에서 사용 가능",
   "headline_ko": "오픈AI, 구글 클라우드에 AI 모델 제공…안티그래비티 등에서 사용 가능",
@@ -259,6 +281,49 @@
    "Humain",
    "Nvidia"
   ]
+ },
+ {
+  "date": "2026-10-22",
+  "headline": "Microsoft's Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases 'medical superintelligence'",
+  "headline_ko": "MS 술레이만 \"AI가 어려운 사례서 의사 능가\"…MAI-DxO 정답률 83% 대 36%",
+  "outlet": "TechCrunch",
+  "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+  "video": "",
+  "summary_ko": "마이크로소프트의 MAI-DxO는 여러 AI 에이전트가 의사 패널처럼 협업하는 시스템으로, 시뮬레이션에서 뉴잉글랜드저널오브메디신(NEJM)의 복잡한 사례를 83% 맞혀 참고 자료를 활용한 1차 진료의·일반내과의(36%)를 앞섰다. 연구는 사이언스에 실렸으며, 이런 복잡한 사례는 보통 비교 대상이 아니었던 전문의나 의사 팀이 다룬다. 술레이만은 이 결과를 '의료 초지능'으로 가는 한 걸음이라고 했다.",
+  "topics": [
+   "research",
+   "model"
+  ],
+  "orgs": [
+   "Microsoft"
+  ],
+  "headline_en": "Microsoft's Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases 'medical superintelligence'",
+  "summary_en": "Microsoft's MAI-DxO, a system in which several AI agents work together like a panel of doctors, correctly solved 83% of complex New England Journal of Medicine cases in a simulation, versus 36% for primary care doctors and general internists using reference materials. The study was published in Science, and cases this complex are usually handled by specialists or physician teams, who were not part of the comparison. Suleyman called the result a step toward 'medical superintelligence.'",
+  "headline_ja": "MSのスレイマン氏「AIが難症例で医師を上回る」…MAI-DxOの正答率83%対36%",
+  "summary_ja": "マイクロソフトのMAI-DxOは複数のAIエージェントが医師団のように連携するシステムで、シミュレーションでニューイングランド・ジャーナル・オブ・メディシン(NEJM)の複雑な症例の83%に正答し、参考資料を使ったプライマリケア医・一般内科医(36%)を上回った。研究はサイエンス誌に掲載され、こうした複雑な症例は通常、比較対象に含まれなかった専門医や医師チームが扱う。スレイマン氏はこの結果を「医療の超知能」への一歩だと述べた。"
+ },
+ {
+  "date": "2026-10-22",
+  "headline": "Agentic AI Foundation Announces Four New Projects: Agent Skills, Open Responses, OpenEnv, and OpenSandbox",
+  "headline_ko": "에이전틱AI재단, Anthropic·OpenAI·허깅페이스·알리바바 기여 4개 프로젝트 추가",
+  "outlet": "Linux Foundation",
+  "url": "https://www.linuxfoundation.org/press/agentic-ai-foundation-announces-four-new-projects-agent-skills-open-responses-openenv-and-opensandbox",
+  "video": "",
+  "summary_ko": "리눅스재단 산하 에이전틱AI재단(AAIF)이 Agent Skills(Anthropic 기여), Open Responses(OpenAI), OpenEnv(허깅페이스), OpenSandbox(알리바바) 등 4개 신규 프로젝트를 발표했다. 이로써 AAIF가 운영하는 프로젝트는 2025년 12월 출범 당시 3개에서 10개로 늘었다. 발표는 10월 22~23일 산호세에서 열린 AGNTCon + MCPCon 북미 행사에서 나왔다.",
+  "topics": [
+   "business",
+   "model"
+  ],
+  "orgs": [
+   "Anthropic",
+   "OpenAI",
+   "Hugging Face",
+   "Alibaba"
+  ],
+  "headline_en": "Agentic AI Foundation Announces Four New Projects: Agent Skills, Open Responses, OpenEnv, and OpenSandbox",
+  "summary_en": "The Agentic AI Foundation (AAIF) under the Linux Foundation announced four new projects: Agent Skills (contributed by Anthropic), Open Responses (OpenAI), OpenEnv (Hugging Face) and OpenSandbox (Alibaba). This brings AAIF's hosted projects to 10, up from three at its December 2025 launch. The announcement came at AGNTCon + MCPCon North America in San Jose on October 22-23.",
+  "headline_ja": "エージェンティックAI財団、Anthropic・OpenAI・ハギングフェイス・アリババ提供の4プロジェクトを追加",
+  "summary_ja": "リナックス財団傘下のエージェンティックAI財団(AAIF)は、Agent Skills(Anthropic提供)、Open Responses(OpenAI)、OpenEnv(ハギングフェイス)、OpenSandbox(アリババ)の4つの新プロジェクトを発表した。これによりAAIFが運営するプロジェクトは2025年12月の発足時の3件から10件に増えた。発表は10月22〜23日にサンノゼで開かれたAGNTCon + MCPCon北米で行われた。"
  },
  {
   "date": "2026-10-21",
