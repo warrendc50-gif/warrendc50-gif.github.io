@@ -70,6 +70,26 @@
    "summary_ja": "イエメンのフーシ派によるサウジへの攻撃が続く中、24日(土)未明にサウジの首都リヤドで2回の爆発音が聞こえたとAFP記者が伝えた。サウジ民間防衛当局は潜在的な脅威を知らせるため早期警報システムを作動させた。サウジ主導の連合軍は、リヤドに向かっていた弾道ミサイル1発と東部州のドローン1機を撃墜したと発表した。"
   },
   {
+   "date": "2026-10-24",
+   "headline": "North Korea's Kim Jong Un visits China via newly opened bridge",
+   "headline_ko": "김정은, 신압록강대교 건너 중국 단둥 방문…한국 정부 소식통",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/24/north-koreas-kim-jong-un-arrives-in-china-south-korean-media-says",
+   "video": "",
+   "summary_ko": "한국 정부 당국자들에 따르면 김정은 북한 국무위원장이 약 일주일 전 공식 개통한 신압록강대교를 통해 중국 국경도시 단둥에 도착했다. 로이터는 한국 당국자를 인용해 리창 중국 총리가 단둥에서 김 위원장을 만났다고 전했으며, 중국 외교부는 즉각 답하지 않았다. 김 위원장의 마지막 방중은 2025년 9월 베이징 전승절 80주년 행사였다.",
+   "topics": [
+    "politics"
+   ],
+   "orgs": [
+    "북한",
+    "중국"
+   ],
+   "headline_en": "North Korea's Kim Jong Un visits China via newly opened bridge",
+   "summary_en": "According to South Korean government officials, North Korean leader Kim Jong Un arrived in the Chinese border city of Dandong via the New Yalu River Bridge, which officially opened about a week earlier. Reuters, citing a South Korean official, said Chinese Premier Li Qiang met Kim in Dandong; China's foreign ministry did not immediately respond. Kim's last known China visit was in September 2025 for the 80th Victory Day events in Beijing.",
+   "headline_ja": "金正恩氏、新鴨緑江大橋を渡り中国・丹東を訪問…韓国政府筋",
+   "summary_ja": "韓国政府当局者によると、北朝鮮の金正恩国務委員長が約1週間前に正式開通した新鴨緑江大橋を通って中国の国境都市・丹東に到着した。ロイターは韓国当局者の話として、李強首相が丹東で金氏と会談したと伝え、中国外務省は即座に回答しなかった。金氏の前回の訪中は2025年9月の北京での抗日戦争勝利80周年行事だった。"
+  },
+  {
    "date": "2026-10-23",
    "headline": "Taiwan shuts down ahead of Typhoon Champi, hundreds of flights cancelled",
    "headline_ko": "태풍 참피에 대만 '셧다운'…1명 사망·94명 부상, 항공편 수백 편 결항",
@@ -257,6 +277,27 @@
    "summary_en": "The UAE reported an oil spill from a tanker off its coast on Friday the 23rd. The Ministry of Climate Change and Environment said authorities detected a tanker oil spill affecting Umm Al Quwain's beaches, which were closed. Satellite images analysed by AFP showed a hydrocarbon slick on October 19 around a vessel about 20 km off the emirate's coast.",
    "headline_ja": "UAE沖でタンカーから油流出…ウンム・アル・カイワインの海岸閉鎖",
    "summary_ja": "アラブ首長国連邦(UAE)は23日(金)、自国沖でタンカーからの油流出が起きたと発表した。気候変動・環境省は、タンカーの油流出がウンム・アル・カイワインの海岸に影響したことを確認したと述べ、海岸は閉鎖された。AFPが分析した衛星画像では、10月19日に同首長国の沿岸から約20キロ離れた船舶の周辺に油膜が確認された。"
+  },
+  {
+   "date": "2026-10-23",
+   "headline": "Donald Trump says US may do another military operation against Iran",
+   "headline_ko": "트럼프 \"이란에 또 한 번의 작은 '에픽 퓨리' 할 수도\"",
+   "outlet": "Reuters (Business Recorder)",
+   "url": "https://brecorder.com/news/40445738/donald-trump-says-us-may-do-another-military-operation-against-iran",
+   "video": "",
+   "summary_ko": "트럼프 대통령은 23일(금) 플로리다 유세에서 미군이 이란 전쟁을 일컫는 이름인 '에픽 퓨리'를 들어 미국이 '또 한 번의 작은 에픽 퓨리를 할 수도 있다'고 말했으나 자세히 설명하지 않았다. 그는 이달 초 11월 3일 선거 전에는 이란을 공격하지 않겠다고 말한 바 있다. 이란 고위 안보 관리 2명은 로이터에 미국과 이스라엘이 다시 공격하면 걸프 해저 통신 케이블을 겨냥할 계획을 세웠다고 밝혔다.",
+   "topics": [
+    "conflict",
+    "politics"
+   ],
+   "orgs": [
+    "미국",
+    "이란"
+   ],
+   "headline_en": "Donald Trump says US may do another military operation against Iran",
+   "summary_en": "At a rally in Florida on Friday the 23rd, President Trump said the US 'may do another little Epic Fury,' the military's name for its war on Iran, without elaborating. Earlier this month he said the US would not attack Iran before the November 3 elections. Two senior Iranian security officials told Reuters that Iran has drawn up plans to target undersea communications cables in the Gulf if the US and Israel attack again.",
+   "headline_ja": "トランプ氏「イランにもう一度小さな『エピック・フューリー』をするかも」",
+   "summary_ja": "トランプ大統領は23日(金)、フロリダでの集会で、米軍がイラン戦争を指して使う名称「エピック・フューリー」を挙げ、米国が「もう一度小さなエピック・フューリーをするかもしれない」と述べたが、詳しくは説明しなかった。同氏は今月初め、11月3日の選挙前にはイランを攻撃しないと述べていた。イランの安全保障高官2人はロイターに対し、米国とイスラエルが再び攻撃すれば湾岸の海底通信ケーブルを標的にする計画を策定したと語った。"
   },
   {
    "date": "2026-10-22",
