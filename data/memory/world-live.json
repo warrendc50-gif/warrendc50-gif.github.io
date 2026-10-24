@@ -31,6 +31,25 @@
  ],
  "items": [
   {
+   "date": "2026-10-24",
+   "headline": "Tsunami warning lifted after earthquake off Vanuatu",
+   "headline_ko": "바누아투 앞바다 규모 6.9 지진…쓰나미 경보 해제",
+   "outlet": "Business Recorder (AFP)",
+   "url": "https://www.brecorder.com/news/40445743/tsunami-warning-lifted-after-earthquake-off-vanuatu",
+   "video": "",
+   "summary_ko": "24일(토) 바누아투 앞바다에서 규모 6.9 지진이 발생했고, 태평양쓰나미경보센터는 쓰나미 경보를 해제했다. 센터는 처음 7.2로 추정했던 규모를 하향 조정했으며, 바누아투 지질재해국은 앞서 해안 지역 주민들에게 고지대로 대피하라고 알렸다. 미국 지질조사국(USGS)은 진앙을 산토섬 포트올리 북서쪽 약 200km로 파악했고 인근에서 규모 6.3의 두 번째 지진도 보고했다.",
+   "topics": [
+    "disaster"
+   ],
+   "orgs": [
+    "바누아투"
+   ],
+   "headline_en": "Tsunami warning lifted after earthquake off Vanuatu",
+   "summary_en": "A magnitude 6.9 earthquake struck off Vanuatu on Saturday the 24th, and the Pacific Tsunami Warning Centre lifted its tsunami warning. The centre revised the magnitude down from an initial estimate of 7.2, and Vanuatu's Geological Hazards Department had earlier told coastal residents to evacuate to higher ground. The USGS placed the epicentre about 200 km north-west of Port-Olry on Santo island and also reported a second magnitude 6.3 quake nearby.",
+   "headline_ja": "バヌアツ沖でM6.9の地震…津波警報は解除",
+   "summary_ja": "24日(土)、バヌアツ沖でマグニチュード6.9の地震が発生し、太平洋津波警報センターは津波警報を解除した。同センターは当初7.2と推定していた規模を下方修正し、バヌアツ地質災害局はそれに先立ち沿岸部の住民に高台への避難を呼びかけていた。米地質調査所(USGS)は震源をサント島ポートオリーの北西約200キロとし、付近でM6.3の2回目の地震も報告した。"
+  },
+  {
    "date": "2026-10-23",
    "headline": "Taiwan shuts down ahead of Typhoon Champi, hundreds of flights cancelled",
    "headline_ko": "태풍 참피에 대만 '셧다운'…1명 사망·94명 부상, 항공편 수백 편 결항",
