@@ -201,6 +201,28 @@
   "summary_ja": "OpenAIの研究者がBrotli圧縮ライブラリでリモートコード実行の脆弱性(CVE-2026-111497、通称「Node2Shell」)を発見したと伝えられた。細工された圧縮入力で発生する範囲外書き込みの欠陥で、CVSSは9.2、認証なしで悪用され得る。Node.jsは10月21日に修正版を公開し、BunやEnvoy、複数のPyPIパッケージも影響を受ける。23日時点で大規模な悪用の証拠はないが、概念実証コードが出ている。"
  },
  {
+  "date": "2026-10-23",
+  "headline": "Swedish Government Offices block ChatGPT and Claude",
+  "headline_ko": "스웨덴 정부청사, 업무용 PC서 ChatGPT·Claude 차단…코파일럿으로 전환",
+  "outlet": "Daily Northern",
+  "url": "https://www.dailynorthern.com/36084/swedish-government-offices-block-chatgpt-and-claude/",
+  "video": "",
+  "summary_ko": "SVT가 스웨덴 라디오 에코트를 인용해 전한 바에 따르면 스웨덴 정부청사는 월요일부터 ChatGPT와 Claude 접속을 차단해 직원들이 업무용 컴퓨터에서 이 AI 도구를 쓸 수 없게 된다. 공무원들은 대신 정부청사가 검토 후 보안을 강화해 승인한 마이크로소프트 코파일럿을 쓰게 된다. 스웨덴 국세청과 국가시설보호위원회는 이미 AI 서비스를 차단했다.",
+  "topics": [
+   "policy"
+  ],
+  "orgs": [
+   "스웨덴 정부",
+   "OpenAI",
+   "Anthropic",
+   "Microsoft"
+  ],
+  "headline_en": "Swedish Government Offices block ChatGPT and Claude",
+  "summary_en": "According to SVT, citing Swedish Radio's Ekot, Sweden's Government Offices will block access to ChatGPT and Claude from Monday, so staff can no longer use these AI tools on work computers. Civil servants will instead use Microsoft Copilot, which the Government Offices approved after a review and added security. The Swedish Tax Agency and the National Board of Institutional Care have already blocked AI services.",
+  "headline_ja": "スウェーデン政府庁舎、業務用PCでChatGPT・Claudeを遮断…Copilotに移行",
+  "summary_ja": "SVTがスウェーデン・ラジオのエコートを引用して伝えたところによると、スウェーデン政府庁舎は月曜からChatGPTとClaudeへのアクセスを遮断し、職員は業務用コンピューターでこれらのAIツールを使えなくなる。公務員は代わりに、政府庁舎が審査しセキュリティを強化したうえで承認したマイクロソフトのCopilotを使う。スウェーデン税務庁と国家施設保護委員会はすでにAIサービスを遮断している。"
+ },
+ {
   "date": "2026-10-22",
   "headline": "오픈AI, 구글클라우드에 AI 모델 제공…안티그래비티 등에서 사용 가능",
   "headline_ko": "오픈AI, 구글 클라우드에 AI 모델 제공…안티그래비티 등에서 사용 가능",
@@ -467,6 +489,46 @@
   "summary_en": "Working with Theorem, Anthropic used Claude to prove security properties of open-source libraries at the RISC-V assembly level, and in the process Claude also found bugs that had gone undetected for years. The proofs cover 239 entry points across 123 OSS-Fuzz libraries. The company said 'formally verified' does not mean 'bug-free,' and that the proofs assume a single-threaded static binary on a RISC-V CPU running Linux.",
   "headline_ja": "Anthropic「LLMで大規模なソフトウェアの形式検証が可能に」…OSS123ライブラリを証明",
   "summary_ja": "AnthropicはTheoremと協力し、Claudeを使ってオープンソースライブラリのセキュリティ特性をRISC-Vアセンブリのレベルで証明し、その過程でClaudeは何年も見つからなかったバグも発見した。証明はOSS-Fuzzの123ライブラリの239のエントリポイントを対象とする。同社は「形式検証済み」は「バグがない」ことを意味せず、証明はLinuxを動かすRISC-V CPU上のシングルスレッドの静的バイナリを前提としていると説明した。"
+ },
+ {
+  "date": "2026-10-22",
+  "headline": "Astellas and AI Proteins sign miniprotein therapeutics deal",
+  "headline_ko": "아스텔라스, AI Proteins와 미니단백질 치료제 계약…선급금 4억달러 이상",
+  "outlet": "Pharmaceutical Technology",
+  "url": "https://www.pharmaceutical-technology.com/news/ai-proteins-astellas-miniprotein-therapeutics",
+  "video": "",
+  "summary_ko": "AI Proteins가 아스텔라스제약 계열사와 미니단백질 치료제 발굴·개발을 위한 연구 협력 및 라이선스 계약을 맺었다. AI Proteins는 아스텔라스가 고른 표적을 겨냥한 신규 미니단백질을 설계·최적화하는 대가로 4억달러가 넘는 선급금을 받고, 마일스톤과 순매출 로열티도 받을 수 있다. 아스텔라스는 후보물질에 대한 전 세계 독점 라이선스를 갖고 이후 개발·허가·상업화를 맡는다.",
+  "topics": [
+   "business",
+   "research"
+  ],
+  "orgs": [
+   "AI Proteins",
+   "Astellas"
+  ],
+  "headline_en": "Astellas and AI Proteins sign miniprotein therapeutics deal",
+  "summary_en": "AI Proteins signed a research collaboration and licence agreement with an Astellas Pharma affiliate to discover and develop miniprotein therapeutics. AI Proteins will receive an upfront payment of more than $400 million to design and optimise de novo miniproteins against targets chosen by Astellas, and is eligible for milestones and royalties on net sales. Astellas holds an exclusive global licence to the resulting candidates and will handle subsequent development, regulatory work and commercialisation.",
+  "headline_ja": "アステラス、AI Proteinsとミニタンパク質治療薬で契約…一時金4億ドル超",
+  "summary_ja": "AI Proteinsはアステラス製薬の関連会社と、ミニタンパク質治療薬の創出・開発に向けた研究協力・ライセンス契約を結んだ。AI Proteinsはアステラスが選んだ標的に対する新規ミニタンパク質を設計・最適化する対価として4億ドル超の一時金を受け取り、マイルストーンや純売上高に応じたロイヤルティも得られる。アステラスは候補物質の全世界独占ライセンスを持ち、その後の開発・承認手続き・商業化を担う。"
+ },
+ {
+  "date": "2026-10-22",
+  "headline": "1Password tops $500-million USD ARR on the back of accelerating AI demand",
+  "headline_ko": "1Password, AI 수요 가속에 연간 반복 매출 5억달러 돌파",
+  "outlet": "BetaKit",
+  "url": "https://betakit.com/1password-tops-500-million-usd-arr-on-the-back-of-accelerating-ai-demand/",
+  "video": "",
+  "summary_ko": "토론토에 본사를 둔 1Password는 연간 반복 매출(ARR)이 1년 전 약 4억달러에서 5억달러를 넘었다고 발표했다. 기업 고객은 약 2만 곳 늘어 20만 곳을 넘었고, 연간 10만달러 이상 내는 고객 수는 전년 대비 40% 넘게 증가했다. 데이비드 파우그노 CEO는 성장 가속을 AI의 영향으로 돌렸으며 상장 일정은 밝히지 않았다.",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "1Password"
+  ],
+  "headline_en": "1Password tops $500-million USD ARR on the back of accelerating AI demand",
+  "summary_en": "Toronto-based 1Password announced its annual recurring revenue has passed $500 million, up from about $400 million a year ago. It added about 20,000 business customers to exceed 200,000, and customers paying more than $100,000 a year rose over 40% year over year. CEO David Faugno attributed the acceleration to AI and did not give an IPO timeline.",
+  "headline_ja": "1Password、AI需要の加速で年間経常収益5億ドル突破",
+  "summary_ja": "トロントに本社を置く1Passwordは、年間経常収益(ARR)が1年前の約4億ドルから5億ドルを超えたと発表した。法人顧客は約2万社増えて20万社を超え、年間10万ドル以上支払う顧客数は前年比40%超増加した。デビッド・ファウグノCEOは成長加速をAIの影響によるものとし、上場時期は明らかにしなかった。"
  },
  {
   "date": "2026-10-21",
