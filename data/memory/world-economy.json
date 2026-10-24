@@ -1453,6 +1453,25 @@
   "summary_ja": "フィリピン・ペソは取引序盤に史上初めて1ドル=63ペソを超えて63.15ペソまで下落し、木曜は過去最安値の63.06ペソで引け、10月8日の従来の最安値終値(62.90ペソ)を更新した。記事は、戦争前に原油をほぼ全量湾岸地域から輸入していたフィリピンで、原油高によりドル需要が増えたことを主因に挙げた。フィリピン中央銀行は4月以降3回、計75bpの利上げで政策金利を5%に引き上げている。"
  },
  {
+  "date": "2026-10-15",
+  "headline": "Iraq devalues dinar to ease cash crunch, leaving traders in limbo",
+  "headline_ko": "이라크, 자금난 완화 위해 디나르 평가절하…상인들 혼란",
+  "outlet": "Al Jazeera",
+  "url": "https://www.aljazeera.com/economy/2026/10/15/iraq-devalues-dinar-to-ease-cash-crunch-leaving-traders-in-limbo",
+  "video": "",
+  "summary_ko": "이라크 정부가 급여 지급과 세입 부족을 메우기 위해 디나르화를 15% 가까이 평가절하했다. 이라크 중앙은행은 10월 7일 현금 판매 환율을 달러당 1320디나르에서 1520디나르로 올렸다. 알자이디 총리는 '내 결정이며 내가 책임진다'며 대안은 급여 35% 삭감, 45일마다 급여 지급, 해외 차입뿐이었다고 말했다.",
+  "topics": [
+   "crisis"
+  ],
+  "orgs": [
+   "이라크"
+  ],
+  "headline_en": "Iraq devalues dinar to ease cash crunch, leaving traders in limbo",
+  "summary_en": "The Iraqi government devalued the dinar by nearly 15 percent to pay salaries and cover revenue shortfalls. On October 7 the Central Bank of Iraq raised the cash-sale rate from 1,320 to 1,520 dinars per US dollar. Prime Minister al-Zaidi said 'It is my decision and I am responsible for it,' adding that the alternatives were cutting salaries by 35 percent, paying them every 45 days, or foreign loans.",
+  "headline_ja": "イラク、資金難緩和へディナール切り下げ…商人に混乱",
+  "summary_ja": "イラク政府は給与支払いと歳入不足を補うため、ディナールを15%近く切り下げた。イラク中央銀行は10月7日、現金売り相場を1ドル=1320ディナールから1520ディナールに引き上げた。ザイディ首相は「私の決定であり、私が責任を負う」と述べ、代替策は給与の35%削減、45日ごとの給与支払い、海外からの借り入れしかなかったと語った。"
+ },
+ {
   "date": "2026-10-14",
   "headline": "September CPI report shows inflation accelerated to 3.7% as energy costs soared",
   "headline_ko": "미국 9월 CPI 3.7%로 재가속…휘발유 한 달 9.1% 급등",
@@ -1576,6 +1595,26 @@
   "summary_en": "With news of China's CXMT catching up in memory and comments on AI demand by Broadcom executives coinciding, the KOSPI slid more than 7% intraday on October 13 before closing down 5.46% at 6,035, threatening the 6,000 level. Foreign selling poured in, sending Samsung Electronics and SK Hynix sharply lower, and the selling spread to US memory stocks. Down more than 20% from its September peak, the KOSPI has effectively entered a bear market.",
   "headline_ja": "半導体の投げ売りでKOSPI5.5%急落、6000台割れ危機…AIバブル懸念が再燃",
   "summary_ja": "中国CXMTのメモリー追い上げの報とブロードコム経営陣のAI需要に関する発言が重なり、10月13日にKOSPIは取引時間中に7%以上下落した後、5.46%安の6,035で取引を終え、6000台を脅かした。外国人の売りが殺到してサムスン電子・SKハイニックスが急落し、米国のメモリー株にも売りが広がった。9月の高値から20%以上下落したKOSPIは事実上の弱気相場入りとなった。"
+ },
+ {
+  "date": "2026-10-13",
+  "headline": "Middle East and Central Asia's economy to shrink in 2026 amid war, IMF says",
+  "headline_ko": "IMF \"중동·중앙아시아 경제 올해 0.3% 역성장\"…쿠웨이트 -16.7%",
+  "outlet": "Al Jazeera",
+  "url": "https://www.aljazeera.com/economy/2026/10/13/middle-east-and-central-asias-economy-to-shrink-in-2026-amid-war-imf-says",
+  "video": "",
+  "summary_ko": "IMF는 최신 전망에서 중동·중앙아시아 지역 GDP가 2026년 0.3% 줄어들 것으로 내다봤다. 4월에는 1.9% 성장을 예상했었다. 국가별로는 쿠웨이트 -16.7%, 이라크 -16%, 카타르 -15.6%, 바레인 -11.3%, 이란 -7.6%, 사우디아라비아 -3.3%를 전망했으며, 하향의 원인으로 호르무즈 해협의 장기적인 해운 차질을 꼽았다.",
+  "topics": [
+   "macro",
+   "energy"
+  ],
+  "orgs": [
+   "IMF"
+  ],
+  "headline_en": "Middle East and Central Asia's economy to shrink in 2026 amid war, IMF says",
+  "summary_en": "In its latest outlook, the IMF forecast the Middle East and Central Asia region's GDP to contract 0.3 percent in 2026, down from the 1.9 percent growth it projected in April. By country it forecast Kuwait at -16.7%, Iraq -16%, Qatar -15.6%, Bahrain -11.3%, Iran -7.6% and Saudi Arabia -3.3%, attributing the downgrade to prolonged shipping disruption in the Strait of Hormuz.",
+  "headline_ja": "IMF「中東・中央アジア経済は今年0.3%のマイナス成長」…クウェート-16.7%",
+  "summary_ja": "IMFは最新の見通しで、中東・中央アジア地域のGDPが2026年に0.3%減少すると予測した。4月には1.9%成長を見込んでいた。国別ではクウェート-16.7%、イラク-16%、カタール-15.6%、バーレーン-11.3%、イラン-7.6%、サウジアラビア-3.3%と予測し、下方修正の要因としてホルムズ海峡の長期的な海運の混乱を挙げた。"
  },
  {
   "date": "2026-10-08",
