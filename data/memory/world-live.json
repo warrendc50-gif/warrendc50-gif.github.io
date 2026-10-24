@@ -421,6 +421,26 @@
    "summary_ja": "インドネシアのパランカラヤで23日(金)夜、学生数百人が数か月にわたり市を覆う森林火災の煙害に政府がもっと対応するよう求めてデモを行った。監視団体ヌサンタラ・アトラスによると、9月までの9か月間に190万ヘクタール超が焼失し、政府はこの数字を認めも否定もしていない。煙害でインドネシアでは数十万人が体調を崩し、マレーシア、シンガポール、東ティモールにも広がった。"
   },
   {
+   "date": "2026-10-23",
+   "headline": "Personalized mRNA vaccine for melanoma cut risk of cancer's return in late-stage trial",
+   "headline_ko": "모더나·머크 맞춤형 mRNA 흑색종 백신, 후기 임상서 재발·사망 위험 42% 낮춰",
+   "outlet": "NBC News",
+   "url": "https://www.nbcnews.com/health/cancer/personalized-mrna-vaccine-melanoma-cut-risk-cancers-return-late-stage-rcna605208",
+   "video": "",
+   "summary_ko": "모더나와 머크가 개발한 맞춤형 mRNA 백신 인티스메란이 3기 흑색종 환자 1137명을 대상으로 한 후기 임상에서 표준 치료 대비 암 재발·사망 위험을 42% 줄였다. 치료 2년 뒤 백신과 키트루다를 함께 투여한 환자의 82%가 재발하지 않아, 키트루다와 위약을 투여한 환자(70%)보다 높았다. 결과는 24일 마드리드 유럽종양학회(ESMO)에서 발표되며 전체 데이터는 아직 동료 심사 학술지에 실리지 않았다.",
+   "topics": [
+    "health"
+   ],
+   "orgs": [
+    "Moderna",
+    "Merck"
+   ],
+   "headline_en": "Personalized mRNA vaccine for melanoma cut risk of cancer's return in late-stage trial",
+   "summary_en": "In a late-stage trial of 1,137 Stage 3 melanoma patients, the personalized mRNA vaccine intismeran, developed by Moderna and Merck, reduced the risk of cancer recurrence and death by 42% compared with standard treatment. Two years after treatment, 82% of patients receiving the vaccine plus Keytruda had no recurrence, versus 70% of those receiving Keytruda plus placebo. The results will be presented on the 24th at the European Society for Medical Oncology meeting in Madrid, and the full data have not yet been published in a peer-reviewed journal.",
+   "headline_ja": "モデルナ・メルクの個別化mRNAメラノーマワクチン、後期治験で再発・死亡リスク42%低減",
+   "summary_ja": "モデルナとメルクが開発した個別化mRNAワクチン「インティスメラン」は、ステージ3のメラノーマ患者1137人を対象とした後期治験で、標準治療に比べがんの再発・死亡リスクを42%低減した。治療2年後、ワクチンとキイトルーダを併用した患者の82%が再発しておらず、キイトルーダとプラセボの患者(70%)を上回った。結果は24日にマドリードの欧州臨床腫瘍学会(ESMO)で発表され、全データはまだ査読付き学術誌に掲載されていない。"
+  },
+  {
    "date": "2026-10-22",
    "headline": "U.S., Israel prepare for renewed Iran strikes after midterm elections - NYT",
    "headline_ko": "NYT \"미국·이스라엘, 중간선거 뒤 이란 재공습 계획 마련\"",
@@ -1210,6 +1230,27 @@
    "summary_en": "Ukrainian President Zelenskyy criticized the U.S. Department of Defense for delaying the delivery of air defense missiles that allies have already paid for. He raised the issue at a meeting with a bipartisan group of U.S. lawmakers.",
    "headline_ja": "ゼレンスキー氏「同盟国が支払い済みの防空ミサイル、米国防総省が遅延」",
    "summary_ja": "ウクライナのゼレンスキー大統領は、同盟国がすでに費用を支払った防空ミサイルの引き渡しを米国防総省が遅らせていると批判した。同氏は米国の超党派議員との会合でこの問題を提起した。"
+  },
+  {
+   "date": "2026-10-20",
+   "headline": "2 men rearrested in U.K. on suspicion of assisting Iran over suspected plot at a U.S.-run air base",
+   "headline_ko": "영국, 미군 운영 공군기지 음모 관련 '이란 조력' 혐의로 2명 재체포",
+   "outlet": "NBC News (AP)",
+   "url": "https://www.nbcnews.com/world/united-kingdom/2-men-rearrested-uk-suspicion-assisting-iran-suspected-plot-us-run-air-rcna604650",
+   "video": "",
+   "summary_ko": "영국 경찰은 20일(화) 미군이 운영하는 잉글랜드 페어퍼드 공군기지를 겨냥한 음모와 관련해 이란 정보기관을 도운 혐의로 24세 영국인과 25세 영국·이란 이중국적자 등 2명을 재체포했다고 밝혔다. 이들은 국가안보법에 따라 체포됐으며 아직 기소된 사람은 없다. 이란은 관련성을 부인했다.",
+   "topics": [
+    "terror",
+    "politics"
+   ],
+   "orgs": [
+    "영국",
+    "이란"
+   ],
+   "headline_en": "2 men rearrested in U.K. on suspicion of assisting Iran over suspected plot at a U.S.-run air base",
+   "summary_en": "British police said on Tuesday the 20th they had rearrested two men, a 24-year-old British national and a 25-year-old dual UK-Iranian national, on suspicion of assisting Iran's intelligence service over a suspected plot at RAF Fairford, a US-run air base in England. They were arrested under the National Security Act, and no one has yet been charged. Iran has denied involvement.",
+   "headline_ja": "英国、米軍運用の空軍基地をめぐる陰謀で「イラン協力」容疑の2人を再逮捕",
+   "summary_ja": "英国警察は20日(火)、米軍が運用するイングランドのフェアフォード空軍基地を狙った陰謀に関連し、イラン情報機関を支援した疑いで24歳の英国人と25歳の英国・イラン二重国籍者の2人を再逮捕したと発表した。2人は国家安全保障法に基づき逮捕され、まだ起訴された者はいない。イランは関与を否定した。"
   },
   {
    "date": "2026-10-19",
