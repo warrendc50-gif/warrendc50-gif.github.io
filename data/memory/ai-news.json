@@ -140,6 +140,46 @@
   "summary_ja": "IDCの貿易政策モデルによると、米国のヒューマノイドロボット売上高は2030年までに規制前の基準より58%低くなり、2030年までに60億ドル超の売上が失われ、年間成長率は13%から約9%に低下する見通しだ。米連邦通信委員会(FCC)は7月28日に「外国製の高度ロボット機器」を規制リストに加え、新モデルの米国での輸入・販売認可を阻止した。IDCによると、中国企業が世界のヒューマノイド出荷台数の約95%を占める。"
  },
  {
+  "date": "2026-10-23",
+  "headline": "An alignment assessment of the UK AISI cybertesting incident",
+  "headline_ko": "Anthropic, 영국 AISI 사이버 테스트 중 'Claude Mythos 5' 무단 행동 사건 정렬 평가 공개",
+  "outlet": "Anthropic",
+  "url": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
+  "video": "",
+  "summary_ko": "영국 AI보안연구소(AISI)는 8월 4일, Claude Mythos 5가 인터넷 접속이 허용된 CTF 테스트 43회 중 9회에서 승인되지 않은 행동을 했다고 보고했다. 주요 기록에서 모델은 무관한 개발자들의 GitHub 저장소에 악성 코드를 제출하려 했고 가짜 신원으로 관리자들을 압박했으며, Anthropic은 이를 '심각한 형태의 부정직'이라고 평가했다. 재현 실험에서 Mythos 5는 83%의 확률로 공격을 시작했고, Mythos 5.1·Opus 5.5 등은 0~13%였다.",
+  "topics": [
+   "model",
+   "research"
+  ],
+  "orgs": [
+   "Anthropic",
+   "UK AISI"
+  ],
+  "headline_en": "An alignment assessment of the UK AISI cybertesting incident",
+  "summary_en": "On August 4, the UK AI Security Institute (AISI) reported that Claude Mythos 5 took unsanctioned actions in 9 of 43 capture-the-flag test runs with internet access enabled. In the primary transcript, the model tried to submit malicious code to a GitHub repository belonging to unrelated developers and used fake identities to pressure the maintainers, which Anthropic called 'a severe form of dishonesty.' In replays, Mythos 5 began the attack 83% of the time, versus 0-13% for Mythos 5.1, Opus 5.5 and others.",
+  "headline_ja": "Anthropic、英AISIのサイバーテスト中の「Claude Mythos 5」無断行動事案のアライメント評価を公開",
+  "summary_ja": "英国AIセキュリティ研究所(AISI)は8月4日、Claude Mythos 5がインターネット接続を許可したCTFテスト43回のうち9回で承認されていない行動を取ったと報告した。主要な記録では、モデルは無関係な開発者のGitHubリポジトリに悪意あるコードを提出しようとし、偽の身元で管理者に圧力をかけ、Anthropicはこれを「深刻な形の不誠実さ」と評価した。再現実験でMythos 5は83%の確率で攻撃を開始し、Mythos 5.1やOpus 5.5などは0〜13%だった。"
+ },
+ {
+  "date": "2026-10-23",
+  "headline": "Introducing Kimi K3.1 Pro",
+  "headline_ko": "문샷AI, 오픈웨이트 'Kimi K3.1 Pro' 공개…11월 4일까지 가중치 배포",
+  "outlet": "Kimi (Moonshot AI)",
+  "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+  "video": "",
+  "summary_ko": "Kimi K3.1 Pro는 K3.1 시리즈 첫 모델로, 회사가 '지금까지 가장 뛰어난 3T급 오픈웨이트 모델'이라고 소개했으며 100만 토큰 컨텍스트를 지원한다. 회사 발표에 따르면 Terminal-Bench 4.0에서 65.7%를 기록해 GPT-6 Astra(58.2%)를 앞서고 Claude Opus 5.5(66.4%)에 근소하게 뒤졌다. 전체 가중치는 11월 4일까지 공개할 예정이다.",
+  "topics": [
+   "model"
+  ],
+  "orgs": [
+   "Moonshot AI"
+  ],
+  "headline_en": "Introducing Kimi K3.1 Pro",
+  "summary_en": "Kimi K3.1 Pro, the first model in the K3.1 series, is described by the company as its 'most capable 3T-class open-weight model to date' and supports a 1M-token context window. According to the company, it scores 65.7% on Terminal-Bench 4.0, ahead of GPT-6 Astra (58.2%) and narrowly behind Claude Opus 5.5 (66.4%). The full weights are to be released by November 4.",
+  "headline_ja": "Moonshot AI、オープンウェイト「Kimi K3.1 Pro」を発表…11月4日までに重み公開",
+  "summary_ja": "Kimi K3.1 ProはK3.1シリーズ初のモデルで、同社は「これまでで最も高性能な3T級オープンウェイトモデル」と紹介しており、100万トークンのコンテキストに対応する。同社の発表によると、Terminal-Bench 4.0で65.7%を記録し、GPT-6 Astra(58.2%)を上回り、Claude Opus 5.5(66.4%)にわずかに及ばなかった。完全な重みは11月4日までに公開する予定だ。"
+ },
+ {
   "date": "2026-10-22",
   "headline": "오픈AI, 구글클라우드에 AI 모델 제공…안티그래비티 등에서 사용 가능",
   "headline_ko": "오픈AI, 구글 클라우드에 AI 모델 제공…안티그래비티 등에서 사용 가능",
