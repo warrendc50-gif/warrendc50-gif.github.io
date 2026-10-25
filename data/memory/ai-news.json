@@ -1,5 +1,25 @@
 [
  {
+  "date": "2026-10-25",
+  "headline": "AI's 'opportunity divide' could deepen global inequality, UN official warns",
+  "headline_ko": "ITU 사무차장 \"AI '기회 격차'가 세계 불평등 키울 수 있다\"",
+  "outlet": "Al Jazeera",
+  "url": "https://www.aljazeera.com/news/2026/10/25/ais-opportunity-divide-could-deepen-global-inequality-un-official-warns",
+  "video": "",
+  "summary_ko": "토마스 라마나우스카스 국제전기통신연합(ITU) 사무차장은 25일 도하 유엔무역개발회의(UNCTAD) 세계투자포럼에서 알자지라에 AI가 부국과 빈국의 격차를 넓힐 위험이 있다고 말했다. 그는 아프리카와 중남미를 합쳐도 세계 데이터센터 용량의 3.3%에 그치고, 전 세계 22억 명이 인터넷을 쓰지 못한다고 했다. 또 생성형 AI 이용률이 선진국 생산가능인구의 약 29%, 개발도상국은 16%이며, 디지털 인프라 격차를 메우려면 2030년까지 약 2조8000억 달러가 필요하다고 밝혔다.",
+  "topics": [
+   "policy"
+  ],
+  "orgs": [
+   "ITU",
+   "UNCTAD"
+  ],
+  "headline_en": "AI's 'opportunity divide' could deepen global inequality, UN official warns",
+  "summary_en": "Tomas Lamanauskas, deputy secretary-general of the International Telecommunication Union (ITU), told Al Jazeera at the UNCTAD World Investment Forum in Doha on the 25th that AI risks widening the gap between rich and poor countries. He said Africa and Latin America together hold only 3.3 percent of global data centre capacity and that 2.2 billion people worldwide lack internet access. He also said about 29 percent of working-age people in developed countries use generative AI versus 16 percent in developing nations, and that bridging the digital infrastructure gap would require an estimated $2.8 trillion by 2030.",
+  "headline_ja": "ITU事務次長「AIの『機会格差』が世界の不平等を深める恐れ」",
+  "summary_ja": "国際電気通信連合(ITU)のトマス・ラマナウスカス事務次長は25日、ドーハで開かれた国連貿易開発会議(UNCTAD)の世界投資フォーラムでアルジャジーラに対し、AIが富裕国と貧困国の格差を広げる恐れがあると述べた。同氏は、アフリカと中南米を合わせても世界のデータセンター容量の3.3%にとどまり、世界で22億人がインターネットを利用できていないと指摘した。また生成AIの利用率は先進国の生産年齢人口で約29%、途上国で16%で、デジタルインフラの格差を埋めるには2030年までに約2兆8000億ドルが必要だとした。"
+ },
+ {
   "date": "2026-10-23",
   "headline": "메모리 반도체 중국 추격 거세…AI 반도체는 한국 앞질렀다",
   "headline_ko": "메모리 반도체 중국 추격 거세…AI 반도체는 한국 앞질렀다",
