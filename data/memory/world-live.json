@@ -31,6 +31,25 @@
  ],
  "items": [
   {
+   "date": "2026-10-26",
+   "headline": "Severe storms forecast to bring large hail, flash flooding to south-east Queensland",
+   "headline_ko": "호주 퀸즐랜드 남동부 폭풍·돌발홍수 경보…메리강 대홍수 우려",
+   "outlet": "ABC News (Australia)",
+   "url": "https://www.abc.net.au/news/2026-10-26/queensland-weather-thunderstorms-flash-flooding/107302462",
+   "video": "",
+   "summary_ko": "호주 기상청은 26일(월) 퀸즐랜드 남동부에 두 차례 폭풍이 지나가며 돌발홍수와 큰 우박, 최대 시속 90km 돌풍이 올 것으로 예보했다. 며칠간 이어진 폭우로 짐피 지역 메리강에 대홍수 경보가 내려지는 등 여러 경보가 발령됐다. 메리강 타이로 지점 수위는 26일 대홍수 기준인 12m를 넘을 수 있으며, 일부 지역에는 6시간 만에 200mm 넘는 비가 내렸다.",
+   "topics": [
+    "disaster"
+   ],
+   "orgs": [
+    "호주"
+   ],
+   "headline_en": "Severe storms forecast to bring large hail, flash flooding to south-east Queensland",
+   "summary_en": "Australia's Bureau of Meteorology forecast two rounds of severe storms over south-east Queensland on Monday the 26th, bringing flash flooding, large hail and wind gusts of up to 90 km/h. Multiple warnings are in place, including for major flooding on the Mary River in the Gympie region after days of heavy rain. The Mary River at Tairo may peak above the 12-metre major flood level on the 26th, and some areas have had more than 200 mm of rain within six hours.",
+   "headline_ja": "豪クイーンズランド州南東部に暴風雨・鉄砲水の警報…メアリー川で大洪水の恐れ",
+   "summary_ja": "オーストラリア気象局は26日(月)、クイーンズランド州南東部を2度にわたり激しい嵐が通過し、鉄砲水や大粒のひょう、最大時速90kmの突風をもたらすと予報した。数日続いた大雨でジンピー地域のメアリー川に大洪水警報が出るなど、複数の警報が発令されている。メアリー川のタイロ地点の水位は26日に大洪水基準の12mを超える可能性があり、一部地域では6時間で200mmを超える雨が降った。"
+  },
+  {
    "date": "2026-10-25",
    "headline": "Iran war live: Trump hints at possible Sunday Iran attack or deal reached",
    "headline_ko": "트럼프 \"이르면 일요일 이란 공격 검토…합의 가능성도\"",
@@ -290,6 +309,25 @@
    "summary_en": "Ugandan Health Minister Chris Baryomunsi announced in Kampala on Sunday the 25th that citizens returning from travel to the DR Congo must quarantine for 21 days at their own expense. The move comes as Ebola cases in Kenya and Nigeria have raised questions about travellers who passed through Uganda. The World Health Organization recorded 9,704 cases and 4,687 deaths in the DR Congo as of October 20.",
    "headline_ja": "ウガンダ、コンゴ民主共和国から帰国する自国民に21日間のエボラ隔離を命令",
    "summary_ja": "ウガンダのクリス・バリョムンシ保健相は25日(日)、カンパラで、コンゴ民主共和国から帰国する自国民は自費で21日間隔離しなければならないと発表した。ケニアとナイジェリアでエボラ患者が確認され、ウガンダを経由した渡航者への疑問が高まったことを受けた措置だ。世界保健機関(WHO)の集計では、10月20日までにコンゴ民主共和国で9704人が感染し、4687人が死亡した。"
+  },
+  {
+   "date": "2026-10-25",
+   "headline": "Nigeria widens hunt for possible Ebola cases",
+   "headline_ko": "나이지리아, 에볼라 접촉자 추적 확대…밀접 접촉자 53명",
+   "outlet": "France 24 (AFP)",
+   "url": "https://www.france24.com/en/live-news/20261025-nigeria-widens-hunt-for-possible-ebola-cases",
+   "video": "",
+   "summary_ko": "나이지리아 보건당국은 25일(일) 우간다에서 돌아온 뒤 수도 아부자에서 에볼라에 걸린 42세 여성(스위스 대사관 직원의 아내)과 관련해 추적 중인 1차 접촉자가 44명에서 53명으로 늘었다고 밝혔다. 이 여성은 치료를 받고 있으며 나이지리아의 유일한 확진자다. 리버스주의 의심 환자는 음성 판정을 받았고, 공항 검역 강화가 발표됐다.",
+   "topics": [
+    "health"
+   ],
+   "orgs": [
+    "나이지리아"
+   ],
+   "headline_en": "Nigeria widens hunt for possible Ebola cases",
+   "summary_en": "Nigerian health authorities said on Sunday the 25th that the number of primary contacts being traced had risen from 44 to 53 in connection with a 42-year-old woman, the wife of a Swiss embassy staff member, who fell ill with Ebola in the capital Abuja after returning from Uganda. She is receiving treatment and remains the only confirmed case in Nigeria. A suspected case in Rivers State tested negative, and enhanced airport screening has been announced.",
+   "headline_ja": "ナイジェリア、エボラ接触者の追跡を拡大…濃厚接触者53人",
+   "summary_ja": "ナイジェリア保健当局は25日(日)、ウガンダから帰国後に首都アブジャでエボラを発症した42歳の女性(スイス大使館職員の妻)に関連して、追跡中の一次接触者が44人から53人に増えたと発表した。女性は治療を受けており、ナイジェリアで唯一の確定患者だ。リバーズ州の疑い例は陰性で、空港での検疫強化が発表された。"
   },
   {
    "date": "2026-10-24",
