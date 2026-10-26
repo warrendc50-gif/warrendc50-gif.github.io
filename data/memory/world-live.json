@@ -31,6 +31,27 @@
  ],
  "items": [
   {
+   "date": "2026-10-27",
+   "headline": "Israeli military breaks silence on purported feud with Benjamin Netanyahu",
+   "headline_ko": "이스라엘군, 네타냐후와 '이란 공습 갈등설'에 침묵 깨…\"작전은 안보 판단만으로\"",
+   "outlet": "ABC News (Australia)",
+   "url": "https://www.abc.net.au/news/2026-10-27/israel-election-military-netanyahu-feud/107312270",
+   "video": "",
+   "summary_ko": "이스라엘군(IDF)은 총선 막판 이란 공습 가능성을 놓고 군과 베냐민 네타냐후 총리가 갈등을 빚고 있다는 보도에 대해 군의 작전은 '오로지 안보적·전문적·객관적·국가적 고려에 따른 것'이라고 밝혔다. 채널12는 네타냐후 총리가 에얄 자미르 참모총장과 대립하고 있다고 보도했으나, 이스라엘 카츠 국방장관은 이를 부인했다. CNN은 자미르 참모총장이 미국 측 상대에게 선거 전 공습은 선거를 연기시킬 것이라고 말했다고 보도했다.",
+   "topics": [
+    "politics",
+    "conflict"
+   ],
+   "orgs": [
+    "이스라엘",
+    "이란"
+   ],
+   "headline_en": "Israeli military breaks silence on purported feud with Benjamin Netanyahu",
+   "summary_en": "The Israel Defense Forces said its operations are 'based solely on security, professional, objective and national considerations,' amid reports of a feud between the military and Prime Minister Benjamin Netanyahu over possible strikes on Iran in the final days of the election. Channel 12 reported that Netanyahu was at loggerheads with IDF chief of staff Eyal Zamir, but Defence Minister Israel Katz rejected the report. CNN reported that Zamir had told his US counterpart that strikes before the vote would delay the election.",
+   "headline_ja": "イスラエル軍、ネタニヤフ首相との「イラン攻撃めぐる対立説」に沈黙破る…「作戦は安全保障判断のみ」",
+   "summary_ja": "イスラエル国防軍（IDF）は、総選挙の終盤にイラン攻撃の可能性をめぐって軍とベンヤミン・ネタニヤフ首相が対立しているとの報道を受け、軍の作戦は「安全保障、専門的、客観的、国家的な考慮のみに基づく」と表明した。チャンネル12はネタニヤフ首相がエヤル・ザミール参謀総長と対立していると報じたが、イスラエル・カッツ国防相はこれを否定した。CNNは、ザミール参謀総長が米側のカウンターパートに選挙前の攻撃は選挙を延期させると伝えたと報じた。"
+  },
+  {
    "date": "2026-10-26",
    "headline": "Severe storms forecast to bring large hail, flash flooding to south-east Queensland",
    "headline_ko": "호주 퀸즐랜드 남동부 폭풍·돌발홍수 경보…메리강 대홍수 우려",
