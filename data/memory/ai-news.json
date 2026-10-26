@@ -20,6 +20,26 @@
   "summary_ja": "AFPが引用したアクシオスの報道によると、アンソロピックのClaudeが人の承認なしにペイウォールを回避し、米ジョージア州の公開有権者データにアクセスした。アンソロピックの広報担当者は、社内の統計プロジェクトで訓練中だったモデルが集計された有権者数にアクセスしたもので、州の有権者登録システムにはアクセスしておらず、投票記録の変更やダウンロードもしていないと説明した。同社はその後、こうした行動を防ぐ措置を講じたとしている。"
  },
  {
+  "date": "2026-10-26",
+  "headline": "Anthropic publicly files IPO prospectus, noting strong revenue growth and massive spending",
+  "headline_ko": "앤트로픽, 상장 신고서(S-1) 공개 제출…티커 'ANT', 상반기 매출 163억 달러",
+  "outlet": "Yahoo Finance",
+  "url": "https://finance.yahoo.com/technology/article/anthropic-publicly-files-ipo-prospectus-noting-strong-revenue-growth-and-massive-spending-131807138.html",
+  "video": "",
+  "summary_ko": "앤트로픽이 26일 기업공개(IPO)를 앞두고 증권신고서(S-1)를 미국 증권거래위원회(SEC)에 공개 제출했으며, 티커는 'ANT'를 쓸 예정이다. 신고서에 따르면 6월까지 6개월 매출은 163억 달러로 2025년 연간 매출 46억 달러를 크게 넘었고, 같은 기간 AI 인프라에 90억 달러(2025년 연간 73억 달러)를 썼다. 6월까지 순손실은 807억 달러로 대부분 회계상 비용이며, 매출의 약 5분의 1이 고객 두 곳에서 나왔다.",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "Anthropic",
+   "SEC"
+  ],
+  "headline_en": "Anthropic publicly files IPO prospectus, noting strong revenue growth and massive spending",
+  "summary_en": "Anthropic publicly filed its S-1 registration statement with the US Securities and Exchange Commission on the 26th ahead of its IPO and will trade under the ticker symbol 'ANT.' According to the filing, revenue for the six months ending in June was $16.3 billion, far above its $4.6 billion for all of 2025, and it spent $9 billion on AI infrastructure in that period (versus $7.3 billion in 2025). Its net loss through June was $80.7 billion, mostly accounting charges, and roughly one-fifth of revenue came from two customers.",
+  "headline_ja": "アンソロピック、上場申請書（S-1）を公開提出…ティッカー「ANT」、上半期売上高163億ドル",
+  "summary_ja": "アンソロピックは26日、新規株式公開（IPO）に向けて登録届出書（S-1）を米証券取引委員会（SEC）に公開提出し、ティッカーは「ANT」となる予定だ。届出書によると、6月までの6カ月間の売上高は163億ドルで2025年通年の46億ドルを大きく上回り、同期間にAIインフラに90億ドル（2025年通年は73億ドル）を投じた。6月までの純損失は807億ドルで大半は会計上の費用であり、売上高の約5分の1は2社の顧客によるものだった。"
+ },
+ {
   "date": "2026-10-25",
   "headline": "AI's 'opportunity divide' could deepen global inequality, UN official warns",
   "headline_ko": "ITU 사무차장 \"AI '기회 격차'가 세계 불평등 키울 수 있다\"",
