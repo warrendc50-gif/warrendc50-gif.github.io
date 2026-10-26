@@ -1,5 +1,43 @@
 [
  {
+  "date": "2026-10-26",
+  "headline": "K-뷰티·반도체가 이끈 中企 수출...334억달러로 역대 3분기 최고치",
+  "headline_ko": "K-뷰티·반도체가 이끈 中企 수출...334억달러로 역대 3분기 최고치",
+  "outlet": "뉴스핌",
+  "url": "https://www.newspim.com/news/view/20261026000274",
+  "video": "",
+  "summary_ko": "중소벤처기업부가 26일 발표한 3분기 중소기업 수출동향에 따르면 중소기업 수출액은 334억달러로 전년 동기보다 8.8% 늘어 역대 3분기 최대치를 기록했다. 화장품은 27억9000만달러로 28.6%, 반도체는 13억9000만달러로 68.8% 늘었고, 자동차는 15억1000만달러로 42.4% 줄었다. 미국(57억3000만달러)이 중국(54억3000만달러)을 제치고 3분기 최대 수출시장에 올랐으며, 1~9월 누적 수출액은 965억달러(9.5% 증가)였다.",
+  "topics": [
+   "banks"
+  ],
+  "orgs": [
+   "중소벤처기업부"
+  ],
+  "headline_en": "SME exports led by K-beauty and chips hit record $33.4 billion for a third quarter",
+  "summary_en": "According to third-quarter SME export data released by the Ministry of SMEs and Startups on the 26th, small and medium-sized enterprise exports rose 8.8% from a year earlier to $33.4 billion, the highest for any third quarter. Cosmetics exports rose 28.6% to $2.79 billion and semiconductors 68.8% to $1.39 billion, while automobiles fell 42.4% to $1.51 billion. The United States ($5.73 billion) overtook China ($5.43 billion) as the largest export market in the third quarter, and cumulative exports for January to September were $96.5 billion, up 9.5%.",
+  "headline_ja": "Kビューティー・半導体がけん引、中小企業輸出334億ドルで7~9月期の過去最高",
+  "summary_ja": "中小ベンチャー企業部が26日発表した7~9月期の中小企業輸出動向によると、中小企業の輸出額は前年同期比8.8%増の334億ドルで、7~9月期として過去最高となった。化粧品は28.6%増の27億9000万ドル、半導体は68.8%増の13億9000万ドルで、自動車は42.4%減の15億1000万ドルだった。7~9月期は米国(57億3000万ドル)が中国(54億3000万ドル)を抜いて最大の輸出市場となり、1~9月の累計輸出額は965億ドル(9.5%増)だった。"
+ },
+ {
+  "date": "2026-10-26",
+  "headline": "은행 문턱 더 높아진다…4분기 대출 죄고 신용위험도 '경고등'",
+  "headline_ko": "은행 문턱 더 높아진다…4분기 대출 죄고 신용위험도 '경고등'",
+  "outlet": "데일리안",
+  "url": "https://www.dailian.co.kr/news/view/1706035",
+  "video": "",
+  "summary_ko": "한국은행이 26일 발표한 금융기관 대출행태서베이에 따르면 4분기 국내은행의 대출태도 종합지수는 -11로, 대출 조건을 강화하겠다는 곳이 더 많았다. 대기업 대출태도지수는 3분기 0에서 -8로 돌아섰고, 중소기업은 -19로 강화 기조를 이어갔다. 4분기 종합 신용위험지수는 29로 전분기(26)보다 올랐으며, 가계 신용위험지수는 19에서 28로 상승했다.",
+  "topics": [
+   "banks"
+  ],
+  "orgs": [
+   "한국은행"
+  ],
+  "headline_en": "Banks to raise the bar further, tightening Q4 lending as credit risk flashes warning",
+  "summary_en": "According to the Bank of Korea's lending attitude survey of financial institutions released on the 26th, domestic banks' composite lending attitude index for the fourth quarter stood at -11, meaning more banks plan to tighten lending conditions. The index for large companies turned from 0 in the third quarter to -8, and for SMEs it stayed in tightening territory at -19. The composite credit risk index for the fourth quarter rose to 29 from 26 in the previous quarter, and the household credit risk index climbed from 19 to 28.",
+  "headline_ja": "銀行の敷居さらに高く…10~12月期は融資を引き締め、信用リスクにも「警告灯」",
+  "summary_ja": "韓国銀行が26日発表した金融機関の貸出行動サーベイによると、10~12月期の国内銀行の貸出態度総合指数はマイナス11で、貸出条件を厳しくするとした銀行の方が多かった。大企業向けの貸出態度指数は7~9月期の0からマイナス8に転じ、中小企業向けはマイナス19と引き締め姿勢を維持した。10~12月期の総合信用リスク指数は前期(26)から29に上昇し、家計の信用リスク指数は19から28に上がった。"
+ },
+ {
   "date": "2026-10-25",
   "headline": "‘제조업 강국’ 독·일 다 합쳐도 한국 아래…韓 경상흑자 사상 첫 역전",
   "headline_ko": "‘제조업 강국’ 독·일 다 합쳐도 한국 아래…韓 경상흑자 사상 첫 역전",
