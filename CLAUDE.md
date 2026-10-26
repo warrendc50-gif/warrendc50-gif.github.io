@@ -1,10 +1,12 @@
 # 블로그 운영 메모 (Claude용)
 
 ## 카테고리
-- `work` 직장생활 이야기 / `life` 생활 꿀팁 / `broadcast` 영상·방송 노트 (config.json `categories`)
-- 교양·과학 글(예: `solar-system-rotation-direction-exceptions`)은 지금 `life`에 있다.
-  **교양·과학 글이 3편 이상 쌓이면** `science`(교양·과학) 카테고리를 config.json에 만들고,
-  해당 글들의 `"category"`를 `science`로 옮긴 뒤 운영자에게 알린다.
+- `work` 직장생활 이야기 / `life` 생활 꿀팁 / `broadcast` 영상·방송 노트 / `money` 재테크·경제 /
+  `tech` IT·AI 활용 / `science` 교양·과학 / `travel` 여행·음식 / `growth` 자기계발 (config.json `categories`)
+- 자동 글 주제는 `data/topics.txt`에 `[money] 주제`처럼 카테고리 키를 붙여 넣는다(키가 없으면 `life`).
+  카테고리별 `niche`가 글쓰기 프롬프트의 분야로 쓰인다.
+- 자동 글은 웹 검색 리서치 → 심층 가이드(5,000~8,000자) 순서로 쓰고, 하루 4편(07·12·17·21시) 발행한다.
+  API 월 지출 한도(Console)에 걸리면 생성이 실패하므로 빈도를 올리기 전에 한도를 확인한다.
 
 ## 운영자 글 다듬기 규칙
 - 운영자가 보낸 글은 말투(1인칭 "~다")와 내용을 살리고, 없던 일화·사실을 지어내지 않는다.

@@ -19,6 +19,36 @@
       "name": "영상·방송 노트",
       "emoji": "🎬",
       "desc": "vMix, 방송 송출, 현장 음향 노하우"
+    },
+    "money": {
+      "name": "재테크·경제",
+      "emoji": "💰",
+      "desc": "금리·세금·연금·투자 기초를 쉽게 정리한 경제 가이드",
+      "niche": "개인 재테크와 생활 경제(금리, 예적금, 세금·연말정산, 연금, 투자 기초, 대출, 환율)"
+    },
+    "tech": {
+      "name": "IT·AI 활용",
+      "emoji": "🤖",
+      "desc": "AI 도구와 IT 기기를 일과 생활에 바로 쓰는 법",
+      "niche": "AI 도구 활용법과 IT 실무 팁(생성형 AI, 업무 자동화, 스마트폰·PC 설정, 보안)"
+    },
+    "science": {
+      "name": "교양·과학",
+      "emoji": "🔭",
+      "desc": "궁금했던 과학·교양 지식을 쉽고 정확하게",
+      "niche": "교양 과학과 상식(우주, 인체, 날씨·기후, 역사 속 과학, 일상 속 원리)"
+    },
+    "travel": {
+      "name": "여행·음식",
+      "emoji": "✈️",
+      "desc": "여행지 정보와 제철 음식·식재료 가이드",
+      "niche": "국내외 여행 정보와 음식 가이드(여행지 준비, 교통·비용, 제철 음식, 식재료 고르기)"
+    },
+    "growth": {
+      "name": "자기계발",
+      "emoji": "📚",
+      "desc": "공부법·습관·커리어를 키우는 실천 가이드",
+      "niche": "자기계발과 커리어(공부법, 습관, 시간 관리, 자격증, 이직·커리어 설계)"
     }
   },
   "site_url": "",
@@ -28,7 +58,10 @@
   "niche": "생활 꿀팁, 가성비 IT 기기, 살림 절약 노하우",
   "posts_per_run": 1,
   "publish_hours_kst": [
-    7
+    7,
+    12,
+    17,
+    21
   ],
   "model": "claude-opus-5-5",
   "translate_model": "claude-sonnet-5-5",
@@ -39,7 +72,7 @@
   "coupang_products_per_post": 3,
   "translations": {
     "en": {
-      "auto_translate": false,
+      "auto_translate": true,
       "site_title": "Everyday Life Notes",
       "site_description": "Stories from a Korean office worker's life, plus practical everyday tips for saving money and choosing gadgets.",
       "hero_title": "Work and Life Notes from a Korean Office Worker",
@@ -60,6 +93,31 @@
           "name": "Video & Broadcast Notes",
           "emoji": "🎬",
           "desc": "Know-how on vMix, live streaming and broadcast audio"
+        },
+        "money": {
+          "name": "Money & Economy",
+          "emoji": "💰",
+          "desc": "Plain-English guides to rates, taxes, pensions and investing basics"
+        },
+        "tech": {
+          "name": "Tech & AI How-tos",
+          "emoji": "🤖",
+          "desc": "Practical ways to use AI tools and gadgets at work and at home"
+        },
+        "science": {
+          "name": "Science & Curiosities",
+          "emoji": "🔭",
+          "desc": "Clear, accurate answers to science questions you've wondered about"
+        },
+        "travel": {
+          "name": "Travel & Food",
+          "emoji": "✈️",
+          "desc": "Destination guides, seasonal food and ingredient tips"
+        },
+        "growth": {
+          "name": "Self-improvement",
+          "emoji": "📚",
+          "desc": "Study methods, habits and career-building guides"
         }
       },
       "memory": {
@@ -90,7 +148,7 @@
       }
     },
     "ja": {
-      "auto_translate": false,
+      "auto_translate": true,
       "site_title": "生活のヒントノート",
       "site_description": "韓国の会社員が綴る職場のリアルな話と、節約やガジェット選びに役立つ暮らしのヒント。",
       "hero_title": "韓国の会社員が綴る、仕事と暮らしのノート",
@@ -111,6 +169,31 @@
           "name": "映像・放送ノート",
           "emoji": "🎬",
           "desc": "vMix、配信、放送音響の現場ノウハウ"
+        },
+        "money": {
+          "name": "マネー・経済",
+          "emoji": "💰",
+          "desc": "金利・税金・年金・投資の基本をわかりやすく"
+        },
+        "tech": {
+          "name": "IT・AI活用",
+          "emoji": "🤖",
+          "desc": "AIツールとIT機器を仕事と暮らしに活かす方法"
+        },
+        "science": {
+          "name": "教養・科学",
+          "emoji": "🔭",
+          "desc": "気になる科学・教養の知識をやさしく正確に"
+        },
+        "travel": {
+          "name": "旅行・グルメ",
+          "emoji": "✈️",
+          "desc": "旅行先の情報と旬の食べ物・食材ガイド"
+        },
+        "growth": {
+          "name": "自己啓発",
+          "emoji": "📚",
+          "desc": "勉強法・習慣・キャリアを育てる実践ガイド"
         }
       },
       "memory": {

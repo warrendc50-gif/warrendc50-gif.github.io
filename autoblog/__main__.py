@@ -68,15 +68,28 @@ def generate(cfg: dict, count: int) -> int:
         queue = topics.pending_topics()
         if not queue:
             print("[topics] queue empty, asking Claude for new topics")
-            topics.add_topics(writer.suggest_topics(cfg["niche"], topics.load_state()["used_topics"]))
+            fields = {"life": cfg["niche"]} | {k: c["niche"] for k, c in cfg["categories"].items() if c.get("niche")}
+            topics.add_topics(writer.suggest_topics(fields, topics.load_state()["used_topics"]))
             queue = topics.pending_topics()
             if not queue:
                 print("[topics] no topics available", file=sys.stderr)
                 break
-        topic = queue[0]
-        print(f"[write] {topic}")
+        line = queue[0]
+        category, topic = topics.split_topic(line)
+        if category not in cfg["categories"]:
+            category = ""
+        niche = cfg["categories"][category].get("niche", cfg["niche"]) if category else cfg["niche"]
+        print(f"[write] [{category or 'life'}] {topic}")
 
-        post = writer.write_post(topic, cfg["niche"])
+        try:
+            notes = writer.research(topic, niche)
+        except Exception as exc:  # research is a bonus; write from the model's own knowledge if it fails
+            print(f"[research] failed: {exc}", file=sys.stderr)
+            notes = ""
+        print(f"[research] {len(notes)} chars of notes")
+        post = writer.write_post(topic, niche, notes)
+        if category:
+            post["category"] = category
         now = datetime.now(timezone.utc)
         slug = _safe_slug(post["slug"], now.strftime("post-%Y%m%d%H%M%S"))
         if slug in existing_slugs:
@@ -89,13 +102,14 @@ def generate(cfg: dict, count: int) -> int:
 
         out = POSTS_DIR / f"{now.strftime('%Y-%m-%d')}_{slug}.json"
         out.write_text(json.dumps(post, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-        topics.mark_used(topic)
+        topics.mark_used(line)
         written += 1
         print(f"[write] saved {out.name} ({len(post['products'])} products)")
     translator = Writer(cfg.get("translate_model") or cfg["model"])
     # A language with "auto_translate": false keeps its site but gets no new translations.
     languages = [lang for lang, t in cfg.get("translations", {}).items() if t.get("auto_translate", True)]
-    translate_missing(translator, languages)
+    # Kept small so backfilling ~80 older posts doesn't burn the monthly API spend limit in a day.
+    translate_missing(translator, languages, limit=4)
     return written
 
 

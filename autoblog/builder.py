@@ -60,6 +60,11 @@ h3{font-size:18px;margin:22px 0 6px}
 .badge.life{color:var(--life);background:var(--life-soft)}
 .badge.broadcast{color:#7c3aed;background:rgba(124,58,237,.12)}
 .badge.memory{color:#2563eb;background:rgba(37,99,235,.12)}
+.badge.money{color:#047857;background:rgba(4,120,87,.12)}
+.badge.tech{color:#0369a1;background:rgba(3,105,161,.12)}
+.badge.science{color:#4338ca;background:rgba(67,56,202,.12)}
+.badge.travel{color:#c2410c;background:rgba(194,65,12,.12)}
+.badge.growth{color:#a16207;background:rgba(161,98,7,.12)}
 .boards{display:flex;flex-wrap:wrap;gap:8px;margin:8px 0 24px}
 .boards a{font-size:14px;font-weight:600;text-decoration:none;color:var(--muted);background:var(--card);padding:6px 12px;border-radius:99px}
 .boards a:hover{color:var(--fg)}

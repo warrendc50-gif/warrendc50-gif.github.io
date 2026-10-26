@@ -1,5 +1,6 @@
 """Topic queue: data/topics.txt holds candidates, data/state.json records what was used."""
 import json
+import re
 
 from .config import DATA_DIR
 
@@ -23,6 +24,12 @@ def pending_topics() -> list[str]:
     used = set(load_state()["used_topics"])
     lines = TOPICS_FILE.read_text(encoding="utf-8").splitlines()
     return [t.strip() for t in lines if t.strip() and not t.startswith("#") and t.strip() not in used]
+
+
+def split_topic(line: str) -> tuple[str, str]:
+    """"[money] 연말정산 환급 늘리는 법" -> ("money", "연말정산 환급 늘리는 법"); no prefix -> ("", line)."""
+    match = re.match(r"\[([a-z]+)\]\s*(.+)", line)
+    return (match.group(1), match.group(2).strip()) if match else ("", line)
 
 
 def add_topics(topics: list[str]) -> None:
