@@ -99,6 +99,26 @@
   "summary_ja": "マイクロソフトは26日、AIに巨額を投じる中でコストを削減するため、全従業員の約4分の1にあたる約6万人に希望退職を提示すると発表した。広報担当者によると、米国・カナダ・インド・英国の一部チームの副社長級以下の従業員が対象で、データセンター、営業、マーケティングの一部部門は除外される。今年4月に米国の従業員の約7%に早期退職を提示したのに続く2回目の希望退職で、同社の従業員数は6月末時点で22万3000人だった。"
  },
  {
+  "date": "2026-10-26",
+  "headline": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
+  "headline_ko": "엔비디아, OCP 서밋서 베라 루빈 랙 설계 공개…AI 팩토리 개방형 표준 지원",
+  "outlet": "NVIDIA Blog",
+  "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
+  "summary_ko": "엔비디아가 OCP 글로벌 서밋에서 MGX 아키텍처 기반 베라 루빈 랙과 컴퓨트 트레이 설계를 오픈 컴퓨트 프로젝트에 기여하고, DSX AI 팩토리 플랫폼용 오픈소스 소프트웨어를 공개했다. 구글과는 향후 ConnectX-10 슈퍼NIC과 블루필드 DPU에서 팰컨 전송 프로토콜을 지원한다고 밝혔다.",
+  "headline_en": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
+  "summary_en": "At the OCP Global Summit, Nvidia contributed MGX-based Vera Rubin rack and compute tray designs to the Open Compute Project and released open-source software for its DSX AI Factory platform. It also said future ConnectX-10 SuperNICs and BlueField DPUs will support Google's Falcon transport protocol.",
+  "headline_ja": "エヌビディア、OCPサミットでベラ・ルービンのラック設計を公開…AIファクトリーのオープン標準を支援",
+  "summary_ja": "エヌビディアはOCPグローバルサミットで、MGXアーキテクチャに基づくベラ・ルービンのラックとコンピュートトレイの設計をオープン・コンピュート・プロジェクトに提供し、DSX AIファクトリー・プラットフォーム向けのオープンソースソフトウェアを公開した。グーグルとは、今後のConnectX-10スーパーNICとBlueField DPUでファルコン転送プロトコルをサポートすると明らかにした。",
+  "topics": [
+   "chips"
+  ],
+  "orgs": [
+   "NVIDIA",
+   "Google",
+   "Open Compute Project"
+  ]
+ },
+ {
   "date": "2026-10-25",
   "headline": "AI's 'opportunity divide' could deepen global inequality, UN official warns",
   "headline_ko": "ITU 사무차장 \"AI '기회 격차'가 세계 불평등 키울 수 있다\"",
