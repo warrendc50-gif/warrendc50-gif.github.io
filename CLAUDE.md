@@ -3,7 +3,16 @@
 ## 카테고리
 - `work` 직장생활 이야기 / `life` 생활 꿀팁 / `broadcast` 영상·방송 노트 / `money` 재테크·경제 /
   `tech` IT·AI 활용 / `science` 교양·과학 / `travel` 여행·음식 / `growth` 자기계발 /
-  `edu` 중3 영어·수학(2015 개정 교육과정 단원별, 연습문제·정답 포함) (config.json `categories`)
+  `math` 중3 수학 / `english` 중3 영어(2015 개정 교육과정 단원별, 연습문제·정답 포함) /
+  `gram1`·`gram2`·`gram3` 중1·중2·중3 영문법('중N 영문법 M강' 시리즈, 규칙마다 예문 5개 이상) (config.json `categories`)
+- 상단 메뉴는 config.json `nav_groups`로 묶는다(드롭다운). 새 카테고리를 만들면 알맞은 그룹 `keys`에도 넣는다.
+- 공부 카테고리(math·english·gram1~3) 글은 짧은 목록·표·이모지 블록과 인라인 SVG 그림 2~3개로 쓴다(niche의 [쓰기 방식]·[그림]).
+- `/words/` 중1·중2·중3 필수 영단어(목록·카드·퀴즈): 단어는 `data/words/grade{1,2,3}.json`의 [단어, 뜻, 예문, 해석] 행. 화면은 autoblog/words.py.
+- 대량 생성(workflow_dispatch count=N)이 도는 동안에는 push하지 않는다. 워크플로가 마지막에 pull 없이 push하므로
+  그 사이 다른 커밋이 올라가면 생성한 글 전체가 거부된다. 로컬에 커밋해 두고 실행이 끝난 뒤 push한다.
+  (워크플로 파일 수정은 현재 gh 토큰에 workflow 권한이 없어 push가 거부된다.)
+  수동 실행은 `GH_TOKEN=$(gh auth token -u warrendc50-gif) gh workflow run autoblog.yml --ref claude/zen-pascal-k5i0k2 -f count=N`.
+  대기 중인 실행은 다음 정기 실행이 오면 취소되므로, 진행 중인 실행이 없을 때 건다.
 - 자동 글 주제는 `data/topics.txt`에 `[money] 주제`처럼 카테고리 키를 붙여 넣는다(키가 없으면 `life`).
   카테고리별 `niche`가 글쓰기 프롬프트의 분야로 쓰인다.
 - 자동 글은 웹 검색 리서치 → 심층 가이드(5,000~8,000자) 순서로 쓰고, 하루 4편(07·12·17·21시) 발행한다.

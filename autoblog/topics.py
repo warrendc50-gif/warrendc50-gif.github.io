@@ -28,7 +28,7 @@ def pending_topics() -> list[str]:
 
 def split_topic(line: str) -> tuple[str, str]:
     """"[money] 연말정산 환급 늘리는 법" -> ("money", "연말정산 환급 늘리는 법"); no prefix -> ("", line)."""
-    match = re.match(r"\[([a-z]+)\]\s*(.+)", line)
+    match = re.match(r"\[([a-z0-9]+)\]\s*(.+)", line)
     return (match.group(1), match.group(2).strip()) if match else ("", line)
 
 

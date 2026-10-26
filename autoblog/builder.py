@@ -14,6 +14,7 @@ import markdown
 
 from .config import POSTS_DIR, PUBLIC_DIR, ROOT
 from .memory import MEMORY_CSS, memory_pages
+from . import words
 from .tools import TOOL_CSS, TOOLS, render_tool_body, tool_list_html
 
 FONT_CSS = "https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css"
@@ -33,10 +34,18 @@ a{color:var(--accent)}
 .site-header .wrap{display:flex;align-items:center;gap:12px;min-height:48px;flex-wrap:wrap}
 .brand{display:flex;align-items:center;gap:8px;color:var(--fg);text-decoration:none;font-weight:800;font-size:17px;letter-spacing:-.02em}
 .brand .mark{display:grid;place-items:center;width:28px;height:28px;border-radius:8px;background:var(--accent);color:var(--bg);font-size:16px}
-.nav{display:flex;gap:4px;margin-left:auto;overflow-x:auto}
+.nav{display:flex;flex-wrap:nowrap;gap:2px;margin-left:auto}
+.navgroup{position:relative}
+figure{margin:18px 0;text-align:center}figure svg{max-width:100%;height:auto}figcaption{color:var(--muted);font-size:13px;margin-top:6px}
+.navgroup summary{list-style:none;cursor:pointer;white-space:nowrap;padding:5px 9px;border-radius:8px;color:var(--muted);font-size:14px;font-weight:600}
+.navgroup summary::-webkit-details-marker{display:none}
+.navgroup summary::after{content:" ▾";font-size:11px}
+.navgroup.on summary,.navgroup summary:hover,.navgroup[open] summary{background:var(--card);color:var(--fg)}
+.navgroup.langs .menu{left:auto;right:0;min-width:110px}
+.navgroup .menu{position:absolute;top:100%;left:0;z-index:20;display:flex;flex-direction:column;min-width:150px;margin-top:4px;padding:6px;background:var(--bg);border:1px solid var(--line);border-radius:10px;box-shadow:0 8px 24px rgba(0,0,0,.12)}
 .nav a{white-space:nowrap;padding:5px 9px;border-radius:8px;color:var(--muted);text-decoration:none;font-size:14px;font-weight:600}
 .nav a:hover,.nav a.on{background:var(--card);color:var(--fg)}
-@media (max-width:560px){.nav{margin-left:0;width:100%;padding-bottom:6px}.site-header .wrap{gap:4px;padding-top:6px}}
+@media (max-width:560px){.nav{margin-left:0;width:100%;padding-bottom:6px;justify-content:space-between}.nav>a,.navgroup summary{padding:5px 4px;font-size:13px;letter-spacing:-.03em}.navgroup summary::after{content:""}.site-header .wrap{gap:4px;padding-top:6px}}
 h1{font-size:28px;line-height:1.3;letter-spacing:-.03em;margin:20px 0 8px}
 h2{font-size:22px;line-height:1.35;letter-spacing:-.02em;margin:30px 0 10px}
 h3{font-size:18px;margin:22px 0 6px}
@@ -65,7 +74,9 @@ h3{font-size:18px;margin:22px 0 6px}
 .badge.science{color:#4338ca;background:rgba(67,56,202,.12)}
 .badge.travel{color:#c2410c;background:rgba(194,65,12,.12)}
 .badge.growth{color:#a16207;background:rgba(161,98,7,.12)}
-.badge.edu{color:#be185d;background:rgba(190,24,93,.12)}
+.badge.math{color:#be185d;background:rgba(190,24,93,.12)}
+.badge.english{color:#1d4ed8;background:rgba(29,78,216,.12)}
+.badge.gram1,.badge.gram2,.badge.gram3{color:#0f766e;background:rgba(15,118,110,.12)}
 .boards{display:flex;flex-wrap:wrap;gap:8px;margin:8px 0 24px}
 .boards a{font-size:14px;font-weight:600;text-decoration:none;color:var(--muted);background:var(--card);padding:6px 12px;border-radius:99px}
 .boards a:hover{color:var(--fg)}
@@ -230,16 +241,34 @@ def _verification_meta(cfg: dict) -> str:
 
 
 def _nav_links(cfg: dict, current: str) -> str:
+    """Categories listed in config "nav_groups" go into dropdown menus; the rest stay top-level."""
     base = cfg["site_url"]
-    items = [(key, f"{base}/category/{key}/", c["name"]) for key, c in cfg["categories"].items()]
-    if _is_ko(cfg):  # the calculators are Korea-specific (KRW, pyeong), so they stay Korean-only
-        items.append(("tools", f"{base}/tools/", "계산기"))
+
+    def link(key: str, href: str, name: str) -> str:
+        return f'<a href="{href}"{" class=on" if key == current else ""}>{escape(name)}</a>'
+
+    # Non-category pages that can sit in a group; Korean-only like the calculators.
+    pages = {"words": (f"{base}/words/", "필수 영단어"), "tools": (f"{base}/tools/", "생활 계산기")} if _is_ko(cfg) else {}
+
+    def cat(key: str) -> str:
+        if key in pages:
+            return link(key, *pages[key])
+        return link(key, f"{base}/category/{key}/", cfg["categories"][key]["name"])
+
+    groups = [g for g in cfg.get("nav_groups", []) if any(k in cfg["categories"] for k in g["keys"])]
+    grouped = {k for g in groups for k in g["keys"]}
+    parts = [cat(k) for k in cfg["categories"] if k not in grouped]
+    for g in groups:
+        keys = [k for k in g["keys"] if k in cfg["categories"] or k in pages]
+        name = g["names"].get(cfg["language"], g["names"]["ko"])
+        on = " on" if current in keys else ""
+        parts.append(f'<details class="navgroup{on}"><summary>{escape(name)}</summary>'
+                     f'<div class="menu">{"".join(cat(k) for k in keys)}</div></details>')
+    if _is_ko(cfg) and "tools" not in grouped:  # the calculators are Korea-specific (KRW, pyeong), so Korean-only
+        parts.append(link("tools", f"{base}/tools/", "계산기"))
     if cfg.get("memory", {}).get("boards"):
-        items.append(("memory", f"{base}/memory/", cfg["memory"]["title"]))
-    return "".join(
-        f'<a href="{href}"{" class=on" if key == current else ""}>{escape(name)}</a>'
-        for key, href, name in items
-    )
+        parts.append(link("memory", f"{base}/memory/", cfg["memory"]["title"]))
+    return "".join(parts)
 
 
 def _page(cfg: dict, title: str, body: str, *, description: str = "", canonical: str = "",
@@ -257,10 +286,13 @@ def _page(cfg: dict, title: str, body: str, *, description: str = "", canonical:
                            for lang in langs)
         hreflang += f'<link rel="alternate" hreflang="x-default" href="{_lang_home(cfg, "ko")}/{path}">\n'
     switcher = "".join(
-        f'<a class="lang" href="{_lang_home(cfg, lang)}/{path if lang in langs else ""}" hreflang="{lang}">'
+        f'<a href="{_lang_home(cfg, lang)}/{path if lang in langs else ""}" hreflang="{lang}">'
         f'{LANG_LABEL[lang]}</a>'
         for lang in site_languages(cfg) if lang != cfg["language"]
     )
+    if switcher:  # one globe menu instead of a link per language keeps the menu bar on one line
+        switcher = (f'<details class="navgroup langs"><summary aria-label="Language">🌐</summary>'
+                    f'<div class="menu">{switcher}</div></details>')
     site_title = escape(cfg["site_title"])
     full_title = escape(title) if title == cfg["site_title"] else f"{escape(title)} | {site_title}"
     return f"""<!doctype html>
@@ -299,6 +331,7 @@ def _page(cfg: dict, title: str, body: str, *, description: str = "", canonical:
 {f'<a href="{escape(cfg["threads_url"])}" rel="me noopener" target="_blank">Threads</a>' if cfg.get("threads_url") else ""}
 </div>
 </div></footer>
+<script>document.addEventListener("click",e=>{{document.querySelectorAll("details.navgroup[open]").forEach(d=>{{if(!d.contains(e.target))d.open=false}})}});</script>
 </body>
 </html>
 """
@@ -534,6 +567,16 @@ def build_site(cfg: dict) -> int:
                  canonical=f"{base}/tools/", nav="tools", langs=["ko"]))
 
     urls += [f"{base}/tools/"] + [f"{base}/tools/{t['slug']}/" for t in TOOLS]
+    # Korean-only vocabulary pages for middle schoolers.
+    _write(PUBLIC_DIR / "words" / "index.html",
+           _page(cfg, "중학생 학년별 필수 영단어", words.render_index(base), nav="words",
+                 description="중1·중2·중3 학년별 필수 영단어를 목록·카드·퀴즈로 외우는 페이지",
+                 canonical=f"{base}/words/", path="words/", langs=["ko"]))
+    for grade, (title, desc) in words.GRADES.items():
+        _write(PUBLIC_DIR / "words" / str(grade) / "index.html",
+               _page(cfg, title, words.render_grade(grade, base), nav="words", description=desc,
+                     canonical=f"{base}/words/{grade}/", path=f"words/{grade}/", langs=["ko"]))
+    urls += [f"{base}/words/"] + [f"{base}/words/{g}/" for g in words.GRADES]
     # Memory boards exist in every site language; the /<lang>/ pages read headline_<lang>/summary_<lang>.
     for lang in site_languages(cfg):
         lcfg = cfg if lang == "ko" else lang_config(cfg, lang)

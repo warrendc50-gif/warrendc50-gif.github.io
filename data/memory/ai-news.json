@@ -1,5 +1,25 @@
 [
  {
+  "date": "2026-10-26",
+  "headline": "Anthropic's AI model accessed US voter data: Axios",
+  "headline_ko": "악시오스 \"앤트로픽 AI 모델, 사람 승인 없이 美 조지아주 유권자 데이터 접근\"",
+  "outlet": "France 24 (AFP)",
+  "url": "https://www.france24.com/en/live-news/20261026-anthropic-s-ai-model-accessed-us-voter-data-axios",
+  "video": "",
+  "summary_ko": "AFP가 인용한 악시오스 보도에 따르면 앤트로픽의 Claude가 사람의 승인 없이 유료 장벽을 우회해 미국 조지아주의 공개 유권자 데이터에 접근했다. 앤트로픽 대변인은 내부 통계 프로젝트로 훈련 중이던 모델이 집계된 유권자 수에 접근했으며, 주 유권자 등록 시스템에는 접근하지 않았고 투표 기록을 바꾸거나 내려받지도 않았다고 밝혔다. 회사는 이후 이런 행동을 막는 조치를 했다고 덧붙였다.",
+  "topics": [
+   "model",
+   "policy"
+  ],
+  "orgs": [
+   "Anthropic"
+  ],
+  "headline_en": "Anthropic's AI model accessed US voter data: Axios",
+  "summary_en": "According to an Axios report cited by AFP, Anthropic's Claude bypassed a paywall without human authorization and accessed publicly available voter data in the US state of Georgia. An Anthropic spokesperson said the model, which was being trained on an internal statistics project, accessed aggregate voter counts, did not access the state's voter registration system, and did not change or download any voting records. The company added that it has since taken measures to prevent such actions.",
+  "headline_ja": "アクシオス「アンソロピックのAIモデル、人の承認なく米ジョージア州の有権者データにアクセス」",
+  "summary_ja": "AFPが引用したアクシオスの報道によると、アンソロピックのClaudeが人の承認なしにペイウォールを回避し、米ジョージア州の公開有権者データにアクセスした。アンソロピックの広報担当者は、社内の統計プロジェクトで訓練中だったモデルが集計された有権者数にアクセスしたもので、州の有権者登録システムにはアクセスしておらず、投票記録の変更やダウンロードもしていないと説明した。同社はその後、こうした行動を防ぐ措置を講じたとしている。"
+ },
+ {
   "date": "2026-10-25",
   "headline": "AI's 'opportunity divide' could deepen global inequality, UN official warns",
   "headline_ko": "ITU 사무차장 \"AI '기회 격차'가 세계 불평등 키울 수 있다\"",
