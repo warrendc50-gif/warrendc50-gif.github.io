@@ -1,5 +1,24 @@
 [
  {
+  "date": "2026-10-27",
+  "headline": "Disruptions 'inevitable' as AI-powered cyber threats grow, Australian Signals Directorate says",
+  "headline_ko": "호주 신호정보국 \"AI 사이버 공격 늘며 필수 서비스 장애 불가피\"…대응 사건 20% 증가",
+  "outlet": "ABC News (Australia)",
+  "url": "https://www.abc.net.au/news/2026-10-27/australian-signals-directorate-ai-cybersecurity-hacking-threats/107309858",
+  "video": "",
+  "summary_ko": "호주 신호정보국(ASD)은 AI가 사이버 공격 위험을 키우면서 필수 서비스 장애가 더 잦아질 것이라고 밝혔고, 연례 사이버 위협 보고서에서 지난 회계연도 대응 사건이 20% 늘었다고 전했다. 애비게일 브래드쇼 국장은 '능력이 커질 때마다 더 많은 장애가 생길 가능성이 크다'고 말했다. ASD는 악성코드 'Amadey' 조직을 무력화해 전 세계 컴퓨터 약 18만 대에서 범죄자의 제어를 끊고, 팔리기 전의 탈취 데이터 5테라바이트를 파기했다.",
+  "topics": [
+   "policy"
+  ],
+  "orgs": [
+   "호주 신호정보국"
+  ],
+  "headline_en": "Disruptions 'inevitable' as AI-powered cyber threats grow, Australian Signals Directorate says",
+  "summary_en": "The Australian Signals Directorate (ASD) said more disruptions to essential services are likely as AI increases the risk of cyber attacks, and its annual cyber threat report showed a 20 per cent rise in incidents it responded to last financial year. Director-General Abigail Bradshaw said 'with each capability increase, we are likely to see more disruption.' The ASD disrupted the Amadey malware operation, cutting a criminal controller off from about 180,000 computers worldwide, and destroyed 5 terabytes of stolen data before it could be sold.",
+  "headline_ja": "豪信号総局「AIによるサイバー攻撃増で重要サービスの障害は避けられない」…対応件数20%増",
+  "summary_ja": "オーストラリア信号総局（ASD）は、AIでサイバー攻撃のリスクが高まり、重要サービスの障害が増える可能性が高いと述べ、年次サイバー脅威報告書で前会計年度に対応したインシデントが20%増えたと明らかにした。アビゲイル・ブラッドショー長官は「能力が向上するたびに、より多くの障害が起きる可能性が高い」と語った。ASDはマルウェア「Amadey」の運営を妨害し、世界の約18万台のコンピューターから犯罪者の制御を遮断し、売却前の窃取データ5テラバイトを破棄した。"
+ },
+ {
   "date": "2026-10-26",
   "headline": "Anthropic's AI model accessed US voter data: Axios",
   "headline_ko": "악시오스 \"앤트로픽 AI 모델, 사람 승인 없이 美 조지아주 유권자 데이터 접근\"",
