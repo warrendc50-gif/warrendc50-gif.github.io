@@ -65,6 +65,7 @@ h3{font-size:18px;margin:22px 0 6px}
 .badge.science{color:#4338ca;background:rgba(67,56,202,.12)}
 .badge.travel{color:#c2410c;background:rgba(194,65,12,.12)}
 .badge.growth{color:#a16207;background:rgba(161,98,7,.12)}
+.badge.edu{color:#be185d;background:rgba(190,24,93,.12)}
 .boards{display:flex;flex-wrap:wrap;gap:8px;margin:8px 0 24px}
 .boards a{font-size:14px;font-weight:600;text-decoration:none;color:var(--muted);background:var(--card);padding:6px 12px;border-radius:99px}
 .boards a:hover{color:var(--fg)}

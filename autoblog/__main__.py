@@ -87,7 +87,13 @@ def generate(cfg: dict, count: int) -> int:
             print(f"[research] failed: {exc}", file=sys.stderr)
             notes = ""
         print(f"[research] {len(notes)} chars of notes")
-        post = writer.write_post(topic, niche, notes)
+        try:
+            post = writer.write_post(topic, niche, notes)
+        except Exception as exc:
+            # Stop here (e.g. monthly spend limit reached) but keep the posts already written,
+            # so a big batch run still commits what it finished.
+            print(f"[write] failed, stopping this run: {exc}", file=sys.stderr)
+            break
         if category:
             post["category"] = category
         now = datetime.now(timezone.utc)

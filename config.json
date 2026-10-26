@@ -49,6 +49,12 @@
       "emoji": "📚",
       "desc": "공부법·습관·커리어를 키우는 실천 가이드",
       "niche": "자기계발과 커리어(공부법, 습관, 시간 관리, 자격증, 이직·커리어 설계)"
+    },
+    "edu": {
+      "name": "중3 영어·수학",
+      "emoji": "✏️",
+      "desc": "중학교 3학년 영어·수학 단원별 개념 정리와 연습문제",
+      "niche": "중학교 3학년 영어·수학 교과 학습(2015 개정 교육과정 단원 기준). 중학생이 혼자 읽고 이해할 수 있게 쉬운 말로 씁니다. 구성: 이 단원에서 배우는 것 → 핵심 개념 설명 → 예제와 단계별 풀이 → 자주 하는 실수 → 연습문제 5개 이상과 정답·해설. 수식은 LaTeX 없이 x², √2, 1/2처럼 일반 문자로 씁니다. 교과서 본문이나 시험 문제를 그대로 베끼지 않고 새 예문·새 문제를 만듭니다."
     }
   },
   "site_url": "",
@@ -118,6 +124,11 @@
           "name": "Self-improvement",
           "emoji": "📚",
           "desc": "Study methods, habits and career-building guides"
+        },
+        "edu": {
+          "name": "Grade 9 English & Math",
+          "emoji": "✏️",
+          "desc": "Unit-by-unit concept notes and practice for Korean grade 9 (middle school year 3) English and math"
         }
       },
       "memory": {
@@ -194,6 +205,11 @@
           "name": "自己啓発",
           "emoji": "📚",
           "desc": "勉強法・習慣・キャリアを育てる実践ガイド"
+        },
+        "edu": {
+          "name": "中3 英語・数学",
+          "emoji": "✏️",
+          "desc": "韓国の中学3年生向け英語・数学の単元別まとめと練習問題"
         }
       },
       "memory": {

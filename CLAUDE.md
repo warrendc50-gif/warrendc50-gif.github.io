@@ -2,7 +2,8 @@
 
 ## 카테고리
 - `work` 직장생활 이야기 / `life` 생활 꿀팁 / `broadcast` 영상·방송 노트 / `money` 재테크·경제 /
-  `tech` IT·AI 활용 / `science` 교양·과학 / `travel` 여행·음식 / `growth` 자기계발 (config.json `categories`)
+  `tech` IT·AI 활용 / `science` 교양·과학 / `travel` 여행·음식 / `growth` 자기계발 /
+  `edu` 중3 영어·수학(2015 개정 교육과정 단원별, 연습문제·정답 포함) (config.json `categories`)
 - 자동 글 주제는 `data/topics.txt`에 `[money] 주제`처럼 카테고리 키를 붙여 넣는다(키가 없으면 `life`).
   카테고리별 `niche`가 글쓰기 프롬프트의 분야로 쓰인다.
 - 자동 글은 웹 검색 리서치 → 심층 가이드(5,000~8,000자) 순서로 쓰고, 하루 4편(07·12·17·21시) 발행한다.
