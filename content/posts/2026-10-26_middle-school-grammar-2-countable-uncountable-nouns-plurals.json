@@ -1,0 +1,19 @@
+{
+  "title": "중1 영문법 2강: 셀 수 있는 명사, 셀 수 없는 명사와 복수형 규칙",
+  "slug": "middle-school-grammar-2-countable-uncountable-nouns-plurals",
+  "description": "사과는 셀 수 있고 물은 셀 수 없는 이유부터 -s, -es, -ies, -ves 복수형 규칙과 불규칙 명사까지 쉽게 정리했습니다. 예문, 비교표, 자주 하는 실수, 연습문제 10개와 해설도 함께 담았습니다.",
+  "tags": [
+    "중1 영문법",
+    "명사",
+    "셀 수 있는 명사",
+    "셀 수 없는 명사",
+    "복수형 규칙",
+    "불규칙 복수",
+    "영어 기초"
+  ],
+  "body_markdown": "## 📝 오늘 배울 것 한 줄 요약\n\n> 영어 명사는 **셀 수 있는 명사**와 **셀 수 없는 명사**로 나뉘어요. 셀 수 있는 명사가 둘 이상이면 끝 모양을 바꿔 **복수형**을 만들어요.\n\n- **단수**: '하나'를 뜻하는 모양 (a book)\n- **복수**: '둘 이상'을 뜻하는 모양 (books)\n\n## 1. 잠깐 복습: 명사가 뭐였지?\n\n📌 핵심\n- **명사**는 사람, 물건, 장소, 생각의 '이름'이에요.\n- 예: Minji(민지), school(학교), pencil(연필), love(사랑)\n\n1강에서 **품사**(단어가 하는 일에 따라 나눈 무리)를 배웠어요. 오늘은 그중 명사를 더 자세히 들여다봐요.\n\n## 2. 쉬운 비유: 사과는 세고, 물은 못 센다\n\n✏️ 예시로 생각해 보기\n- 사과는 '한 개, 두 개, 세 개' 하고 손가락으로 셀 수 있어요.\n- 물은 '물 하나, 물 둘'이라고 세지 않아요. 물은 한 덩어리라서 나눠 셀 수 없거든요.\n\n📌 핵심\n- 하나씩 떨어져 있어 셀 수 있으면 → **셀 수 있는 명사**\n- 덩어리나 전체로 보여서 셀 수 없으면 → **셀 수 없는 명사**\n\n<figure><svg viewBox=\"0 0 360 220\" width=\"100%\" style=\"max-width:420px\" role=\"img\" aria-label=\"사과 세 개와 물 한 컵 비교\"><line x1=\"180\" y1=\"20\" x2=\"180\" y2=\"200\" stroke=\"currentColor\" stroke-dasharray=\"4 4\"/><text x=\"90\" y=\"40\" font-size=\"16\" text-anchor=\"middle\" fill=\"#2563eb\">셀 수 있다</text><circle cx=\"45\" cy=\"100\" r=\"20\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"3\"/><circle cx=\"90\" cy=\"100\" r=\"20\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"3\"/><circle cx=\"135\" cy=\"100\" r=\"20\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"3\"/><text x=\"45\" y=\"145\" font-size=\"14\" text-anchor=\"middle\" fill=\"currentColor\">1</text><text x=\"90\" y=\"145\" font-size=\"14\" text-anchor=\"middle\" fill=\"currentColor\">2</text><text x=\"135\" y=\"145\" font-size=\"14\" text-anchor=\"middle\" fill=\"currentColor\">3</text><text x=\"90\" y=\"185\" font-size=\"15\" text-anchor=\"middle\" fill=\"currentColor\">three apples</text><text x=\"270\" y=\"40\" font-size=\"16\" text-anchor=\"middle\" fill=\"#dc2626\">셀 수 없다</text><path d=\"M238.5 95 L245 160 L295 160 L301.5 95 Z\" fill=\"#2563eb\" opacity=\"0.35\"/><path d=\"M235 60 L245 160 L295 160 L305 60\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"3\"/><text x=\"270",
+  "category": "gram1",
+  "topic": "중1 영문법 2강: 명사 - 셀 수 있는 명사와 셀 수 없는 명사, 복수형 만드는 규칙",
+  "date": "2026-10-26T15:36:11+00:00",
+  "products": []
+}
