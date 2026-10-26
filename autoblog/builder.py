@@ -180,9 +180,12 @@ def post_path(post: dict) -> str:
     return f"posts/{post['slug']}/"
 
 
-def post_category(post: dict) -> str:
-    """Author-written posts are workplace essays; generated ones are life tips unless set explicitly."""
-    return post.get("category") or ("work" if post.get("author") == "human" else "life")
+def post_category(post: dict, cfg: dict | None = None) -> str:
+    """Author-written posts are workplace essays; generated ones are life tips unless set explicitly.
+    With cfg, a category that no longer exists in config falls back too, so one stray post can't break the build."""
+    default = "work" if post.get("author") == "human" else "life"
+    key = post.get("category") or default
+    return default if cfg is not None and key not in cfg["categories"] else key
 
 
 def _reading_minutes(post: dict) -> int:
@@ -197,7 +200,7 @@ def _cards(cfg: dict, posts: list[dict]) -> str:
     if not posts:
         return f'<p class="meta">{_t(cfg, "no_posts")}</p>'
     return '<div class="cards">' + "".join(
-        f'<a class="card" href="{cfg["site_url"]}/{post_path(p)}">{_badge(cfg, post_category(p))}'
+        f'<a class="card" href="{cfg["site_url"]}/{post_path(p)}">{_badge(cfg, post_category(p, cfg))}'
         f'<h3>{escape(p["title"])}</h3><p>{escape(p["description"])}</p>'
         f'<span class="meta">{p["date"][:10]} · {_t(cfg, "min_read").format(_reading_minutes(p))}</span></a>'
         for p in posts
@@ -388,7 +391,7 @@ def _render_post(cfg: dict, post: dict, posts: list[dict]) -> str:
     has_affiliate = _is_ko(cfg) and bool(post.get("products") or cfg.get("coupang_banner"))
     disclosure = f'<p class="disclosure">{escape(cfg["coupang_disclosure"])}</p>' if has_affiliate else ""
     tags = "".join(f"<span>#{escape(t)}</span>" for t in post.get("tags", []))
-    category = post_category(post)
+    category = post_category(post, cfg)
     json_ld = json.dumps({
         "@context": "https://schema.org",
         "@type": "BlogPosting",
