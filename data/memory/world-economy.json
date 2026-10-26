@@ -58,6 +58,25 @@
   ]
  },
  {
+  "date": "2026-10-26",
+  "headline": "Oil prices today: WTI, Brent",
+  "headline_ko": "국제유가, 사우디-이란 외교에 하락…WTI 101.76달러 마감",
+  "outlet": "CNBC",
+  "url": "https://cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
+  "summary_ko": "10월 26일 브렌트유 선물은 장중 한때 117달러를 넘었다가 91센트 내린 배럴당 115.81달러에 마감했다. 미국 서부텍사스산원유(WTI)는 1.51달러 떨어진 101.76달러에 거래를 마쳤다. 사우디아라비아와 이란의 외교 움직임이 유가를 끌어내렸다.",
+  "headline_en": "Oil prices today: WTI, Brent",
+  "summary_en": "On October 26, Brent crude futures briefly topped $117 before closing down 91 cents at $115.81 a barrel. U.S. West Texas Intermediate fell $1.51 to settle at $101.76. Diplomacy between Saudi Arabia and Iran pushed prices lower.",
+  "headline_ja": "原油価格、サウジ・イラン外交で下落…WTIは101.76ドルで終了",
+  "summary_ja": "10月26日、北海ブレント先物は一時117ドルを超えた後、91セント安の1バレル115.81ドルで取引を終えた。米WTI原油は1.51ドル安の101.76ドルで引けた。サウジアラビアとイランの外交の動きが価格を押し下げた。",
+  "topics": [
+   "energy"
+  ],
+  "orgs": [
+   "Saudi Arabia",
+   "Iran"
+  ]
+ },
+ {
   "date": "2026-10-25",
   "headline": "Sri Lanka seeks faster green energy shift after oil shocks",
   "headline_ko": "스리랑카, 유가 충격에 재생에너지 전환 가속…\"2030년 70% 넘길 수도\"",
