@@ -1,5 +1,23 @@
 [
  {
+  "date": "2026-10-27",
+  "headline": "3분기 한국 1.0% 성장…반도체 날았지만 민간소비 4년여만 첫 뒷걸음",
+  "headline_ko": "3분기 한국 1.0% 성장…반도체 날았지만 민간소비 4년여만 첫 뒷걸음",
+  "outlet": "디지털타임스",
+  "url": "https://www.dt.co.kr/article/12091418",
+  "summary_ko": "한국은행 속보치에 따르면 3분기 실질 국내총생산(GDP)이 전기 대비 1.0% 늘었다. 반도체가 성장을 이끌었지만 민간소비는 4년여 만에 처음으로 감소했다. 실질 국내총소득(GDI)은 증가했다.",
+  "headline_en": "Korea grows 1.0% in Q3 as chips soar, but private consumption falls for first time in over four years",
+  "summary_en": "According to the Bank of Korea's advance estimate, real GDP grew 1.0% from the previous quarter in Q3. Semiconductors led growth, but private consumption fell for the first time in more than four years. Real gross domestic income (GDI) increased.",
+  "headline_ja": "韓国7〜9月期1.0%成長…半導体好調も民間消費は4年余りで初の減少",
+  "summary_ja": "韓国銀行の速報値によると、7〜9月期の実質国内総生産(GDP)は前期比1.0%増えた。半導体が成長を牽引したが、民間消費は4年余りで初めて減少した。実質国内総所得(GDI)は増加した。",
+  "topics": [
+   "global"
+  ],
+  "orgs": [
+   "한국은행"
+  ]
+ },
+ {
   "date": "2026-10-26",
   "headline": "K-뷰티·반도체가 이끈 中企 수출...334억달러로 역대 3분기 최고치",
   "headline_ko": "K-뷰티·반도체가 이끈 中企 수출...334억달러로 역대 3분기 최고치",
