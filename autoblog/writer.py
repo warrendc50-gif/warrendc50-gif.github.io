@@ -97,6 +97,35 @@ TOPICS_SCHEMA = {
     "additionalProperties": False,
 }
 
+WORD_ART_SYSTEM_PROMPT = """당신은 중학생 영단어 앱(뇌새김 같은)의 그림 작가입니다.
+단어마다 예문의 상황을 보여 주는 장면 그림을 인라인 SVG로 그립니다. 그림만 보고도 단어 뜻이 떠오르게 하는 것이 목표입니다.
+
+[그림 규칙]
+- <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200"> 로 시작하고 </svg>로 끝납니다.
+- 맨 처음 요소는 그림 전체를 덮는 부드러운 파스텔색 배경 rect입니다(다크 모드에서도 보이도록).
+- 귀여운 플랫 스타일: 동그란 얼굴과 표정이 있는 사람, 물건, 배경 소품, 움직임 선·화살표·말풍선·생각 풍선.
+- 단어가 뜻하는 것이 그림의 주인공입니다. 가운데에 크게, 눈에 띄는 색으로 그립니다.
+- 동사는 그 동작을 하는 순간, 형용사는 그 상태가 분명한 장면, 추상어(because, decide, however 등)는
+  인물과 생각 풍선, 또는 왼쪽→오른쪽 두 칸(전→후, 원인→결과) 장면으로 보여 줍니다.
+- 글자·숫자는 넣지 않습니다(시계 바늘, 달력 칸처럼 모양으로 표현). 정답을 글자로 알려 주면 안 됩니다.
+- rect, circle, ellipse, line, polyline, polygon, path, g 요소와 fill·stroke·opacity·transform 속성만 씁니다.
+  script, style, image, foreignObject, a, use, filter, 외부 링크(href)는 쓰지 않습니다.
+- 그림 하나는 4,000자 이내로 간결하게 그립니다.
+
+[출력] items 배열에 단어마다 {"word": 받은 단어 그대로, "svg": SVG 코드}를 넣습니다."""
+
+WORD_ART_SCHEMA = {
+    "type": "object",
+    "properties": {"items": {"type": "array", "items": {
+        "type": "object",
+        "properties": {"word": {"type": "string"}, "svg": {"type": "string"}},
+        "required": ["word", "svg"],
+        "additionalProperties": False,
+    }}},
+    "required": ["items"],
+    "additionalProperties": False,
+}
+
 
 class Writer:
     def __init__(self, model: str):
@@ -177,6 +206,13 @@ class Writer:
             f"본문:\n{post['body_markdown'][:4000]}"
         )
         return self._ask_json(prompt, THREADS_SCHEMA, system=THREADS_SYSTEM_PROMPT)["text"].strip()
+
+    def draw_word_scenes(self, rows: list[list[str]]) -> dict[str, str]:
+        """rows are [word, meaning, example, example_ko]; returns {word: svg} scene illustrations."""
+        listing = "\n".join(f"- {w} ({m}) — {ex} / {ko}" for w, m, ex, ko in rows)
+        prompt = f"다음 영단어마다 그림을 하나씩 그리세요.\n{listing}"
+        items = self._ask_json(prompt, WORD_ART_SCHEMA, system=WORD_ART_SYSTEM_PROMPT)["items"]
+        return {item["word"]: item["svg"] for item in items}
 
     def suggest_topics(self, categories: dict[str, str], used: list[str], count: int = 20) -> list[str]:
         """categories maps a category key to its niche; each topic comes back as "[key] 주제"."""

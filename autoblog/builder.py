@@ -579,6 +579,8 @@ def build_site(cfg: dict) -> int:
         _write(PUBLIC_DIR / "words" / str(grade) / "index.html",
                _page(cfg, title, words.render_grade(grade, base), nav="words", description=desc,
                      canonical=f"{base}/words/{grade}/", path=f"words/{grade}/", langs=["ko"]))
+    if words.ART_DIR.exists():
+        shutil.copytree(words.ART_DIR, PUBLIC_DIR / "words" / "art", dirs_exist_ok=True)
     urls += [f"{base}/words/"] + [f"{base}/words/{g}/" for g in words.GRADES]
     # Memory boards exist in every site language; the /<lang>/ pages read headline_<lang>/summary_<lang>.
     for lang in site_languages(cfg):

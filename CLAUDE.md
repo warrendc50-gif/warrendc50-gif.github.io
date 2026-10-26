@@ -8,6 +8,8 @@
 - 상단 메뉴는 config.json `nav_groups`로 묶는다(드롭다운). 새 카테고리를 만들면 알맞은 그룹 `keys`에도 넣는다.
 - 공부 카테고리(math·english·gram1~3) 글은 짧은 목록·표·이모지 블록과 인라인 SVG 그림 2~3개로 쓴다(niche의 [쓰기 방식]·[그림]).
 - `/words/` 중1·중2·중3 필수 영단어(목록·카드·퀴즈): 단어는 `data/words/grade{1,2,3}.json`의 [단어, 뜻, 예문, 해석] 행. 화면은 autoblog/words.py.
+  단어마다 예문 상황을 그린 그림(뇌새김식)이 `data/words/art/<학년>/<slug>.svg`에 있다. 그림이 없는 단어는 글 생성 실행 때
+  Claude가 자동으로 그린다(`words.illustrate_missing`). 단어를 추가하면 다음 실행에서 그림도 생긴다. 다시 그리려면 그 svg를 지운다.
 - 대량 생성(workflow_dispatch count=N)이 도는 동안에는 push하지 않는다. 워크플로가 마지막에 pull 없이 push하므로
   그 사이 다른 커밋이 올라가면 생성한 글 전체가 거부된다. 로컬에 커밋해 두고 실행이 끝난 뒤 push한다.
   (워크플로 파일 수정은 현재 gh 토큰에 workflow 권한이 없어 push가 거부된다.)

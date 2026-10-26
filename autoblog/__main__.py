@@ -14,7 +14,7 @@ import sys
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
-from . import coupang, threads, topics
+from . import coupang, threads, topics, words
 from .builder import build_site, is_broadcast, load_posts, post_path
 from .tools import TOOLS
 from .config import POSTS_DIR, load_config
@@ -116,6 +116,11 @@ def generate(cfg: dict, count: int) -> int:
     languages = [lang for lang, t in cfg.get("translations", {}).items() if t.get("auto_translate", True)]
     # Kept small so backfilling ~80 older posts doesn't burn the monthly API spend limit in a day.
     translate_missing(translator, languages, limit=4)
+    # Vocabulary pictures: fills every word still missing one, so after the first run this is a no-op.
+    try:
+        words.illustrate_missing(writer, limit=cfg.get("word_art_per_run", 500))
+    except Exception as exc:
+        print(f"[words] {exc}", file=sys.stderr)
     return written
 
 
