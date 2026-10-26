@@ -40,6 +40,27 @@
   "summary_ja": "アンソロピックは26日、新規株式公開（IPO）に向けて登録届出書（S-1）を米証券取引委員会（SEC）に公開提出し、ティッカーは「ANT」となる予定だ。届出書によると、6月までの6カ月間の売上高は163億ドルで2025年通年の46億ドルを大きく上回り、同期間にAIインフラに90億ドル（2025年通年は73億ドル）を投じた。6月までの純損失は807億ドルで大半は会計上の費用であり、売上高の約5分の1は2社の顧客によるものだった。"
  },
  {
+  "date": "2026-10-26",
+  "headline": "Musk's warning hits neocloud stocks as debt concerns mount",
+  "headline_ko": "머스크 \"네오클라우드 200곳 넘게 몰락\" 경고에 코어위브·네비우스 주가 하락",
+  "outlet": "Reuters (Investing.com)",
+  "url": "https://www.investing.com/news/stock-market-news/musks-warning-hits-neocloud-stocks-as-debt-concerns-mount-4972444",
+  "video": "",
+  "summary_ko": "일론 머스크가 X에 200곳이 넘는 '네오클라우드'(AI 컴퓨팅 임대 업체)가 통합되며 몰락할 것이고 살아남는 곳은 적을 것이라고 경고하자 26일 관련 주가가 떨어졌다. 로이터에 따르면 코어위브가 4.5%, 네비우스가 3.4%, IREN이 3.3% 하락했고 어플라이드 디지털과 테라울프도 2% 넘게 내렸다. 머스크는 AI 데이터센터와 무관한 상당한 매출이 없는 회사에는 채권시장의 돈줄이 거의 막혔다고 말했다.",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "CoreWeave",
+   "Nebius",
+   "SpaceX"
+  ],
+  "headline_en": "Musk's warning hits neocloud stocks as debt concerns mount",
+  "summary_en": "Neocloud (AI compute rental) stocks fell on the 26th after Elon Musk warned on X that more than 200 neoclouds face consolidation and collapse, with few surviving. According to Reuters, CoreWeave fell 4.5%, Nebius 3.4% and IREN 3.3%, while Applied Digital and TeraWulf each lost more than 2%. Musk said debt markets have almost entirely shut off money to companies without substantial revenue independent of AI data centers.",
+  "headline_ja": "マスク氏「ネオクラウド200社超が淘汰」警告でコアウィーブ・ネビウス株が下落",
+  "summary_ja": "イーロン・マスク氏がXで、200社を超える「ネオクラウド」（AI計算資源のレンタル企業）が統合・淘汰され、生き残るのはわずかだと警告したことを受け、26日に関連株が下落した。ロイターによると、コアウィーブが4.5%、ネビウスが3.4%、IRENが3.3%下落し、アプライド・デジタルとテラウルフもそれぞれ2%超下げた。マスク氏は、AIデータセンター以外の相当な売上がない企業には債券市場の資金がほぼ途絶えていると述べた。"
+ },
+ {
   "date": "2026-10-25",
   "headline": "AI's 'opportunity divide' could deepen global inequality, UN official warns",
   "headline_ko": "ITU 사무차장 \"AI '기회 격차'가 세계 불평등 키울 수 있다\"",
