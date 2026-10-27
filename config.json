@@ -86,6 +86,7 @@
   "threads_url": "https://www.threads.net/@warrendc502026",
   "language": "ko",
   "niche": "생활 꿀팁, 가성비 IT 기기, 살림 절약 노하우",
+  "auto_generate": false,
   "posts_per_run": 1,
   "publish_hours_kst": [
     7,

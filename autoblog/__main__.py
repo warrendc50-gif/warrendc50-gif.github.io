@@ -238,7 +238,11 @@ def main() -> None:
     cfg = load_config()
     count = args.count or cfg["posts_per_run"]
     if args.command in ("generate", "run"):
-        if args.if_due and not slot_due(cfg):
+        if args.if_due and not cfg.get("auto_generate", True):
+            # Scheduled runs stay on for builds, but writing posts (Claude API) is switched off.
+            print("auto_generate is off in config.json, skipping")
+            n = 0
+        elif args.if_due and not slot_due(cfg):
             print("current slot already has a post, skipping")
             n = 0
         else:
