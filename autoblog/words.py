@@ -48,6 +48,8 @@ WORDS_CSS = """
 .wd-grades b{font-size:20px}
 .wd-list .wd-img{width:144px;height:90px;border-radius:10px;flex:none;border:1px solid var(--line)}
 .wd-card .wd-img{width:100%;max-width:400px;aspect-ratio:8/5;border-radius:14px;margin-bottom:14px}
+.wd-pos{display:inline-block;font-size:12px;font-weight:700;padding:2px 7px;border-radius:999px;background:#e0e7ff;color:#3730a3;vertical-align:middle;margin-right:4px}
+.wd-card .wd-pos,.wd-q .wd-pos{font-size:14px;margin-top:6px}
 .wd-qimg{display:block;width:100%;max-width:320px;aspect-ratio:8/5;border-radius:14px;margin:0 auto 6px}
 """
 
@@ -57,18 +59,19 @@ const W=JSON.parse(document.getElementById('wd-data').textContent), KEY='wd-know
 let known={};try{known=JSON.parse(localStorage.getItem(KEY)||'{}')}catch(e){}
 const save=()=>{try{localStorage.setItem(KEY,JSON.stringify(known))}catch(e){}};
 const $=s=>document.querySelector(s), view=$('#wd-view'), esc=s=>s.replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const pos=w=>w[5]?'<span class="wd-pos">'+esc(w[5])+'</span> ':'';
 const img=(w,c)=>w[4]?'<img class="'+c+'" src="'+w[4]+'" alt="" loading="lazy">':'';
 let hide=false, order=W.map((_,i)=>i), pos=0, flipped=false, score=0, tries=0;
 const pool=()=>order.filter(i=>!(hide&&known[W[i][0]]));
 const count=()=>{$('#wd-count').textContent='외운 단어 '+W.filter(w=>known[w[0]]).length+' / '+W.length};
 function list(){
-  view.innerHTML='<ul class="wd-list">'+pool().map(i=>{const w=W[i];return '<li class="'+(known[w[0]]?'known':'')+'"><input type="checkbox" data-w="'+esc(w[0])+'"'+(known[w[0]]?' checked':'')+' aria-label="외웠어요">'+img(w,'wd-img')+'<div><div><span class="w">'+esc(w[0])+'</span> <span class="m">'+esc(w[1])+'</span></div><div class="ex">'+esc(w[2])+'<br>'+esc(w[3])+'</div></div></li>'}).join('')+'</ul>';
+  view.innerHTML='<ul class="wd-list">'+pool().map(i=>{const w=W[i];return '<li class="'+(known[w[0]]?'known':'')+'"><input type="checkbox" data-w="'+esc(w[0])+'"'+(known[w[0]]?' checked':'')+' aria-label="외웠어요">'+img(w,'wd-img')+'<div><div><span class="w">'+esc(w[0])+'</span> '+pos(w)+'<span class="m">'+esc(w[1])+'</span></div><div class="ex">'+esc(w[2])+'<br>'+esc(w[3])+'</div></div></li>'}).join('')+'</ul>';
   view.querySelectorAll('input').forEach(b=>b.onchange=()=>{known[b.dataset.w]=b.checked;if(!b.checked)delete known[b.dataset.w];save();count();b.closest('li').classList.toggle('known',b.checked)});
 }
 function card(){
   const p=pool(); if(!p.length){view.innerHTML='<p>모든 단어를 외웠어요! 🎉</p>';return}
   pos=(pos+p.length)%p.length; const w=W[p[pos]];
-  view.innerHTML='<div class="wd-card" id="wd-c">'+img(w,'wd-img')+'<div class="w">'+esc(w[0])+'</div>'+(flipped?'<div class="m">'+esc(w[1])+'</div><div class="ex">'+esc(w[2])+'<br>'+esc(w[3])+'</div>':'<div class="ex">눌러서 뜻 보기</div>')+'</div>'
+  view.innerHTML='<div class="wd-card" id="wd-c">'+img(w,'wd-img')+'<div class="w">'+esc(w[0])+'</div>'+pos(w)+(flipped?'<div class="m">'+esc(w[1])+'</div><div class="ex">'+esc(w[2])+'<br>'+esc(w[3])+'</div>':'<div class="ex">눌러서 뜻 보기</div>')+'</div>'
    +'<div class="wd-nav"><button class="wd-btn" id="wd-prev">← 이전</button><span>'+(pos+1)+' / '+p.length+'</span><button class="wd-btn" id="wd-know">'+(known[w[0]]?'✅ 외웠어요':'외웠어요')+'</button><button class="wd-btn" id="wd-next">다음 →</button></div>';
   $('#wd-c').onclick=()=>{flipped=!flipped;card()};
   $('#wd-prev').onclick=()=>{pos--;flipped=false;card()};
@@ -80,7 +83,7 @@ function quiz(){
   const ans=p[Math.floor(Math.random()*p.length)], opts=[ans];
   while(opts.length<4){const r=Math.floor(Math.random()*W.length);if(!opts.includes(r))opts.push(r)}
   opts.sort(()=>Math.random()-.5);
-  view.innerHTML='<p class="wd-bar">점수 '+score+' / '+tries+'</p>'+img(W[ans],'wd-qimg')+'<div class="wd-q">'+esc(W[ans][0])+'</div><div class="wd-opts">'+opts.map(i=>'<button data-i="'+i+'">'+esc(W[i][1])+'</button>').join('')+'</div><p class="wd-bar" id="wd-ex"></p>';
+  view.innerHTML='<p class="wd-bar">점수 '+score+' / '+tries+'</p>'+img(W[ans],'wd-qimg')+'<div class="wd-q">'+esc(W[ans][0])+'<div>'+pos(W[ans])+'</div></div><div class="wd-opts">'+opts.map(i=>'<button data-i="'+i+'">'+esc(W[i][1])+'</button>').join('')+'</div><p class="wd-bar" id="wd-ex"></p>';
   view.querySelectorAll('.wd-opts button').forEach(b=>b.onclick=()=>{
     if(view.dataset.done)return; view.dataset.done=1; tries++; const ok=+b.dataset.i===ans; if(ok)score++;
     b.classList.add(ok?'ok':'no'); view.querySelector('[data-i="'+ans+'"]').classList.add('ok');
@@ -101,11 +104,19 @@ def load_words(grade: int) -> list[list[str]]:
     return json.loads((DATA_DIR / "words" / f"grade{grade}.json").read_text(encoding="utf-8"))
 
 
+def load_pos(grade: int) -> dict[str, str]:
+    """{word: "명사"} from data/words/pos<grade>.json; missing file -> no labels."""
+    path = DATA_DIR / "words" / f"pos{grade}.json"
+    return json.loads(path.read_text(encoding="utf-8")) if path.exists() else {}
+
+
 def render_grade(grade: int, base: str) -> str:
     title, desc = GRADES[grade]
     words = load_words(grade)
-    # A fifth column carries the picture URL ("" until the word has been illustrated).
-    rows = [row + [f"{base}/words/art/{grade}/{art_slug(row[0])}.svg" if art_path(grade, row[0]).exists() else ""]
+    # Extra columns: picture URL ("" until the word has been illustrated) and part of speech.
+    pos = load_pos(grade)
+    rows = [row + [f"{base}/words/art/{grade}/{art_slug(row[0])}.svg" if art_path(grade, row[0]).exists() else "",
+                   pos.get(row[0], "")]
             for row in words]
     data = json.dumps(rows, ensure_ascii=False).replace("</", "<\\/")
     others = " · ".join(f'<a href="{base}/words/{g}/">{escape(GRADES[g][0])}</a>' for g in GRADES if g != grade)
