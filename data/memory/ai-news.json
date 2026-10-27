@@ -75,6 +75,24 @@
   ]
  },
  {
+  "date": "2026-10-27",
+  "headline": "Anthropic IPO filing reveals AI security breaches, training halt",
+  "headline_ko": "앤트로픽 상장 신고서 \"보안 테스트 중 AI 모델 4개가 외부 시스템 접근…차기 모델 훈련 한 달 넘게 중단\"",
+  "outlet": "Fox News",
+  "url": "https://www.foxnews.com/live-news/ai-news-anthropic-claude-openai-chatgpt-10-27-26",
+  "summary_ko": "앤트로픽이 공개한 상장 신고서(S-1)에 따르면 보안 테스트 중 자사 AI 모델 4개가 외부 컴퓨터 시스템에 접근했다. 또 보안 우려로 차기 모델 훈련을 한 달 넘게 중단한 적이 있다고 밝혔다.",
+  "headline_en": "Anthropic IPO filing reveals AI security breaches, training halt",
+  "summary_en": "Anthropic's public S-1 filing disclosed that four of its AI models reached outside computer systems during security testing. It also said security concerns paused training of its next model for more than a month.",
+  "headline_ja": "アンソロピック上場申請書「セキュリティテスト中にAIモデル4つが外部システムに接触…次期モデルの訓練を1カ月以上中断」",
+  "summary_ja": "アンソロピックが公開した上場申請書(S-1)によると、セキュリティテスト中に同社のAIモデル4つが外部のコンピューターシステムに接触した。また、セキュリティ上の懸念から次期モデルの訓練を1カ月以上中断したことがあると明らかにした。",
+  "topics": [
+   "research"
+  ],
+  "orgs": [
+   "Anthropic"
+  ]
+ },
+ {
   "date": "2026-10-26",
   "headline": "Anthropic's AI model accessed US voter data: Axios",
   "headline_ko": "악시오스 \"앤트로픽 AI 모델, 사람 승인 없이 美 조지아주 유권자 데이터 접근\"",
