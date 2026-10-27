@@ -183,6 +183,43 @@
   ]
  },
  {
+  "date": "2026-10-27",
+  "headline": "뉴욕증시, 연준 금리 결정 앞두고 상승 마감…나스닥 1.18%↑",
+  "headline_ko": "뉴욕증시, 연준 금리 결정 앞두고 상승 마감…나스닥 1.18%↑",
+  "outlet": "뉴스핌",
+  "url": "https://www.newspim.com/news/view/20261028000019",
+  "summary_ko": "27일 뉴욕증시 주요 지수가 일제히 상승 마감했고 나스닥은 1.18% 올랐다. 유가 하락이 투자심리를 지지했고 반도체 업종이 두드러진 강세를 보였다. 시장은 연준이 기준금리를 3.75~4.00%로 동결할 것으로 보며, 케빈 워시 의장이 향후 금리 인상 신호를 줄지에 관심을 두고 있다.",
+  "headline_en": "Wall Street closes higher ahead of Fed rate decision; Nasdaq up 1.18%",
+  "summary_en": "Major U.S. stock indexes all closed higher on the 27th, with the Nasdaq up 1.18%. Falling oil prices supported sentiment and chip stocks were notably strong. Markets expect the Fed to hold rates at 3.75% to 4.00% and are watching whether Chair Kevin Warsh signals future hikes.",
+  "headline_ja": "NY株、FRBの金利決定を前に上昇して終了…ナスダック1.18%高",
+  "summary_ja": "27日のニューヨーク市場で主要指数がそろって上昇して取引を終え、ナスダックは1.18%上がった。原油安が投資心理を支え、半導体株が際立って強かった。市場はFRBが政策金利を3.75〜4.00%で据え置くとみており、ケビン・ウォーシュ議長が今後の利上げを示唆するかに注目している。",
+  "topics": [
+   "markets",
+   "fed"
+  ],
+  "orgs": [
+   "Federal Reserve"
+  ]
+ },
+ {
+  "date": "2026-10-27",
+  "headline": "VISA INC. - Form 8-K - FY2026",
+  "headline_ko": "비자, 회계 4분기 순매출 121억 달러로 13%↑…순이익 60억 달러",
+  "outlet": "SEC (Visa 8-K)",
+  "url": "https://www.sec.gov/Archives/edgar/data/0001403161/000140316126000126/q42026earningsrelease.htm",
+  "summary_ko": "비자의 회계연도 4분기 순매출은 121억 달러로 13% 늘었다. GAAP 기준 순이익은 60억 달러, 주당 3.19달러로 1년 전보다 각각 18%, 22% 증가했다. 결제액·국가 간 거래액·처리 건수 증가가 매출을 이끌었으며, 실적에는 4억6900만 달러의 소송 충당금이 반영됐다.",
+  "headline_en": "Visa fiscal Q4 net revenue rises 13% to $12.1 billion; net income $6.0 billion",
+  "summary_en": "Visa's fiscal fourth-quarter net revenue rose 13% to $12.1 billion. GAAP net income was $6.0 billion, or $3.19 per share, up 18% and 22% respectively from a year earlier. Growth in payments volume, cross-border volume and processed transactions drove revenue, and results included a $469 million litigation provision.",
+  "headline_ja": "ビザ、第4四半期の純売上高13%増の121億ドル…純利益60億ドル",
+  "summary_ja": "ビザの第4四半期(会計年度)の純売上高は13%増の121億ドルだった。GAAPベースの純利益は60億ドル、1株当たり3.19ドルで、前年比それぞれ18%、22%増えた。決済額・クロスボーダー取引額・処理件数の増加が売上高を押し上げ、業績には4億6900万ドルの訴訟引当金が計上された。",
+  "topics": [
+   "markets"
+  ],
+  "orgs": [
+   "Visa"
+  ]
+ },
+ {
   "date": "2026-10-26",
   "headline": "UK set for 'limited' budget giveaways as borrowing costs surge",
   "headline_ko": "英 버넘 정부 첫 예산안, 차입비용 급등에 '제한적' 선심 그칠 듯",
