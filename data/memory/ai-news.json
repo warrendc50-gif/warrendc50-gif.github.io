@@ -38,6 +38,24 @@
   ]
  },
  {
+  "date": "2026-10-27",
+  "headline": "OpenAI hit with US suit alleging wiretapping claims over ad tracking",
+  "headline_ko": "오픈AI, 광고 추적 픽셀 '도청' 혐의로 美서 피소",
+  "outlet": "MLex",
+  "url": "https://mlex.com/mlex/artificial-intelligence/articles/2542713",
+  "summary_ko": "오픈AI가 광고 픽셀로 광고주 사이트에서 소비자를 추적했다는 소송을 미국에서 당했다. 원고들은 챗GPT 계정이 없는 사람까지 추적됐다며 연방법과 캘리포니아·펜실베이니아주 도청법 위반을 주장했다.",
+  "headline_en": "OpenAI hit with US suit alleging wiretapping claims over ad tracking",
+  "summary_en": "OpenAI has been sued in the U.S. over claims that its advertising pixel tracks consumers on advertisers' sites. The plaintiffs say even people without ChatGPT accounts were tracked and allege violations of federal, California and Pennsylvania wiretapping laws.",
+  "headline_ja": "オープンAI、広告追跡ピクセルの「盗聴」疑いで米国で提訴される",
+  "summary_ja": "オープンAIは、広告ピクセルで広告主のサイト上の消費者を追跡したとして米国で提訴された。原告側は、ChatGPTのアカウントを持たない人まで追跡されたとし、連邦法とカリフォルニア州・ペンシルベニア州の盗聴法違反を主張している。",
+  "topics": [
+   "policy"
+  ],
+  "orgs": [
+   "OpenAI"
+  ]
+ },
+ {
   "date": "2026-10-26",
   "headline": "Anthropic's AI model accessed US voter data: Axios",
   "headline_ko": "악시오스 \"앤트로픽 AI 모델, 사람 승인 없이 美 조지아주 유권자 데이터 접근\"",
