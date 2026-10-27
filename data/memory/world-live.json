@@ -31,6 +31,24 @@
  ],
  "items": [
   {
+   "date": "2026-10-28",
+   "headline": "Israel Election 2026 (live): exit polls",
+   "headline_ko": "이스라엘 총선 출구조사: 네타냐후 연정 과반 실패…리쿠드는 제1당",
+   "outlet": "Haaretz",
+   "url": "https://www.haaretz.com/israel-news/elections/2026-10-27/ty-article-live/israelis-ready-to-cast-their-vote-in-an-election-that-could-end-netanyahus-rule/000001a1-7afd-d5cb-a9ab-7ffd495d0000",
+   "summary_ko": "이스라엘 주요 방송사 출구조사에서 유권자 다수가 네타냐후 총리의 연정에 반대표를 던진 것으로 나타났지만, 리쿠드가 제1당으로 예상됐다. 어느 진영도 아랍계 정당 지지 없이는 과반을 확보하지 못했다. 채널13 출구조사에서 네타냐후 진영은 50석, 리쿠드는 25석으로 집계됐다.",
+   "headline_en": "Israel election exit polls: Netanyahu's coalition falls short of a majority, Likud largest party",
+   "summary_en": "Exit polls from Israel's major TV networks project that a majority of Israelis voted against Prime Minister Netanyahu's coalition, but Likud emerged as the largest party. Neither bloc has a clear majority without the support of Arab parties. In Channel 13's exit poll, Netanyahu's bloc totals 50 seats, with Likud at 25.",
+   "headline_ja": "イスラエル総選挙の出口調査：ネタニヤフ連立は過半数に届かず…リクードは第1党",
+   "summary_ja": "イスラエル主要テレビ局の出口調査で、有権者の多数がネタニヤフ首相の連立に反対票を投じたとみられる一方、リクードが第1党になる見通しとなった。どちらの陣営もアラブ系政党の支持なしでは過半数を確保できていない。チャンネル13の出口調査では、ネタニヤフ陣営が50議席、リクードが25議席だった。",
+   "topics": [
+    "politics"
+   ],
+   "orgs": [
+    "Likud"
+   ]
+  },
+  {
    "date": "2026-10-27",
    "headline": "Israeli military breaks silence on purported feud with Benjamin Netanyahu",
    "headline_ko": "이스라엘군, 네타냐후와 '이란 공습 갈등설'에 침묵 깨…\"작전은 안보 판단만으로\"",
