@@ -127,6 +127,24 @@
   ]
  },
  {
+  "date": "2026-10-27",
+  "headline": "PayPal Holdings, Inc. - Form 8-K - Q3 2026 earnings release",
+  "headline_ko": "페이팔 3분기 매출 86억 달러로 2%↑…조정 주당순익 1.45달러",
+  "outlet": "SEC (PayPal 8-K)",
+  "url": "https://www.sec.gov/Archives/edgar/data/0001633917/000163391726000086/pypl3q-26earningsrelease.htm",
+  "summary_ko": "페이팔이 공시한 3분기 실적에 따르면 순매출은 2% 늘어난 86억 달러(환율 영향 제외 1%)였다. 비일반회계기준(non-GAAP) 주당순이익은 8% 증가한 1.45달러, GAAP 주당순이익은 4% 줄어든 1.25달러였다.",
+  "headline_en": "PayPal Q3 revenue rises 2% to $8.6 billion; non-GAAP EPS $1.45",
+  "summary_en": "According to PayPal's third-quarter filing, net revenue rose 2% to $8.6 billion (1% on a currency-neutral basis). Non-GAAP earnings per share increased 8% to $1.45, while GAAP EPS fell 4% to $1.25.",
+  "headline_ja": "ペイパル、7〜9月期売上高2%増の86億ドル…調整後1株利益1.45ドル",
+  "summary_ja": "ペイパルが開示した7〜9月期決算によると、純売上高は2%増の86億ドル(為替影響を除くと1%増)だった。非GAAPベースの1株利益は8%増の1.45ドル、GAAPベースの1株利益は4%減の1.25ドルだった。",
+  "topics": [
+   "markets"
+  ],
+  "orgs": [
+   "PayPal"
+  ]
+ },
+ {
   "date": "2026-10-26",
   "headline": "UK set for 'limited' budget giveaways as borrowing costs surge",
   "headline_ko": "英 버넘 정부 첫 예산안, 차입비용 급등에 '제한적' 선심 그칠 듯",
