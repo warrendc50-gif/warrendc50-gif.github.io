@@ -157,6 +157,28 @@
   ]
  },
  {
+  "date": "2026-10-26",
+  "headline": "Meta to sell up to $95B in stock to finance AI infrastructure buildout",
+  "headline_ko": "메타, AI 인프라 자금 위해 최대 950억 달러 주식 매각…1차 350억 달러",
+  "outlet": "SiliconANGLE",
+  "url": "https://siliconangle.com/2026/10/26/meta-to-sell-up-to-95b-in-stock-to-finance-ai-infrastructure-buildout",
+  "summary_ko": "메타가 26일 AI 확장 비용을 마련하기 위해 약 350억 달러 규모의 보통주·전환우선주 공모에 나섰다. 전체 규모는 최대 950억 달러에 이를 수 있으며, 엔비디아·AMD·브로드컴이 최대 50억 달러어치 주식 매입에 관심을 보였다.",
+  "headline_en": "Meta to sell up to $95B in stock to finance AI infrastructure buildout",
+  "summary_en": "On the 26th, Meta launched public offerings of about $35 billion in common stock and convertible preferred stock to fund its AI expansion. The total could reach up to $95 billion, and Nvidia, AMD and Broadcom expressed interest in buying up to $5 billion of the shares.",
+  "headline_ja": "メタ、AIインフラ資金のため最大950億ドルの株式売却…第1弾350億ドル",
+  "summary_ja": "メタは26日、AI拡大の費用を賄うため約350億ドル規模の普通株・転換優先株の公募を始めた。総額は最大950億ドルに達する可能性があり、エヌビディア・AMD・ブロードコムが最大50億ドル分の株式取得に関心を示した。",
+  "topics": [
+   "business",
+   "chips"
+  ],
+  "orgs": [
+   "Meta",
+   "NVIDIA",
+   "AMD",
+   "Broadcom"
+  ]
+ },
+ {
   "date": "2026-10-25",
   "headline": "AI's 'opportunity divide' could deepen global inequality, UN official warns",
   "headline_ko": "ITU 사무차장 \"AI '기회 격차'가 세계 불평등 키울 수 있다\"",
