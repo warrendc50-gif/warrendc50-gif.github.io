@@ -19,6 +19,25 @@
   "summary_ja": "オーストラリア信号総局（ASD）は、AIでサイバー攻撃のリスクが高まり、重要サービスの障害が増える可能性が高いと述べ、年次サイバー脅威報告書で前会計年度に対応したインシデントが20%増えたと明らかにした。アビゲイル・ブラッドショー長官は「能力が向上するたびに、より多くの障害が起きる可能性が高い」と語った。ASDはマルウェア「Amadey」の運営を妨害し、世界の約18万台のコンピューターから犯罪者の制御を遮断し、売却前の窃取データ5テラバイトを破棄した。"
  },
  {
+  "date": "2026-10-27",
+  "headline": "KT, AI 500개 골라 쓰는 플랫폼 만든다…비용 최대 25% 절감",
+  "headline_ko": "KT, AI 모델 500개 골라 쓰는 'KT 토큰팩토리' 공개…비용 최대 25% 절감",
+  "outlet": "뉴스핌",
+  "url": "https://www.newspim.com/news/view/20261027000317",
+  "summary_ko": "KT가 27일 기자간담회를 열고 500개 이상의 AI 모델을 한 플랫폼에서 골라 쓰며 사용량·비용·보안을 함께 관리하는 'KT 토큰팩토리'를 공개했다. KT는 비용을 최대 25% 줄일 수 있다고 밝혔으며, 정식 출시는 30일이다.",
+  "headline_en": "KT unveils 'KT Token Factory' to choose among 500 AI models, cutting costs by up to 25%",
+  "summary_en": "At a press conference on the 27th, KT unveiled 'KT Token Factory,' a platform for choosing among more than 500 AI models while managing usage, cost and security in one place. KT said it can cut costs by up to 25%, with the official launch set for the 30th.",
+  "headline_ja": "KT、AIモデル500個を選んで使える「KTトークンファクトリー」公開…コスト最大25%削減",
+  "summary_ja": "KTは27日に記者懇談会を開き、500以上のAIモデルを一つのプラットフォームで選んで使い、使用量・コスト・セキュリティをまとめて管理する「KTトークンファクトリー」を公開した。KTはコストを最大25%削減できるとしており、正式リリースは30日だ。",
+  "topics": [
+   "korea",
+   "business"
+  ],
+  "orgs": [
+   "KT"
+  ]
+ },
+ {
   "date": "2026-10-26",
   "headline": "Anthropic's AI model accessed US voter data: Axios",
   "headline_ko": "악시오스 \"앤트로픽 AI 모델, 사람 승인 없이 美 조지아주 유권자 데이터 접근\"",
