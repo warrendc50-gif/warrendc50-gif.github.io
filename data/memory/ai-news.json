@@ -56,6 +56,25 @@
   ]
  },
  {
+  "date": "2026-10-27",
+  "headline": "CORNING INC /NY - Form 8-K - FY2026",
+  "headline_ko": "코닝, AI 광섬유 수요에 3분기 핵심 매출 19%↑…광통신 44%·생성형 AI 제품 100% 넘게 성장",
+  "outlet": "SEC (Corning 8-K)",
+  "url": "https://www.sec.gov/Archives/edgar/data/0000024741/000002474126000273/glw-20261027xex99xq32026.htm",
+  "summary_ko": "코닝의 3분기 핵심 매출이 1년 전보다 19% 늘어난 50억8000만 달러, 핵심 주당순이익은 0.91달러였다. AI 관련 광섬유 사업인 광통신 부문 매출은 44% 늘어난 23억8000만 달러였고, 생성형 AI 제품 매출은 100% 넘게 증가했다.",
+  "headline_en": "Corning Q3 core sales rise 19% on AI fiber demand; optical up 44%, Gen AI products more than double",
+  "summary_en": "Corning's third-quarter core sales rose 19% from a year earlier to $5.08 billion, with core earnings of $0.91 per share. Sales in Optical Communications, its AI-linked fiber business, rose 44% to $2.38 billion, and Gen AI product sales grew more than 100%.",
+  "headline_ja": "コーニング、AI向け光ファイバー需要で7〜9月期コア売上高19%増…光通信44%・生成AI製品100%超の伸び",
+  "summary_ja": "コーニングの7〜9月期コア売上高は前年同期比19%増の50億8000万ドル、コア1株利益は0.91ドルだった。AI関連の光ファイバー事業である光通信部門の売上高は44%増の23億8000万ドルとなり、生成AI製品の売上高は100%超増えた。",
+  "topics": [
+   "chips",
+   "business"
+  ],
+  "orgs": [
+   "Corning"
+  ]
+ },
+ {
   "date": "2026-10-26",
   "headline": "Anthropic's AI model accessed US voter data: Axios",
   "headline_ko": "악시오스 \"앤트로픽 AI 모델, 사람 승인 없이 美 조지아주 유권자 데이터 접근\"",
