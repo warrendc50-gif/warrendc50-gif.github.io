@@ -50,6 +50,11 @@ WORDS_CSS = """
 .wd-card .wd-img{width:100%;max-width:400px;aspect-ratio:8/5;border-radius:14px;margin-bottom:14px}
 .wd-pos{display:inline-block;font-size:12px;font-weight:700;padding:2px 7px;border-radius:999px;background:#e0e7ff;color:#3730a3;vertical-align:middle;margin-right:4px}
 .wd-card .wd-pos,.wd-q .wd-pos{font-size:14px;margin-top:6px}
+.wd-chips{display:flex;flex-wrap:wrap;gap:6px;margin:4px 0 10px}
+.wd-chips button{border:1px solid var(--line);background:var(--card);color:var(--fg);border-radius:999px;padding:5px 11px;font-size:14px;font-weight:700;cursor:pointer}
+.wd-chips button.on{background:var(--fg);color:var(--bg)}
+.wd-chips small{opacity:.6;font-weight:600}
+.wd-list li.wd-gh{display:block;font-weight:800;font-size:17px;padding:18px 4px 6px;border-bottom:2px solid var(--fg)}
 .wd-qimg{display:block;width:100%;max-width:320px;aspect-ratio:8/5;border-radius:14px;margin:0 auto 6px}
 """
 
@@ -62,10 +67,28 @@ const $=s=>document.querySelector(s), view=$('#wd-view'), esc=s=>s.replace(/[&<>
 const posTag=w=>w[5]?'<span class="wd-pos">'+esc(w[5])+'</span> ':'';
 const img=(w,c)=>w[4]?'<img class="'+c+'" src="'+w[4]+'" alt="" loading="lazy">':'';
 let hide=false, order=W.map((_,i)=>i), pos=0, flipped=false, score=0, tries=0;
-const pool=()=>order.filter(i=>!(hide&&known[W[i][0]]));
+// Grouping: by theme (w[6]) or by part of speech (first label of w[5]); sel narrows to one group.
+const ORDERS={theme:['학교·공부','가족·사람','몸·건강','음식','집·물건','장소·교통','시간·날씨','자연·환경','감정·성격','일상 동작','소통·관계','일·경제','사회·문화','과학·기술','생각·의견','상태·정도','연결어·숙어'],
+  pos:['명사','동사','형용사','부사','대명사','전치사','접속사','조동사','감탄사','숙어']};
+let by='', sel='';
+const gkey=w=>by==='theme'?(w[6]||'기타'):by==='pos'?(w[5]||'기타').split('·')[0]:'';
+const rank=k=>{const o=ORDERS[by]||[], i=o.indexOf(k);return i<0?o.length:i};
+const pool=()=>{
+  const p=order.filter(i=>!(hide&&known[W[i][0]])&&(!sel||gkey(W[i])===sel));
+  return by?p.sort((a,b)=>rank(gkey(W[a]))-rank(gkey(W[b]))):p;
+};
+function chips(){
+  const c=$('#wd-chips'); if(!by){c.innerHTML='';return}
+  const cnt={}; W.forEach(w=>{const k=gkey(w);cnt[k]=(cnt[k]||0)+1});
+  const keys=Object.keys(cnt).sort((a,b)=>rank(a)-rank(b));
+  c.innerHTML='<button data-k=""'+(sel?'':' class="on"')+'>전체</button>'+keys.map(k=>'<button data-k="'+esc(k)+'"'+(sel===k?' class="on"':'')+'>'+esc(k)+' <small>'+cnt[k]+'</small></button>').join('');
+  c.querySelectorAll('button').forEach(b=>b.onclick=()=>{sel=b.dataset.k;pos=0;flipped=false;chips();modes[mode]()});
+}
 const count=()=>{$('#wd-count').textContent='외운 단어 '+W.filter(w=>known[w[0]]).length+' / '+W.length};
 function list(){
-  view.innerHTML='<ul class="wd-list">'+pool().map(i=>{const w=W[i];return '<li class="'+(known[w[0]]?'known':'')+'"><input type="checkbox" data-w="'+esc(w[0])+'"'+(known[w[0]]?' checked':'')+' aria-label="외웠어요">'+img(w,'wd-img')+'<div><div><span class="w">'+esc(w[0])+'</span> '+posTag(w)+'<span class="m">'+esc(w[1])+'</span></div><div class="ex">'+esc(w[2])+'<br>'+esc(w[3])+'</div></div></li>'}).join('')+'</ul>';
+  let last=null;
+  const head=w=>{if(!by||sel)return '';const k=gkey(w);if(k===last)return '';last=k;return '<li class="wd-gh">'+esc(k)+'</li>'};
+  view.innerHTML='<ul class="wd-list">'+pool().map(i=>{const w=W[i];return head(w)+'<li class="'+(known[w[0]]?'known':'')+'"><input type="checkbox" data-w="'+esc(w[0])+'"'+(known[w[0]]?' checked':'')+' aria-label="외웠어요">'+img(w,'wd-img')+'<div><div><span class="w">'+esc(w[0])+'</span> '+posTag(w)+'<span class="m">'+esc(w[1])+'</span></div><div class="ex">'+esc(w[2])+'<br>'+esc(w[3])+'</div></div></li>'}).join('')+'</ul>';
   view.querySelectorAll('input').forEach(b=>b.onchange=()=>{known[b.dataset.w]=b.checked;if(!b.checked)delete known[b.dataset.w];save();count();b.closest('li').classList.toggle('known',b.checked)});
 }
 function card(){
@@ -94,6 +117,7 @@ function quiz(){
 const modes={list,card,quiz}; let mode='list';
 document.querySelectorAll('.wd-tabs button').forEach(b=>b.onclick=()=>{document.querySelectorAll('.wd-tabs button').forEach(x=>x.classList.remove('on'));b.classList.add('on');mode=b.dataset.m;flipped=false;delete view.dataset.done;modes[mode]()});
 $('#wd-hide').onchange=e=>{hide=e.target.checked;pos=0;modes[mode]()};
+$('#wd-by').onchange=e=>{by=e.target.value;sel='';pos=0;flipped=false;chips();modes[mode]()};
 $('#wd-shuffle').onclick=()=>{order.sort(()=>Math.random()-.5);pos=0;modes[mode]()};
 count(); list();
 })();
@@ -110,13 +134,19 @@ def load_pos(grade: int) -> dict[str, str]:
     return json.loads(path.read_text(encoding="utf-8")) if path.exists() else {}
 
 
+def load_theme(grade: int) -> dict[str, str]:
+    """{word: "음식"} from data/words/theme<grade>.json; missing file -> no themes."""
+    path = DATA_DIR / "words" / f"theme{grade}.json"
+    return json.loads(path.read_text(encoding="utf-8")) if path.exists() else {}
+
+
 def render_grade(grade: int, base: str) -> str:
     title, desc = GRADES[grade]
     words = load_words(grade)
-    # Extra columns: picture URL ("" until the word has been illustrated) and part of speech.
-    pos = load_pos(grade)
+    # Extra columns: picture URL ("" until the word has been illustrated), part of speech, theme.
+    pos, theme = load_pos(grade), load_theme(grade)
     rows = [row + [f"{base}/words/art/{grade}/{art_slug(row[0])}.svg" if art_path(grade, row[0]).exists() else "",
-                   pos.get(row[0], "")]
+                   pos.get(row[0], ""), theme.get(row[0], "")]
             for row in words]
     data = json.dumps(rows, ensure_ascii=False).replace("</", "<\\/")
     others = " · ".join(f'<a href="{base}/words/{g}/">{escape(GRADES[g][0])}</a>' for g in GRADES if g != grade)
@@ -125,7 +155,9 @@ def render_grade(grade: int, base: str) -> str:
 <p>{escape(desc)}. 그림으로 상황을 떠올리며 목록으로 훑어보고, 카드로 외우고, 퀴즈로 확인하세요. 외운 단어 표시는 이 기기에만 저장됩니다.</p></section>
 <div id="wd" data-grade="{grade}">
 <div class="wd-tabs"><button class="on" data-m="list">📋 목록</button><button data-m="card">🃏 카드</button><button data-m="quiz">❓ 퀴즈</button></div>
-<div class="wd-bar"><span id="wd-count"></span><label><input type="checkbox" id="wd-hide"> 외운 단어 숨기기</label><button class="wd-btn" id="wd-shuffle">🔀 섞기</button></div>
+<div class="wd-bar"><span id="wd-count"></span><label><input type="checkbox" id="wd-hide"> 외운 단어 숨기기</label><button class="wd-btn" id="wd-shuffle">🔀 섞기</button>
+<label>묶어 보기 <select id="wd-by" class="wd-btn"><option value="">기본 순서</option><option value="theme">주제별</option><option value="pos">품사별</option></select></label></div>
+<div class="wd-chips" id="wd-chips"></div>
 <div id="wd-view"></div>
 </div>
 <p class="wd-bar">다른 학년: {others}</p>
