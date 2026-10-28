@@ -1,5 +1,24 @@
 [
  {
+  "date": "2026-10-28",
+  "headline": "SK하이닉스 \"2029년까지 D램·HBM 사실상 완판\"…3분기 영업익 83조원 [컨콜 종합]",
+  "headline_ko": "SK하이닉스 \"2029년까지 D램·HBM 사실상 완판\"…AI 메모리 공급 부족 장기화",
+  "outlet": "머니투데이방송(MTN)",
+  "url": "https://news.mtn.co.kr/article/2026102811025946081",
+  "summary_ko": "SK하이닉스가 28일 3분기 실적 콘퍼런스콜에서 이미 확보한 장기공급계약 물량과 협의 중인 계약을 합하면 2029년까지 3년간 D램과 HBM 물량이 사실상 모두 팔렸다고 밝혔다. 3분기 영업이익은 83조원으로 사상 최대였다.",
+  "headline_en": "SK Hynix says DRAM and HBM effectively sold out through 2029; Q3 operating profit 83 trillion won",
+  "summary_en": "On its third-quarter earnings call on the 28th, SK Hynix said that, counting long-term supply agreements already secured and contracts under negotiation, its DRAM and HBM output is effectively sold out for the three years through 2029. Its Q3 operating profit was a record 83 trillion won.",
+  "headline_ja": "SKハイニックス「2029年までDRAM・HBMは事実上完売」…AIメモリの供給不足が長期化",
+  "summary_ja": "SKハイニックスは28日の7〜9月期決算説明会で、確保済みの長期供給契約分と協議中の契約を合わせると、2029年までの3年間のDRAMとHBMは事実上すべて売り切れたと明らかにした。7〜9月期の営業利益は83兆ウォンで過去最高だった。",
+  "topics": [
+   "chips",
+   "korea"
+  ],
+  "orgs": [
+   "SK하이닉스"
+  ]
+ },
+ {
   "date": "2026-10-27",
   "headline": "Disruptions 'inevitable' as AI-powered cyber threats grow, Australian Signals Directorate says",
   "headline_ko": "호주 신호정보국 \"AI 사이버 공격 늘며 필수 서비스 장애 불가피\"…대응 사건 20% 증가",
