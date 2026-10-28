@@ -112,6 +112,25 @@
   "summary_ja": "ウォーシュFRB議長は金利据え置き後の記者会見で、金利の採決を行う会合を減らすと明らかにした。来年（2027年）は8回の会合のうち7回、2028年は8回のうち6回のみで金利変更を検討する。2027年の会合のうち1回は金融政策の戦略のみを議論し、金利の採決や声明は予定されていない。"
  },
  {
+  "date": "2026-10-28",
+  "headline": "[뉴욕증시] 연준 금리 동결에 상승 지속…SK하닉, 13% 폭등",
+  "headline_ko": "뉴욕증시, 연준 금리 동결에 상승 지속…SK하이닉스 13% 폭등",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202610290515438494",
+  "summary_ko": "28일(현지시간) 뉴욕증시는 연준의 기준금리 동결 속에 상승 마감했다. 다우지수는 0.19% 오른 52,475.10, S&P500은 0.28%, 나스닥은 0.27% 오른 26,549.85에 장을 마쳤다. SK하이닉스는 13% 폭등했다.",
+  "topics": [
+   "markets"
+  ],
+  "orgs": [
+   "연준",
+   "SK하이닉스"
+  ],
+  "headline_en": "[NY Stocks] Gains continue as Fed holds rates… SK Hynix soars 13%",
+  "summary_en": "On the 28th (local time), the New York stock market closed higher as the Fed held its benchmark rate. The Dow rose 0.19% to 52,475.10, the S&P 500 gained 0.28%, and the Nasdaq rose 0.27% to 26,549.85. SK Hynix soared 13%.",
+  "headline_ja": "【NY株式】FRBの金利据え置きで上昇続く…SKハイニックス13%急騰",
+  "summary_ja": "28日（現地時間）のニューヨーク株式市場は、FRBの政策金利据え置きの中で上昇して取引を終えた。ダウ平均は0.19%高の52,475.10、S&P500は0.28%高、ナスダックは0.27%高の26,549.85で引けた。SKハイニックスは13%急騰した。"
+ },
+ {
   "date": "2026-10-27",
   "headline": "Stock futures are little changed after Wall Street starts the week on a winning note: Live updates",
   "headline_ko": "아시아 증시, 앤트로픽발 기술주 랠리에 상승 출발…닛케이 1.7%·코스피 3.8%↑",
