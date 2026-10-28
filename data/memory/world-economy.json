@@ -1,5 +1,24 @@
 [
  {
+  "date": "2026-10-28",
+  "headline": "Australia's CPI inflation jumps to 4.3% YoY in September, vs. 4.2% expected",
+  "headline_ko": "호주 9월 소비자물가 4.3%↑…예상(4.2%) 웃돌며 8월(4.0%)보다 가속",
+  "outlet": "FXStreet",
+  "url": "https://www.fxstreet.com/news/australia-cpi-expected-to-rise-to-42-in-september-202610272030",
+  "summary_ko": "호주의 9월 소비자물가가 1년 전보다 4.3% 올라 시장 예상치(4.2%)를 웃돌았고, 8월(4.0%)보다 상승 폭이 커졌다. 호주중앙은행(RBA)의 다음 통화정책회의는 11월 3일이다.",
+  "headline_en": "Australia's CPI inflation jumps to 4.3% YoY in September, vs. 4.2% expected",
+  "summary_en": "Australia's consumer prices rose 4.3% from a year earlier in September, above the 4.2% forecast and up from 4.0% in August. The Reserve Bank of Australia's next policy meeting is on November 3.",
+  "headline_ja": "豪州9月消費者物価4.3%上昇…予想(4.2%)上回り8月(4.0%)から加速",
+  "summary_ja": "豪州の9月消費者物価は前年比4.3%上昇し、市場予想(4.2%)を上回り、8月(4.0%)から伸びが拡大した。豪州準備銀行(RBA)の次回金融政策会合は11月3日だ。",
+  "topics": [
+   "macro",
+   "centralbank"
+  ],
+  "orgs": [
+   "Reserve Bank of Australia"
+  ]
+ },
+ {
   "date": "2026-10-27",
   "headline": "Stock futures are little changed after Wall Street starts the week on a winning note: Live updates",
   "headline_ko": "아시아 증시, 앤트로픽발 기술주 랠리에 상승 출발…닛케이 1.7%·코스피 3.8%↑",
