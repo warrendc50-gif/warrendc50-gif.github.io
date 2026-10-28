@@ -19,6 +19,25 @@
   ]
  },
  {
+  "date": "2026-10-28",
+  "headline": "HCA Red Flag: Alphabet beats expectations on Cloud, but disappoints on earnings (AI)",
+  "headline_ko": "알파벳 3분기, 구글 클라우드는 예상 상회…주당순이익은 기대 못 미쳐",
+  "outlet": "Inderes",
+  "url": "https://www.inderes.fi/en/analyst-comments/hca-red-flag-alphabet-beats-expectations-on-cloud-but-disappoints-on-earnings-ai",
+  "summary_ko": "알파벳의 2026년 3분기 구글 클라우드 매출이 307억달러로 예상치(296억달러)를 넘었다. 반면 주당순이익은 2.67달러로 예상치 2.97달러에 못 미쳤다. 늘어난 AI 비용과 검색 성장 둔화가 주된 이유로 꼽혔다.",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "알파벳",
+   "구글"
+  ],
+  "headline_en": "HCA Red Flag: Alphabet beats expectations on Cloud, but disappoints on earnings (AI)",
+  "summary_en": "Alphabet's Google Cloud revenue for Q3 2026 came in at $30.7 billion, above the $29.6 billion estimate. Earnings per share, however, were $2.67, short of the expected $2.97. Higher AI costs and weaker search growth were cited as the main reasons.",
+  "headline_ja": "アルファベット第3四半期、グーグルクラウドは予想上回る…1株利益は期待に届かず",
+  "summary_ja": "アルファベットの2026年第3四半期のグーグルクラウド売上高は307億ドルで、予想（296億ドル）を上回った。一方、1株当たり利益は2.67ドルで、予想の2.97ドルに届かなかった。AI費用の増加と検索事業の成長鈍化が主な理由とされた。"
+ },
+ {
   "date": "2026-10-27",
   "headline": "Disruptions 'inevitable' as AI-powered cyber threats grow, Australian Signals Directorate says",
   "headline_ko": "호주 신호정보국 \"AI 사이버 공격 늘며 필수 서비스 장애 불가피\"…대응 사건 20% 증가",
