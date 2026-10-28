@@ -38,6 +38,24 @@
   "summary_ja": "アルファベットの2026年第3四半期のグーグルクラウド売上高は307億ドルで、予想（296億ドル）を上回った。一方、1株当たり利益は2.67ドルで、予想の2.97ドルに届かなかった。AI費用の増加と検索事業の成長鈍化が主な理由とされた。"
  },
  {
+  "date": "2026-10-28",
+  "headline": "FY27 Q1 - Press Releases - Investor Relations - Microsoft",
+  "headline_ko": "마이크로소프트 2027회계연도 1분기 매출 923억달러…애저 48% 성장",
+  "outlet": "Microsoft",
+  "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2027-Q1/press-release-webcast",
+  "summary_ko": "마이크로소프트의 2027회계연도 1분기(7~9월) 매출이 923억달러로 19% 늘었고, 영업이익은 459억달러로 21% 증가했다. 마이크로소프트 클라우드 매출은 639억달러(30%↑), 애저 매출은 48% 늘었다. 상업용 잔여 계약 잔고는 73% 증가한 6,770억달러였다.",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "마이크로소프트"
+  ],
+  "headline_en": "FY27 Q1 - Press Releases - Investor Relations - Microsoft",
+  "summary_en": "Microsoft's fiscal 2027 first-quarter (July–September) revenue rose 19% to $92.3 billion, and operating income increased 21% to $45.9 billion. Microsoft Cloud revenue was $63.9 billion (up 30%), and Azure revenue grew 48%. Commercial remaining performance obligation rose 73% to $677 billion.",
+  "headline_ja": "マイクロソフト2027会計年度第1四半期の売上高923億ドル…Azure48%成長",
+  "summary_ja": "マイクロソフトの2027会計年度第1四半期（7〜9月）の売上高は923億ドルで19%増、営業利益は459億ドルで21%増加した。マイクロソフトクラウドの売上高は639億ドル（30%増）、Azureの売上高は48%増えた。商業用の残存履行義務は73%増の6,770億ドルだった。"
+ },
+ {
   "date": "2026-10-27",
   "headline": "Disruptions 'inevitable' as AI-powered cyber threats grow, Australian Signals Directorate says",
   "headline_ko": "호주 신호정보국 \"AI 사이버 공격 늘며 필수 서비스 장애 불가피\"…대응 사건 20% 증가",
