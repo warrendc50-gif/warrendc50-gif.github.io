@@ -56,6 +56,24 @@
   "summary_ja": "マイクロソフトの2027会計年度第1四半期（7〜9月）の売上高は923億ドルで19%増、営業利益は459億ドルで21%増加した。マイクロソフトクラウドの売上高は639億ドル（30%増）、Azureの売上高は48%増えた。商業用の残存履行義務は73%増の6,770億ドルだった。"
  },
  {
+  "date": "2026-10-28",
+  "headline": "OpenAI launches new GPT-6.1 Terra for workplace tasks",
+  "headline_ko": "오픈AI, 업무용 새 모델 'GPT-6.1 테라' 출시",
+  "outlet": "ITBrief",
+  "url": "https://itbrief.ca/story/openai-launches-new-gpt-6-1-terra-for-workplace-tasks",
+  "summary_ko": "오픈AI가 업무용 작업에 맞춘 새 모델 GPT-6.1 테라를 내놨다. ChatGPT Work, Codex, 오픈AI API에서 쓸 수 있다. GPT-5.6 테라의 후속 모델로 가격은 더 낮아졌다.",
+  "topics": [
+   "model"
+  ],
+  "orgs": [
+   "오픈AI"
+  ],
+  "headline_en": "OpenAI launches new GPT-6.1 Terra for workplace tasks",
+  "summary_en": "OpenAI released GPT-6.1 Terra, a new model aimed at workplace tasks. It is available in ChatGPT Work, Codex and the OpenAI API. It succeeds GPT-5.6 Terra at a lower price.",
+  "headline_ja": "OpenAI、業務向けの新モデル「GPT-6.1 Terra」を公開",
+  "summary_ja": "OpenAIは業務タスク向けの新モデル「GPT-6.1 Terra」を公開した。ChatGPT Work、Codex、OpenAI APIで利用できる。GPT-5.6 Terraの後継モデルで、価格は引き下げられた。"
+ },
+ {
   "date": "2026-10-27",
   "headline": "Disruptions 'inevitable' as AI-powered cyber threats grow, Australian Signals Directorate says",
   "headline_ko": "호주 신호정보국 \"AI 사이버 공격 늘며 필수 서비스 장애 불가피\"…대응 사건 20% 증가",
@@ -167,6 +185,24 @@
   "summary_en": "The US General Services Administration (GSA) signed a new OneGov agreement with Anthropic giving government agencies a 40% discount on token usage of Claude Enterprise, Claude for Government and the Claude API. Pricing is usage-based, with no minimum order, so agencies pay only for what they use. State, local, tribal and territorial governments are covered in addition to federal agencies.",
   "headline_ja": "米連邦調達局、アンソロピックとClaude40%割引・従量課金の契約",
   "summary_ja": "米連邦調達局（GSA）はアンソロピックと新たなOneGov契約を結び、政府機関はClaude Enterprise、Claude for Government、Claude APIのトークン利用料を40%割引で利用できるようになった。最低注文量のない、使った分だけ支払う従量課金制。連邦機関だけでなく、州・地方・部族・準州の政府も対象に含まれた。"
+ },
+ {
+  "date": "2026-10-27",
+  "headline": "OpenAI has announced three new findings in mathematics, computer science, and physics concerning harmonic analysis, computational complexity theory, and quantum field theory, concluding that the exponential time hypothesis is incorrect.",
+  "headline_ko": "오픈AI \"AI로 수학·컴퓨터과학·물리학 새 발견 3건…지수 시간 가설은 틀렸다\"",
+  "outlet": "GIGAZINE",
+  "url": "https://gigazine.net/gsc_news/en/20261027-openai-three-new-discoveries",
+  "summary_ko": "오픈AI가 조화해석학, 계산 복잡도 이론, 양자장론에서 새 발견 3건을 발표했다. 계산 복잡도 분야에서는 지수 시간 가설(ETH)이 틀렸다는 결론을 내놨다.",
+  "topics": [
+   "research"
+  ],
+  "orgs": [
+   "오픈AI"
+  ],
+  "headline_en": "OpenAI has announced three new findings in mathematics, computer science, and physics concerning harmonic analysis, computational complexity theory, and quantum field theory, concluding that the exponential time hypothesis is incorrect.",
+  "summary_en": "OpenAI announced three new findings in harmonic analysis, computational complexity theory and quantum field theory. In computational complexity, it concluded that the exponential time hypothesis (ETH) is incorrect.",
+  "headline_ja": "OpenAI「AIで数学・計算機科学・物理学の新発見3件…指数時間仮説は誤り」",
+  "summary_ja": "OpenAIは調和解析、計算複雑性理論、場の量子論で新たな発見3件を発表した。計算複雑性の分野では、指数時間仮説（ETH）は誤りだとの結論を示した。"
  },
  {
   "date": "2026-10-26",
