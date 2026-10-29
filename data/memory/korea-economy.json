@@ -54,6 +54,24 @@
   "summary_ja": "29日、サムスン電子は第3四半期の営業利益107兆ウォンを確定発表したが、株価は5%下落した。KOSPIも取引時間中に6100台を超えた後、5800台に押し戻された。"
  },
  {
+  "date": "2026-10-29",
+  "headline": "코스피, 삼성전자 주주환원책 실망에 하락 마감…코스닥도 2%대↓",
+  "headline_ko": "코스피, 삼성전자 주주환원책 실망에 5937.66 하락 마감…코스닥도 2%대↓",
+  "outlet": "한국경제",
+  "url": "https://www.hankyung.com/article/2026102939116",
+  "summary_ko": "29일 코스피는 74.78포인트(1.24%) 내린 5937.66에 마감했다. 삼성전자 주주환원책에 실망한 매물이 지수를 끌어내렸다. 코스닥도 2.34% 내린 753.23에 장을 마쳤다.",
+  "topics": [
+   "stocks"
+  ],
+  "orgs": [
+   "삼성전자"
+  ],
+  "headline_en": "KOSPI closes lower on disappointment over Samsung Electronics' shareholder-return plan… KOSDAQ also down over 2%",
+  "summary_en": "On the 29th, the KOSPI closed down 74.78 points (1.24%) at 5,937.66. Selling driven by disappointment over Samsung Electronics' shareholder-return plan pulled the index lower. The KOSDAQ also fell 2.34% to close at 753.23.",
+  "headline_ja": "KOSPI、サムスン電子の株主還元策に失望し5937.66で下落引け…KOSDAQも2%台下落",
+  "summary_ja": "29日、KOSPIは74.78ポイント（1.24%）安の5937.66で取引を終えた。サムスン電子の株主還元策に失望した売りが指数を押し下げた。KOSDAQも2.34%安の753.23で引けた。"
+ },
+ {
   "date": "2026-10-28",
   "headline": "[속보] SK하이닉스, 3분기 영업이익 83.3조원…최대 실적 또 경신",
   "headline_ko": "SK하이닉스, 3분기 영업이익 83.3조원…최대 실적 또 경신",
