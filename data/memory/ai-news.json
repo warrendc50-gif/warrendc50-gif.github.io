@@ -149,6 +149,26 @@
   ]
  },
  {
+  "date": "2026-10-27",
+  "headline": "GSA, Anthropic Reach OneGov Agreement on Discounted, Consumption-Based Pricing for Claude",
+  "headline_ko": "미 연방조달청, 앤트로픽과 클로드 40% 할인·사용량 기반 요금 계약",
+  "outlet": "GSA",
+  "url": "https://www.gsa.gov/about-gsa/newsroom/news-releases/gsa-anthropic-reach-onegov-agreement-on-discounted-consumptionbased-pricing-10272026",
+  "summary_ko": "미국 연방조달청(GSA)이 앤트로픽과 새 OneGov 계약을 맺어 정부 기관이 Claude Enterprise, Claude for Government, Claude API의 토큰 사용료를 40% 할인받게 됐다. 최소 주문량 없이 쓴 만큼만 내는 사용량 기반 요금이다. 연방 기관뿐 아니라 주·지방·부족·준주 정부도 대상에 포함됐다.",
+  "topics": [
+   "policy",
+   "business"
+  ],
+  "orgs": [
+   "앤트로픽",
+   "미국 연방조달청"
+  ],
+  "headline_en": "GSA, Anthropic Reach OneGov Agreement on Discounted, Consumption-Based Pricing for Claude",
+  "summary_en": "The US General Services Administration (GSA) signed a new OneGov agreement with Anthropic giving government agencies a 40% discount on token usage of Claude Enterprise, Claude for Government and the Claude API. Pricing is usage-based, with no minimum order, so agencies pay only for what they use. State, local, tribal and territorial governments are covered in addition to federal agencies.",
+  "headline_ja": "米連邦調達局、アンソロピックとClaude40%割引・従量課金の契約",
+  "summary_ja": "米連邦調達局（GSA）はアンソロピックと新たなOneGov契約を結び、政府機関はClaude Enterprise、Claude for Government、Claude APIのトークン利用料を40%割引で利用できるようになった。最低注文量のない、使った分だけ支払う従量課金制。連邦機関だけでなく、州・地方・部族・準州の政府も対象に含まれた。"
+ },
+ {
   "date": "2026-10-26",
   "headline": "Anthropic's AI model accessed US voter data: Axios",
   "headline_ko": "악시오스 \"앤트로픽 AI 모델, 사람 승인 없이 美 조지아주 유권자 데이터 접근\"",
