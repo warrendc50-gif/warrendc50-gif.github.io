@@ -209,6 +209,25 @@
   "summary_ja": "Boxはエヌビディアのネモトロン埋め込みシステムを自社製品に組み込み、AIエージェントの質問応答を支援する「Box Content Retrieval」機能を作る。エヌビディアは応答が4倍速くなり、エラーは20%、トークン使用量は90%減ると説明しており、来年初めにEnterprise Advance顧客向けに提供される。"
  },
  {
+  "date": "2026-11-05",
+  "headline": "필라델피아 반도체 3% 급락…美 텍사스 데이터센터 신규 건설 중단 우려",
+  "headline_ko": "텍사스 주지사에 '데이터센터 건설 중단' 공약 민주당 후보 당선…필라델피아 반도체지수 3% 급락",
+  "outlet": "뉴스1",
+  "url": "https://www.news1.kr/world/usa-canada/6343525",
+  "summary_ko": "미국 텍사스 주지사 선거에서 AI 데이터센터 신규 건설 중단을 공약한 민주당 지나 이노호사 후보가 승리하자 필라델피아 반도체지수가 3.13% 급락했다. 텍사스에는 미국 데이터센터 건설 계획의 27%가 몰려 있어 13GW 규모 건설 차질 우려가 제기됐다. 실제 건설 중단 여부는 불확실하다.",
+  "topics": [
+   "policy",
+   "chips"
+  ],
+  "orgs": [
+   "미국 민주당"
+  ],
+  "headline_en": "Democrat who pledged a halt to data center construction wins Texas governorship; Philadelphia Semiconductor Index drops 3%",
+  "summary_en": "The Philadelphia Semiconductor Index fell 3.13% after Democrat Gina Hinojosa, who pledged to halt new AI data center construction, won the Texas governor's race. Texas accounts for 27% of planned US data center construction, raising concerns about disruption to 13 GW of projects. Whether construction will actually be halted remains uncertain.",
+  "headline_ja": "テキサス知事に「データセンター建設停止」公約の民主党候補が当選…フィラデルフィア半導体株指数3%急落",
+  "summary_ja": "米テキサス州知事選でAIデータセンターの新規建設停止を公約した民主党のジーナ・イノホサ候補が勝利し、フィラデルフィア半導体株指数は3.13%急落した。テキサスには米国のデータセンター建設計画の27%が集中しており、13GW規模の建設に支障が出るとの懸念が出ている。実際に建設が止まるかは不透明だ。"
+ },
+ {
   "date": "2026-11-04",
   "headline": "Qualcomm Announces Fourth Quarter and Fiscal 2026 Results",
   "headline_ko": "퀄컴 4분기 매출 103억 달러…아마존과 AI 데이터센터 협력, 2027년 데이터센터 매출 50억 달러 목표 재확인",
