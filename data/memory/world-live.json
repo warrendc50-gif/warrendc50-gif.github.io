@@ -369,6 +369,57 @@
    "summary_ja": "11月2日、ウクライナ・キーウ近郊の国家親衛隊の建物前で、ネット上に広まった疑惑をきっかけに騒乱が起きた。衝突や銃声が続き、警察車両が損壊した。"
   },
   {
+   "date": "2026-11-03",
+   "headline": "Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz",
+   "headline_ko": "이란 호르무즈 케슘섬서 폭발…미 언론 \"미군 공습\"",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz",
+   "summary_ko": "이란 케슘섬과 반다르렝게에서 폭발음이 들렸다. 미국 관리들은 혁명수비대가 미군 항공기를 공격한 데 따른 방어적 공습이라고 설명했으며, 케슘섬이 공격받은 것은 6월 이후 처음이다.",
+   "topics": [
+    "conflict"
+   ],
+   "orgs": [
+    "미군",
+    "이란 혁명수비대"
+   ],
+   "headline_en": "Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz",
+   "summary_en": "Explosions were heard on Iran's Qeshm Island and in Bandar Lengeh. US officials described the strikes as defensive, following an IRGC attack on a US aircraft, and it was the first attack on Qeshm Island since June.",
+   "headline_ja": "イラン・ホルムズのゲシュム島で爆発…米メディア「米軍が攻撃」",
+   "summary_ja": "イランのゲシュム島とバンダルレンゲで爆発音が聞こえた。米当局者は、革命防衛隊が米軍機を攻撃したことを受けた防衛的な攻撃だと説明しており、ゲシュム島が攻撃されたのは6月以来初めてだ。"
+  },
+  {
+   "date": "2026-11-03",
+   "headline": "Trump says US will stop giving Israel aid after year-end",
+   "headline_ko": "트럼프 \"연말 이후 이스라엘 지원 중단\"…네타냐후와 합의 주장",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/3/trump-announces-that-us-will-stop-paying-israel-after-year-end",
+   "summary_ko": "트럼프 대통령은 올해 말 이후 이스라엘에 대한 미국의 자금 지원을 중단하기로 네타냐후 총리와 합의했다고 말했다. 다만 예산은 의회가 책정하기 때문에 트럼프가 일방적으로 지원을 끝낼 수는 없다.",
+   "topics": [
+    "politics"
+   ],
+   "orgs": [],
+   "headline_en": "Trump says US will stop giving Israel aid after year-end",
+   "summary_en": "President Trump said he made a deal with Prime Minister Netanyahu to stop US funding to Israel after the end of this year. However, Congress appropriates the money, so Trump cannot end the aid unilaterally.",
+   "headline_ja": "トランプ氏「年末以降イスラエル支援を停止」…ネタニヤフ氏と合意と主張",
+   "summary_ja": "トランプ大統領は、今年末以降にイスラエルへの米国の資金支援を停止することでネタニヤフ首相と合意したと述べた。ただし予算は議会が計上するため、トランプ氏が一方的に支援を終わらせることはできない。"
+  },
+  {
+   "date": "2026-11-03",
+   "headline": "At least 73 injured as Russia bombs Ukrainian hospital and power plants",
+   "headline_ko": "러시아, 우크라이나 하르키우 병원·발전소 공습…최소 73명 부상",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/3/at-least-73-injured-as-russia-bombs-ukrainian-hospital-and-power-plants",
+   "summary_ko": "러시아의 공습으로 우크라이나 하르키우의 병원이 피해를 입고 73명이 다쳤다. 러시아는 여러 지역의 에너지 시설도 공격했다.",
+   "topics": [
+    "conflict"
+   ],
+   "orgs": [],
+   "headline_en": "At least 73 injured as Russia bombs Ukrainian hospital and power plants",
+   "summary_en": "A Russian strike damaged a hospital in Kharkiv, Ukraine, injuring 73 people. Russia also targeted energy facilities in several regions.",
+   "headline_ja": "ロシア、ウクライナ・ハルキウの病院・発電所を空爆…少なくとも73人負傷",
+   "summary_ja": "ロシアの空爆でウクライナ・ハルキウの病院が被害を受け、73人が負傷した。ロシアは複数の地域のエネルギー施設も攻撃した。"
+  },
+  {
    "date": "2026-11-02",
    "headline": "Israel Coalition Talks: Liberman, Bennett and Golan Back Eisenkot for Prime Minister as Herzog Prepares Consultations",
    "headline_ko": "이스라엘 연정 협상: 리베르만·베넷·골란, 아이젠코트 총리 지지…헤르초그 대통령 협의 준비",
