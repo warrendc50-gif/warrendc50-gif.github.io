@@ -102,19 +102,19 @@
   },
   {
    "date": "2026-11-05",
-   "headline": "Authorities across Europe report string of bomb alerts targeting passenger flights",
-   "headline_ko": "유럽 곳곳서 여객기 노린 폭탄 위협 잇따라…더블린발 로마행 여객기 프랑스로 회항",
+   "headline": "'Too early' to say if Europe flight bomb threats linked, EU transport chief says",
+   "headline_ko": "유럽 여객기 겨냥 허위 폭탄 위협 사흘째…EU \"연관성 판단 아직 일러\"",
    "outlet": "Euronews",
    "url": "https://www.euronews.com/2026/11/05/airbus-plane-from-dublin-to-rome-diverted-to-france-after-bomb-alert",
-   "summary_ko": "유럽 각국 당국이 여객기를 겨냥한 폭탄 위협이 잇따랐다고 밝혔다. 더블린발 로마행 여객기가 프랑스로 회항해 에브뢰에 무사히 착륙했고, 헬싱키발 빈행 항공편에도 폭탄 위협이 있었다. 영국 정부는 이를 '악의적인 허위 위협'이라고 불렀다.",
+   "summary_ko": "이번 주 사흘째 유럽 항공편 최소 14편이 허위 폭탄 위협을 받았고 여러 나라에서 전투기가 긴급 출격했다. EU 교통 담당 집행위원은 위협들 사이에 연관이 있는지 말하기에는 아직 이르다고 밝혔다.",
    "topics": [
     "terror"
    ],
    "orgs": [],
-   "headline_en": "Authorities across Europe report string of bomb alerts targeting passenger flights",
-   "summary_en": "Authorities across Europe reported a string of bomb threats targeting passenger flights. A Dublin-to-Rome plane was diverted to France and landed safely at Évreux, and a flight from Helsinki to Vienna also received a bomb threat. The UK government called them 'malicious hoax threats'.",
-   "headline_ja": "欧州各地で旅客機狙った爆破予告相次ぐ…ダブリン発ローマ行きがフランスに目的地変更",
-   "summary_ja": "欧州各国の当局は、旅客機を狙った爆破予告が相次いだと明らかにした。ダブリン発ローマ行きの旅客機がフランスに目的地を変更してエヴルーに無事着陸し、ヘルシンキ発ウィーン行きの便にも爆破予告があった。英国政府はこれを「悪質な虚偽の脅迫」と呼んだ。"
+   "headline_en": "'Too early' to say if Europe flight bomb threats linked, EU transport chief says",
+   "summary_en": "At least 14 European flights were hit by hoax bomb alerts for the third day this week, and fighter jets were scrambled in several countries. The EU transport commissioner said it is too early to say whether the threats are linked.",
+   "headline_ja": "欧州の旅客機狙う虚偽の爆破予告が3日目…EU「関連性の判断はまだ早い」",
+   "summary_ja": "今週3日目となる虚偽の爆破予告で欧州の航空便少なくとも14便が影響を受け、複数の国で戦闘機が緊急発進した。EUの運輸担当欧州委員は、予告同士に関連があるかを言うのはまだ早いと述べた。"
   },
   {
    "date": "2026-11-05",
@@ -186,6 +186,22 @@
    "summary_en": "Israeli attacks killed at least four Palestinians, including a child, in central and southern Gaza. Gaza's health ministry said 1,602 people have been killed and 5,794 wounded since the ceasefire took effect on October 11, 2025.",
    "headline_ja": "イスラエルのガザ攻撃で子ども含む4人死亡",
    "summary_ja": "イスラエル軍の攻撃で、ガザ地区中部と南部で子ども1人を含む少なくとも4人のパレスチナ人が死亡した。ガザ保健省は、2025年10月11日の停戦発効以降、1,602人が死亡し5,794人が負傷したと発表した。"
+  },
+  {
+   "date": "2026-11-05",
+   "headline": "France: Workers and students unite in nationwide protests over living costs",
+   "headline_ko": "프랑스 전국서 노동자·학생 생활비 항의 파업·시위…경찰 7만 명 배치",
+   "outlet": "Euronews",
+   "url": "https://www.euronews.com/video/2026/11/05/france-workers-and-students-unite-in-nationwide-protests-over-living-costs",
+   "summary_ko": "프랑스 노동조합들이 임금과 생활비 문제로 전국 규모의 파업과 시위를 벌였고, 노동자와 학생들이 함께 거리로 나섰다. 당국은 경찰과 헌병 약 7만 명을 배치했다.",
+   "topics": [
+    "unrest"
+   ],
+   "orgs": [],
+   "headline_en": "France: Workers and students unite in nationwide protests over living costs",
+   "summary_en": "French unions staged a nationwide day of strikes and protests over wages and living costs, with workers and students taking to the streets together. Authorities deployed some 70,000 police officers and gendarmes.",
+   "headline_ja": "フランス全土で労働者・学生が生活費巡りスト・デモ…警察7万人配備",
+   "summary_ja": "フランスの労働組合が賃金と生活費を巡って全国規模のストライキとデモを行い、労働者と学生がともに街頭に出た。当局は警察官と憲兵約7万人を配備した。"
   },
   {
    "date": "2026-11-04",
