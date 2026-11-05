@@ -121,6 +121,44 @@
    "summary_ja": "11月3日に行われた米中間選挙で、CNBCの選挙デスクは民主党が下院で少なくとも250議席を獲得すると予測した。民主党は上院でも少なくとも54議席を占める見通しとなった。"
   },
   {
+   "date": "2026-11-04",
+   "headline": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people",
+   "headline_ko": "우크라이나, 러시아의 자포리자 구호센터 공격 사망자 40명으로 늘려",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/4/ukraine-raises-death-toll-from-russian-strike-on-zaporizhia-to-40-people",
+   "summary_ko": "우크라이나 당국은 남동부 자포리자주의 구호센터를 겨냥한 러시아 공격의 사망자 수를 40명으로 늘렸다.",
+   "topics": [
+    "conflict"
+   ],
+   "orgs": [
+    "Russian Armed Forces",
+    "Government of Ukraine"
+   ],
+   "headline_en": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people",
+   "summary_en": "Ukrainian authorities raised the death toll from a Russian attack on an aid centre in the southeastern Zaporizhia region to 40 people.",
+   "headline_ja": "ウクライナ、ロシアのザポリージャ支援センター攻撃の死者を40人に引き上げ",
+   "summary_ja": "ウクライナ当局は、南東部ザポリージャ州の支援センターを狙ったロシアの攻撃による死者数を40人に引き上げた。"
+  },
+  {
+   "date": "2026-11-04",
+   "headline": "Spanish transport minister resigns after train crash killed 69 people",
+   "headline_ko": "스페인 교통장관, 69명 숨진 열차 사고 책임지고 사임",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/4/spanish-transport-minister-resigns-after-train-crash-killed-69-people",
+   "summary_ko": "스페인 교통장관이 69명이 숨진 열차 사고 이후 사임했다.",
+   "topics": [
+    "politics",
+    "accident"
+   ],
+   "orgs": [
+    "스페인 교통부"
+   ],
+   "headline_en": "Spanish transport minister resigns after train crash killed 69 people",
+   "summary_en": "Spain's transport minister resigned after a train crash that killed 69 people.",
+   "headline_ja": "スペイン運輸相、69人死亡の列車事故を受け辞任",
+   "summary_ja": "スペインの運輸相が、69人が死亡した列車事故を受けて辞任した。"
+  },
+  {
    "date": "2026-11-03",
    "headline": "Drone strike kills at least seven at South Kordofan fuel station",
    "headline_ko": "수단 남코르도판 주유소에 드론 공격…최소 7명 사망",
@@ -157,25 +195,6 @@
    "summary_en": "In Israel's post-election coalition talks, Liberman, Bennett and Golan backed Gadi Eisenkot for prime minister. President Herzog is preparing consultations with the parties to decide who will be tasked with forming the next government.",
    "headline_ja": "イスラエル連立協議:リーベルマン、ベネット、ゴラン各氏がアイゼンコット氏の首相就任を支持…ヘルツォグ大統領が協議を準備",
    "summary_ja": "総選挙後のイスラエル連立協議で、リーベルマン、ベネット、ゴランの各氏がガディ・アイゼンコット氏を首相候補として支持した。ヘルツォグ大統領は次期政権の組閣を委ねる人物を決めるため、各党との協議を準備している。"
-  },
-  {
-   "date": "2026-11-02",
-   "headline": "Zelensky says Russian airstrikes on school used for humanitarian aid in Ukraine's Zaporizhzhia region killed at least 18 people",
-   "headline_ko": "젤렌스키 \"러시아 공습, 자포리자주 구호물자 배급 학교 강타…최소 18명 사망\"",
-   "outlet": "Meduza",
-   "url": "https://meduza.io/en/news/2026/11/02/zelensky-says-russian-airstrikes-on-school-used-for-humanitarian-aid-in-ukraine-s-zaporizhzhia-region-killed-at-least-18-people",
-   "summary_ko": "젤렌스키 우크라이나 대통령은 러시아 공습이 자포리자주 코미슈바하에서 인도적 지원 물자 배급소로 쓰이던 학교를 타격해 최소 18명이 숨졌다고 밝혔다. 첫 공격은 학교를, 두 번째 공격은 사람들이 대피해 있던 대피소를 겨냥했다고 그는 말했다.",
-   "topics": [
-    "conflict"
-   ],
-   "orgs": [
-    "Russian Armed Forces",
-    "Government of Ukraine"
-   ],
-   "headline_en": "Zelensky says Russian airstrikes on school used for humanitarian aid in Ukraine's Zaporizhzhia region killed at least 18 people",
-   "summary_en": "Ukrainian President Zelensky said Russian airstrikes hit a school used as a humanitarian aid distribution point in Komyshuvakha, Zaporizhzhia region, killing at least 18 people. He said the first strike hit the school and a second hit the shelter where people had taken cover.",
-   "headline_ja": "ゼレンスキー氏「ロシアの空爆、ザポリージャ州の支援物資配布所の学校を直撃…少なくとも18人死亡」",
-   "summary_ja": "ウクライナのゼレンスキー大統領は、ロシアの空爆がザポリージャ州コミシュワハで人道支援物資の配布所として使われていた学校を直撃し、少なくとも18人が死亡したと明らかにした。最初の攻撃は学校を、2回目の攻撃は人々が避難していたシェルターを狙ったと述べた。"
   },
   {
    "date": "2026-11-01",
