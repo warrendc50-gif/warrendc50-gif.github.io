@@ -142,19 +142,19 @@
  },
  {
   "date": "2026-11-05",
-  "headline": "Stock market today: Dow plunges 1,800 points, Nasdaq enters correction in AI trade meltdown",
-  "headline_ko": "뉴욕증시, AI주 투매에 다우 1,800포인트 폭락…나스닥 조정 국면 진입",
-  "outlet": "Yahoo Finance",
-  "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html",
-  "summary_ko": "5일(현지시간) 투자자들이 AI 관련주를 대거 팔아치우면서 다우존스산업평균지수가 3.4%, 1,800포인트 넘게 급락했다. 나스닥은 조정 국면에 들어갔다.",
+  "headline": "[뉴욕증시] '검은 목요일' AI 붕괴에 일제히 폭락…나스닥, 조정장 진입",
+  "headline_ko": "뉴욕증시 '검은 목요일'…AI주 붕괴에 나스닥 5.52% 폭락, 조정장 진입",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611060625255827",
+  "summary_ko": "5일(현지시간) 뉴욕증시에서 다우지수는 3.44%, S&P500은 4.36%, 나스닥은 5.52% 떨어졌고 나스닥은 조정장에 들어섰다. 민주당의 규제 추진으로 AI 투자가 멈출 수 있다는 우려에 반도체 등 AI 테마주가 무너졌고, 반도체 3배 레버리지 ETF(SOXL)는 39% 폭락했다. 변동성지수(VIX)는 69.48% 뛴 28.15를 기록했다.",
   "topics": [
    "markets"
   ],
   "orgs": [],
-  "headline_en": "Stock market today: Dow plunges 1,800 points, Nasdaq enters correction in AI trade meltdown",
-  "summary_en": "On the 5th (local time), the Dow Jones Industrial Average tumbled 3.4%, or more than 1,800 points, as investors dumped AI-related stocks. The Nasdaq entered correction territory.",
-  "headline_ja": "米国株、AI株投げ売りでダウ1,800ドル急落…ナスダックは調整局面入り",
-  "summary_ja": "5日（現地時間）、投資家がAI関連株を大量に売り、ダウ工業株30種平均は3.4%、1,800ドル超急落した。ナスダックは調整局面に入った。"
+  "headline_en": "New York stocks' 'Black Thursday': Nasdaq plunges 5.52% on AI collapse, enters correction",
+  "summary_en": "On the 5th (local time), the Dow fell 3.44%, the S&P 500 4.36% and the Nasdaq 5.52% on Wall Street, with the Nasdaq entering correction territory. AI-themed stocks such as semiconductors collapsed on fears that Democrats' push for regulation could stall AI investment, and the triple-leveraged semiconductor ETF SOXL plunged 39%. The VIX volatility index jumped 69.48% to 28.15.",
+  "headline_ja": "米国株「暗黒の木曜日」…AI株崩壊でナスダック5.52%暴落、調整局面入り",
+  "summary_ja": "5日（現地時間）のニューヨーク株式市場でダウは3.44%、S&P500は4.36%、ナスダックは5.52%下落し、ナスダックは調整局面に入った。民主党の規制推進でAI投資が止まりかねないとの懸念から半導体などAI関連株が崩れ、半導体3倍レバレッジETF（SOXL）は39%暴落した。恐怖指数（VIX）は69.48%上昇し28.15となった。"
  },
  {
   "date": "2026-11-04",
