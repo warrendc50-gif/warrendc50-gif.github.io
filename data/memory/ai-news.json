@@ -174,6 +174,23 @@
   "summary_ja": "AI関連の政治活動委員会（PAC）は米議会の構成に影響を与えようと中間選挙に数百万ドルを投じたが、結果はまちまちだった。双方とも2028年まで支出を続ける姿勢を示した。"
  },
  {
+  "date": "2026-11-04",
+  "headline": "Voters rebuff data centers in every ballot measure except one during the 2026 midterms",
+  "headline_ko": "미 중간선거 주민투표서 데이터센터 안건, 단 1건 빼고 모두 부결",
+  "outlet": "CNBC",
+  "url": "https://cnbc.com/amp/2026/11/04/data-center-ballot-measures-2026-midterm.html",
+  "summary_ko": "2026년 미국 중간선거와 함께 치러진 데이터센터 관련 주민투표에서 유권자들은 한 건을 제외한 모든 안건에서 데이터센터를 거부했다.",
+  "topics": [
+   "policy",
+   "chips"
+  ],
+  "orgs": [],
+  "headline_en": "Voters rebuff data centers in every ballot measure except one during the 2026 midterms",
+  "summary_en": "In data center ballot measures held alongside the 2026 US midterm elections, voters rejected data centers in every measure except one.",
+  "headline_ja": "米中間選挙の住民投票、データセンター案件は1件を除きすべて否決",
+  "summary_ja": "2026年の米中間選挙と同時に行われたデータセンター関連の住民投票で、有権者は1件を除くすべての案件でデータセンターを拒否した。"
+ },
+ {
   "date": "2026-11-03",
   "headline": "AMD Reports Third Quarter 2026 Financial Results",
   "headline_ko": "AMD 3분기 매출 134억 달러…데이터센터 매출 사상 최대 85억 달러",
