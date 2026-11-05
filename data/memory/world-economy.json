@@ -51,6 +51,26 @@
   "summary_ja": "ドイツの防衛大手ラインメタルは、軍需契約の遅れを理由に2026年の業績見通しを引き下げた。株価は取引開始直後に13.7%下落した。"
  },
  {
+  "date": "2026-11-05",
+  "headline": "China threatens EU with retaliation as EU mulls “kill-switch” to defend its market",
+  "headline_ko": "EU, 중국 수입품 막을 '킬 스위치' 검토…중국은 보복 경고",
+  "outlet": "Euronews",
+  "url": "https://euronews.com/2026/11/05/china-threatens-eu-with-retaliation-as-eu-mulls-kill-switch-to-defend-its-market",
+  "summary_ko": "중국은 유럽연합이 값싼 중국산 수입품으로부터 시장을 지키는 조치를 도입하면 보복하겠다고 여러 차례 경고했다. 브뤼셀은 중국의 EU 시장 접근을 제한할 수 있는 이른바 '킬 스위치'라는 새 무역 수단을 마련하고 있다.",
+  "topics": [
+   "trade",
+   "china"
+  ],
+  "orgs": [
+   "유럽연합",
+   "중국"
+  ],
+  "headline_en": "China threatens EU with retaliation as EU mulls “kill-switch” to defend its market",
+  "summary_en": "China has repeatedly warned it will retaliate if the EU adopts measures to protect its market from cheap Chinese imports. Brussels is working on a new trade tool, dubbed a 'kill-switch', that could restrict Chinese access to the EU market.",
+  "headline_ja": "EU、中国製輸入品を阻む「キルスイッチ」を検討…中国は報復を警告",
+  "summary_ja": "中国は、EUが安価な中国製輸入品から市場を守る措置を導入すれば報復すると繰り返し警告している。ブリュッセルは、中国のEU市場へのアクセスを制限しうる「キルスイッチ」と呼ばれる新たな貿易手段を準備している。"
+ },
+ {
   "date": "2026-11-04",
   "headline": "Euro zone inflation hits 4% for first time in three years as interest rate hike looms",
   "headline_ko": "유로존 물가상승률 3년 만에 4% 도달, 금리 인상 임박",
