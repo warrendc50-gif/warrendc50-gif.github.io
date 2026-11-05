@@ -79,6 +79,24 @@
   "summary_ja": "オープンAIのクリス・レヘイン最高グローバル業務責任者は新たなエッセイで、2028年の米大統領選がAIの分岐点になり得るとして、政界に「説得力のある第三の道」を探るよう促した。彼は労働者保護、教育、AI安全、データセンターなど5つの政策優先事項を示した。AI Now InstituteのKate Brennan氏は、オープンAIが2024年にカリフォルニア州のAI安全法案（SB 1047）に反対したことを挙げ、「不誠実だ」と批判した。"
  },
  {
+  "date": "2026-11-04",
+  "headline": "Apple is reportedly cutting budgets for its internal AI usage",
+  "headline_ko": "애플, 사내 AI 사용 예산 삭감…엔지니어 하루 한도 300달러→200달러",
+  "outlet": "TechCrunch",
+  "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+  "summary_ko": "블룸버그 보도에 따르면 애플은 10월 엔지니어링 팀의 하루 AI 사용 한도를 300달러에서 200달러로 낮췄다. 추가 삭감도 계획된 것으로 전해졌다.",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "애플"
+  ],
+  "headline_en": "Apple is reportedly cutting budgets for its internal AI usage",
+  "summary_en": "According to a Bloomberg report, Apple lowered the daily AI spending cap for its engineering teams from $300 to $200 in October. Further cuts are reportedly planned.",
+  "headline_ja": "アップル、社内AI利用予算を削減…エンジニアの1日上限を300ドル→200ドルに",
+  "summary_ja": "ブルームバーグの報道によると、アップルは10月にエンジニアリングチームの1日あたりのAI利用上限を300ドルから200ドルに引き下げた。さらなる削減も計画されているという。"
+ },
+ {
   "date": "2026-11-03",
   "headline": "AMD Reports Third Quarter 2026 Financial Results",
   "headline_ko": "AMD 3분기 매출 134억 달러…데이터센터 매출 사상 최대 85억 달러",
