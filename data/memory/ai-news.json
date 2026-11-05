@@ -153,6 +153,44 @@
   "summary_ja": "欧州15か国の100を超える市民団体が今週末、電力を大量に消費するデータセンターの急速な開発に抗議するデモを行う。"
  },
  {
+  "date": "2026-11-05",
+  "headline": "Axiom Math wants to keep AI slop out of mathematics",
+  "headline_ko": "액시엄 매스, AI 에이전트로 수학 라이브러리 '스택스 프로젝트' 형식 검증",
+  "outlet": "TechCrunch",
+  "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics",
+  "summary_ko": "기업가치 16억 달러의 액시엄 매스는 AI 에이전트로 대형 수학 라이브러리 '스택스 프로젝트'를 컴퓨터가 검사할 수 있는 코드로 바꿔 형식 검증했다. 회사는 검증을 검토되지 않은 AI 생성 수학을 막는 수단으로 내세우고 있다.",
+  "topics": [
+   "research"
+  ],
+  "orgs": [
+   "액시엄 매스"
+  ],
+  "headline_en": "Axiom Math wants to keep AI slop out of mathematics",
+  "summary_en": "Axiom Math, valued at $1.6 billion, used AI agents to formally verify the Stacks Project, a large mathematics library, by converting it into computer-checked code. The company is pitching verification as a defense against unchecked AI-generated math.",
+  "headline_ja": "アクシオム・マス、AIエージェントで数学ライブラリ「スタックス・プロジェクト」を形式検証",
+  "summary_ja": "企業価値16億ドルのアクシオム・マスは、AIエージェントを使って大規模な数学ライブラリ「スタックス・プロジェクト」をコンピューターで検査できるコードに変換し、形式検証した。同社は検証を、検証されていないAI生成の数学を防ぐ手段として打ち出している。"
+ },
+ {
+  "date": "2026-11-05",
+  "headline": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+  "headline_ko": "박스, 엔비디아 '네모트론' 기반 AI 에이전트용 콘텐츠 검색 기능 도입",
+  "outlet": "TechCrunch",
+  "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+  "summary_ko": "박스가 엔비디아의 네모트론 임베딩 시스템을 자사 제품에 넣어 AI 에이전트의 질의 응답을 돕는 'Box Content Retrieval' 기능을 만든다. 엔비디아는 질의 응답이 4배 빨라지고 오류는 20%, 토큰 사용량은 90% 줄어든다고 밝혔으며, 내년 초 엔터프라이즈 어드밴스 고객에게 제공된다.",
+  "topics": [
+   "model",
+   "business"
+  ],
+  "orgs": [
+   "박스",
+   "엔비디아"
+  ],
+  "headline_en": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+  "summary_en": "Box will build Nvidia's Nemotron embedding system into its product as Box Content Retrieval, a feature to help AI agents answer queries. Nvidia said queries should be answered four times faster with 20% fewer errors and 90% fewer tokens, and the feature rolls out to Enterprise Advance customers early next year.",
+  "headline_ja": "Box、エヌビディア「ネモトロン」基盤のAIエージェント向けコンテンツ検索機能を導入",
+  "summary_ja": "Boxはエヌビディアのネモトロン埋め込みシステムを自社製品に組み込み、AIエージェントの質問応答を支援する「Box Content Retrieval」機能を作る。エヌビディアは応答が4倍速くなり、エラーは20%、トークン使用量は90%減ると説明しており、来年初めにEnterprise Advance顧客向けに提供される。"
+ },
+ {
   "date": "2026-11-04",
   "headline": "Qualcomm Announces Fourth Quarter and Fiscal 2026 Results",
   "headline_ko": "퀄컴 4분기 매출 103억 달러…아마존과 AI 데이터센터 협력, 2027년 데이터센터 매출 50억 달러 목표 재확인",
