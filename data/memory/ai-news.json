@@ -362,6 +362,24 @@
   "summary_ja": "ハロウィーンの週末、一部のGrok Bot利用者の週間利用上限が、使っていないのに突然100%に達する事態が起きた。イーロン・マスク氏はXで、これは意図的な措置だとし、「Grok Botの提供コストが収益に比べて持続不可能なほど高かった」と述べた。今後、加入者の利用上限がどう変わるかはまだ明らかにしていない。"
  },
  {
+  "date": "2026-11-02",
+  "headline": "Abu Dhabi Crown Prince meets OpenAI's Sam Altman as emirate signs 4 deals in key sectors",
+  "headline_ko": "아부다비 왕세자, 올트먼 오픈AI CEO 접견…주요 분야 협약 4건 체결",
+  "outlet": "Khaleej Times",
+  "url": "https://khaleejtimes.com/uae/abu-dhabi-crown-prince-openai-altman-4-deals-key-sectors",
+  "summary_ko": "아부다비 왕세자가 샘 올트먼 오픈AI 최고경영자를 만났고, 아부다비는 오픈AI와 주요 분야에 걸친 협약 4건을 체결했다.",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "오픈AI"
+  ],
+  "headline_en": "Abu Dhabi Crown Prince meets OpenAI's Sam Altman as emirate signs 4 deals in key sectors",
+  "summary_en": "Abu Dhabi's Crown Prince met OpenAI CEO Sam Altman, and the emirate signed four agreements with OpenAI spanning key sectors.",
+  "headline_ja": "アブダビ皇太子、オープンAIのアルトマンCEOと会談…主要分野で4件の協定締結",
+  "summary_ja": "アブダビの皇太子がオープンAIのサム・アルトマンCEOと会談し、アブダビはオープンAIと主要分野にわたる4件の協定を締結した。"
+ },
+ {
   "date": "2026-10-30",
   "headline": "We've received our first response from the Project Suncatcher prototype satellite.",
   "headline_ko": "구글 '프로젝트 선캐처' 시제품 위성, 궤도 위 TPU에서 첫 AI 응답 수신",
