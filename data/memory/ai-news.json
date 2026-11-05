@@ -196,6 +196,26 @@
   "summary_ja": "ウォール・ストリート・ジャーナルによると、クラウドストライクはAIエージェント監視ソフトウェアのFiddler AIを約4億ドル、AIセキュリティテスト自動化のDreadnodeを約9500万ドルで買収する。Fiddler AIはFalconプラットフォームの「Falcon Observe」となり、Dreadnodeは「Falcon Guardian」に統合される。企業がセキュリティ方針より速くAIツールを導入する中、AIエージェントのセキュリティ需要が高まっている。"
  },
  {
+  "date": "2026-11-03",
+  "headline": "Google, OpenAI and Anthropic Unite to Introduce New AI Scraping Controls",
+  "headline_ko": "구글·오픈AI·앤트로픽, AI 데이터 수집 제어 새 장치 함께 도입",
+  "outlet": "iTech Post",
+  "url": "https://www.itechpost.com/articles/237707/20261103/google-openai-anthropic-unite-introduce-new-ai-scraping-controls.htm",
+  "summary_ko": "구글, 오픈AI, 앤트로픽이 웹사이트 콘텐츠를 AI가 수집하는 것을 제어할 수 있는 새 장치를 함께 도입하기로 했다.",
+  "topics": [
+   "policy"
+  ],
+  "orgs": [
+   "구글",
+   "오픈AI",
+   "앤트로픽"
+  ],
+  "headline_en": "Google, OpenAI and Anthropic Unite to Introduce New AI Scraping Controls",
+  "summary_en": "Google, OpenAI and Anthropic agreed to jointly introduce new controls that let websites govern AI scraping of their content.",
+  "headline_ja": "グーグル・オープンAI・アンソロピック、AIのデータ収集を制御する新たな仕組みを共同導入",
+  "summary_ja": "グーグル、オープンAI、アンソロピックは、ウェブサイトのコンテンツがAIに収集されるのを制御できる新たな仕組みを共同で導入することにした。"
+ },
+ {
   "date": "2026-11-02",
   "headline": "Apple Reports 4Q 2026 Results: $30.7B Profit on $114.5B Revenue",
   "headline_ko": "애플 2026 회계연도 4분기 실적: 매출 1145억 달러, 순이익 307억 달러",
