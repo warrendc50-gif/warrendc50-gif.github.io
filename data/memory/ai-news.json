@@ -1,5 +1,259 @@
 [
  {
+  "date": "2026-11-05",
+  "headline": "한국데이터센터연합회-코트라, AI 데이터센터 해외 투자 유치 나선다",
+  "headline_ko": "한국데이터센터연합회-코트라, AI 데이터센터 해외 투자 유치 나선다",
+  "outlet": "ZDNet Korea",
+  "url": "https://zdnet.co.kr/view/?no=20261104162932",
+  "summary_ko": "한국데이터센터연합회와 코트라가 4일 업무협약을 맺고 국내 AI 데이터센터에 대한 외국인 투자 유치에 협력하기로 했다. 두 기관은 해외 투자 수요를 발굴하고 전력 확보·인허가 문제 해결을 돕고, 내년 3월 시행되는 AI 데이터센터 특별법에 맞춰 외국인 투자 절차 가이드북을 낼 예정이다. 정부는 민간 550조원 투자로 총 8.4GW 규모 AI 데이터센터를 구축하는 방안을 추진 중이다.",
+  "topics": [
+   "korea",
+   "policy"
+  ],
+  "orgs": [
+   "한국데이터센터연합회",
+   "코트라"
+  ],
+  "headline_en": "Korea Data Center Council and KOTRA move to attract foreign investment in AI data centers",
+  "summary_en": "The Korea Data Center Council and KOTRA signed an MOU on the 4th to cooperate on attracting foreign investment in Korean AI data centers. The two will identify overseas investment demand, help resolve power-supply and permitting issues, and publish a foreign investment procedure guidebook in line with the AI data center special act taking effect next March. The government is pursuing a plan to build a total of 8.4GW of AI data centers with 550 trillion won in private investment.",
+  "headline_ja": "韓国データセンター連合会とKOTRA、AIデータセンターへの海外投資誘致に乗り出す",
+  "summary_ja": "韓国データセンター連合会とKOTRAは4日に業務協約を結び、国内AIデータセンターへの外国人投資誘致で協力することにした。両機関は海外の投資需要を発掘し、電力確保・許認可問題の解決を支援し、来年3月に施行されるAIデータセンター特別法に合わせて外国人投資手続きのガイドブックを発行する予定だ。政府は民間による550兆ウォンの投資で計8.4GW規模のAIデータセンターを構築する案を進めている。"
+ },
+ {
+  "date": "2026-11-04",
+  "headline": "Qualcomm Announces Fourth Quarter and Fiscal 2026 Results",
+  "headline_ko": "퀄컴 4분기 매출 103억 달러…아마존과 AI 데이터센터 협력, 2027년 데이터센터 매출 50억 달러 목표 재확인",
+  "outlet": "Qualcomm (SEC 8-K)",
+  "url": "https://www.sec.gov/Archives/edgar/data/0000804328/000080432826000127/qcom092726erex991.htm",
+  "summary_ko": "퀄컴의 2026 회계연도 4분기 GAAP 매출은 103억2000만 달러로 1년 전보다 8% 줄었다. 회사는 AI 데이터센터용 제품을 여러 세대에 걸쳐 아마존과 함께 개발하는 협력을 발표하고, 2027 회계연도 데이터센터 매출 목표 50억 달러를 재확인했다. 데이터센터 사업 확대로 2027 회계연도 비(非)휴대폰 매출이 60% 넘게 늘 것으로 예상했다.",
+  "topics": [
+   "chips",
+   "business"
+  ],
+  "orgs": [
+   "퀄컴",
+   "아마존"
+  ],
+  "headline_en": "Qualcomm Q4 revenue $10.3 billion; AI data center collaboration with Amazon, reiterates $5 billion FY2027 data center target",
+  "summary_en": "Qualcomm's fiscal 2026 fourth-quarter GAAP revenue fell 8% from a year earlier to $10.32 billion. The company announced a multi-generational product collaboration with Amazon for AI data centers and reiterated its fiscal 2027 data center revenue target of $5 billion. It expects non-handset revenue to grow more than 60% in fiscal 2027 as the data center business ramps.",
+  "headline_ja": "クアルコム第4四半期売上高103億ドル…アマゾンとAIデータセンターで協業、2027年度データセンター売上高50億ドル目標を再確認",
+  "summary_ja": "クアルコムの2026会計年度第4四半期のGAAP売上高は前年比8%減の103億2000万ドルだった。同社はAIデータセンター向け製品を複数世代にわたりアマゾンと共同開発する協業を発表し、2027会計年度のデータセンター売上高目標50億ドルを再確認した。データセンター事業の拡大により、2027会計年度の非携帯電話売上高は60%超増えると見込んだ。"
+ },
+ {
+  "date": "2026-11-04",
+  "headline": "Meta acquires AI coding startup Conductor",
+  "headline_ko": "메타, AI 코딩 스타트업 '컨덕터' 인수",
+  "outlet": "TechCrunch",
+  "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+  "summary_ko": "메타가 여러 AI 코딩 에이전트를 병렬 작업 공간에서 돌려 소프트웨어를 만들게 해 주는 스타트업 컨덕터를 인수했다. 메타는 인수 사실을 확인했지만 세부 조건은 밝히지 않았다. 컨덕터의 클라우드 서비스는 11월 20일 종료되고 이후 이용자 클라우드 데이터는 삭제된다.",
+  "topics": [
+   "business",
+   "model"
+  ],
+  "orgs": [
+   "메타",
+   "컨덕터"
+  ],
+  "headline_en": "Meta acquires AI coding startup Conductor",
+  "summary_en": "Meta has acquired Conductor, a startup that lets users build software by running multiple AI coding agents in parallel workspaces. Meta confirmed the acquisition but did not disclose terms. Conductor's cloud service will shut down on November 20, after which users' cloud data will be deleted.",
+  "headline_ja": "メタ、AIコーディング新興企業「Conductor」を買収",
+  "summary_ja": "メタは、複数のAIコーディングエージェントを並列のワークスペースで動かしてソフトウェアを作れるスタートアップConductorを買収した。メタは買収を認めたが、詳細な条件は明らかにしなかった。Conductorのクラウドサービスは11月20日に終了し、その後利用者のクラウドデータは削除される。"
+ },
+ {
+  "date": "2026-11-04",
+  "headline": "OpenAI is already trying to shape the 2028 election",
+  "headline_ko": "오픈AI, 벌써 2028년 미 대선 의제 만들기 나서",
+  "outlet": "TechCrunch",
+  "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+  "summary_ko": "오픈AI의 크리스 리헤인 최고글로벌업무책임자가 새 에세이에서 2028년 미국 대선이 AI의 분수령이 될 수 있다며 정치권에 '설득력 있는 제3의 길'을 찾으라고 촉구했다. 그는 노동자 보호, 교육, AI 안전, 데이터센터 등 다섯 가지 정책 우선순위를 제시했다. AI 나우 연구소의 케이트 브레넌은 오픈AI가 2024년 캘리포니아 AI 안전법(SB 1047)에 반대했던 점을 들어 이를 '위선적'이라고 비판했다.",
+  "topics": [
+   "policy"
+  ],
+  "orgs": [
+   "오픈AI",
+   "AI 나우 연구소"
+  ],
+  "headline_en": "OpenAI is already trying to shape the 2028 election",
+  "summary_en": "In a new essay, OpenAI chief global affairs officer Chris Lehane said the 2028 U.S. presidential election could be a defining moment for AI and urged politicians to find a 'compelling third path.' He laid out five policy priorities spanning worker protections, education, AI safety and data centers. AI Now Institute's Kate Brennan called it 'disingenuous,' citing OpenAI's 2024 opposition to California's AI safety bill SB 1047.",
+  "headline_ja": "オープンAI、早くも2028年米大統領選の争点づくりに動く",
+  "summary_ja": "オープンAIのクリス・レヘイン最高グローバル業務責任者は新たなエッセイで、2028年の米大統領選がAIの分岐点になり得るとして、政界に「説得力のある第三の道」を探るよう促した。彼は労働者保護、教育、AI安全、データセンターなど5つの政策優先事項を示した。AI Now InstituteのKate Brennan氏は、オープンAIが2024年にカリフォルニア州のAI安全法案（SB 1047）に反対したことを挙げ、「不誠実だ」と批判した。"
+ },
+ {
+  "date": "2026-11-03",
+  "headline": "AMD Reports Third Quarter 2026 Financial Results",
+  "headline_ko": "AMD 3분기 매출 134억 달러…데이터센터 매출 사상 최대 85억 달러",
+  "outlet": "AMD (SEC 8-K)",
+  "url": "https://www.sec.gov/Archives/edgar/data/0000002488/000000248826000188/q32026991.htm",
+  "summary_ko": "AMD의 3분기 매출은 약 134억 달러로 1년 전보다 45% 늘었다. 데이터센터 부문 매출은 사상 최대인 85억 달러로 전년 대비 97% 증가했으며, 인스팅트 GPU와 EPYC CPU 판매가 이끌었다. 회사는 4분기 매출을 약 170억 달러(±3%)로 전망했다.",
+  "topics": [
+   "chips",
+   "business"
+  ],
+  "orgs": [
+   "AMD"
+  ],
+  "headline_en": "AMD Q3 revenue $13.4 billion; data center revenue a record $8.5 billion",
+  "summary_en": "AMD's third-quarter revenue rose 45% from a year earlier to about $13.4 billion. Data center segment revenue hit a record $8.5 billion, up 97% year over year, driven by Instinct GPU and EPYC CPU sales. The company forecast fourth-quarter revenue of about $17 billion (plus or minus 3%).",
+  "headline_ja": "AMD第3四半期売上高134億ドル…データセンター売上高は過去最高の85億ドル",
+  "summary_ja": "AMDの第3四半期売上高は前年比45%増の約134億ドルだった。データセンター部門の売上高は前年比97%増の過去最高85億ドルで、Instinct GPUとEPYC CPUの販売がけん引した。同社は第4四半期の売上高を約170億ドル（±3%）と見込んだ。"
+ },
+ {
+  "date": "2026-11-03",
+  "headline": "Anthropic is working on a system to prove AI models' identity",
+  "headline_ko": "앤트로픽, AI 모델의 '신원'을 증명하는 시스템 개발 중",
+  "outlet": "TechCrunch",
+  "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+  "summary_ko": "앤트로픽이 출력물이 실제로 주장한 AI 모델에서 나왔는지 검증할 수 있는 오픈소스 시스템 'FlashProve' 연구를 공개했다. 각 연구소가 모델별 지문을 공개하면 모델 가중치를 드러내지 않고도 출력물을 암호학적으로 대조할 수 있다. 기술 명세와 코드는 깃허브에 공개됐지만, 회사는 연구가 진행 중이며 배포 계획은 없다고 밝혔다.",
+  "topics": [
+   "research"
+  ],
+  "orgs": [
+   "앤트로픽"
+  ],
+  "headline_en": "Anthropic is working on a system to prove AI models' identity",
+  "summary_en": "Anthropic published research on 'FlashProve,' an open-source system that can verify whether an output actually came from the AI model it claims to be. If labs publish a fingerprint for each model, outputs can be checked cryptographically without revealing model weights. The technical spec and code are on GitHub, but the company said the research is ongoing and there are no deployment plans.",
+  "headline_ja": "アンソロピック、AIモデルの「身元」を証明するシステムを開発中",
+  "summary_ja": "アンソロピックは、出力が実際に名乗るAIモデルから生成されたかを検証できるオープンソースシステム「FlashProve」の研究を公開した。各研究所がモデルごとのフィンガープリントを公開すれば、モデルの重みを明かさずに出力を暗号学的に照合できる。技術仕様とコードはGitHubで公開されたが、同社は研究が進行中で展開の計画はないとしている。"
+ },
+ {
+  "date": "2026-11-03",
+  "headline": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
+  "headline_ko": "크라우드스트라이크, AI 보안 스타트업 2곳 약 5억 달러에 인수…AI 에이전트 보안 시장 급성장",
+  "outlet": "TechCrunch",
+  "url": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
+  "summary_ko": "월스트리트저널에 따르면 크라우드스트라이크가 AI 에이전트 관측 소프트웨어 기업 피들러 AI를 약 4억 달러, AI 보안 테스트 자동화 기업 드레드노드를 약 9500만 달러에 인수한다. 피들러 AI는 팔콘 플랫폼의 'Falcon Observe'로, 드레드노드는 'Falcon Guardian'에 통합된다. 기업들이 보안 정책보다 빠르게 AI 도구를 도입하면서 AI 에이전트 보안 수요가 커지고 있다.",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "크라우드스트라이크",
+   "피들러 AI",
+   "드레드노드"
+  ],
+  "headline_en": "CrowdStrike to buy two AI security startups for about $500 million as the AI agent security market takes off",
+  "summary_en": "According to The Wall Street Journal, CrowdStrike is acquiring AI agent observability company Fiddler AI for about $400 million and AI security testing automation company Dreadnode for about $95 million. Fiddler AI will become 'Falcon Observe' on the Falcon platform, and Dreadnode will be integrated into 'Falcon Guardian.' Demand for AI agent security is growing as companies adopt AI tools faster than their security policies can keep up.",
+  "headline_ja": "クラウドストライク、AIセキュリティ新興2社を約5億ドルで買収…AIエージェントのセキュリティ市場が急成長",
+  "summary_ja": "ウォール・ストリート・ジャーナルによると、クラウドストライクはAIエージェント監視ソフトウェアのFiddler AIを約4億ドル、AIセキュリティテスト自動化のDreadnodeを約9500万ドルで買収する。Fiddler AIはFalconプラットフォームの「Falcon Observe」となり、Dreadnodeは「Falcon Guardian」に統合される。企業がセキュリティ方針より速くAIツールを導入する中、AIエージェントのセキュリティ需要が高まっている。"
+ },
+ {
+  "date": "2026-11-02",
+  "headline": "Apple Reports 4Q 2026 Results: $30.7B Profit on $114.5B Revenue",
+  "headline_ko": "애플 2026 회계연도 4분기 실적: 매출 1145억 달러, 순이익 307억 달러",
+  "outlet": "MacRumors",
+  "url": "https://macrumors.com/2026/11/02/apple-4q-2026-earnings",
+  "summary_ko": "애플의 9월 분기 매출은 1145억 달러로 1년 전보다 12% 늘어 9월 분기 최고치를 기록했고, 순이익은 307억 달러였다. 아이폰 매출은 576억 달러로 17% 늘었고 서비스 매출은 316억 달러로 사상 최고였다. 이번 분기에는 '시리 AI'가 출시됐으며, 애플은 메모리 비용 상승과 시리 AI 확대를 마진 압박 요인으로 꼽았다.",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "애플"
+  ],
+  "headline_en": "Apple fiscal Q4 2026 results: revenue $114.5 billion, net income $30.7 billion",
+  "summary_en": "Apple's September-quarter revenue rose 12% from a year earlier to $114.5 billion, a September-quarter record, and net income was $30.7 billion. iPhone revenue rose 17% to $57.6 billion, and services revenue hit an all-time high of $31.6 billion. 'Siri AI' launched during the quarter, and Apple cited higher memory costs and the Siri AI ramp as margin pressures.",
+  "headline_ja": "アップル2026会計年度第4四半期決算：売上高1145億ドル、純利益307億ドル",
+  "summary_ja": "アップルの9月四半期の売上高は前年比12%増の1145億ドルで9月四半期の過去最高を記録し、純利益は307億ドルだった。iPhone売上高は17%増の576億ドル、サービス売上高は316億ドルで過去最高となった。今四半期には「Siri AI」が発売され、アップルはメモリコストの上昇とSiri AIの拡大を利益率の圧迫要因に挙げた。"
+ },
+ {
+  "date": "2026-11-02",
+  "headline": "Palantir Reports Q3 2026 U.S. Comm Revenue Growth of 148% Y/Y",
+  "headline_ko": "팔란티어 3분기 미국 상업 매출 148% 증가…연간 가이던스 상향",
+  "outlet": "Palantir (SEC 8-K)",
+  "url": "https://www.sec.gov/Archives/edgar/data/0001321655/000132165526000045/a2026q3ex991pressrelease.htm",
+  "summary_ko": "팔란티어의 3분기 매출은 23억1300만 달러로 1년 전보다 96% 늘었고, 미국 상업 매출은 9억8400만 달러로 148% 증가했다. GAAP 순이익은 11억2800만 달러였다. 회사는 2026년 연간 매출 전망을 85억3000만~85억3400만 달러로 올렸다.",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "팔란티어"
+  ],
+  "headline_en": "Palantir Q3 U.S. commercial revenue up 148%, full-year guidance raised",
+  "summary_en": "Palantir's third-quarter revenue rose 96% from a year earlier to $2.313 billion, and U.S. commercial revenue grew 148% to $984 million. GAAP net income was $1.128 billion. The company raised its 2026 full-year revenue outlook to $8.530–8.534 billion.",
+  "headline_ja": "パランティア第3四半期、米国商業売上高148%増…通期ガイダンスを上方修正",
+  "summary_ja": "パランティアの第3四半期売上高は前年比96%増の23億1300万ドルで、米国商業売上高は148%増の9億8400万ドルだった。GAAP純利益は11億2800万ドルだった。同社は2026年通期の売上高見通しを85億3000万～85億3400万ドルに引き上げた。"
+ },
+ {
+  "date": "2026-11-02",
+  "headline": "Anthropic warns that it's very close to RSI capability, aka self-building AI",
+  "headline_ko": "앤트로픽, 상장 서류 수정본서 '재귀적 자기개선(RSI)' 역량에 매우 근접했다고 경고",
+  "outlet": "TechCrunch",
+  "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+  "summary_ko": "앤트로픽은 수정 S-1/A 서류에서 AI가 스스로를 훈련해 발전 속도가 급격히 빨라지는 '재귀적 자기개선' 단계에 가까워졌을 수 있다고 밝혔다. 내부 추정상 향후 모델이 책임 있는 확장 정책(RSP)의 급격한 진보 기준에 곧 도달할 수 있지만, 현재 그 기준을 넘은 모델은 없다고 했다. 회사는 의미 있는 인간 감독 없이 Claude가 차세대 최첨단 모델을 자율 설계하도록 둘 생각은 없다고 덧붙였다.",
+  "topics": [
+   "research",
+   "business"
+  ],
+  "orgs": [
+   "앤트로픽"
+  ],
+  "headline_en": "Anthropic warns that it's very close to RSI capability, aka self-building AI",
+  "summary_en": "In its amended S-1/A filing, Anthropic said it may be nearing 'recursive self-improvement,' the stage where AI trains itself and progress accelerates sharply. Its internal estimates suggest future models could soon meet its Responsible Scaling Policy threshold for dramatically accelerated progress, though no current model has crossed it. The company added that it does not intend to let Claude autonomously design successive frontier models without meaningful human oversight.",
+  "headline_ja": "アンソロピック、上場書類の修正版で「再帰的自己改善（RSI）」能力に非常に近いと警告",
+  "summary_ja": "アンソロピックは修正S-1/A書類で、AIが自らを訓練して進歩が急加速する「再帰的自己改善」の段階に近づいている可能性があると明らかにした。社内推計では今後のモデルが責任あるスケーリング方針（RSP）の急激な進歩の基準に間もなく達し得るが、現時点でその基準を超えたモデルはないという。同社は、意味のある人間の監督なしにClaudeに次世代の最先端モデルを自律設計させるつもりはないと付け加えた。"
+ },
+ {
+  "date": "2026-11-02",
+  "headline": "Elon Musk throttles Grok Bot limits due to 'unsustainably high' costs",
+  "headline_ko": "일론 머스크, '감당할 수 없이 높은' 비용 탓에 그록 봇 사용 한도 축소",
+  "outlet": "TechCrunch",
+  "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+  "summary_ko": "핼러윈 주말 일부 그록 봇 이용자의 주간 사용 한도가 사용하지 않았는데도 갑자기 100%로 차는 일이 벌어졌다. 일론 머스크는 X에서 이것이 의도된 조치라며 \"그록 봇 운영 비용이 매출에 비해 감당할 수 없을 만큼 높았다\"고 밝혔다. 앞으로 구독자의 사용 한도가 어떻게 바뀔지는 아직 밝히지 않았다.",
+  "topics": [
+   "model",
+   "business"
+  ],
+  "orgs": [
+   "xAI",
+   "스페이스X"
+  ],
+  "headline_en": "Elon Musk cuts Grok Bot usage limits over 'unsustainably high' costs",
+  "summary_en": "Over Halloween weekend, some Grok Bot users found their weekly usage limits suddenly maxed out at 100% even though they had not used it. Elon Musk said on X that this was intentional, writing that 'the cost of serving Grok Bot was unsustainably high relative to revenue.' He has not yet said how subscribers' usage limits will change going forward.",
+  "headline_ja": "イーロン・マスク氏、「持続不可能なほど高い」コストを理由にGrok Botの利用上限を縮小",
+  "summary_ja": "ハロウィーンの週末、一部のGrok Bot利用者の週間利用上限が、使っていないのに突然100%に達する事態が起きた。イーロン・マスク氏はXで、これは意図的な措置だとし、「Grok Botの提供コストが収益に比べて持続不可能なほど高かった」と述べた。今後、加入者の利用上限がどう変わるかはまだ明らかにしていない。"
+ },
+ {
+  "date": "2026-10-30",
+  "headline": "We've received our first response from the Project Suncatcher prototype satellite.",
+  "headline_ko": "구글 '프로젝트 선캐처' 시제품 위성, 궤도 위 TPU에서 첫 AI 응답 수신",
+  "outlet": "Google Blog",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
+  "summary_ko": "구글은 10월 1일 발사한 프로젝트 선캐처 시제품 위성에서 데이터센터급 TPU가 궤도 위에서 낸 첫 AI 응답을 받았다고 밝혔다. 위성에 탑재된 Gemma 4 오픈 모델에 프롬프트를 보냈고, 응답은 노르웨이 스발바르 상공을 지날 때 내려받았다. 다음 단계로 궤도에서 열 스트레스와 방사선 노출 시험을 하고, 2027년에는 서로 연결된 쌍둥이 위성을 띄울 계획이다.",
+  "topics": [
+   "research",
+   "chips"
+  ],
+  "orgs": [
+   "구글"
+  ],
+  "headline_en": "We've received our first response from the Project Suncatcher prototype satellite.",
+  "summary_en": "Google said it received the first AI response from a data-center-class TPU in orbit on the Project Suncatcher prototype satellite launched on October 1. A prompt was sent to the onboard Gemma 4 open model, and the response was downlinked as the satellite passed over Svalbard, Norway. Next, the team will test thermal stress and radiation exposure in orbit, and plans to launch a pair of interconnected twin satellites in 2027.",
+  "headline_ja": "グーグル「プロジェクト・サンキャッチャー」試作衛星、軌道上のTPUから初のAI応答を受信",
+  "summary_ja": "グーグルは、10月1日に打ち上げたプロジェクト・サンキャッチャー試作衛星で、データセンター級TPUが軌道上で出した初のAI応答を受け取ったと明らかにした。衛星に搭載したGemma 4オープンモデルにプロンプトを送り、応答はノルウェー・スヴァールバル上空を通過する際にダウンリンクした。次の段階として軌道上で熱ストレスと放射線被ばくの試験を行い、2027年には相互接続された双子衛星を打ち上げる計画だ。"
+ },
+ {
+  "date": "2026-10-30",
+  "headline": "현대차그룹, AI 데이터센터 설립 속도… 새만금 AI 밸리 투자 본격화",
+  "headline_ko": "현대차그룹, AI 데이터센터 설립 속도… 새만금 AI 밸리 투자 본격화",
+  "outlet": "서울신문",
+  "url": "https://www.seoul.co.kr/news/newsView.php?id=20261030500167",
+  "summary_ko": "현대차그룹이 9조원 규모 새만금 AI 밸리 사업의 핵심인 AI 데이터센터 건립에 착수하고 현대차·기아·현대모비스·현대건설·현대오토에버의 투자 참여를 확정했다. 11월에는 데이터센터 건축·인프라를 맡는 SPC와 GPU 서비스를 맡는 SPC 두 곳이 출범한다. 그룹은 이 데이터센터로 자율주행·로봇·제조 AI 등 피지컬 AI 핵심 기술을 내재화할 계획이다.",
+  "topics": [
+   "korea",
+   "chips",
+   "business"
+  ],
+  "orgs": [
+   "현대차그룹",
+   "기아",
+   "현대모비스",
+   "현대건설",
+   "현대오토에버"
+  ],
+  "headline_en": "Hyundai Motor Group speeds up AI data center plans as Saemangeum AI Valley investment gets underway",
+  "summary_en": "Hyundai Motor Group has begun building the AI data center at the core of its 9 trillion won Saemangeum AI Valley project, confirming investment participation by Hyundai Motor, Kia, Hyundai Mobis, Hyundai E&C and Hyundai AutoEver. In November, two SPCs will launch: one for data center construction and infrastructure and one for GPU services. The group plans to use the data center to internalize core physical AI technologies such as autonomous driving, robotics and manufacturing AI.",
+  "headline_ja": "現代自動車グループ、AIデータセンター設立を加速…セマングムAIバレー投資が本格化",
+  "summary_ja": "現代自動車グループは9兆ウォン規模のセマングムAIバレー事業の中核であるAIデータセンターの建設に着手し、現代自動車・起亜・現代モービス・現代建設・現代オートエバーの投資参加を確定した。11月にはデータセンターの建築・インフラを担うSPCとGPUサービスを担うSPCの2社が発足する。グループはこのデータセンターで自動運転・ロボット・製造AIなどフィジカルAIの中核技術を内製化する計画だ。"
+ },
+ {
   "date": "2026-10-29",
   "headline": "Amazon.com, Inc. - Amazon.com Announces Third Quarter Results",
   "headline_ko": "아마존 3분기 매출 2,019억달러…AWS 39% 성장, 영업이익률 사상 최고",
