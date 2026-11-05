@@ -20,6 +20,27 @@
   "summary_ja": "韓国データセンター連合会とKOTRAは4日に業務協約を結び、国内AIデータセンターへの外国人投資誘致で協力することにした。両機関は海外の投資需要を発掘し、電力確保・許認可問題の解決を支援し、来年3月に施行されるAIデータセンター特別法に合わせて外国人投資手続きのガイドブックを発行する予定だ。政府は民間による550兆ウォンの投資で計8.4GW規模のAIデータセンターを構築する案を進めている。"
  },
  {
+  "date": "2026-11-05",
+  "headline": "NextDC shares surge 43% after Goodman, Digital Realty stake purchases",
+  "headline_ko": "호주 데이터센터 업체 넥스트DC, 굿맨·디지털리얼티 지분 매입에 주가 40%대 급등",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/11/05/nextdc-goodman-group-digital-realty-data-centers-.html",
+  "summary_ko": "호주 데이터센터 운영업체 넥스트DC의 주가가 굿맨그룹과 디지털리얼티가 지분 확보에 나선 뒤 목요일 42% 넘게 급등했다.",
+  "topics": [
+   "chips",
+   "business"
+  ],
+  "orgs": [
+   "넥스트DC",
+   "굿맨그룹",
+   "디지털리얼티"
+  ],
+  "headline_en": "NextDC shares surge 43% after Goodman, Digital Realty stake purchases",
+  "summary_en": "Shares of Australian data center operator NextDC surged more than 42% on Thursday after Goodman Group and Digital Realty moved to take stakes in the company.",
+  "headline_ja": "豪データセンター企業ネクストDC、グッドマン・デジタル・リアルティの株式取得で株価40%超急騰",
+  "summary_ja": "豪データセンター運営会社ネクストDCの株価は、グッドマン・グループとデジタル・リアルティが株式取得に動いたことを受け、木曜日に42%超急騰した。"
+ },
+ {
   "date": "2026-11-04",
   "headline": "Qualcomm Announces Fourth Quarter and Fiscal 2026 Results",
   "headline_ko": "퀄컴 4분기 매출 103억 달러…아마존과 AI 데이터센터 협력, 2027년 데이터센터 매출 50억 달러 목표 재확인",

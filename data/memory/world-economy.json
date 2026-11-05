@@ -1,5 +1,56 @@
 [
  {
+  "date": "2026-11-05",
+  "headline": "Gold hits a two-week high as dollar, Treasury yields ease after U.S. midterm elections",
+  "headline_ko": "미 중간선거 후 달러·국채금리 하락에 금값 2주 만의 최고",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/11/05/gold-hits-two-week-high-as-dollar-yields-ease-after-us-midterms.html",
+  "summary_ko": "미국 중간선거 이후 달러와 국채 금리가 내리면서 금값이 2주 만의 최고치로 올랐다. 현물 금 가격은 1.9% 오른 온스당 4,134.83달러를 기록했다.",
+  "topics": [
+   "energy",
+   "markets"
+  ],
+  "orgs": [],
+  "headline_en": "Gold hits a two-week high as dollar, Treasury yields ease after U.S. midterm elections",
+  "summary_en": "Gold prices rose to a two-week high as the dollar and Treasury yields eased after the US midterm elections. Spot gold rose 1.9% to $4,134.83 an ounce.",
+  "headline_ja": "米中間選挙後のドル・国債利回り低下で金価格が2週間ぶり高値",
+  "summary_ja": "米中間選挙後にドルと国債利回りが低下し、金価格が2週間ぶりの高値に上昇した。スポット金価格は1.9%高の1オンス＝4,134.83ドルとなった。"
+ },
+ {
+  "date": "2026-11-05",
+  "headline": "Oil falls for a fourth day on expectations for lower risk of Iran war escalation",
+  "headline_ko": "이란 전쟁 확전 위험 감소 기대에 국제유가 4거래일 연속 하락",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/11/05/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation.html",
+  "summary_ko": "이란 전쟁이 확전될 위험이 줄어들 것이라는 기대에 국제유가가 4거래일 연속 하락했다.",
+  "topics": [
+   "energy"
+  ],
+  "orgs": [],
+  "headline_en": "Oil falls for a fourth day on expectations for lower risk of Iran war escalation",
+  "summary_en": "Oil prices fell for a fourth straight day on expectations that the risk of the Iran war escalating will diminish.",
+  "headline_ja": "イラン戦争の拡大リスク低下観測で原油価格が4日続落",
+  "summary_ja": "イラン戦争が拡大するリスクが低下するとの見方から、原油価格は4日連続で下落した。"
+ },
+ {
+  "date": "2026-11-05",
+  "headline": "Defense giant Rheinmetall plunges over 13% after cutting outlook on stalled military contracts",
+  "headline_ko": "독일 방산업체 라인메탈, 군 계약 지연에 실적 전망 하향…주가 13% 넘게 급락",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/11/05/rheinmetall-stock-outlook-sales-germany.html",
+  "summary_ko": "독일 방산업체 라인메탈이 군 계약 지연을 이유로 2026년 실적 전망을 낮췄다. 주가는 장 초반 13.7% 떨어졌다.",
+  "topics": [
+   "markets"
+  ],
+  "orgs": [
+   "라인메탈"
+  ],
+  "headline_en": "Defense giant Rheinmetall plunges over 13% after cutting outlook on stalled military contracts",
+  "summary_en": "German defense company Rheinmetall lowered its 2026 guidance, citing delayed military contracts. Its shares fell 13.7% in early trading.",
+  "headline_ja": "独防衛大手ラインメタル、軍需契約の遅れで業績見通し下方修正…株価13%超急落",
+  "summary_ja": "ドイツの防衛大手ラインメタルは、軍需契約の遅れを理由に2026年の業績見通しを引き下げた。株価は取引開始直後に13.7%下落した。"
+ },
+ {
   "date": "2026-11-04",
   "headline": "Euro zone inflation hits 4% for first time in three years as interest rate hike looms",
   "headline_ko": "유로존 물가상승률 3년 만에 4% 도달, 금리 인상 임박",
