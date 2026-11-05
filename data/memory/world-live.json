@@ -31,6 +31,178 @@
  ],
  "items": [
   {
+   "date": "2026-11-05",
+   "headline": "Four killed in Pangasinan firecracker facility explosion",
+   "headline_ko": "필리핀 팡가시난 폭죽 제조시설 폭발…4명 사망",
+   "outlet": "Daily Tribune",
+   "url": "https://tribune.net.ph/2026/11/05/four-killed-in-pangasinan-firecracker-facility-explosion",
+   "summary_ko": "필리핀 팡가시난주 말라시키의 불법 폭죽 제조시설로 의심되는 곳에서 폭발이 일어나 4명이 숨지고 1명이 다쳤다. 경찰이 폭발 원인을 조사하고 있다.",
+   "topics": [
+    "accident"
+   ],
+   "orgs": [
+    "Philippine National Police"
+   ],
+   "headline_en": "Four killed in Pangasinan firecracker facility explosion",
+   "summary_en": "An explosion at a suspected illegal firecracker manufacturing facility in Malasiqui, Pangasinan, Philippines, killed four people and injured one. Police are investigating the cause of the blast.",
+   "headline_ja": "フィリピン・パンガシナン州の花火製造施設で爆発…4人死亡",
+   "summary_ja": "フィリピン・パンガシナン州マラシキの違法な花火製造施設とみられる場所で爆発が起き、4人が死亡、1人が負傷した。警察が爆発の原因を調べている。"
+  },
+  {
+   "date": "2026-11-04",
+   "headline": "2026 midterm election results: House, Senate",
+   "headline_ko": "2026 미국 중간선거 결과: 민주당, 하원·상원 장악 전망",
+   "outlet": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/04/2026-midterm-election-results-live-updates.html",
+   "summary_ko": "11월 3일 치러진 미국 중간선거에서 CNBC 선거 데스크는 민주당이 하원에서 최소 250석을 확보할 것으로 예상했다. 민주당은 상원에서도 최소 54석을 차지할 것으로 전망됐다.",
+   "topics": [
+    "politics"
+   ],
+   "orgs": [
+    "Democratic Party",
+    "Republican Party",
+    "CNBC"
+   ],
+   "headline_en": "2026 midterm election results: House, Senate",
+   "summary_en": "In the US midterm elections held on November 3, CNBC's Election Desk projected that Democrats would win at least 250 House seats. Democrats were also projected to hold at least 54 seats in the Senate.",
+   "headline_ja": "2026年米中間選挙の結果:民主党が下院・上院を制する見通し",
+   "summary_ja": "11月3日に行われた米中間選挙で、CNBCの選挙デスクは民主党が下院で少なくとも250議席を獲得すると予測した。民主党は上院でも少なくとも54議席を占める見通しとなった。"
+  },
+  {
+   "date": "2026-11-03",
+   "headline": "Drone strike kills at least seven at South Kordofan fuel station",
+   "headline_ko": "수단 남코르도판 주유소에 드론 공격…최소 7명 사망",
+   "outlet": "Sudan Tribune",
+   "url": "https://sudantribune.com/article/320859",
+   "summary_ko": "수단 남코르도판주 엘아바시야의 주유소에 신속지원군(RSF) 소행으로 의심되는 드론 공격이 가해져 최소 7명이 숨지고 36명이 다쳤다. 공격 당시 주유소에는 민간 차량들이 줄지어 연료를 기다리고 있었다.",
+   "topics": [
+    "conflict"
+   ],
+   "orgs": [
+    "Rapid Support Forces"
+   ],
+   "headline_en": "Drone strike kills at least seven at South Kordofan fuel station",
+   "summary_en": "A drone strike suspected to have been carried out by the Rapid Support Forces (RSF) hit a fuel station in El Abbasiya, South Kordofan state, Sudan, killing at least seven people and injuring 36. Civilian vehicles were lined up at the station waiting for fuel at the time of the attack.",
+   "headline_ja": "スーダン南コルドファンのガソリンスタンドにドローン攻撃…少なくとも7人死亡",
+   "summary_ja": "スーダン南コルドファン州エルアバシヤのガソリンスタンドに即応支援部隊(RSF)によるとみられるドローン攻撃があり、少なくとも7人が死亡、36人が負傷した。攻撃当時、スタンドには燃料を待つ民間車両が列をなしていた。"
+  },
+  {
+   "date": "2026-11-02",
+   "headline": "Israel Coalition Talks: Liberman, Bennett and Golan Back Eisenkot for Prime Minister as Herzog Prepares Consultations",
+   "headline_ko": "이스라엘 연정 협상: 리베르만·베넷·골란, 아이젠코트 총리 지지…헤르초그 대통령 협의 준비",
+   "outlet": "Northeast Times",
+   "url": "https://northeasttimes.com/2026/11/02/israel-coalition-talks-liberman-bennett-golan-back-eisenkot-herzog-consultations/",
+   "summary_ko": "총선 이후 이스라엘 연정 협상에서 리베르만, 베넷, 골란이 가디 아이젠코트를 총리 후보로 지지했다. 헤르초그 대통령은 차기 정부 구성을 맡길 인물을 정하기 위한 정당 협의를 준비하고 있다.",
+   "topics": [
+    "politics"
+   ],
+   "orgs": [
+    "Yisrael Beiteinu",
+    "The Democrats",
+    "Yashar"
+   ],
+   "headline_en": "Israel Coalition Talks: Liberman, Bennett and Golan Back Eisenkot for Prime Minister as Herzog Prepares Consultations",
+   "summary_en": "In Israel's post-election coalition talks, Liberman, Bennett and Golan backed Gadi Eisenkot for prime minister. President Herzog is preparing consultations with the parties to decide who will be tasked with forming the next government.",
+   "headline_ja": "イスラエル連立協議:リーベルマン、ベネット、ゴラン各氏がアイゼンコット氏の首相就任を支持…ヘルツォグ大統領が協議を準備",
+   "summary_ja": "総選挙後のイスラエル連立協議で、リーベルマン、ベネット、ゴランの各氏がガディ・アイゼンコット氏を首相候補として支持した。ヘルツォグ大統領は次期政権の組閣を委ねる人物を決めるため、各党との協議を準備している。"
+  },
+  {
+   "date": "2026-11-02",
+   "headline": "Zelensky says Russian airstrikes on school used for humanitarian aid in Ukraine's Zaporizhzhia region killed at least 18 people",
+   "headline_ko": "젤렌스키 \"러시아 공습, 자포리자주 구호물자 배급 학교 강타…최소 18명 사망\"",
+   "outlet": "Meduza",
+   "url": "https://meduza.io/en/news/2026/11/02/zelensky-says-russian-airstrikes-on-school-used-for-humanitarian-aid-in-ukraine-s-zaporizhzhia-region-killed-at-least-18-people",
+   "summary_ko": "젤렌스키 우크라이나 대통령은 러시아 공습이 자포리자주 코미슈바하에서 인도적 지원 물자 배급소로 쓰이던 학교를 타격해 최소 18명이 숨졌다고 밝혔다. 첫 공격은 학교를, 두 번째 공격은 사람들이 대피해 있던 대피소를 겨냥했다고 그는 말했다.",
+   "topics": [
+    "conflict"
+   ],
+   "orgs": [
+    "Russian Armed Forces",
+    "Government of Ukraine"
+   ],
+   "headline_en": "Zelensky says Russian airstrikes on school used for humanitarian aid in Ukraine's Zaporizhzhia region killed at least 18 people",
+   "summary_en": "Ukrainian President Zelensky said Russian airstrikes hit a school used as a humanitarian aid distribution point in Komyshuvakha, Zaporizhzhia region, killing at least 18 people. He said the first strike hit the school and a second hit the shelter where people had taken cover.",
+   "headline_ja": "ゼレンスキー氏「ロシアの空爆、ザポリージャ州の支援物資配布所の学校を直撃…少なくとも18人死亡」",
+   "summary_ja": "ウクライナのゼレンスキー大統領は、ロシアの空爆がザポリージャ州コミシュワハで人道支援物資の配布所として使われていた学校を直撃し、少なくとも18人が死亡したと明らかにした。最初の攻撃は学校を、2回目の攻撃は人々が避難していたシェルターを狙ったと述べた。"
+  },
+  {
+   "date": "2026-11-01",
+   "headline": "Al menos nueve muertos habría dejado bombardeo en Venezuela contra el ELN",
+   "headline_ko": "베네수엘라, 콜롬비아 반군 ELN 캠프 폭격…최소 9명 사망 추정",
+   "outlet": "Vanguardia",
+   "url": "https://www.vanguardia.com/mundo/2026/11/01/al-menos-nueve-muertos-habria-dejado-bombardeo-en-venezuela-contra-el-eln/",
+   "summary_ko": "베네수엘라군이 콜롬비아 국경 인근 아푸레주의 민족해방군(ELN) 캠프를 금요일 새벽 폭격해 최소 9명이 숨진 것으로 알려졌다. 인권단체 푼다레데스(Fundaredes)가 초기 사망자 수를 이같이 집계했다.",
+   "topics": [
+    "conflict"
+   ],
+   "orgs": [
+    "ELN",
+    "Venezuelan Armed Forces",
+    "Fundaredes"
+   ],
+   "headline_en": "Venezuela bombs Colombian rebel ELN camp; at least nine reported dead",
+   "summary_en": "The Venezuelan military reportedly bombed a National Liberation Army (ELN) camp in Apure state near the Colombian border early Friday, killing at least nine people. The rights group Fundaredes gave this initial death count.",
+   "headline_ja": "ベネズエラ、コロンビアの反政府武装組織ELNの拠点を爆撃…少なくとも9人死亡か",
+   "summary_ja": "ベネズエラ軍がコロンビア国境に近いアプレ州の民族解放軍(ELN)の拠点を金曜未明に爆撃し、少なくとも9人が死亡したと伝えられた。人権団体フンダレデス(Fundaredes)が当初の死者数をこのように集計した。"
+  },
+  {
+   "date": "2026-11-01",
+   "headline": "Garment workers clash with police at Mirpur-10",
+   "headline_ko": "방글라데시 다카 미르푸르서 의류 노동자·경찰 충돌",
+   "outlet": "Prothom Alo",
+   "url": "https://en.prothomalo.com/bangladesh/city/ew7qoxljgp",
+   "summary_ko": "방글라데시 다카 미르푸르-10 지역에서 의류 노동자들이 경찰과 충돌했다.",
+   "topics": [
+    "unrest",
+    "economy"
+   ],
+   "orgs": [
+    "Bangladesh Police"
+   ],
+   "headline_en": "Garment workers clash with police at Mirpur-10",
+   "summary_en": "Garment workers clashed with police in the Mirpur-10 area of Dhaka, Bangladesh.",
+   "headline_ja": "バングラデシュ・ダッカのミルプールで縫製労働者と警察が衝突",
+   "summary_ja": "バングラデシュ・ダッカのミルプール10地区で、縫製労働者が警察と衝突した。"
+  },
+  {
+   "date": "2026-10-30",
+   "headline": "Israel Publishes Final Election Results, New Knesset To Be Sworn In Nov 10",
+   "headline_ko": "이스라엘, 총선 최종 결과 발표…새 크네세트 11월 10일 취임",
+   "outlet": "Deccan Chronicle",
+   "url": "https://www.deccanchronicle.com/amp/world/israel-publishes-final-election-results-new-knesset-to-be-sworn-in-nov-10-2000161",
+   "summary_ko": "이스라엘 중앙선거관리위원회가 금요일 총선 최종 결과를 발표해 제26대 크네세트의 의석 배분을 확정했다. 새 크네세트는 11월 10일 취임할 예정이다.",
+   "topics": [
+    "politics"
+   ],
+   "orgs": [
+    "Central Elections Committee",
+    "Knesset"
+   ],
+   "headline_en": "Israel Publishes Final Election Results, New Knesset To Be Sworn In Nov 10",
+   "summary_en": "Israel's Central Elections Committee published the final election results on Friday, confirming the seat distribution of the 26th Knesset. The new Knesset is scheduled to be sworn in on November 10.",
+   "headline_ja": "イスラエル、総選挙の最終結果を発表…新クネセトは11月10日に就任",
+   "summary_ja": "イスラエル中央選挙管理委員会は金曜日に総選挙の最終結果を発表し、第26期クネセトの議席配分を確定した。新クネセトは11月10日に就任する予定だ。"
+  },
+  {
+   "date": "2026-10-30",
+   "headline": "Oil set for fourth monthly gain as Hormuz tanker attack highlights supply risks from war",
+   "headline_ko": "호르무즈 유조선 피격에 공급 우려…국제유가 4개월 연속 상승 전망",
+   "outlet": "ARY News (Reuters)",
+   "url": "https://arynews.tv/oil-set-for-fourth-monthly-gain-as-hormuz-tanker-attack-highlights-supply-risks-from-war",
+   "summary_ko": "호르무즈 해협에서 유조선이 공격받은 뒤 금요일 국제유가가 올라 4개월 연속 월간 상승을 앞두게 됐다. 이번 공격은 8개월째 이어진 미국·이스라엘과 이란 간 전쟁에 따른 공급 위험을 부각시켰다.",
+   "topics": [
+    "economy",
+    "conflict"
+   ],
+   "orgs": [
+    "Reuters"
+   ],
+   "headline_en": "Oil set for fourth monthly gain as Hormuz tanker attack highlights supply risks from war",
+   "summary_en": "Oil prices rose on Friday after a tanker was attacked in the Strait of Hormuz, putting them on track for a fourth straight monthly gain. The attack highlighted supply risks from the US-Israeli war with Iran, now in its eighth month.",
+   "headline_ja": "ホルムズ海峡のタンカー被弾で供給懸念…原油価格、4カ月連続の上昇へ",
+   "summary_ja": "ホルムズ海峡でタンカーが攻撃を受けたことを受け、金曜日の原油価格は上昇し、4カ月連続の月間上昇となる見通しとなった。この攻撃は8カ月目に入った米国・イスラエルとイランの戦争による供給リスクを浮き彫りにした。"
+  },
+  {
    "date": "2026-10-28",
    "headline": "Israel Election 2026",
    "headline_ko": "이스라엘 총선 출구조사: 네타냐후 연정 과반 실패…리쿠드는 제1당",

@@ -1,5 +1,251 @@
 [
  {
+  "date": "2026-11-04",
+  "headline": "Euro zone inflation hits 4% for first time in three years as interest rate hike looms",
+  "headline_ko": "유로존 물가상승률 3년 만에 4% 도달, 금리 인상 임박",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/11/04/euro-zone-cpi-inflation-october-ecb-rate-hike.html",
+  "summary_ko": "유로스타트 속보치에 따르면 10월 유로존 물가상승률은 4.0%로 9월 3.8%에서 올라 3년 만에 가장 높았다. 에너지 물가 상승률이 20.8%로 뛰며 상승을 이끌었고, 유럽중앙은행이 연내 마지막 회의에서 금리를 올릴지에 관심이 쏠린다.",
+  "topics": [
+   "macro",
+   "centralbank"
+  ],
+  "orgs": [
+   "유로스타트",
+   "유럽중앙은행"
+  ],
+  "headline_en": "Euro zone inflation hits 4% for first time in three years as interest rate hike looms",
+  "summary_en": "According to Eurostat's flash estimate, euro zone inflation rose to 4.0% in October from 3.8% in September, the highest in three years. Energy inflation jumped to 20.8% and led the increase, putting focus on whether the European Central Bank will raise rates at its final meeting of the year.",
+  "headline_ja": "ユーロ圏インフレ率が3年ぶりに4%に到達、利上げ迫る",
+  "summary_ja": "ユーロスタットの速報値によると、10月のユーロ圏のインフレ率は4.0%と9月の3.8%から上昇し、3年ぶりの高水準となった。エネルギー価格の上昇率が20.8%に跳ね上がって全体を押し上げ、欧州中央銀行が年内最後の会合で利上げするかに注目が集まる。"
+ },
+ {
+  "date": "2026-11-04",
+  "headline": "Services PMI® at 54.5%; October 2026 ISM® Services PMI® Report",
+  "headline_ko": "미국 10월 ISM 서비스업지수 54.5",
+  "outlet": "PR Newswire (ISM)",
+  "url": "https://www.prnewswire.com/news-releases/services-pmi-at-54-5-october-2026-ism-services-pmi-report-302928112.html",
+  "summary_ko": "미국 공급관리협회(ISM) 10월 서비스업 구매관리자지수가 54.5로 9월 54.9에서 0.4포인트 내렸지만 확장 국면을 이어갔다. 신규주문지수는 55.9로 떨어졌고 가격지수는 73.0으로 높은 수준을 유지했다.",
+  "topics": [
+   "macro"
+  ],
+  "orgs": [
+   "미국 공급관리협회(ISM)"
+  ],
+  "headline_en": "Services PMI® at 54.5%; October 2026 ISM® Services PMI® Report",
+  "summary_en": "The Institute for Supply Management's October services PMI fell 0.4 point from September's 54.9 to 54.5 but remained in expansion. The new orders index fell to 55.9, and the prices index stayed high at 73.0.",
+  "headline_ja": "米10月ISM非製造業景況指数は54.5",
+  "summary_ja": "米サプライマネジメント協会(ISM)の10月の非製造業景況指数は54.5と、9月の54.9から0.4ポイント低下したが、拡大局面を維持した。新規受注指数は55.9に低下し、価格指数は73.0と高水準を保った。"
+ },
+ {
+  "date": "2026-11-04",
+  "headline": "Stock market today: Dow surges 1,500 points in best day of 2026, S&P 500 and Nasdaq rally after historic midterm election",
+  "headline_ko": "다우 1,500포인트 급등해 올해 최고의 하루… 중간선거 후 S&P500·나스닥도 랠리",
+  "outlet": "Yahoo Finance",
+  "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-rallies-1500-points-sp-500-nasdaq-midterm-elections-democrats-sweep-201207340.html",
+  "summary_ko": "민주당이 의회 다수당을 차지한 미국 중간선거 다음 날 다우지수가 1,500포인트 넘게 올라 올해 최고의 하루를 기록했다. S&P500과 나스닥도 함께 올랐다.",
+  "topics": [
+   "markets"
+  ],
+  "orgs": [],
+  "headline_en": "Stock market today: Dow surges 1,500 points in best day of 2026, S&P 500 and Nasdaq rally after historic midterm election",
+  "summary_en": "The day after the US midterm elections, in which Democrats won control of Congress, the Dow jumped more than 1,500 points for its best day of the year. The S&P 500 and Nasdaq also rallied.",
+  "headline_ja": "ダウが1,500ドル急騰し今年最高の1日に、中間選挙後S&P500・ナスダックも上昇",
+  "summary_ja": "民主党が議会の多数派を握った米中間選挙の翌日、ダウ平均は1,500ドル超上昇し、今年最高の1日となった。S&P500とナスダックもそろって上昇した。"
+ },
+ {
+  "date": "2026-11-04",
+  "headline": "Oil prices sink below $95 as markets soar on midterm results",
+  "headline_ko": "중간선거 결과에 증시 급등…유가는 배럴당 95달러 아래로 하락",
+  "outlet": "Transport Topics",
+  "url": "https://www.ttnews.com/articles/oil-prices-midterm-results",
+  "summary_ko": "미국 중간선거 결과가 나온 뒤 증시가 급등한 가운데 국제유가는 배럴당 95달러 아래로 떨어졌다.",
+  "topics": [
+   "energy",
+   "markets"
+  ],
+  "orgs": [],
+  "headline_en": "Oil prices sink below $95 as markets soar on midterm results",
+  "summary_en": "After the US midterm election results, stock markets soared while oil prices fell below $95 a barrel.",
+  "headline_ja": "中間選挙の結果で株式市場が急騰…原油価格は1バレル95ドル割れ",
+  "summary_ja": "米中間選挙の結果を受けて株式市場が急騰する中、原油価格は1バレル95ドルを下回った。"
+ },
+ {
+  "date": "2026-11-03",
+  "headline": "RBA lifts interest rates to highest level in 18 years to try to dampen inflation",
+  "headline_ko": "호주중앙은행, 인플레이션 억제 위해 기준금리 18년 만의 최고치로 인상",
+  "outlet": "ABC News (Australia)",
+  "url": "https://www.abc.net.au/news/2026-11-03/rba-lifts-interest-rates-november-2026-highest-rate-in-18-years/107340050",
+  "summary_ko": "호주중앙은행(RBA)이 기준금리를 4.60%에서 4.85%로 0.25%포인트 올렸다. 올해 다섯 번째 인상으로 2008년 말 이후 가장 높은 수준이며, 이사회 표결은 6대 3으로 갈렸다.",
+  "topics": [
+   "centralbank"
+  ],
+  "orgs": [
+   "호주중앙은행"
+  ],
+  "headline_en": "RBA lifts interest rates to highest level in 18 years to try to dampen inflation",
+  "summary_en": "The Reserve Bank of Australia raised its cash rate by 0.25 percentage point from 4.60% to 4.85%. It was the fifth increase this year and the highest level since late 2008, with the board split 6 to 3.",
+  "headline_ja": "豪中銀、インフレ抑制へ政策金利を18年ぶりの高水準に引き上げ",
+  "summary_ja": "オーストラリア準備銀行(RBA)は政策金利を4.60%から4.85%へ0.25%引き上げた。今年5回目の利上げで2008年末以来の高水準となり、理事会の採決は6対3に割れた。"
+ },
+ {
+  "date": "2026-11-03",
+  "headline": "How major US stock indexes fared Tuesday 11/3/2026",
+  "headline_ko": "11월 3일(화) 뉴욕증시 마감: 엔비디아 등 AI주 힘입어 S&P500 0.4% 상승",
+  "outlet": "AP (KRMG)",
+  "url": "https://krmg.com/2026/11/03/how-major-us-stock-indexes-fared-tuesday-11-3-2026/",
+  "summary_ko": "S&P500은 0.4% 오른 7,568.92, 나스닥은 0.8% 오른 25,372.01로 마감했고 다우는 0.4% 내린 51,786.72였다. 애플은 하락했지만 엔비디아 등 AI 관련주가 시장을 받쳤다.",
+  "topics": [
+   "markets"
+  ],
+  "orgs": [],
+  "headline_en": "How major US stock indexes fared Tuesday 11/3/2026",
+  "summary_en": "The S&P 500 closed up 0.4% at 7,568.92 and the Nasdaq rose 0.8% to 25,372.01, while the Dow slipped 0.4% to 51,786.72. Apple fell, but Nvidia and other AI-related stocks supported the market.",
+  "headline_ja": "11月3日(火)NY株式市場終値:エヌビディアなどAI株に支えられS&P500が0.4%上昇",
+  "summary_ja": "S&P500は0.4%高の7,568.92、ナスダックは0.8%高の25,372.01で取引を終え、ダウは0.4%安の51,786.72だった。アップルは下落したが、エヌビディアなどAI関連株が相場を支えた。"
+ },
+ {
+  "date": "2026-11-02",
+  "headline": "US ISM manufacturing PMI for October 55.5 versus 54.5 estimate",
+  "headline_ko": "미국 10월 ISM 제조업지수 55.5, 예상(54.5) 상회",
+  "outlet": "investingLive",
+  "url": "https://investinglive.com/news/us-ism-manufacturing-pmi-for-october-55-5-versus-54-5-estimate/",
+  "summary_ko": "미국 공급관리협회(ISM) 10월 제조업 구매관리자지수가 55.5로 9월 54.5에서 올라 예상치를 웃돌았다. 제조업 경기는 10개월 연속 확장했다.",
+  "topics": [
+   "macro"
+  ],
+  "orgs": [
+   "미국 공급관리협회(ISM)"
+  ],
+  "headline_en": "US ISM manufacturing PMI for October 55.5 versus 54.5 estimate",
+  "summary_en": "The Institute for Supply Management's October manufacturing PMI rose to 55.5 from 54.5 in September, beating expectations. Manufacturing activity expanded for a 10th consecutive month.",
+  "headline_ja": "米10月ISM製造業景況指数は55.5、予想(54.5)を上回る",
+  "summary_ja": "米サプライマネジメント協会(ISM)の10月の製造業景況指数は55.5と、9月の54.5から上昇し予想を上回った。製造業の景気は10カ月連続で拡大した。"
+ },
+ {
+  "date": "2026-11-02",
+  "headline": "How major US stock indexes fared Monday 11/2/2026",
+  "headline_ko": "11월 2일(월) 뉴욕증시 마감: 기술·AI주 불안에 S&P500 0.5% 하락",
+  "outlet": "AP (WTOP)",
+  "url": "https://wtop.com/national/2026/11/how-major-us-stock-indexes-fared-monday-11-2-2026",
+  "summary_ko": "S&P500은 장 초반 1% 넘는 상승분을 반납하고 0.5% 내린 7,541.40으로 마감했고 나스닥은 1.1% 떨어졌다. 다우는 0.4% 오른 51,983.98로 마쳤다. 지난주 매도세 이후 기술·AI주가 여전히 불안했다.",
+  "topics": [
+   "markets"
+  ],
+  "orgs": [],
+  "headline_en": "How major US stock indexes fared Monday 11/2/2026",
+  "summary_en": "The S&P 500 gave up an early gain of more than 1% to close down 0.5% at 7,541.40, and the Nasdaq fell 1.1%. The Dow finished up 0.4% at 51,983.98. Tech and AI stocks remained shaky after the previous week's sell-off.",
+  "headline_ja": "11月2日(月)NY株式市場終値:ハイテク・AI株の不安でS&P500が0.5%下落",
+  "summary_ja": "S&P500は序盤の1%超の上昇分を失い、0.5%安の7,541.40で取引を終え、ナスダックは1.1%下落した。ダウは0.4%高の51,983.98で終えた。先週の売りの後、ハイテク・AI株は依然として不安定だった。"
+ },
+ {
+  "date": "2026-11-01",
+  "headline": "OPEC+ Maintains September Production Levels for December 2026",
+  "headline_ko": "OPEC+, 12월에도 9월 생산 수준 유지",
+  "outlet": "Sabq",
+  "url": "https://sabq.org/en/article/oz78ebi",
+  "summary_ko": "사우디·러시아 등 OPEC+ 7개국이 화상회의를 열고 12월 원유 생산량을 9월 수준으로 유지하기로 했다. 이들 국가는 올해 4월부터 9월까지 매달 증산해 왔으며, 다음 회의는 11월 29일이다.",
+  "topics": [
+   "energy"
+  ],
+  "orgs": [
+   "OPEC+"
+  ],
+  "headline_en": "OPEC+ Maintains September Production Levels for December 2026",
+  "summary_en": "Seven OPEC+ countries including Saudi Arabia and Russia met virtually and agreed to keep December crude output at September levels. They had raised output every month from April to September this year, and the next meeting is on November 29.",
+  "headline_ja": "OPECプラス、12月も9月の生産水準を維持",
+  "summary_ja": "サウジアラビアやロシアなどOPECプラス7カ国はオンライン会合を開き、12月の原油生産量を9月の水準に据え置くことを決めた。これらの国は今年4月から9月まで毎月増産してきており、次回会合は11月29日。"
+ },
+ {
+  "date": "2026-10-31",
+  "headline": "China Manufacturing Unexpectedly Weakens",
+  "headline_ko": "중국 10월 제조업 PMI 49.3, 예상 밖 위축",
+  "outlet": "Trading Economics",
+  "url": "https://tradingeconomics.com/china/business-confidence/news/596971",
+  "summary_ko": "중국 국가통계국 10월 제조업 구매관리자지수(PMI)가 49.3으로 9월 50.1에서 떨어져 시장 예상치 50.0을 밑돌았다. 7월 이후 가장 낮은 수준이며 기업 신뢰도도 7개월 만의 최저로 내려갔다.",
+  "topics": [
+   "china",
+   "macro"
+  ],
+  "orgs": [
+   "중국 국가통계국"
+  ],
+  "headline_en": "China Manufacturing Unexpectedly Weakens",
+  "summary_en": "China's National Bureau of Statistics manufacturing PMI fell to 49.3 in October from 50.1 in September, below the market estimate of 50.0. It was the lowest reading since July, and business confidence also dropped to a seven-month low.",
+  "headline_ja": "中国10月の製造業PMIは49.3、予想外の縮小",
+  "summary_ja": "中国国家統計局の10月の製造業購買担当者景気指数(PMI)は49.3と、9月の50.1から低下し、市場予想の50.0を下回った。7月以来の低水準で、企業の景況感も7カ月ぶりの低さとなった。"
+ },
+ {
+  "date": "2026-10-30",
+  "headline": "BOJ Holds Benchmark Rate Steady as Expected After September Hike",
+  "headline_ko": "일본은행, 9월 인상 이후 예상대로 기준금리 동결",
+  "outlet": "Bloomberg",
+  "url": "https://www.bloomberg.com/news/articles/2026-10-30/boj-holds-benchmark-rate-steady-as-expected-after-september-hike",
+  "summary_ko": "일본은행이 9월 인상 이후 기준금리를 1.25%로 동결했다. 우에다 총재는 기조 인플레이션이 2% 목표에 도달했다고 밝힌 뒤 12월 인상 가능성이 크다는 신호를 보냈다.",
+  "topics": [
+   "centralbank"
+  ],
+  "orgs": [
+   "일본은행"
+  ],
+  "headline_en": "BOJ Holds Benchmark Rate Steady as Expected After September Hike",
+  "summary_en": "The Bank of Japan held its benchmark rate at 1.25% following its September hike. Governor Ueda signaled strong prospects for a December hike after saying underlying inflation had reached the 2% goal.",
+  "headline_ja": "日銀、9月の利上げ後、予想通り政策金利を据え置き",
+  "summary_ja": "日本銀行は9月の利上げ後、政策金利を1.25%に据え置いた。植田総裁は基調的なインフレが2%目標に達したと述べたうえで、12月の利上げの可能性が高いことを示唆した。"
+ },
+ {
+  "date": "2026-10-30",
+  "headline": "GDP up by 0.4% in the euro area and by 0.5% in the EU",
+  "headline_ko": "유로존 3분기 GDP 0.4% 성장, EU는 0.5%",
+  "outlet": "Eurostat",
+  "url": "https://ec.europa.eu/eurostat/product?code=2-30102026-ap",
+  "summary_ko": "유로스타트 예비 속보치에 따르면 3분기 유로존 GDP는 전 분기보다 0.4%, EU는 0.5% 늘었다. 전년 동기 대비로는 유로존 1.3%, EU 1.5% 성장했다.",
+  "topics": [
+   "macro"
+  ],
+  "orgs": [
+   "유로스타트"
+  ],
+  "headline_en": "GDP up by 0.4% in the euro area and by 0.5% in the EU",
+  "summary_en": "According to Eurostat's preliminary flash estimate, euro area GDP grew 0.4% and EU GDP 0.5% in the third quarter compared with the previous quarter. Compared with the same quarter a year earlier, the euro area grew 1.3% and the EU 1.5%.",
+  "headline_ja": "ユーロ圏7〜9月期GDPは0.4%増、EUは0.5%増",
+  "summary_ja": "ユーロスタットの速報値によると、7〜9月期のユーロ圏GDPは前期比0.4%、EUは0.5%増えた。前年同期比ではユーロ圏が1.3%、EUが1.5%成長した。"
+ },
+ {
+  "date": "2026-10-30",
+  "headline": "Japan Tokyo Core Inflation Eases for 1st Time in 5 Months",
+  "headline_ko": "일본 도쿄 근원 물가상승률, 5개월 만에 처음 둔화",
+  "outlet": "Trading Economics",
+  "url": "https://tradingeconomics.com/japan/tokyo-core-cpi/news/596474",
+  "summary_ko": "10월 도쿄 23구 근원 소비자물가(신선식품 제외)가 1년 전보다 2.6% 올라 9월의 2.7%에서 둔화했다. 상승률은 시장 예상과 같았고 5개월 만에 처음 낮아졌다.",
+  "topics": [
+   "macro"
+  ],
+  "orgs": [
+   "일본 총무성"
+  ],
+  "headline_en": "Japan Tokyo Core Inflation Eases for 1st Time in 5 Months",
+  "summary_en": "Core consumer prices (excluding fresh food) in Tokyo's 23 wards rose 2.6% from a year earlier in October, slowing from 2.7% in September. The rate matched market expectations and eased for the first time in five months.",
+  "headline_ja": "東京都区部コア物価上昇率、5カ月ぶりに鈍化",
+  "summary_ja": "10月の東京都区部のコア消費者物価(生鮮食品を除く)は前年同月比2.6%上昇し、9月の2.7%から鈍化した。上昇率は市場予想と一致し、5カ月ぶりに低下した。"
+ },
+ {
+  "date": "2026-10-30",
+  "headline": "How major US stock indexes fared Friday 10/30/2026",
+  "headline_ko": "10월 30일(금) 뉴욕증시 마감: 기술주 급락에 나스닥 2.9% 하락",
+  "outlet": "AP (WTOP)",
+  "url": "https://wtop.com/national/2026/10/how-major-us-stock-indexes-fared-friday-10-30-2026",
+  "summary_ko": "S&P500은 1.8% 내린 7,580.07, 나스닥은 2.9% 내린 25,437.00, 다우는 1.1% 내린 51,770.31로 마감했다. 이번 주 S&P500은 0.6%, 나스닥은 2% 떨어졌다.",
+  "topics": [
+   "markets"
+  ],
+  "orgs": [],
+  "headline_en": "How major US stock indexes fared Friday 10/30/2026",
+  "summary_en": "The S&P 500 closed down 1.8% at 7,580.07, the Nasdaq fell 2.9% to 25,437.00, and the Dow dropped 1.1% to 51,770.31. For the week, the S&P 500 fell 0.6% and the Nasdaq 2%.",
+  "headline_ja": "10月30日(金)NY株式市場終値:ハイテク株急落でナスダック2.9%下落",
+  "summary_ja": "S&P500は1.8%安の7,580.07、ナスダックは2.9%安の25,437.00、ダウは1.1%安の51,770.31で取引を終えた。週間ではS&P500が0.6%、ナスダックが2%下落した。"
+ },
+ {
   "date": "2026-10-29",
   "headline": "Caterpillar tops quarterly profit view, but shares sink after unchanged annual growth forecast",
   "headline_ko": "캐터필러 3분기 이익 예상 상회에도 주가 급락…연간 성장 전망 유지",

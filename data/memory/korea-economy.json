@@ -1,5 +1,175 @@
 [
  {
+  "date": "2026-11-05",
+  "headline": "코스피 5.28% 급락해 5400선 내줘…코스닥도 5%대 하락 [fn마감시황]",
+  "headline_ko": "코스피 5.28% 급락해 5400선 내줘…코스닥도 5%대 하락",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611051557099258",
+  "summary_ko": "5일 코스피는 전 거래일보다 300.00포인트(5.28%) 내린 5383.80에 마감했고, 코스닥은 5.11% 하락한 678.41로 마감했다. 미국 중간선거 이후 데이터센터 규제 강화 우려 속에 외국인이 SK하이닉스와 삼성전자를 중심으로 대규모 순매도해 5거래일 연속 매도 우위를 보였다.",
+  "topics": [
+   "stocks",
+   "global"
+  ],
+  "orgs": [
+   "한국거래소",
+   "SK하이닉스",
+   "삼성전자"
+  ],
+  "headline_en": "KOSPI plunges 5.28%, losing the 5,400 level; KOSDAQ also falls over 5%",
+  "summary_en": "On the 5th, the KOSPI closed at 5,383.80, down 300.00 points (5.28%) from the previous session, and the KOSDAQ closed at 678.41, down 5.11%. Amid concerns over tighter data center regulation after the U.S. midterm elections, foreigners sold heavily, focusing on SK hynix and Samsung Electronics, staying net sellers for a fifth straight session.",
+  "headline_ja": "KOSPI、5.28%急落で5400割れ…KOSDAQも5%台下落",
+  "summary_ja": "5日のKOSPIは前営業日比300.00ポイント（5.28%）安の5383.80で取引を終え、KOSDAQは5.11%安の678.41で引けた。米中間選挙後のデータセンター規制強化への懸念の中、外国人がSKハイニックスとサムスン電子を中心に大規模に売り越し、5営業日連続の売り越しとなった。"
+ },
+ {
+  "date": "2026-11-05",
+  "headline": "강남 빠져도 서울 집값 91주 연속 올랐다…‘용인 기흥’ 매매·전세 상승률 ‘1위’ [부동산360] - 헤럴드경제",
+  "headline_ko": "강남 빠져도 서울 집값 91주 연속 올랐다…‘용인 기흥’ 매매·전세 상승률 ‘1위’",
+  "outlet": "헤럴드경제",
+  "url": "https://biz.heraldcorp.com/article/10926826",
+  "summary_ko": "한국부동산원에 따르면 11월 첫째 주 서울 아파트 매매가격은 전주보다 0.07% 올라 91주 연속 상승했지만, 상승폭은 3주 연속 줄었다. 강남구(-0.39%)와 서초구(-0.37%)는 11주 연속, 송파구(-0.17%)는 10주 연속 하락했다.",
+  "topics": [
+   "realestate"
+  ],
+  "orgs": [
+   "한국부동산원"
+  ],
+  "headline_en": "Seoul home prices rise for 91st straight week despite Gangnam declines; Yongin Giheung tops sale and jeonse gains",
+  "summary_en": "According to the Korea Real Estate Board, Seoul apartment sale prices rose 0.07% in the first week of November from the previous week, a 91st straight weekly gain, though the increase narrowed for a third straight week. Gangnam-gu (-0.39%) and Seocho-gu (-0.37%) fell for an 11th straight week, and Songpa-gu (-0.17%) for a 10th straight week.",
+  "headline_ja": "江南が下落してもソウルの住宅価格は91週連続上昇…「龍仁器興」が売買・チョンセ上昇率「1位」",
+  "summary_ja": "韓国不動産院によると、11月第1週のソウルのマンション売買価格は前週比0.07%上がり91週連続で上昇したが、上昇幅は3週連続で縮小した。江南区（-0.39%）と瑞草区（-0.37%）は11週連続、松坡区（-0.17%）は10週連続で下落した。"
+ },
+ {
+  "date": "2026-11-04",
+  "headline": "[마감] 코스피, 美 중간선거에 장중 4% 급락 딛고 0.62% 상승…5680선 마감",
+  "headline_ko": "코스피, 美 중간선거에 장중 4% 급락 딛고 0.62% 상승…5680선 마감",
+  "outlet": "알파경제",
+  "url": "https://www.alphabiz.co.kr/news/articleView.html?idxno=196249",
+  "summary_ko": "4일 코스피는 전 거래일 대비 35.01포인트(0.62%) 오른 5683.80에 마감했다. 미국 중간선거 개표 과정에서 장중 5421.72까지 밀렸다가 막판 상승 전환했으며, 외국인이 2조5000억원대를 순매도했지만 개인과 기관이 매수로 지수를 떠받쳤다.",
+  "topics": [
+   "stocks",
+   "global"
+  ],
+  "orgs": [
+   "한국거래소"
+  ],
+  "headline_en": "KOSPI overcomes intraday 4% plunge on U.S. midterms to rise 0.62%, closing in 5,680s",
+  "summary_en": "On the 4th, the KOSPI closed at 5,683.80, up 35.01 points (0.62%) from the previous session. It fell as low as 5,421.72 intraday during the U.S. midterm vote count before turning higher late, as individuals and institutions propped up the index despite foreign net selling of around 2.5 trillion won.",
+  "headline_ja": "KOSPI、米中間選挙で取引中4%急落から0.62%上昇…5680台で引け",
+  "summary_ja": "4日のKOSPIは前営業日比35.01ポイント（0.62%）高の5683.80で取引を終えた。米中間選挙の開票過程で一時5421.72まで下落したが終盤に上昇に転じ、外国人が2兆5000億ウォン台を売り越したものの個人と機関の買いが指数を支えた。"
+ },
+ {
+  "date": "2026-11-03",
+  "headline": "10월 소비자 물가 2.8%↑…빵 등 가공식품 11개월 만 최대 상승(상보)",
+  "headline_ko": "10월 소비자 물가 2.8%↑…빵 등 가공식품 11개월 만 최대 상승",
+  "outlet": "아시아경제",
+  "url": "https://view.asiae.co.kr/article/2026110308094848718",
+  "summary_ko": "국가데이터처에 따르면 10월 소비자물가는 1년 전보다 2.8% 올랐다. 석유류가 14.9% 올라 상승을 주도했고 가공식품은 2.9%, 빵은 5.9% 올랐으며, 농축수산물은 1.7% 하락했다.",
+  "topics": [
+   "rates"
+  ],
+  "orgs": [
+   "국가데이터처"
+  ],
+  "headline_en": "October consumer prices up 2.8%; processed foods such as bread post biggest rise in 11 months",
+  "summary_en": "According to the Ministry of Data and Statistics, October consumer prices rose 2.8% from a year earlier. Petroleum products led the rise with a 14.9% gain, processed foods rose 2.9% and bread 5.9%, while agricultural, livestock and fishery products fell 1.7%.",
+  "headline_ja": "10月の消費者物価2.8%上昇…パンなど加工食品が11カ月ぶりの大幅上昇",
+  "summary_ja": "国家データ処によると、10月の消費者物価は前年比2.8%上昇した。石油類が14.9%上がり上昇を主導し、加工食品は2.9%、パンは5.9%上昇した一方、農畜水産物は1.7%下落した。"
+ },
+ {
+  "date": "2026-11-03",
+  "headline": "외인·기관 2조 매도…코스피, 3%대 하락 5600선 마감",
+  "headline_ko": "외인·기관 2조 매도…코스피, 3%대 하락 5600선 마감",
+  "outlet": "전자신문",
+  "url": "https://www.etnews.com/20261103000382",
+  "summary_ko": "3일 코스피는 전 거래일보다 210.29포인트(3.59%) 하락한 5648.79에 마감했다. 외국인과 기관이 매도에 나섰고, 미국 AI 관련 빅테크 약세와 미국 중간선거 불확실성 속에 반도체주가 약세를 보였다.",
+  "topics": [
+   "stocks",
+   "global"
+  ],
+  "orgs": [
+   "한국거래소"
+  ],
+  "headline_en": "Foreigners and institutions sell 2 trillion won; KOSPI falls over 3% to close in 5,600s",
+  "summary_en": "On the 3rd, the KOSPI closed at 5,648.79, down 210.29 points (3.59%) from the previous session. Foreigners and institutions were sellers, and chip stocks weakened amid declines in U.S. AI-related Big Tech and uncertainty over the U.S. midterm elections.",
+  "headline_ja": "外国人・機関が2兆ウォン売り…KOSPI、3%台下落で5600台で引け",
+  "summary_ja": "3日のKOSPIは前営業日比210.29ポイント（3.59%）安の5648.79で取引を終えた。外国人と機関が売りに回り、米AI関連ビッグテックの軟調と米中間選挙の不確実性の中で半導体株が弱含んだ。"
+ },
+ {
+  "date": "2026-11-03",
+  "headline": "외국인 1.5조 팔았는데도…달러·원 환율 1341원 하락 마감(종합)",
+  "headline_ko": "외국인 1.5조 팔았는데도…달러·원 환율 1341원 하락 마감",
+  "outlet": "뉴스1",
+  "url": "https://www.news1.kr/finance/market-exr/6341615",
+  "summary_ko": "3일 원·달러 환율은 전 거래일보다 2.8원 내린 1341.0원에 거래를 마쳤다. 외국인이 코스피에서 1조5298억원을 순매도했지만, 반도체 기업들의 달러 매도와 국제유가·달러 가치 동반 하락이 원화 강세로 이어졌다.",
+  "topics": [
+   "fx"
+  ],
+  "orgs": [],
+  "headline_en": "Despite 1.5 trillion won in foreign selling, won-dollar rate closes lower at 1,341 won",
+  "summary_en": "On the 3rd, the won-dollar exchange rate closed at 1,341.0 won, down 2.8 won from the previous session. Although foreigners were net sellers of 1.5298 trillion won on the KOSPI, dollar sales by chipmakers and simultaneous declines in oil prices and the dollar led to a stronger won.",
+  "headline_ja": "外国人が1.5兆ウォン売っても…ドル・ウォン相場1341ウォンに下落して引け",
+  "summary_ja": "3日のウォン・ドル相場は前営業日比2.8ウォン安の1341.0ウォンで取引を終えた。外国人がKOSPIで1兆5298億ウォンを売り越したが、半導体企業のドル売りと国際原油価格・ドル相場の同時下落がウォン高につながった。"
+ },
+ {
+  "date": "2026-11-02",
+  "headline": "코스피, 128.34P 오른 5859.08 마감(2.24%↑)",
+  "headline_ko": "코스피, 128.34P 오른 5859.08 마감(2.24%↑)",
+  "outlet": "아시아경제",
+  "url": "https://view.asiae.co.kr/article/2026110215335467893",
+  "summary_ko": "2일 코스피 지수는 전일 종가 대비 128.34포인트(2.24%) 상승한 5859.08에 마감했다. 코스닥 지수는 9.98포인트(1.38%) 상승한 734.36에 장을 마쳤다.",
+  "topics": [
+   "stocks"
+  ],
+  "orgs": [
+   "한국거래소"
+  ],
+  "headline_en": "KOSPI closes at 5,859.08, up 128.34 points (2.24%)",
+  "summary_en": "On the 2nd, the KOSPI closed at 5,859.08, up 128.34 points (2.24%) from the previous close. The KOSDAQ ended at 734.36, up 9.98 points (1.38%).",
+  "headline_ja": "KOSPI、128.34ポイント高の5859.08で引け（2.24%↑）",
+  "summary_ja": "2日のKOSPIは前日終値比128.34ポイント（2.24%）高の5859.08で取引を終えた。KOSDAQは9.98ポイント（1.38%）高の734.36で引けた。"
+ },
+ {
+  "date": "2026-11-02",
+  "headline": "주담대 다시 '꿈틀'...10월 5대 은행 가계대출 2.8조↑",
+  "headline_ko": "주담대 다시 '꿈틀'...10월 5대 은행 가계대출 2.8조↑",
+  "outlet": "한국경제TV",
+  "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611020109",
+  "summary_ko": "5대 은행의 10월 말 가계대출 잔액은 783조6057억원으로 전월보다 2조7717억원 늘어 9월 감소에서 한 달 만에 증가로 돌아섰다. 주택담보대출은 1조7005억원 늘어 7개월 연속 증가했고, 신용대출도 6687억원 늘어 3개월 만에 증가했다.",
+  "topics": [
+   "banks",
+   "realestate"
+  ],
+  "orgs": [
+   "KB국민은행",
+   "신한은행",
+   "하나은행",
+   "우리은행",
+   "NH농협은행"
+  ],
+  "headline_en": "Mortgages stir again... Big Five banks' household loans up 2.8 trillion won in October",
+  "summary_en": "Household loans at the five major banks stood at 783.6057 trillion won at the end of October, up 2.7717 trillion won from the previous month, returning to growth one month after September's decline. Mortgage loans rose 1.7005 trillion won for a seventh straight monthly increase, and credit loans also rose 668.7 billion won, the first increase in three months.",
+  "headline_ja": "住宅ローン再び増加…10月の5大銀行の家計向け融資2.8兆ウォン増",
+  "summary_ja": "5大銀行の10月末の家計向け融資残高は783兆6057億ウォンで、前月より2兆7717億ウォン増え、9月の減少から1カ月で増加に転じた。住宅担保ローンは1兆7005億ウォン増えて7カ月連続の増加となり、信用ローンも6687億ウォン増えて3カ月ぶりに増加した。"
+ },
+ {
+  "date": "2026-11-01",
+  "headline": "사상 첫 ‘수출 1조 달러’ 눈앞…9월 이어 10월에도 1100억 달러 넘어",
+  "headline_ko": "사상 첫 ‘수출 1조 달러’ 눈앞…9월 이어 10월에도 1100억 달러 넘어",
+  "outlet": "지디넷코리아",
+  "url": "https://zdnet.co.kr/view/?no=20261101235028",
+  "summary_ko": "산업통상부에 따르면 10월 수출은 1152억8000만달러로 전년 동월보다 93.7% 늘었고, 반도체 수출은 259.4% 증가한 564억4000만달러였다. 10월 무역수지는 425억달러 흑자였고 1~10월 누적 수출은 사상 처음 9000억달러를 넘었으며, 산업부는 연간 수출 1조달러를 11월 중 달성할 것으로 전망했다.",
+  "topics": [
+   "global"
+  ],
+  "orgs": [
+   "산업통상부"
+  ],
+  "headline_en": "First-ever $1 trillion in exports in sight; October tops $110 billion after September",
+  "summary_en": "According to the Ministry of Trade and Industry, October exports were $115.28 billion, up 93.7% from a year earlier, and semiconductor exports rose 259.4% to $56.44 billion. The October trade surplus was $42.5 billion, cumulative January–October exports topped $900 billion for the first time, and the ministry expects annual exports to reach $1 trillion in November.",
+  "headline_ja": "史上初の「輸出1兆ドル」目前…9月に続き10月も1100億ドル超え",
+  "summary_ja": "産業通商部によると、10月の輸出は前年同月比93.7%増の1152億8000万ドルで、半導体輸出は259.4%増の564億4000万ドルだった。10月の貿易収支は425億ドルの黒字で、1～10月の累計輸出は史上初めて9000億ドルを超え、同部は年間輸出1兆ドルを11月中に達成すると見通した。"
+ },
+ {
   "date": "2026-10-30",
   "headline": "[상보] 9월 생산·소비·투자 동반 증가…반도체·자동차 생산 회복",
   "headline_ko": "9월 생산 3.0%·소비 3.6%·투자 5.3%↑…반도체·자동차 회복에 '트리플 증가'",
@@ -16,6 +186,43 @@
   "summary_en": "In Statistics Korea's September industrial activity report, all-industry output rose 3.0% from the previous month. Mining and manufacturing output increased 9.0% on higher chip (19.2%) and auto (39.9%) production. Retail sales rose 3.6% and facility investment 5.3%, rebounding from simultaneous declines in August.",
   "headline_ja": "9月の生産3.0%・消費3.6%・投資5.3%増…半導体・自動車の回復で「トリプル増加」",
   "summary_ja": "韓国国家データ処の9月産業活動動向で、全産業生産は前月比3.0%増加した。半導体（19.2%）と自動車（39.9%）の生産増加で鉱工業生産が9.0%増えた。小売販売は3.6%、設備投資は5.3%増加し、8月のそろっての減少から反発した。"
+ },
+ {
+  "date": "2026-10-30",
+  "headline": "코스피, 3.48% 하락한 5730.74 마감…코스닥 3.83%↓(2보)",
+  "headline_ko": "코스피, 3.48% 하락한 5730.74 마감…코스닥 3.83%↓",
+  "outlet": "뉴스1",
+  "url": "https://www.news1.kr/finance/market-exr/6338047",
+  "summary_ko": "30일 코스피는 전 거래일보다 206.92포인트(3.48%) 내린 5730.74에 마감했다. 외국인이 1조6000억원 넘게 순매도했고, 빅테크의 AI 투자 지속성 우려로 반도체주가 약세를 보였으며 장중 매도 사이드카가 발동됐다. 코스닥은 28.85포인트(3.83%) 내린 724.38에 마감했다.",
+  "topics": [
+   "stocks"
+  ],
+  "orgs": [
+   "한국거래소"
+  ],
+  "headline_en": "KOSPI falls 3.48% to close at 5,730.74; KOSDAQ down 3.83%",
+  "summary_en": "On the 30th, the KOSPI closed at 5,730.74, down 206.92 points (3.48%) from the previous session. Foreigners were net sellers of more than 1.6 trillion won, chip stocks weakened on concerns over the sustainability of Big Tech AI investment, and a sell-side sidecar was triggered intraday. The KOSDAQ closed at 724.38, down 28.85 points (3.83%).",
+  "headline_ja": "KOSPI、3.48%下落の5730.74で引け…KOSDAQは3.83%安",
+  "summary_ja": "30日のKOSPIは前営業日比206.92ポイント（3.48%）安の5730.74で取引を終えた。外国人が1兆6000億ウォン超を売り越し、ビッグテックのAI投資の持続性への懸念から半導体株が軟調となり、取引時間中に売りのサイドカーが発動された。KOSDAQは28.85ポイント（3.83%）安の724.38で引けた。"
+ },
+ {
+  "date": "2026-10-30",
+  "headline": "바이낸스, 8.4조 규모 해킹… 비트코인 등 급락",
+  "headline_ko": "바이낸스, 8.4조 규모 해킹… 비트코인 등 급락",
+  "outlet": "SBS Biz",
+  "url": "https://biz.sbs.co.kr/amp/article/20000343283",
+  "summary_ko": "바이낸스가 약 63억 달러(약 8조 4344억 원) 규모의 해킹 피해를 입었으며, 이는 가상자산 업계 해킹 사고 가운데 역대 최대 규모다. 바이낸스는 모든 입출금을 일시 중단하고 약 30억 달러 규모 자산을 동결했으며 이용자 손실은 전액 보전하겠다고 밝혔다.",
+  "topics": [
+   "crypto",
+   "global"
+  ],
+  "orgs": [
+   "바이낸스"
+  ],
+  "headline_en": "Binance hit by 8.4 trillion won hack; Bitcoin and others plunge",
+  "summary_en": "Binance suffered a hack worth about $6.3 billion (about 8.4344 trillion won), the largest hacking incident ever in the crypto industry. Binance said it temporarily suspended all deposits and withdrawals, froze about $3 billion in assets, and will fully compensate user losses.",
+  "headline_ja": "バイナンス、8.4兆ウォン規模のハッキング…ビットコインなど急落",
+  "summary_ja": "バイナンスが約63億ドル（約8兆4344億ウォン）規模のハッキング被害を受け、暗号資産業界のハッキング事故として過去最大規模となった。バイナンスはすべての入出金を一時停止し、約30億ドル規模の資産を凍結したうえで、利用者の損失は全額補填すると明らかにした。"
  },
  {
   "date": "2026-10-29",
