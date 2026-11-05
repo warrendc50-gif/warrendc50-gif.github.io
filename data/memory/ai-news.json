@@ -100,6 +100,43 @@
   "summary_ja": "オープンAIは木曜日に公表した一連の約束で、データセンターの電力費用を全額負担する方針を改めて示した。自社所有の拠点では地域社会の意見を募り、建設計画を公開し、公務員との秘密保持契約は結ばないとした。"
  },
  {
+  "date": "2026-11-05",
+  "headline": "Dropbox acquires Tigris Data for $350M to bolster its AI infra",
+  "headline_ko": "드롭박스, AI 인프라 강화 위해 티그리스 데이터 3억5천만 달러에 인수",
+  "outlet": "TechCrunch",
+  "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-infra/",
+  "summary_ko": "드롭박스가 AI 인프라를 강화하기 위해 티그리스 데이터를 3억5천만 달러에 인수한다. 인수는 2026년 4분기에 마무리될 예정이다.",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "드롭박스",
+   "티그리스 데이터"
+  ],
+  "headline_en": "Dropbox acquires Tigris Data for $350M to bolster its AI infra",
+  "summary_en": "Dropbox is acquiring Tigris Data for $350 million to strengthen its AI infrastructure. The deal is expected to close in the fourth quarter of 2026.",
+  "headline_ja": "ドロップボックス、AIインフラ強化へティグリス・データを3億5千万ドルで買収",
+  "summary_ja": "ドロップボックスはAIインフラを強化するため、ティグリス・データを3億5千万ドルで買収する。買収は2026年第4四半期に完了する見通しだ。"
+ },
+ {
+  "date": "2026-11-05",
+  "headline": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+  "headline_ko": "휴머노이드 로봇 기업 어질리티, SPAC 통해 나스닥 상장…순수 휴머노이드 기업 첫 상장",
+  "outlet": "TechCrunch",
+  "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+  "summary_ko": "휴머노이드 로봇 제조업체 어질리티가 4억6,500만 달러를 조달하는 스팩(SPAC) 합병을 통해 나스닥에 상장했다. 순수 휴머노이드 로봇 기업으로는 처음으로 주식시장에 올랐다.",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "어질리티 로보틱스"
+  ],
+  "headline_en": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+  "summary_en": "Humanoid robot maker Agility went public on the Nasdaq through a SPAC deal that raises $465 million. It is the first pure humanoid robot company on the stock market.",
+  "headline_ja": "ヒューマノイドロボット企業アジリティ、SPAC経由でナスダック上場…純粋なヒューマノイド企業として初",
+  "summary_ja": "ヒューマノイドロボットメーカーのアジリティは、4億6,500万ドルを調達するSPAC合併を通じてナスダックに上場した。純粋なヒューマノイドロボット企業として初めて株式市場に登場した。"
+ },
+ {
   "date": "2026-11-04",
   "headline": "Qualcomm Announces Fourth Quarter and Fiscal 2026 Results",
   "headline_ko": "퀄컴 4분기 매출 103억 달러…아마존과 AI 데이터센터 협력, 2027년 데이터센터 매출 50억 달러 목표 재확인",
