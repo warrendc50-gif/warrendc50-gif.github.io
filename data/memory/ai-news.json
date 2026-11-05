@@ -81,6 +81,25 @@
   "summary_ja": "欧州委員会は、半導体設計スタートアップ向けに5億2500万ユーロ規模の「欧州半導体設計プラットフォーム」を発表した。"
  },
  {
+  "date": "2026-11-05",
+  "headline": "OpenAI pledges to pay for data center power after election highlights AI concerns",
+  "headline_ko": "오픈AI, 중간선거서 AI 우려 드러나자 \"데이터센터 전력비 전액 부담\" 약속",
+  "outlet": "CNBC",
+  "url": "https://cnbc.com/2026/11/05/openai-to-pay-for-data-center-power-after-election-shows-ai-concern.html",
+  "summary_ko": "오픈AI가 목요일 발표한 일련의 약속에서 데이터센터 전력 비용을 전액 부담하겠다는 방침을 재확인했다. 자사 소유 부지에서는 지역사회 의견을 구하고 건설 계획을 공개하며, 공무원과 비밀유지계약을 맺지 않겠다고 밝혔다.",
+  "topics": [
+   "policy",
+   "business"
+  ],
+  "orgs": [
+   "오픈AI"
+  ],
+  "headline_en": "OpenAI pledges to pay for data center power after election highlights AI concerns",
+  "summary_en": "In a series of commitments published Thursday, OpenAI reaffirmed its promise to pay the full cost of powering its data centers. For company-owned sites, it said it will solicit community input, publish construction plans and avoid non-disclosure agreements with public officials.",
+  "headline_ja": "オープンAI、中間選挙でAI懸念が浮き彫りになり「データセンター電力費を全額負担」と約束",
+  "summary_ja": "オープンAIは木曜日に公表した一連の約束で、データセンターの電力費用を全額負担する方針を改めて示した。自社所有の拠点では地域社会の意見を募り、建設計画を公開し、公務員との秘密保持契約は結ばないとした。"
+ },
+ {
   "date": "2026-11-04",
   "headline": "Qualcomm Announces Fourth Quarter and Fiscal 2026 Results",
   "headline_ko": "퀄컴 4분기 매출 103억 달러…아마존과 AI 데이터센터 협력, 2027년 데이터센터 매출 50억 달러 목표 재확인",
