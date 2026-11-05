@@ -1,5 +1,25 @@
 [
  {
+  "date": "2026-11-06",
+  "headline": "프리장 삼성전자18만원 붕괴…하이닉스도 12%대 급락[종목 NOW]",
+  "headline_ko": "美 반도체 폭락 여파…프리마켓서 삼성전자 18만원 붕괴, SK하이닉스 12%대 급락",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611060834391434",
+  "summary_ko": "6일 오전 8시 31분 프리마켓에서 삼성전자는 전 거래일보다 10.72% 내린 17만9900원, SK하이닉스는 12.97% 내린 110만원에 거래됐다. 미국 중간선거 이후 AI 데이터센터 규제와 AI 투자 축소 우려로 마이크론과 AMD가 각각 17%대 하락한 여파다.",
+  "topics": [
+   "stocks",
+   "global"
+  ],
+  "orgs": [
+   "삼성전자",
+   "SK하이닉스"
+  ],
+  "headline_en": "After US chip crash, Samsung Electronics breaks below 180,000 won in premarket; SK hynix falls over 12%",
+  "summary_en": "At 8:31 a.m. on the 6th in premarket trading, Samsung Electronics traded at 179,900 won, down 10.72% from the previous session, and SK hynix at 1,100,000 won, down 12.97%. The drop followed declines of more than 17% each in Micron and AMD on concerns over AI data center regulation and reduced AI investment after the US midterm elections.",
+  "headline_ja": "米半導体暴落の余波…プレマーケットでサムスン電子18万ウォン割れ、SKハイニックス12%台急落",
+  "summary_ja": "6日午前8時31分のプレマーケットで、サムスン電子は前営業日比10.72%安の17万9900ウォン、SKハイニックスは12.97%安の110万ウォンで取引された。米中間選挙後のAIデータセンター規制やAI投資縮小への懸念で、マイクロンとAMDがそれぞれ17%台下落した余波だ。"
+ },
+ {
   "date": "2026-11-05",
   "headline": "코스피 5.28% 급락해 5400선 내줘…코스닥도 5%대 하락 [fn마감시황]",
   "headline_ko": "코스피 5.28% 급락해 5400선 내줘…코스닥도 5%대 하락",
