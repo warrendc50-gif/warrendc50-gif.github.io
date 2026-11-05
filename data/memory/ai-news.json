@@ -397,6 +397,28 @@
   "summary_ja": "AI推論スタートアップのFalは、ベッセマー・ベンチャー・パートナーズが主導した資金調達ラウンドで13億ドルを調達した。これによりFalの企業価値は160億ドルと評価された。"
  },
  {
+  "date": "2026-11-03",
+  "headline": "삼성·SK·LG, 엔비디아 'AI 데이 서울' 총출동…AI 협력 확대 주목",
+  "headline_ko": "삼성·SK·LG, 엔비디아 'AI 데이 서울' 총출동…AI 협력 확대 주목",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611030539118236",
+  "summary_ko": "삼성, SK하이닉스, LG가 9~10일 서울에서 열리는 엔비디아의 'AI 데이 서울' 행사에 참여할 것으로 전해졌다. 삼성전자는 엔비디아와 HBM 공급과 반도체용 AI 팩토리 협력을 추진하는 것으로 알려졌다.",
+  "topics": [
+   "chips",
+   "korea"
+  ],
+  "orgs": [
+   "엔비디아",
+   "삼성전자",
+   "SK하이닉스",
+   "LG"
+  ],
+  "headline_en": "Samsung, SK and LG turn out in force for Nvidia's 'AI Day Seoul'; expanded AI cooperation in focus",
+  "summary_en": "Samsung, SK hynix and LG are reportedly joining Nvidia's 'AI Day Seoul' event in Seoul on the 9th and 10th. Samsung Electronics is reportedly pursuing HBM supply and an AI factory for semiconductors with Nvidia.",
+  "headline_ja": "サムスン・SK・LG、エヌビディア「AIデー・ソウル」に総出…AI協力拡大に注目",
+  "summary_ja": "サムスン、SKハイニックス、LGが9～10日にソウルで開かれるエヌビディアの「AIデー・ソウル」に参加する見通しだ。サムスン電子はエヌビディアとHBM供給や半導体向けAIファクトリーでの協力を進めているという。"
+ },
+ {
   "date": "2026-11-02",
   "headline": "Apple Reports 4Q 2026 Results: $30.7B Profit on $114.5B Revenue",
   "headline_ko": "애플 2026 회계연도 4분기 실적: 매출 1145억 달러, 순이익 307억 달러",
