@@ -62,6 +62,25 @@
   "summary_ja": "米中間選挙後にAIデータセンター産業への規制懸念が広がり、KOSPIは5%近く暴落し、サムスン電子は7.57%、SKハイニックスは9.46%下落した。中間選挙で当選またはリードした知事36人のうち34人が、少なくとも1つのデータセンター規制を支持したと伝えられた。"
  },
  {
+  "date": "2026-11-05",
+  "headline": "Europe is betting €525 million on chip design start-ups",
+  "headline_ko": "EU, 반도체 설계 스타트업에 5억2500만 유로 투자",
+  "outlet": "Euronews",
+  "url": "https://www.euronews.com/2026/11/05/europe-is-betting-525-million-on-chip-design-start-ups",
+  "summary_ko": "유럽연합 집행위원회가 반도체 설계 스타트업을 위한 5억2500만 유로 규모의 '유럽 반도체 설계 플랫폼'을 발표했다.",
+  "topics": [
+   "chips",
+   "policy"
+  ],
+  "orgs": [
+   "유럽연합 집행위원회"
+  ],
+  "headline_en": "Europe is betting €525 million on chip design start-ups",
+  "summary_en": "The European Commission announced a €525 million European Chip Design Platform for chip design start-ups.",
+  "headline_ja": "EU、半導体設計スタートアップに5億2500万ユーロ投資",
+  "summary_ja": "欧州委員会は、半導体設計スタートアップ向けに5億2500万ユーロ規模の「欧州半導体設計プラットフォーム」を発表した。"
+ },
+ {
   "date": "2026-11-04",
   "headline": "Qualcomm Announces Fourth Quarter and Fiscal 2026 Results",
   "headline_ko": "퀄컴 4분기 매출 103억 달러…아마존과 AI 데이터센터 협력, 2027년 데이터센터 매출 50억 달러 목표 재확인",
