@@ -41,6 +41,27 @@
   "summary_ja": "豪データセンター運営会社ネクストDCの株価は、グッドマン・グループとデジタル・リアルティが株式取得に動いたことを受け、木曜日に42%超急騰した。"
  },
  {
+  "date": "2026-11-05",
+  "headline": "美 '블루웨이브' 후폭풍에 코스피 5% 폭락…AI 데이터센터 산업 규제 우려 확산",
+  "headline_ko": "美 '블루웨이브' 후폭풍에 AI 데이터센터 규제 우려…삼성전자 7%·SK하이닉스 9% 급락",
+  "outlet": "전자신문",
+  "url": "https://etnews.com/20261105000437",
+  "summary_ko": "미국 중간선거 이후 AI 데이터센터 산업 규제 우려가 퍼지며 코스피가 5% 가까이 폭락했고, 삼성전자는 7.57%, SK하이닉스는 9.46% 떨어졌다. 중간선거에서 당선됐거나 앞선 주지사 36명 가운데 34명이 데이터센터 규제를 하나 이상 지지한 것으로 전해졌다.",
+  "topics": [
+   "policy",
+   "chips",
+   "korea"
+  ],
+  "orgs": [
+   "삼성전자",
+   "SK하이닉스"
+  ],
+  "headline_en": "US 'blue wave' fallout sparks AI data center regulation fears; Samsung Electronics down 7%, SK hynix down 9%",
+  "summary_en": "Fears of regulation of the AI data center industry spread after the US midterm elections, sending the KOSPI down nearly 5%, with Samsung Electronics falling 7.57% and SK hynix 9.46%. Of the 36 governors who won or led in the midterms, 34 reportedly backed at least one data center regulation.",
+  "headline_ja": "米「ブルーウェーブ」の余波でAIデータセンター規制懸念…サムスン電子7%・SKハイニックス9%急落",
+  "summary_ja": "米中間選挙後にAIデータセンター産業への規制懸念が広がり、KOSPIは5%近く暴落し、サムスン電子は7.57%、SKハイニックスは9.46%下落した。中間選挙で当選またはリードした知事36人のうち34人が、少なくとも1つのデータセンター規制を支持したと伝えられた。"
+ },
+ {
   "date": "2026-11-04",
   "headline": "Qualcomm Announces Fourth Quarter and Fiscal 2026 Results",
   "headline_ko": "퀄컴 4분기 매출 103억 달러…아마존과 AI 데이터센터 협력, 2027년 데이터센터 매출 50억 달러 목표 재확인",
