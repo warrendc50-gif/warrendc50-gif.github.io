@@ -39,6 +39,23 @@
   "summary_ja": "韓国不動産院によると、11月第1週のソウルのマンション売買価格は前週比0.07%上がり91週連続で上昇したが、上昇幅は3週連続で縮小した。江南区（-0.39%）と瑞草区（-0.37%）は11週連続、松坡区（-0.17%）は10週連続で下落した。"
  },
  {
+  "date": "2026-11-05",
+  "headline": "국고채 금리 사흘째 하락…코스피 급락에 '안전자산' 쏠림",
+  "headline_ko": "국고채 금리 사흘째 하락…코스피 급락에 안전자산 쏠림, 환율 1342.1원",
+  "outlet": "이데일리",
+  "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=05904006645642768",
+  "summary_ko": "5일 국고채 3년물 금리는 3.671%로 전날보다 3.6bp, 10년물은 3.892%로 5.8bp 내려 사흘째 하락했다. 반도체주 투매로 코스피가 5.28% 급락하자 안전자산으로 자금이 몰렸고, 외국인은 국채 현물을 팔고 선물은 샀다. 원·달러 환율은 주간거래 종가 기준 1342.1원으로 1.1원 올랐다.",
+  "topics": [
+   "rates",
+   "fx"
+  ],
+  "orgs": [],
+  "headline_en": "Korean Treasury yields fall for a third day as KOSPI plunge drives flight to safe assets; won at 1,342.1",
+  "summary_en": "On the 5th, the 3-year Korean Treasury yield fell 3.6bp from the previous day to 3.671%, and the 10-year fell 5.8bp to 3.892%, declining for a third straight day. As the KOSPI plunged 5.28% on a chip-stock selloff, money flowed into safe assets, and foreigners sold cash government bonds while buying futures. The won-dollar rate closed the daytime session at 1,342.1 won, up 1.1 won.",
+  "headline_ja": "韓国国債利回り3日連続低下…KOSPI急落で安全資産に資金集中、ウォン相場1342.1ウォン",
+  "summary_ja": "5日の韓国国債3年物利回りは前日比3.6bp低い3.671%、10年物は5.8bp低い3.892%となり、3日連続で低下した。半導体株の投げ売りでKOSPIが5.28%急落すると安全資産に資金が集まり、外国人は国債現物を売って先物を買った。ウォン・ドル相場は昼間取引の終値で1ドル＝1342.1ウォンと、1.1ウォン上昇した。"
+ },
+ {
   "date": "2026-11-04",
   "headline": "[마감] 코스피, 美 중간선거에 장중 4% 급락 딛고 0.62% 상승…5680선 마감",
   "headline_ko": "코스피, 美 중간선거에 장중 4% 급락 딛고 0.62% 상승…5680선 마감",
