@@ -1,5 +1,23 @@
 [
  {
+  "date": "2026-11-06",
+  "headline": "美 민주당, 선거 승리 이후 AI 규제 시동…데이터센터 건설 중단 촉구",
+  "headline_ko": "美 민주당, 선거 승리 후 AI 규제 시동…일부 \"데이터센터 건설 중단\" 촉구",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611060553212782",
+  "summary_ko": "중간선거에서 상·하원을 장악한 미국 민주당 일부에서 전국적인 데이터센터 건설 중단을 요구하고 있다. 다만 이는 일부 의원들의 요구로, 연방 차원의 규제 도입이나 시행이 확정된 것은 아니다.",
+  "topics": [
+   "policy"
+  ],
+  "orgs": [
+   "미국 민주당"
+  ],
+  "headline_en": "US Democrats kick off AI regulation after election win; some call for halt to data center construction",
+  "summary_en": "Some members of the US Democratic Party, which took control of both chambers of Congress in the midterms, are calling for a nationwide halt to data center construction. However, this is a demand from some lawmakers, and no federal regulation has been confirmed or implemented.",
+  "headline_ja": "米民主党、選挙勝利後にAI規制始動…一部「データセンター建設停止」を要求",
+  "summary_ja": "中間選挙で上下両院を掌握した米民主党の一部から、全国的なデータセンター建設の停止を求める声が出ている。ただし、これは一部議員の要求で、連邦レベルの規制導入や施行が決まったわけではない。"
+ },
+ {
   "date": "2026-11-05",
   "headline": "한국데이터센터연합회-코트라, AI 데이터센터 해외 투자 유치 나선다",
   "headline_ko": "한국데이터센터연합회-코트라, AI 데이터센터 해외 투자 유치 나선다",
