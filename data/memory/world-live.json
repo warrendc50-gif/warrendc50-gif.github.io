@@ -49,6 +49,58 @@
    "summary_ja": "フィリピン・パンガシナン州マラシキの違法な花火製造施設とみられる場所で爆発が起き、4人が死亡、1人が負傷した。警察が爆発の原因を調べている。"
   },
   {
+   "date": "2026-11-05",
+   "headline": "Israel’s Herzog accepts vote results, opens talks on forming a government",
+   "headline_ko": "이스라엘 헤르초그 대통령, 총선 결과 수용…정부 구성 협의 시작",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/5/israels-herzog-accepts-vote-results-opens-talks-on-forming-a-government",
+   "summary_ko": "이스라엘 헤르초그 대통령이 총선 결과를 공식 수용하고 차기 정부를 구성할 인물을 정하기 위한 협의를 시작했다. 네타냐후 총리나 아이젠코트가 지명될 가능성이 가장 크며, 둘 다 실패하면 내년 초 다시 총선이 치러진다.",
+   "topics": [
+    "politics"
+   ],
+   "orgs": [],
+   "headline_en": "Israel’s Herzog accepts vote results, opens talks on forming a government",
+   "summary_en": "Israeli President Herzog formally accepted the election results and began consultations to decide who will form the next government. Prime Minister Netanyahu or Eisenkot is the most likely pick, and if both fail, another election will be held early next year.",
+   "headline_ja": "イスラエルのヘルツォグ大統領、総選挙結果を受理…政権樹立に向けた協議開始",
+   "summary_ja": "イスラエルのヘルツォグ大統領は総選挙の結果を正式に受理し、次期政権を樹立する人物を決めるための協議を始めた。ネタニヤフ首相かアイゼンコット氏が指名される可能性が最も高く、両者とも失敗すれば来年初めに再び総選挙が行われる。"
+  },
+  {
+   "date": "2026-11-05",
+   "headline": "Iran war live: IRGC says two oil tankers and tugboat caught fire in Hormuz",
+   "headline_ko": "이란 혁명수비대 \"호르무즈서 유조선 2척·예인선 화재\"",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it",
+   "summary_ko": "이란 혁명수비대(IRGC)는 호르무즈 해협에서 '허가받지 않은 항로'를 이용한 유조선 2척과 예인선 1척에 불이 났다고 밝혔다.",
+   "topics": [
+    "conflict"
+   ],
+   "orgs": [
+    "이란 혁명수비대"
+   ],
+   "headline_en": "Iran war live: IRGC says two oil tankers and tugboat caught fire in Hormuz",
+   "summary_en": "Iran's Islamic Revolutionary Guard Corps (IRGC) said two oil tankers and a tugboat caught fire in the Strait of Hormuz after using an 'unauthorised route'.",
+   "headline_ja": "イラン革命防衛隊「ホルムズでタンカー2隻・タグボートが炎上」",
+   "summary_ja": "イラン革命防衛隊（IRGC）は、ホルムズ海峡で「許可されていない航路」を使ったタンカー2隻とタグボート1隻で火災が起きたと発表した。"
+  },
+  {
+   "date": "2026-11-05",
+   "headline": "Hong Kong democracy activist Joshua Wong sentenced to 10 years in jail",
+   "headline_ko": "홍콩 민주화 운동가 조슈아 웡, 징역 10년 추가 선고",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/5/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-years-in-jail",
+   "summary_ko": "홍콩 민주화 운동가 조슈아 웡이 징역 10년을 추가로 선고받았다. 홍콩 고등법원은 그가 국가보안법을 위반해 외국 세력과 결탁한 혐의가 유죄라고 판단했다.",
+   "topics": [
+    "politics"
+   ],
+   "orgs": [
+    "홍콩 고등법원"
+   ],
+   "headline_en": "Hong Kong democracy activist Joshua Wong sentenced to 10 years in jail",
+   "summary_en": "Hong Kong democracy activist Joshua Wong was sentenced to an additional 10 years in prison. Hong Kong's High Court found him guilty of colluding with foreign forces in violation of the national security law.",
+   "headline_ja": "香港の民主活動家ジョシュア・ウォン氏、禁錮10年を追加で言い渡される",
+   "summary_ja": "香港の民主活動家ジョシュア・ウォン氏が、さらに禁錮10年を言い渡された。香港高等法院は、同氏が国家安全維持法に違反して外国勢力と結託した罪で有罪と判断した。"
+  },
+  {
    "date": "2026-11-04",
    "headline": "2026 midterm election results: House, Senate",
    "headline_ko": "2026 미국 중간선거 결과: 민주당, 하원·상원 장악 전망",
