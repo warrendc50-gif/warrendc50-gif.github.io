@@ -72,7 +72,7 @@
  },
  {
   "date": "2026-11-05",
-  "headline": "Bank of England hikes for the first time since the Iran war, lifting interest rate to 4%",
+  "headline": "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
   "headline_ko": "영국중앙은행, 이란 전쟁 후 첫 금리 인상…기준금리 4%로",
   "outlet": "CNBC",
   "url": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html",
@@ -83,7 +83,7 @@
   "orgs": [
    "영국중앙은행"
   ],
-  "headline_en": "Bank of England hikes for the first time since the Iran war, lifting interest rate to 4%",
+  "headline_en": "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
   "summary_en": "The Bank of England raised its key rate by 25 basis points to 4%. It was the first hike since August 2023, making it the last major central bank to begin tightening since the US and Israel went to war with Iran. Markets had priced in a more than 99% chance of a hike.",
   "headline_ja": "英中銀、イラン戦争後初の利上げ…政策金利4%に",
   "summary_ja": "イングランド銀行は政策金利を0.25%ポイント引き上げ、4%とした。2023年8月以来の利上げで、米国・イスラエルとイランの戦争開始後に引き締めに転じた最後の主要中央銀行となった。市場は99%超の確率で利上げを織り込んでいた。"
@@ -105,6 +105,40 @@
   "summary_en": "According to the US Labor Department, initial jobless claims for the week ended October 31 were 189,000, matching the lowest level since 1969. That was below the 196,000 forecast by economists polled by Reuters, and the prior week's figure was revised up to 195,000.",
   "headline_ja": "米週間新規失業保険申請18.9万件…1969年以来の低水準",
   "summary_ja": "米労働省によると、10月31日までの週の新規失業保険申請件数は18万9千件で、1969年以来の最低水準に並んだ。ロイターがまとめた専門家予想の19万6千件を下回り、前週分は19万5千件に上方修正された。"
+ },
+ {
+  "date": "2026-11-05",
+  "headline": "Barkin sees interest rate hikes ahead, but at a gradual pace",
+  "headline_ko": "바킨 리치먼드 연은 총재 \"추가 금리 인상 필요…속도는 점진적\"",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html",
+  "summary_ko": "토머스 바킨 리치먼드 연방준비은행 총재는 연준이 금리를 더 올려야 할 것으로 본다고 말했다. 다만 인상 폭과 속도는 확실하지 않다고 덧붙였다.",
+  "topics": [
+   "fed"
+  ],
+  "orgs": [
+   "연준"
+  ],
+  "headline_en": "Barkin sees interest rate hikes ahead, but at a gradual pace",
+  "summary_en": "Richmond Fed President Thomas Barkin said he expects the central bank will have to raise interest rates further. He added that he is not sure by how much or at what pace.",
+  "headline_ja": "バーキン・リッチモンド連銀総裁「追加利上げが必要…ペースは緩やか」",
+  "summary_ja": "トーマス・バーキン・リッチモンド連銀総裁は、FRBがさらに利上げしなければならないとの見方を示した。ただし、上げ幅やペースは定かではないと付け加えた。"
+ },
+ {
+  "date": "2026-11-05",
+  "headline": "Markets cool after the monster midterm rally with Musk's stocks under pressure",
+  "headline_ko": "중간선거 랠리 후 뉴욕증시 숨 고르기…머스크 관련주 약세",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/11/05/markets-cool-midterm-musk-stocks-under-pressure.html",
+  "summary_ko": "미국 중간선거 직후의 대규모 랠리 이후 시장이 진정세를 보이고 있으며, 일론 머스크 관련 종목들이 압박을 받고 있다.",
+  "topics": [
+   "markets"
+  ],
+  "orgs": [],
+  "headline_en": "Markets cool after the monster midterm rally with Musk's stocks under pressure",
+  "summary_en": "Markets are cooling after the huge rally that followed the US midterm elections, with Elon Musk-related stocks under pressure.",
+  "headline_ja": "中間選挙ラリー後に米株は一服…マスク氏関連株が軟調",
+  "summary_ja": "米中間選挙直後の大規模なラリーの後、市場は落ち着きを見せており、イーロン・マスク氏関連の銘柄が圧迫されている。"
  },
  {
   "date": "2026-11-04",
