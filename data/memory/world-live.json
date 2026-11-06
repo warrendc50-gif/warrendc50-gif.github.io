@@ -217,6 +217,25 @@
    "summary_ja": "イスラエルのヘルツォグ大統領は、日曜日までに次期政権を樹立する候補を指名すると明らかにした。議員67人がアイゼンコット氏を、46人がネタニヤフ氏を支持した。"
   },
   {
+   "date": "2026-11-06",
+   "headline": "Ukraine raises Zaporizhia aid strike death toll to at least 50",
+   "headline_ko": "우크라이나, 러시아의 자포리자 구호시설 공격 사망자 최소 50명으로 늘려",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/6/ukraine-raises-zaporizhia-aid-strike-death-toll-to-at-least-50",
+   "summary_ko": "러시아의 자포리자주 구호물자 배급소 공격으로 인한 사망자가 최소 50명으로 늘었고, 주지사 대행은 이후 53명으로 집계했다. 당국은 잔해 아래 최대 39명이 더 갇혀 있을 수 있다고 밝혔다.",
+   "topics": [
+    "conflict"
+   ],
+   "orgs": [
+    "Russian Armed Forces",
+    "Government of Ukraine"
+   ],
+   "headline_en": "Ukraine raises Zaporizhia aid strike death toll to at least 50",
+   "summary_en": "The death toll from a Russian strike on an aid distribution site in the Zaporizhia region has reached at least 50, and an acting regional governor later put it at 53. Officials said as many as 39 people may still be trapped under the debris.",
+   "headline_ja": "ウクライナ、ロシアのザポリージャ支援施設攻撃の死者を少なくとも50人に引き上げ",
+   "summary_ja": "ロシアによるザポリージャ州の支援物資配布所への攻撃の死者は少なくとも50人に増え、州知事代行はその後53人と発表した。当局は、がれきの下にまだ最大39人が閉じ込められている可能性があるとしている。"
+  },
+  {
    "date": "2026-11-05",
    "headline": "Four killed in Pangasinan firecracker facility explosion",
    "headline_ko": "필리핀 팡가시난 폭죽 제조시설 폭발…4명 사망",
@@ -447,25 +466,6 @@
    "summary_ja": "11月3日に行われた米中間選挙で、CNBCの選挙デスクは民主党が下院で少なくとも250議席を獲得すると予測した。民主党は上院でも少なくとも54議席を占める見通しとなった。"
   },
   {
-   "date": "2026-11-06",
-   "headline": "Ukraine raises Zaporizhia aid strike death toll to at least 50",
-   "headline_ko": "우크라이나, 러시아의 자포리자 구호시설 공격 사망자 최소 50명으로 늘려",
-   "outlet": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/6/ukraine-raises-zaporizhia-aid-strike-death-toll-to-at-least-50",
-   "summary_ko": "러시아의 자포리자주 구호물자 배급소 공격으로 인한 사망자가 최소 50명으로 늘었고, 주지사 대행은 이후 53명으로 집계했다. 당국은 잔해 아래 최대 39명이 더 갇혀 있을 수 있다고 밝혔다.",
-   "topics": [
-    "conflict"
-   ],
-   "orgs": [
-    "Russian Armed Forces",
-    "Government of Ukraine"
-   ],
-   "headline_en": "Ukraine raises Zaporizhia aid strike death toll to at least 50",
-   "summary_en": "The death toll from a Russian strike on an aid distribution site in the Zaporizhia region has reached at least 50, and an acting regional governor later put it at 53. Officials said as many as 39 people may still be trapped under the debris.",
-   "headline_ja": "ウクライナ、ロシアのザポリージャ支援施設攻撃の死者を少なくとも50人に引き上げ",
-   "summary_ja": "ロシアによるザポリージャ州の支援物資配布所への攻撃の死者は少なくとも50人に増え、州知事代行はその後53人と発表した。当局は、がれきの下にまだ最大39人が閉じ込められている可能性があるとしている。"
-  },
-  {
    "date": "2026-11-04",
    "headline": "Spanish transport minister resigns after train crash killed 69 people",
    "headline_ko": "스페인 교통장관, 69명 숨진 열차 사고 이후 사임",
@@ -675,6 +675,24 @@
    "summary_en": "Iran exempted Iraq, India, China and Qatar from its shipping restrictions in the Strait of Hormuz. An Iranian parliamentary official said each exemption is tied to a specific deal, with India's linked to medicine imports and China's to political support, adding that Qatar pays no transit fees while Indian and Chinese vessels still do.",
    "headline_ja": "イラン、イラク・インド・中国・カタールにホルムズ通航制限を免除",
    "summary_ja": "イランはイラク、インド、中国、カタールをホルムズ海峡の船舶通航制限から免除した。イラン議会関係者は、免除ごとに個別の取引があり、インドは医薬品輸入、中国は政治的支持に結びついていると述べ、カタールは通航料を払わないがインドと中国の船舶は今も払っていると付け加えた。"
+  },
+  {
+   "date": "2026-11-03",
+   "headline": "Ebola outbreak kills more than 5,300 people in DR Congo",
+   "headline_ko": "콩고민주공화국 에볼라 사망자 5천300명 넘어",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/3/ebola-outbreak-kills-more-than-5300-people-in-dr-congo",
+   "summary_ko": "아프리카 질병통제예방센터(Africa CDC) 자료에 따르면 이번 에볼라 확산으로 5천376명이 숨졌다. 사망자는 콩고민주공화국 5천372명, 케냐와 우간다 각 2명이다.",
+   "topics": [
+    "health"
+   ],
+   "orgs": [
+    "아프리카 질병통제예방센터"
+   ],
+   "headline_en": "Ebola outbreak kills more than 5,300 people in DR Congo",
+   "summary_en": "According to Africa CDC data, the latest Ebola outbreak has killed 5,376 people: 5,372 in the DRC and two each in Kenya and Uganda.",
+   "headline_ja": "コンゴ民主共和国のエボラ死者5300人超",
+   "summary_ja": "アフリカ疾病対策センター（Africa CDC）のデータによると、今回のエボラ流行で5376人が死亡した。内訳はコンゴ民主共和国5372人、ケニアとウガンダが各2人。"
   },
   {
    "date": "2026-11-02",
