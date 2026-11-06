@@ -148,6 +148,26 @@
   "summary_ja": "オープンAIのサラ・フライヤー最高財務責任者（CFO）は、中間選挙で有権者が反対の意思を示したにもかかわらず、データセンターへの投資を続けると述べた。同社は2027年の上場を引き続き検討するとした。"
  },
  {
+  "date": "2026-11-06",
+  "headline": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+  "headline_ko": "오픈소스 AI 해킹 도구 '아텍스' 수백 개, 비밀번호 없이 인터넷에 노출",
+  "outlet": "TechCrunch",
+  "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+  "summary_ko": "보안업체 센시스가 오픈소스 AI 침투 테스트 도구 '아텍스'의 배포본 800개 이상이 비밀번호 없이 인터넷에서 접근 가능한 상태임을 확인했다. 이 도구는 중국 연계 해커들이 IT 지원업체 커넥트와이즈를 공격해 마이크로소프트 클라우드에 데이터를 둔 수천 개 조직을 염탐한 사건에도 쓰인 것으로 알려졌다.",
+  "topics": [
+   "research"
+  ],
+  "orgs": [
+   "센시스",
+   "커넥트와이즈",
+   "마이크로소프트"
+  ],
+  "headline_en": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+  "summary_en": "Security firm Censys identified more than 800 deployments of the open-source AI penetration-testing tool Artex accessible from the web without a password. The tool has also been tied to an attack on IT support provider ConnectWise that allowed Chinese-linked hackers to spy on thousands of organizations whose data is hosted in Microsoft's cloud.",
+  "headline_ja": "オープンソースAIハッキングツール「Artex」数百件、パスワードなしでネットに露出",
+  "summary_ja": "セキュリティ企業センシスは、オープンソースのAI侵入テストツール「Artex」の配備800件以上がパスワードなしでインターネットからアクセス可能な状態にあることを確認した。このツールは、中国系ハッカーがITサポート企業コネクトワイズを攻撃し、マイクロソフトのクラウドにデータを置く数千の組織を監視した事件にも使われたとされる。"
+ },
+ {
   "date": "2026-11-05",
   "headline": "한국데이터센터연합회-코트라, AI 데이터센터 해외 투자 유치 나선다",
   "headline_ko": "한국데이터센터연합회-코트라, AI 데이터센터 해외 투자 유치 나선다",
@@ -451,6 +471,24 @@
   "summary_en": "Chinese AI lab Moonshot sought access to Nvidia Blackwell chips through data centers in Europe amid US chip curbs on China, according to sources.",
   "headline_ja": "中国AI企業ムーンショット、米国の対中規制下で欧州データセンター経由でエヌビディア「ブラックウェル」確保を模索",
   "summary_ja": "関係者によると、中国のAI研究所ムーンショットは、米国の対中半導体規制の下で、欧州のデータセンターを通じてエヌビディアのブラックウェルチップへのアクセスを模索した。"
+ },
+ {
+  "date": "2026-11-05",
+  "headline": "Claude can now analyze your spending with its new Personal Finance tool",
+  "headline_ko": "앤트로픽 클로드, 지출 분석 '개인 금융' 기능 출시",
+  "outlet": "TechCrunch",
+  "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool",
+  "summary_ko": "앤트로픽의 클로드가 사용자의 지출을 분석해 주는 '개인 금융' 도구를 내놨다. 이번 주부터 미국의 프로·맥스·울트라 요금제 사용자에게 베타로 제공된다.",
+  "topics": [
+   "model"
+  ],
+  "orgs": [
+   "앤트로픽"
+  ],
+  "headline_en": "Claude can now analyze your spending with its new Personal Finance tool",
+  "summary_en": "Anthropic's Claude launched a Personal Finance tool that analyzes users' spending. It starts rolling out in beta this week to users on the Pro, Max and Ultra plans in the US.",
+  "headline_ja": "アンソロピックのClaude、支出を分析する「パーソナルファイナンス」機能を公開",
+  "summary_ja": "アンソロピックのClaudeは、ユーザーの支出を分析する「パーソナルファイナンス」ツールを公開した。今週から米国のPro・Max・Ultraプランのユーザー向けにベータ版として提供される。"
  },
  {
   "date": "2026-11-04",
