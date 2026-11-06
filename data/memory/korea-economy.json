@@ -96,6 +96,41 @@
   "summary_ja": "6日のKOSPIは前営業日比324.11ポイント（6.02%）安の5059.69、KOSDAQは34.14ポイント（5.03%）安の644.27で取引を終えた。米国発のAI投資減速懸念から、半導体や素材・部品・装置、電力機器などAIインフラのサプライチェーンに売りが集中した。"
  },
  {
+  "date": "2026-11-06",
+  "headline": "고팍스, 해킹 협박 메일 받고 매매·출금 중단…코인 전량 콜드월렛으로",
+  "headline_ko": "고팍스, 해킹 협박 메일 받고 매매·출금 중단…코인 전량 콜드월렛으로",
+  "outlet": "뉴스1",
+  "url": "https://news1.kr/finance/blockchain-fintech/6346175",
+  "summary_ko": "가상자산거래소 고팍스가 해킹 협박 메일을 받은 뒤 매매와 출금을 중단하고 보관 중인 코인 전량을 콜드월렛으로 옮겼다.",
+  "topics": [
+   "crypto"
+  ],
+  "orgs": [
+   "고팍스"
+  ],
+  "headline_en": "Gopax halts trading and withdrawals after hacking threat email, moves all coins to cold wallets",
+  "summary_en": "Crypto exchange Gopax halted trading and withdrawals after receiving a hacking threat email and moved all the coins it holds to cold wallets.",
+  "headline_ja": "ゴパックス、ハッキング脅迫メールを受け売買・出金を停止…コインを全量コールドウォレットへ",
+  "summary_ja": "暗号資産取引所ゴパックスはハッキングの脅迫メールを受けて売買と出金を停止し、保管中のコインを全量コールドウォレットに移した。"
+ },
+ {
+  "date": "2026-11-06",
+  "headline": "비트코인, 7.5만달러대로 급락…뉴욕증시와 동반 하락[코인브리핑]",
+  "headline_ko": "비트코인, 7.5만달러대로 급락…뉴욕증시와 동반 하락",
+  "outlet": "뉴스1",
+  "url": "https://www.news1.kr/finance/blockchain-fintech/6345060",
+  "summary_ko": "비트코인이 뉴욕증시 폭락과 함께 전일보다 5.86% 떨어진 7만5796달러까지 밀렸다.",
+  "topics": [
+   "crypto",
+   "global"
+  ],
+  "orgs": [],
+  "headline_en": "Bitcoin plunges to $75,000 range, falling alongside Wall Street",
+  "summary_en": "Bitcoin fell 5.86% from the previous day to $75,796, sliding together with the New York stock market crash.",
+  "headline_ja": "ビットコイン、7.5万ドル台に急落…米国株と同時安",
+  "summary_ja": "ビットコインはニューヨーク株式市場の暴落とともに、前日比5.86%安の7万5796ドルまで下落した。"
+ },
+ {
   "date": "2026-11-05",
   "headline": "코스피 5.28% 급락해 5400선 내줘…코스닥도 5%대 하락 [fn마감시황]",
   "headline_ko": "코스피 5.28% 급락해 5400선 내줘…코스닥도 5%대 하락",
