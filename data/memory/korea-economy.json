@@ -39,6 +39,25 @@
   "summary_ja": "6日のKOSPIは2.24%安の5263.26で始まった後、取引開始3分後の午前9時3分に4924.61（-8.52%）まで下落し、第1段階のサーキットブレーカーが発動された。今年11回目、史上17回目の発動だ。KOSDAQでも午前9時6分に売りサイドカーが発動された。"
  },
  {
+  "date": "2026-11-06",
+  "headline": "정부, 증시 급락에 긴급시장상황점검회의…금융·통화당국 소집",
+  "headline_ko": "정부, 코스피 서킷브레이커에 긴급 시장상황점검회의…금융·통화당국 수장 소집",
+  "outlet": "뉴스1",
+  "url": "https://www.news1.kr/economy/trend/6345258",
+  "summary_ko": "정부가 국내 증시 급락에 대응해 6일 금융·통화당국 수장들을 긴급 소집해 시장상황점검회의를 연다.",
+  "topics": [
+   "stocks"
+  ],
+  "orgs": [
+   "금융위원회",
+   "한국은행"
+  ],
+  "headline_en": "Government holds emergency market meeting over KOSPI circuit breaker, convening heads of financial and monetary authorities",
+  "summary_en": "In response to the sharp fall in Korean stocks, the government is convening the heads of financial and monetary authorities on the 6th for an emergency market review meeting.",
+  "headline_ja": "政府、KOSPIのサーキットブレーカー受け緊急市場点検会議…金融・通貨当局トップを招集",
+  "summary_ja": "政府は国内株式市場の急落を受け、6日に金融・通貨当局のトップを緊急招集し、市場状況点検会議を開く。"
+ },
+ {
   "date": "2026-11-05",
   "headline": "코스피 5.28% 급락해 5400선 내줘…코스닥도 5%대 하락 [fn마감시황]",
   "headline_ko": "코스피 5.28% 급락해 5400선 내줘…코스닥도 5%대 하락",
