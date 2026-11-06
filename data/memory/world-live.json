@@ -543,6 +543,23 @@
    "summary_ja": "ロシアの空爆でウクライナ・ハルキウの病院が被害を受け、73人が負傷した。ロシアは複数の地域のエネルギー施設も攻撃した。"
   },
   {
+   "date": "2026-11-03",
+   "headline": "Opposition party organiser killed before South Africa elections",
+   "headline_ko": "남아공 지방선거 앞두고 야당 조직책 피살…정치 폭력 우려",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/3/opposition-party-organiser-killed-ahead-of-south-africa-elections",
+   "summary_ko": "남아프리카공화국 콰줄루나탈주에서 한 야당의 조직책이 살해되면서 수요일 지방선거를 앞두고 정치 폭력에 대한 우려가 커졌다.",
+   "topics": [
+    "politics",
+    "terror"
+   ],
+   "orgs": [],
+   "headline_en": "Opposition party organiser killed before South Africa elections",
+   "summary_en": "An organiser from an opposition party was killed in South Africa's KwaZulu-Natal province, raising concerns about political violence ahead of Wednesday's local government elections.",
+   "headline_ja": "南アフリカ地方選を前に野党の組織担当者が殺害…政治暴力に懸念",
+   "summary_ja": "南アフリカのクワズール・ナタール州で野党の組織担当者が殺害され、水曜日の地方選挙を前に政治暴力への懸念が高まった。"
+  },
+  {
    "date": "2026-11-02",
    "headline": "Israel Coalition Talks: Liberman, Bennett and Golan Back Eisenkot for Prime Minister as Herzog Prepares Consultations",
    "headline_ko": "이스라엘 연정 협상: 리베르만·베넷·골란, 아이젠코트 총리 지지…헤르초그 대통령 협의 준비",
@@ -664,6 +681,24 @@
    "summary_en": "Garment workers clashed with police in the Mirpur-10 area of Dhaka, Bangladesh.",
    "headline_ja": "バングラデシュ・ダッカのミルプールで縫製労働者と警察が衝突",
    "summary_ja": "バングラデシュ・ダッカのミルプール10地区で、縫製労働者が警察と衝突した。"
+  },
+  {
+   "date": "2026-11-01",
+   "headline": "At least eight Palestinians killed in Israeli attacks across Gaza",
+   "headline_ko": "이스라엘 가자지구 공격으로 팔레스타인인 최소 8명 사망",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/1/at-least-eight-palestinians-killed-in-israeli-attacks-across-gaza",
+   "summary_ko": "병원 소식통에 따르면 이스라엘군의 공격으로 가자지구에서 4살 남자아이를 포함해 최소 8명의 팔레스타인인이 숨졌다. 칸유니스 알마와시에서는 드론 공격으로 남성 5명이 숨졌는데, 가자 내무부는 이들이 경찰관이라고 밝혔다.",
+   "topics": [
+    "conflict"
+   ],
+   "orgs": [
+    "이스라엘군"
+   ],
+   "headline_en": "At least eight Palestinians killed in Israeli attacks across Gaza",
+   "summary_en": "At least eight Palestinians, including a four-year-old boy, were killed by the Israeli military in Gaza, hospital sources said. A drone strike in al-Mawasi, Khan Younis, killed five men whom Gaza's Interior Ministry said were police officers.",
+   "headline_ja": "イスラエルのガザ攻撃でパレスチナ人少なくとも8人死亡",
+   "summary_ja": "病院関係者によると、イスラエル軍の攻撃でガザ地区では4歳の男の子を含む少なくとも8人のパレスチナ人が死亡した。ハンユニスのマワシではドローン攻撃で男性5人が死亡し、ガザ内務省は彼らが警察官だったと発表した。"
   },
   {
    "date": "2026-10-31",
