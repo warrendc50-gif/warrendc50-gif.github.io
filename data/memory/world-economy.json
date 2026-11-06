@@ -1,5 +1,21 @@
 [
  {
+  "date": "2026-11-06",
+  "headline": "Asian markets crash as AI rout rocks US markets, Kospi plunges 8%",
+  "headline_ko": "美 AI주 폭락 여파에 아시아 증시 동반 급락…코스피 8% 폭락",
+  "outlet": "Business Standard",
+  "url": "https://www.business-standard.com/amp/markets/news/asian-markets-crash-as-ai-rout-rocks-us-markets-kospi-plunges-8-126110600087_1.html",
+  "summary_ko": "미국 증시를 뒤흔든 AI주 폭락의 여파로 6일 아시아 증시가 동반 급락했고, 한국 코스피는 8% 폭락했다.",
+  "topics": [
+   "markets"
+  ],
+  "orgs": [],
+  "headline_en": "Asian markets crash as AI rout rocks US markets, Kospi plunges 8%",
+  "summary_en": "Asian markets crashed on the 6th in the wake of the AI stock rout that rocked US markets, with South Korea's Kospi plunging 8%.",
+  "headline_ja": "米AI株暴落の余波でアジア株が軒並み急落…KOSPIは8%暴落",
+  "summary_ja": "米国市場を揺るがしたAI株暴落の余波で、6日のアジア株式市場は軒並み急落し、韓国のKOSPIは8%暴落した。"
+ },
+ {
   "date": "2026-11-05",
   "headline": "Gold hits a two-week high as dollar, Treasury yields ease after U.S. midterm elections",
   "headline_ko": "미 중간선거 후 달러·국채금리 하락에 금값 2주 만의 최고",
