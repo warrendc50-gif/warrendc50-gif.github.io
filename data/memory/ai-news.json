@@ -44,18 +44,16 @@
   "headline_ko": "美민주당 압승에 AI 투자 초긴장…\"데이터센터 20% 무산 가능성\"",
   "outlet": "뉴스1",
   "url": "https://www.news1.kr/world/usa-canada/6345179",
-  "summary_ko": "미국 중간선거에서 민주당이 압승하면서 AI 데이터센터 투자 위축 우려가 커졌다. 웨드부시의 댄 아이브스는 계획된 AI 데이터센터 용량의 최대 20%가 무산될 수 있다고 내다봤다.",
+  "summary_ko": "미국 중간선거에서 민주당이 압승하면서 AI 데이터센터 투자 위축 우려가 커졌다. 댄 아이브스는 계획된 AI 데이터센터 용량의 최대 20%가 무산될 수 있다고 내다봤다.",
   "topics": [
    "policy",
    "chips"
   ],
-  "orgs": [
-   "웨드부시"
-  ],
+  "orgs": [],
   "headline_en": "AI investment on edge after US Democrats' landslide… 'up to 20% of data centers could be scrapped'",
-  "summary_en": "Concerns over shrinking AI data center investment grew after the Democrats' landslide in the US midterm elections. Wedbush's Dan Ives estimated that up to 20% of planned AI data center capacity could be scrapped.",
+  "summary_en": "Concerns over shrinking AI data center investment grew after the Democrats' landslide in the US midterm elections. Dan Ives estimated that up to 20% of planned AI data center capacity could be scrapped.",
   "headline_ja": "米民主党圧勝でAI投資に緊張…「データセンターの20%が白紙の可能性」",
-  "summary_ja": "米中間選挙で民主党が圧勝し、AIデータセンター投資の萎縮への懸念が強まった。ウェドブッシュのダン・アイブス氏は、計画中のAIデータセンター容量の最大20%が白紙になる可能性があるとの見方を示した。"
+  "summary_ja": "米中間選挙で民主党が圧勝し、AIデータセンター投資の萎縮への懸念が強まった。ダン・アイブス氏は、計画中のAIデータセンター容量の最大20%が白紙になる可能性があるとの見方を示した。"
  },
  {
   "date": "2026-11-05",
