@@ -228,6 +228,43 @@
   "summary_ja": "米テキサス州知事選でAIデータセンターの新規建設停止を公約した民主党のジーナ・イノホサ候補が勝利し、フィラデルフィア半導体株指数は3.13%急落した。テキサスには米国のデータセンター建設計画の27%が集中しており、13GW規模の建設に支障が出るとの懸念が出ている。実際に建設が止まるかは不透明だ。"
  },
  {
+  "date": "2026-11-05",
+  "headline": "Meta warns that election backlash against data centers could make AI expansion harder",
+  "headline_ko": "메타 \"중간선거 데이터센터 반발로 AI 확장 어려워질 수도\"",
+  "outlet": "TechCrunch",
+  "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder",
+  "summary_ko": "디나 파월 매코믹 메타 사장은 중간선거에서 민주당이 승리하면서 기업들이 데이터센터를 짓기가 훨씬 어려워질 것이라고 말했다.",
+  "topics": [
+   "policy",
+   "business"
+  ],
+  "orgs": [
+   "메타"
+  ],
+  "headline_en": "Meta warns that election backlash against data centers could make AI expansion harder",
+  "summary_en": "Meta president Dina Powell McCormick said the Democratic wins in the midterm elections are going to make it a lot harder for companies to build data centers.",
+  "headline_ja": "メタ「中間選挙でのデータセンター反発でAI拡大が難しくなる恐れ」",
+  "summary_ja": "メタのディナ・パウエル・マコーミック社長は、中間選挙での民主党の勝利により、企業がデータセンターを建設するのがはるかに難しくなると述べた。"
+ },
+ {
+  "date": "2026-11-05",
+  "headline": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+  "headline_ko": "브록먼 오픈AI 사장 \"2027년 상장 준비 가능\"",
+  "outlet": "TechCrunch",
+  "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027",
+  "summary_ko": "그렉 브록먼 오픈AI 공동창업자 겸 사장은 월스트리트저널 기술 콘퍼런스에서 회사가 2027년에 기업공개(IPO)를 할 준비가 될 것이라고 말했다. 그는 기업 고객 매출이 늘고 있다고 언급했다.",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "오픈AI"
+  ],
+  "headline_en": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+  "summary_en": "OpenAI co-founder and president Greg Brockman said at a Wall Street Journal tech conference that the company would be ready for an IPO in 2027. He noted that its enterprise revenue has been growing.",
+  "headline_ja": "オープンAIのブロックマン社長「2027年に上場準備が整う可能性」",
+  "summary_ja": "オープンAIの共同創業者兼社長グレッグ・ブロックマン氏は、ウォール・ストリート・ジャーナルの技術カンファレンスで、同社が2027年に新規株式公開（IPO）の準備が整うだろうと述べた。法人向け売上高が伸びていることにも言及した。"
+ },
+ {
   "date": "2026-11-04",
   "headline": "Qualcomm Announces Fourth Quarter and Fiscal 2026 Results",
   "headline_ko": "퀄컴 4분기 매출 103억 달러…아마존과 AI 데이터센터 협력, 2027년 데이터센터 매출 50억 달러 목표 재확인",
