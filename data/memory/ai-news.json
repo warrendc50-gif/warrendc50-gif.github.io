@@ -56,6 +56,25 @@
   "summary_ja": "米中間選挙で民主党が圧勝し、AIデータセンター投資の萎縮への懸念が強まった。ダン・アイブス氏は、計画中のAIデータセンター容量の最大20%が白紙になる可能性があるとの見方を示した。"
  },
  {
+  "date": "2026-11-06",
+  "headline": "'AI주 폭락' 젠슨 황 재산 하루 20조 증발…세계 10위권 밖으로",
+  "headline_ko": "AI주 폭락에 젠슨 황 재산 하루 20조원 증발…세계 부호 10위권 밖으로",
+  "outlet": "뉴스1",
+  "url": "https://www.news1.kr/world/international-economy/6345853",
+  "summary_ko": "엔비디아 주가가 9.3% 급락하면서 젠슨 황 최고경영자의 순자산이 하루 만에 151억 달러 줄었다. 블룸버그 억만장자 순위에서도 9위에서 13위로 내려갔다.",
+  "topics": [
+   "chips",
+   "business"
+  ],
+  "orgs": [
+   "엔비디아"
+  ],
+  "headline_en": "AI stock crash wipes 20 trillion won off Jensen Huang's fortune in a day, dropping him out of world's top 10",
+  "summary_en": "As Nvidia shares plunged 9.3%, CEO Jensen Huang's net worth fell by $15.1 billion in a single day. He also dropped from 9th to 13th on the Bloomberg Billionaires Index.",
+  "headline_ja": "AI株暴落でジェンスン・フアン氏の資産が1日で20兆ウォン消失…世界長者番付トップ10圏外に",
+  "summary_ja": "エヌビディア株が9.3%急落し、ジェンスン・フアンCEOの純資産は1日で151億ドル減った。ブルームバーグの億万長者番付でも9位から13位に後退した。"
+ },
+ {
   "date": "2026-11-05",
   "headline": "한국데이터센터연합회-코트라, AI 데이터센터 해외 투자 유치 나선다",
   "headline_ko": "한국데이터센터연합회-코트라, AI 데이터센터 해외 투자 유치 나선다",
