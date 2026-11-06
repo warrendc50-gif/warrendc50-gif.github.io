@@ -111,6 +111,25 @@
   "summary_ja": "ウォール・ストリート・ジャーナル（WSJ）によると、AI株を中心とする株価暴落の後、アンソロピックは目標とする1兆5000億ドル規模の新規株式公開（IPO）評価額を巡り投資家の反発に直面している。"
  },
  {
+  "date": "2026-11-06",
+  "headline": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+  "headline_ko": "램프 데이터 \"기업 AI 지출 정체\"…앤트로픽 IPO 앞두고",
+  "outlet": "TechCrunch",
+  "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+  "summary_ko": "기업 지출관리 업체 램프의 데이터에 따르면 AI 사용량은 늘고 있지만 지출은 정체됐다. 8~9월 토큰 지출 증가율은 1.5%에 그쳤으며, 앤트로픽의 기업공개를 앞둔 시점이라 주목된다.",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "램프",
+   "앤트로픽"
+  ],
+  "headline_en": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+  "summary_en": "Data from spend-management company Ramp shows AI spending has leveled off even as usage rises. Token spend grew only 1.5% across August and September, which matters as Anthropic prepares for its IPO.",
+  "headline_ja": "ランプのデータ「企業のAI支出が頭打ち」…アンソロピックのIPOを前に",
+  "summary_ja": "支出管理企業ランプのデータによると、AIの利用量は増えているものの支出は頭打ちになっている。8～9月のトークン支出の伸びは1.5%にとどまり、アンソロピックの新規株式公開を控えた時期だけに注目される。"
+ },
+ {
   "date": "2026-11-05",
   "headline": "한국데이터센터연합회-코트라, AI 데이터센터 해외 투자 유치 나선다",
   "headline_ko": "한국데이터센터연합회-코트라, AI 데이터센터 해외 투자 유치 나선다",
