@@ -1,19 +1,19 @@
 [
  {
   "date": "2026-11-07",
-  "headline": "[속보][뉴욕증시] AI 저가 매수에 기술주 반등…다우지수, 0.5% 하락",
-  "headline_ko": "뉴욕증시, AI주 저가 매수에 기술주 반등…다우지수는 0.5% 하락",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202611070601132019",
-  "summary_ko": "6일(현지시간) 뉴욕증시에서 AI 관련주 저가 매수세가 들어오며 기술주가 반등했고, 다우지수는 0.5% 내렸다.",
+  "headline": "[뉴욕마감] 기술주 반등에 혼조 마감…나스닥 1.09%↑",
+  "headline_ko": "뉴욕증시, 기술주 반등에 혼조 마감…나스닥 1.09%↑·다우 0.46%↓",
+  "outlet": "뉴스1",
+  "url": "https://www.news1.kr/world/usa-canada/6346277",
+  "summary_ko": "6일(현지시간) 뉴욕증시는 나스닥이 1.09% 오르고 다우지수는 0.46% 내린 혼조세로 마감했다. 민주당의 중간선거 승리 이후 AI 규제 우려로 급락했던 기술주가 반등했고, 엔비디아·AMD 등 AI 관련주가 오르며 반도체지수는 4.21% 상승했다.",
   "topics": [
    "markets"
   ],
   "orgs": [],
-  "headline_en": "New York stocks: Tech shares rebound on AI bargain-hunting; Dow falls 0.5%",
-  "summary_en": "On the 6th (local time), tech stocks rebounded on Wall Street as bargain-hunters bought AI-related shares, while the Dow fell 0.5%.",
-  "headline_ja": "米国株、AI株の押し目買いでハイテク株が反発…ダウは0.5%安",
-  "summary_ja": "6日（現地時間）のニューヨーク株式市場では、AI関連株への押し目買いでハイテク株が反発し、ダウ平均は0.5%下落した。"
+  "headline_en": "New York stocks close mixed as tech rebounds; Nasdaq up 1.09%, Dow down 0.46%",
+  "summary_en": "On the 6th (local time), Wall Street closed mixed, with the Nasdaq up 1.09% and the Dow down 0.46%. Tech stocks that had plunged on AI regulation fears after the Democrats' midterm win rebounded, with AI-related shares such as Nvidia and AMD rising and the semiconductor index gaining 4.21%.",
+  "headline_ja": "米国株、ハイテク株反発でまちまち…ナスダック1.09%高・ダウ0.46%安",
+  "summary_ja": "6日（現地時間）のニューヨーク株式市場は、ナスダックが1.09%上昇し、ダウ平均は0.46%下落するまちまちの展開で取引を終えた。民主党の中間選挙勝利後にAI規制懸念で急落していたハイテク株が反発し、エヌビディアやAMDなどAI関連株が上昇、半導体株指数は4.21%上昇した。"
  },
  {
   "date": "2026-11-06",
