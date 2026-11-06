@@ -340,6 +340,26 @@
   "summary_ja": "オープンAIの共同創業者兼社長グレッグ・ブロックマン氏は、ウォール・ストリート・ジャーナルの技術カンファレンスで、同社が2027年に新規株式公開（IPO）の準備が整うだろうと述べた。法人向け売上高が伸びていることにも言及した。"
  },
  {
+  "date": "2026-11-05",
+  "headline": "Silicon Valley faces Democratic reckoning after betting on Trump",
+  "headline_ko": "트럼프에 베팅한 실리콘밸리, 민주당 의회 앞에 '청산의 시간'…AI CEO 소환 압박",
+  "outlet": "France 24 (AFP)",
+  "url": "https://www.france24.com/en/live-news/20261105-silicon-valley-faces-democratic-reckoning-after-betting-on-trump",
+  "summary_ko": "트럼프를 지지했던 기술기업 경영진이 1월 3일 의회를 장악하는 민주당의 소환 압박에 직면했다. 그렉 카사르 하원의원은 AI 기업 CEO들이 선서 후 증언해야 한다고 했고, 머스크와 오픈AI의 올트먼, 엔비디아의 젠슨 황 등이 조사 대상이 될 수 있다. NBC 출구조사에서는 유권자의 56%가 AI와 데이터센터를 의원 선택의 중요한 요인으로 꼽았다.",
+  "topics": [
+   "policy"
+  ],
+  "orgs": [
+   "미국 민주당",
+   "오픈AI",
+   "엔비디아"
+  ],
+  "headline_en": "Silicon Valley faces Democratic reckoning after betting on Trump",
+  "summary_en": "Tech executives who backed Trump face subpoena pressure from Democrats, who take control of Congress on January 3. Rep. Greg Casar has called for AI CEOs to testify under oath, and Musk, OpenAI's Sam Altman and Nvidia's Jensen Huang could face scrutiny. In an NBC exit poll, 56% of voters said AI and data centers were a crucial or major factor in choosing a congressional candidate.",
+  "headline_ja": "トランプ氏に賭けたシリコンバレー、民主党議会で「清算の時」…AI企業CEOに召喚圧力",
+  "summary_ja": "トランプ氏を支持したテック企業の経営陣は、1月3日に議会を掌握する民主党からの召喚圧力に直面している。グレッグ・カサール下院議員はAI企業のCEOが宣誓証言すべきだと述べ、マスク氏やオープンAIのアルトマン氏、エヌビディアのジェンスン・フアン氏らが調査対象になる可能性がある。NBCの出口調査では、有権者の56%がAIとデータセンターを議員選びの重要な要因に挙げた。"
+ },
+ {
   "date": "2026-11-04",
   "headline": "Qualcomm Announces Fourth Quarter and Fiscal 2026 Results",
   "headline_ko": "퀄컴 4분기 매출 103억 달러…아마존과 AI 데이터센터 협력, 2027년 데이터센터 매출 50억 달러 목표 재확인",
