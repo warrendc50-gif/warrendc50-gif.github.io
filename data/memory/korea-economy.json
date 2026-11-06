@@ -20,6 +20,25 @@
   "summary_ja": "6日午前8時31分のプレマーケットで、サムスン電子は前営業日比10.72%安の17万9900ウォン、SKハイニックスは12.97%安の110万ウォンで取引された。米中間選挙後のAIデータセンター規制やAI投資縮小への懸念で、マイクロンとAMDがそれぞれ17%台下落した余波だ。"
  },
  {
+  "date": "2026-11-06",
+  "headline": "[속보]코스피 5000선 붕괴...8% 급락에 서킷브레이커 발동",
+  "headline_ko": "[속보] 코스피 5000선 붕괴…8% 급락에 서킷브레이커 발동",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611060904006455",
+  "summary_ko": "6일 코스피가 장 초반 8% 급락하며 5000선 아래로 밀렸고, 서킷브레이커가 발동됐다.",
+  "topics": [
+   "stocks",
+   "global"
+  ],
+  "orgs": [
+   "한국거래소"
+  ],
+  "headline_en": "[Breaking] KOSPI breaks below 5,000; circuit breaker triggered after 8% plunge",
+  "summary_en": "On the 6th, the KOSPI plunged 8% early in the session and fell below the 5,000 mark, triggering a circuit breaker.",
+  "headline_ja": "【速報】KOSPI、5000割れ…8%急落でサーキットブレーカー発動",
+  "summary_ja": "6日、KOSPIは取引開始直後に8%急落して5000を割り込み、サーキットブレーカーが発動された。"
+ },
+ {
   "date": "2026-11-05",
   "headline": "코스피 5.28% 급락해 5400선 내줘…코스닥도 5%대 하락 [fn마감시황]",
   "headline_ko": "코스피 5.28% 급락해 5400선 내줘…코스닥도 5%대 하락",
