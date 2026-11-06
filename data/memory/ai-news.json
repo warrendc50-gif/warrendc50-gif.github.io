@@ -378,6 +378,24 @@
   "summary_ja": "トランプ氏を支持したテック企業の経営陣は、1月3日に議会を掌握する民主党からの召喚圧力に直面している。グレッグ・カサール下院議員はAI企業のCEOが宣誓証言すべきだと述べ、マスク氏やオープンAIのアルトマン氏、エヌビディアのジェンスン・フアン氏らが調査対象になる可能性がある。NBCの出口調査では、有権者の56%がAIとデータセンターを議員選びの重要な要因に挙げた。"
  },
  {
+  "date": "2026-11-05",
+  "headline": "OpenAI released a new cybersecurity model. Is that enough?",
+  "headline_ko": "오픈AI, 사이버보안 특화 모델 'ChatGPT Cyber' 출시",
+  "outlet": "TechCrunch",
+  "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+  "summary_ko": "오픈AI가 사이버보안에 특화한 새 모델 'ChatGPT Cyber'를 내놨다. 이 모델은 오픈AI 사이버보안 프로그램의 최상위 등급 참여자에게 제공된다.",
+  "topics": [
+   "model"
+  ],
+  "orgs": [
+   "오픈AI"
+  ],
+  "headline_en": "OpenAI released a new cybersecurity model. Is that enough?",
+  "summary_en": "OpenAI released ChatGPT Cyber, a new model focused on cybersecurity. It is available to the top tier of OpenAI's cybersecurity program.",
+  "headline_ja": "オープンAI、サイバーセキュリティ特化モデル「ChatGPT Cyber」を公開",
+  "summary_ja": "オープンAIは、サイバーセキュリティに特化した新モデル「ChatGPT Cyber」を公開した。同社のサイバーセキュリティプログラムの最上位層の参加者に提供される。"
+ },
+ {
   "date": "2026-11-04",
   "headline": "Qualcomm Announces Fourth Quarter and Fiscal 2026 Results",
   "headline_ko": "퀄컴 4분기 매출 103억 달러…아마존과 AI 데이터센터 협력, 2027년 데이터센터 매출 50억 달러 목표 재확인",
