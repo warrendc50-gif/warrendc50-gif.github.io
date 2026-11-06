@@ -186,6 +186,24 @@
   "summary_ja": "セキュリティ企業センシスは、オープンソースのAI侵入テストツール「Artex」の配備800件以上がパスワードなしでインターネットからアクセス可能な状態にあることを確認した。このツールは、中国系ハッカーがITサポート企業コネクトワイズを攻撃し、マイクロソフトのクラウドにデータを置く数千の組織を監視した事件にも使われたとされる。"
  },
  {
+  "date": "2026-11-06",
+  "headline": "텍사스 새 주지사 ″데이터센터 업무 중단해야…주민 보호책부터″",
+  "headline_ko": "텍사스 주지사 당선인 \"주민 보호 법률 마련 전까지 데이터센터 사업 중단해야\"",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://fnnews.com/news/202611061450120655",
+  "summary_ko": "지나 이노호사 텍사스 주지사 당선인(민주당)은 주민을 보호할 법률이 마련될 때까지 데이터센터 관련 사업을 중단해야 한다고 밝혔다. 그는 지역 주민도 데이터센터 운영 여부와 방식 결정에 참여해야 한다고 덧붙였다.",
+  "topics": [
+   "policy"
+  ],
+  "orgs": [
+   "미국 민주당"
+  ],
+  "headline_en": "Texas governor-elect: 'Data center work should halt until resident protections are in place'",
+  "summary_en": "Texas Governor-elect Gina Hinojosa (Democrat) said data center projects should be halted until laws to protect residents are in place. She added that local residents should take part in deciding whether and how data centers operate.",
+  "headline_ja": "テキサス州知事当選者「住民保護の法整備までデータセンター事業を停止すべき」",
+  "summary_ja": "ジーナ・イノホサ・テキサス州知事当選者（民主党）は、住民を保護する法律が整うまでデータセンター関連事業を停止すべきだと述べた。地域住民もデータセンターの運営の可否や方法の決定に参加すべきだと付け加えた。"
+ },
+ {
   "date": "2026-11-05",
   "headline": "한국데이터센터연합회-코트라, AI 데이터센터 해외 투자 유치 나선다",
   "headline_ko": "한국데이터센터연합회-코트라, AI 데이터센터 해외 투자 유치 나선다",
