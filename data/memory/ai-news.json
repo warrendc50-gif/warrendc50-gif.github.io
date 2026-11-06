@@ -130,6 +130,24 @@
   "summary_ja": "支出管理企業ランプのデータによると、AIの利用量は増えているものの支出は頭打ちになっている。8～9月のトークン支出の伸びは1.5%にとどまり、アンソロピックの新規株式公開を控えた時期だけに注目される。"
  },
  {
+  "date": "2026-11-06",
+  "headline": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
+  "headline_ko": "오픈AI CFO \"선거 결과와 관계없이 AI 데이터센터 투자 계속\"",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
+  "summary_ko": "사라 프라이어 오픈AI 최고재무책임자(CFO)는 중간선거에서 유권자들이 반대 의사를 보였음에도 데이터센터 투자를 이어가겠다고 말했다. 그는 회사가 2027년 상장을 계속 검토하겠다고 밝혔다.",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "오픈AI"
+  ],
+  "headline_en": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
+  "summary_en": "OpenAI CFO Sarah Friar said the company will keep investing in data centers despite voter opposition in the midterms. She said the company would continue to look into a 2027 public debut.",
+  "headline_ja": "オープンAIのCFO「選挙結果にかかわらずAIデータセンター投資を継続」",
+  "summary_ja": "オープンAIのサラ・フライヤー最高財務責任者（CFO）は、中間選挙で有権者が反対の意思を示したにもかかわらず、データセンターへの投資を続けると述べた。同社は2027年の上場を引き続き検討するとした。"
+ },
+ {
   "date": "2026-11-05",
   "headline": "한국데이터센터연합회-코트라, AI 데이터센터 해외 투자 유치 나선다",
   "headline_ko": "한국데이터센터연합회-코트라, AI 데이터센터 해외 투자 유치 나선다",
@@ -212,7 +230,7 @@
  },
  {
   "date": "2026-11-05",
-  "headline": "OpenAI pledges to pay for data center power after election highlights AI concerns",
+  "headline": "OpenAI pledges to halt NDAs in new data center policy proposal after election rebuke",
   "headline_ko": "오픈AI, 중간선거서 AI 우려 드러나자 \"데이터센터 전력비 전액 부담\" 약속",
   "outlet": "CNBC",
   "url": "https://cnbc.com/2026/11/05/openai-to-pay-for-data-center-power-after-election-shows-ai-concern.html",
@@ -224,7 +242,7 @@
   "orgs": [
    "오픈AI"
   ],
-  "headline_en": "OpenAI pledges to pay for data center power after election highlights AI concerns",
+  "headline_en": "OpenAI pledges to halt NDAs in new data center policy proposal after election rebuke",
   "summary_en": "In a series of commitments published Thursday, OpenAI reaffirmed its promise to pay the full cost of powering its data centers. For company-owned sites, it said it will solicit community input, publish construction plans and avoid non-disclosure agreements with public officials.",
   "headline_ja": "オープンAI、中間選挙でAI懸念が浮き彫りになり「データセンター電力費を全額負担」と約束",
   "summary_ja": "オープンAIは木曜日に公表した一連の約束で、データセンターの電力費用を全額負担する方針を改めて示した。自社所有の拠点では地域社会の意見を募り、建設計画を公開し、公務員との秘密保持契約は結ばないとした。"
@@ -413,6 +431,26 @@
   "summary_en": "OpenAI released ChatGPT Cyber, a new model focused on cybersecurity. It is available to the top tier of OpenAI's cybersecurity program.",
   "headline_ja": "オープンAI、サイバーセキュリティ特化モデル「ChatGPT Cyber」を公開",
   "summary_ja": "オープンAIは、サイバーセキュリティに特化した新モデル「ChatGPT Cyber」を公開した。同社のサイバーセキュリティプログラムの最上位層の参加者に提供される。"
+ },
+ {
+  "date": "2026-11-05",
+  "headline": "Chinese AI lab Moonshot turned to Europe for Nvidia Blackwell access amid U.S. China curbs, sources tell CNBC",
+  "headline_ko": "中 AI기업 문샷, 美 대중 규제 속 유럽 데이터센터 통해 엔비디아 블랙웰 확보 시도",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/11/05/moonshot-ai-nvidia-chips-europe-china.html",
+  "summary_ko": "소식통에 따르면 중국 AI 연구소 문샷이 미국의 대중국 반도체 규제 속에서 유럽의 데이터센터를 통해 엔비디아 블랙웰 칩 접근을 모색했다.",
+  "topics": [
+   "chips",
+   "policy"
+  ],
+  "orgs": [
+   "문샷 AI",
+   "엔비디아"
+  ],
+  "headline_en": "Chinese AI lab Moonshot turned to Europe for Nvidia Blackwell access amid U.S. China curbs, sources tell CNBC",
+  "summary_en": "Chinese AI lab Moonshot sought access to Nvidia Blackwell chips through data centers in Europe amid US chip curbs on China, according to sources.",
+  "headline_ja": "中国AI企業ムーンショット、米国の対中規制下で欧州データセンター経由でエヌビディア「ブラックウェル」確保を模索",
+  "summary_ja": "関係者によると、中国のAI研究所ムーンショットは、米国の対中半導体規制の下で、欧州のデータセンターを通じてエヌビディアのブラックウェルチップへのアクセスを模索した。"
  },
  {
   "date": "2026-11-04",
