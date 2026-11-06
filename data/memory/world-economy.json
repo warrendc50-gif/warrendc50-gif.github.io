@@ -82,19 +82,19 @@
  },
  {
   "date": "2026-11-06",
-  "headline": "European stocks join global rout after worst US chip sell-off since 2020",
-  "headline_ko": "美 반도체주 2020년 이후 최악 매도세에 유럽 증시도 세계 증시 급락 동참",
-  "outlet": "Yahoo Finance",
-  "url": "https://finance.yahoo.com/markets/stocks/articles/global-stock-rout-deepens-ai-070141088.html",
-  "summary_ko": "미국 반도체주가 2020년 이후 최악의 매도세를 보인 뒤 6일 유럽 증시도 세계 증시 급락에 동참했다.",
+  "headline": "Live: European stocks plunge after US midterm election results shock markets",
+  "headline_ko": "美 중간선거 충격에 유럽 증시 급락…스톡스600 1% 하락",
+  "outlet": "France 24",
+  "url": "https://www.france24.com/en/americas/20261106-live-european-stocks-plunge-after-us-midterm-election-results-shock-markets",
+  "summary_ko": "6일 유럽 증시가 하락해 범유럽 스톡스600 지수는 그리니치 표준시 9시 19분 기준 1% 내린 648.83을 기록했다. 민주당이 장악한 미 의회가 AI 데이터센터 투자를 억제할 수 있다는 우려에 AI 관련주가 매도됐다.",
   "topics": [
    "markets"
   ],
   "orgs": [],
-  "headline_en": "European stocks join global rout after worst US chip sell-off since 2020",
-  "summary_en": "After the worst US chip stock sell-off since 2020, European stocks joined the global market rout on the 6th.",
-  "headline_ja": "米半導体株の2020年以来最悪の売りで、欧州株も世界的な株安に追随",
-  "summary_ja": "米国の半導体株が2020年以来最悪の売りに見舞われた後、6日には欧州株も世界的な株価急落に加わった。"
+  "headline_en": "Live: European stocks plunge after US midterm election results shock markets",
+  "summary_en": "European stocks fell on the 6th, with the pan-European STOXX 600 index down 1% at 648.83 points as of 09:19 GMT. AI-related stocks were sold on fears that a Democrat-led US Congress could seek curbs on AI data-centre spending.",
+  "headline_ja": "米中間選挙の衝撃で欧州株が急落…STOXX600は1%安",
+  "summary_ja": "6日の欧州株は下落し、汎欧州株価指数STOXX600はグリニッジ標準時9時19分時点で1%安の648.83となった。民主党が主導する米議会がAIデータセンター投資を抑制しかねないとの懸念から、AI関連株が売られた。"
  },
  {
   "date": "2026-11-05",
