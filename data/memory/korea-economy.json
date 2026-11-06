@@ -40,22 +40,24 @@
  },
  {
   "date": "2026-11-06",
-  "headline": "정부, 증시 급락에 긴급시장상황점검회의…금융·통화당국 소집",
-  "headline_ko": "정부, 코스피 서킷브레이커에 긴급 시장상황점검회의…금융·통화당국 수장 소집",
-  "outlet": "뉴스1",
-  "url": "https://www.news1.kr/economy/trend/6345258",
-  "summary_ko": "정부가 국내 증시 급락에 대응해 6일 금융·통화당국 수장들을 긴급 소집해 시장상황점검회의를 연다.",
+  "headline": "정부 \"수급 쏠림 예의주시…변동성 확대 시 시장 안정 조치\"",
+  "headline_ko": "정부 긴급회의 \"변동성 확대 시 시장 안정 조치\"…신용융자 담보비율 유지의무 3개월 면제",
+  "outlet": "이데일리",
+  "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=04526406645643096",
+  "summary_ko": "정부는 6일 코스피 급락에 대응해 긴급시장상황점검회의를 열고, 신용융자에 대한 증권사 담보비율 유지의무(140%)를 3개월간 면제하기로 했다. 이 조치는 9일부터 시행된다. 정부는 시장 변동성이 추가로 커지면 시장 안정 조치를 준비하겠다고 밝혔다.",
   "topics": [
    "stocks"
   ],
   "orgs": [
+   "재정경제부",
    "금융위원회",
+   "금융감독원",
    "한국은행"
   ],
-  "headline_en": "Government holds emergency market meeting over KOSPI circuit breaker, convening heads of financial and monetary authorities",
-  "summary_en": "In response to the sharp fall in Korean stocks, the government is convening the heads of financial and monetary authorities on the 6th for an emergency market review meeting.",
-  "headline_ja": "政府、KOSPIのサーキットブレーカー受け緊急市場点検会議…金融・通貨当局トップを招集",
-  "summary_ja": "政府は国内株式市場の急落を受け、6日に金融・通貨当局のトップを緊急招集し、市場状況点検会議を開く。"
+  "headline_en": "Government emergency meeting: market stabilization steps if volatility grows; securities firms' collateral-ratio requirement on margin loans waived for 3 months",
+  "summary_en": "In response to the KOSPI's plunge, the government held an emergency market review meeting on the 6th and decided to waive for three months the requirement that securities firms maintain a 140% collateral ratio on margin loans. The measure takes effect on the 9th. The government said it will prepare market stabilization measures if volatility increases further.",
+  "headline_ja": "政府緊急会議「変動拡大なら市場安定措置」…信用融資の担保比率維持義務を3カ月免除",
+  "summary_ja": "政府は6日、KOSPIの急落を受けて緊急市場状況点検会議を開き、信用融資に対する証券会社の担保比率維持義務（140%）を3カ月間免除することを決めた。この措置は9日から施行される。政府は、市場の変動がさらに大きくなれば市場安定措置を準備すると明らかにした。"
  },
  {
   "date": "2026-11-06",
