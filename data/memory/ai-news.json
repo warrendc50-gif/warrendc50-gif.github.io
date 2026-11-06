@@ -18,6 +18,27 @@
   "summary_ja": "中間選挙で上下両院を掌握した米民主党の一部から、全国的なデータセンター建設の停止を求める声が出ている。ただし、これは一部議員の要求で、連邦レベルの規制導入や施行が決まったわけではない。"
  },
  {
+  "date": "2026-11-06",
+  "headline": "엔비디아, 네이버에 1.34조 '납입완'…3대 주주 등극",
+  "headline_ko": "엔비디아, 네이버에 1.34조원 투자 납입 완료…3대 주주로",
+  "outlet": "뉴스1",
+  "url": "https://news1.kr/it-science/internet-platform/6345997",
+  "summary_ko": "엔비디아가 네이버에 약 1조3400억원의 투자금 납입을 마쳐 네이버의 3대 주주가 됐다. 네이버는 내년 상반기 세종 데이터센터에서 55MW 규모의 AI 팩토리를 가동할 계획이다.",
+  "topics": [
+   "business",
+   "korea",
+   "chips"
+  ],
+  "orgs": [
+   "엔비디아",
+   "네이버"
+  ],
+  "headline_en": "Nvidia completes 1.34 trillion won payment to Naver, becoming third-largest shareholder",
+  "summary_en": "Nvidia completed payment of about 1.34 trillion won in investment to Naver, becoming Naver's third-largest shareholder. Naver plans to start a 55 MW AI factory at its Sejong data center in the first half of next year.",
+  "headline_ja": "エヌビディア、ネイバーに1.34兆ウォンの払い込み完了…第3位株主に",
+  "summary_ja": "エヌビディアはネイバーへの約1兆3400億ウォンの投資金の払い込みを終え、ネイバーの第3位株主となった。ネイバーは来年上半期に世宗データセンターで55MW規模のAIファクトリーを稼働させる計画だ。"
+ },
+ {
   "date": "2026-11-05",
   "headline": "한국데이터센터연합회-코트라, AI 데이터센터 해외 투자 유치 나선다",
   "headline_ko": "한국데이터센터연합회-코트라, AI 데이터센터 해외 투자 유치 나선다",
