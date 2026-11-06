@@ -48,6 +48,23 @@
   "summary_ja": "トランプ大統領は、中間選挙後に続いた株価下落の責任を民主党に転嫁した。自身の在任中に株価を押し上げたと強調し、民主党を批判した。"
  },
  {
+  "date": "2026-11-06",
+  "headline": "美 국채금리 급락…기술주 매도에 안전자산 선호·고용보고서 대기",
+  "headline_ko": "美 국채금리 급락…기술주 매도에 안전자산 선호·고용보고서 대기",
+  "outlet": "뉴스1",
+  "url": "https://www.news1.kr/world/usa-canada/6344933",
+  "summary_ko": "5일(현지시간) 기술주 급락에 따른 안전자산 선호와 고용지표 발표를 앞둔 경계감 속에 미국 국채금리가 크게 내렸다. 10년물은 6bp 내린 4.83%, 2년물은 12.1bp 내린 4.460%를 기록했다. 10월 비농업 고용은 5만9000명 증가가 예상된다.",
+  "topics": [
+   "fed",
+   "macro"
+  ],
+  "orgs": [],
+  "headline_en": "US Treasury yields tumble as tech selloff drives safe-haven buying ahead of jobs report",
+  "summary_en": "On the 5th (local time), US Treasury yields fell sharply amid safe-haven demand following the tech stock plunge and caution ahead of the jobs data. The 10-year yield fell 6bp to 4.83%, and the 2-year fell 12.1bp to 4.460%. October nonfarm payrolls are expected to rise by 59,000.",
+  "headline_ja": "米国債利回り急低下…ハイテク株売りで安全資産選好、雇用統計待ち",
+  "summary_ja": "5日（現地時間）、ハイテク株の急落による安全資産選好と雇用統計発表を前にした警戒感から、米国債利回りが大きく低下した。10年債は6bp低下の4.83%、2年債は12.1bp低下の4.460%となった。10月の非農業部門雇用者数は5万9000人増が予想されている。"
+ },
+ {
   "date": "2026-11-05",
   "headline": "Gold hits a two-week high as dollar, Treasury yields ease after U.S. midterm elections",
   "headline_ko": "미 중간선거 후 달러·국채금리 하락에 금값 2주 만의 최고",
