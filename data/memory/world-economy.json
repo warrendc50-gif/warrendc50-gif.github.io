@@ -307,6 +307,22 @@
   "summary_ja": "民主党が中間選挙で上下両院を奪還した翌日、トランプ・メディア（TMTG）株は24.54%暴落した。トランプ・ミームコインは約20%下落し、WLFIも一時8%下げた。民主党がトランプ一家の事業取引を調査すると予告したことが投資家の懸念を強めた。"
  },
  {
+  "date": "2026-11-05",
+  "headline": "Brent crude jumps, settles up over $3 after tanker attacks",
+  "headline_ko": "호르무즈 유조선 피격에 브렌트유 3달러 넘게 급등 마감…배럴당 98.29달러",
+  "outlet": "Yahoo Finance",
+  "url": "https://finance.yahoo.com/news/oil-falls-fourth-day-expectations-045943628.html",
+  "summary_ko": "5일 브렌트유는 유조선 추가 피격 소식에 3.67달러(3.88%) 오른 배럴당 98.29달러에 마감했다. 전날에는 두 유종 모두 8% 넘게 떨어져 8월 31일 이후 최저 수준으로 마감했었다.",
+  "topics": [
+   "energy"
+  ],
+  "orgs": [],
+  "headline_en": "Brent crude jumps, settles up over $3 after tanker attacks",
+  "summary_en": "On the 5th, Brent crude settled up $3.67, or 3.88%, at $98.29 a barrel on new attacks on tankers. The previous session, both benchmarks had tumbled more than 8% to their lowest settlements since August 31.",
+  "headline_ja": "ホルムズのタンカー被弾でブレント原油が3ドル超急騰…1バレル98.29ドルで引け",
+  "summary_ja": "5日のブレント原油は、タンカーへの新たな攻撃を受けて3.67ドル（3.88%）高の1バレル＝98.29ドルで引けた。前日には両油種とも8%超下落し、8月31日以来の安値で引けていた。"
+ },
+ {
   "date": "2026-11-04",
   "headline": "Euro zone inflation hits 4% for first time in three years as interest rate hike looms",
   "headline_ko": "유로존 물가상승률 3년 만에 4% 도달, 금리 인상 임박",
