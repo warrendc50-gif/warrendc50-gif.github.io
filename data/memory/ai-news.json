@@ -75,6 +75,24 @@
   "summary_ja": "エヌビディア株が9.3%急落し、ジェンスン・フアンCEOの純資産は1日で151億ドル減った。ブルームバーグの億万長者番付でも9位から13位に後退した。"
  },
  {
+  "date": "2026-11-06",
+  "headline": "Tech stocks plunge as US midterm results fuel fears of tighter AI rules",
+  "headline_ko": "美 중간선거 결과에 AI 규제 강화 우려…기술주 폭락",
+  "outlet": "France 24",
+  "url": "https://www.france24.com/en/technology/20261106-tech-stocks-plunge-us-midterm-ai-rules",
+  "summary_ko": "민주당이 내년 1월 의회를 장악하면 AI 시스템과 데이터센터 개발을 겨냥한 새 법안을 대거 추진할 계획인 것으로 전해지면서 기술주가 폭락했다.",
+  "topics": [
+   "policy"
+  ],
+  "orgs": [
+   "미국 민주당"
+  ],
+  "headline_en": "Tech stocks plunge as US midterm results fuel fears of tighter AI rules",
+  "summary_en": "Tech stocks plunged as Democrats reportedly plan a flood of new legislation targeting AI systems and data-center development once they take control of Congress in January.",
+  "headline_ja": "米中間選挙の結果でAI規制強化懸念…ハイテク株が暴落",
+  "summary_ja": "民主党が来年1月に議会を掌握すれば、AIシステムやデータセンター開発を対象とする新法案を大量に推進する計画だと伝えられ、ハイテク株が暴落した。"
+ },
+ {
   "date": "2026-11-05",
   "headline": "한국데이터센터연합회-코트라, AI 데이터센터 해외 투자 유치 나선다",
   "headline_ko": "한국데이터센터연합회-코트라, AI 데이터센터 해외 투자 유치 나선다",
