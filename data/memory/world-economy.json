@@ -1,5 +1,21 @@
 [
  {
+  "date": "2026-11-07",
+  "headline": "[속보][뉴욕증시] AI 저가 매수에 기술주 반등…다우지수, 0.5% 하락",
+  "headline_ko": "뉴욕증시, AI주 저가 매수에 기술주 반등…다우지수는 0.5% 하락",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611070601132019",
+  "summary_ko": "6일(현지시간) 뉴욕증시에서 AI 관련주 저가 매수세가 들어오며 기술주가 반등했고, 다우지수는 0.5% 내렸다.",
+  "topics": [
+   "markets"
+  ],
+  "orgs": [],
+  "headline_en": "New York stocks: Tech shares rebound on AI bargain-hunting; Dow falls 0.5%",
+  "summary_en": "On the 6th (local time), tech stocks rebounded on Wall Street as bargain-hunters bought AI-related shares, while the Dow fell 0.5%.",
+  "headline_ja": "米国株、AI株の押し目買いでハイテク株が反発…ダウは0.5%安",
+  "summary_ja": "6日（現地時間）のニューヨーク株式市場では、AI関連株への押し目買いでハイテク株が反発し、ダウ平均は0.5%下落した。"
+ },
+ {
   "date": "2026-11-06",
   "headline": "日증시 6% 폭락·대만 약세장 진입…AI 투매에 亞 '검은 금요일'",
   "headline_ko": "日증시 6% 폭락·대만 약세장 진입…AI 투매에 아시아 '검은 금요일'",

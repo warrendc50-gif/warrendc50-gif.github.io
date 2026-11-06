@@ -1,5 +1,23 @@
 [
  {
+  "date": "2026-11-07",
+  "headline": "美 데이터센터 규제 봇물…백악관 \"AI 투자 차질 없다\"",
+  "headline_ko": "美 데이터센터 규제 봇물…백악관 \"AI 투자 차질 없다\"",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611070300224522",
+  "summary_ko": "미국에서 데이터센터 규제 움직임이 잇따르는 가운데 백악관은 AI 투자에 차질이 없을 것이라는 입장을 밝혔다.",
+  "topics": [
+   "policy"
+  ],
+  "orgs": [
+   "백악관"
+  ],
+  "headline_en": "Flood of US data center regulations… White House says 'no disruption to AI investment'",
+  "summary_en": "Amid a wave of moves to regulate data centers in the US, the White House said AI investment would not be disrupted.",
+  "headline_ja": "米データセンター規制相次ぐ…ホワイトハウス「AI投資に支障なし」",
+  "summary_ja": "米国でデータセンター規制の動きが相次ぐ中、ホワイトハウスはAI投資に支障はないとの立場を示した。"
+ },
+ {
   "date": "2026-11-06",
   "headline": "美 민주당, 선거 승리 이후 AI 규제 시동…데이터센터 건설 중단 촉구",
   "headline_ko": "美 민주당, 선거 승리 후 AI 규제 시동…일부 \"데이터센터 건설 중단\" 촉구",
