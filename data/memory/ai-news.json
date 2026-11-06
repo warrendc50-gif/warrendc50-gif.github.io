@@ -93,6 +93,24 @@
   "summary_ja": "民主党が来年1月に議会を掌握すれば、AIシステムやデータセンター開発を対象とする新法案を大量に推進する計画だと伝えられ、ハイテク株が暴落した。"
  },
  {
+  "date": "2026-11-06",
+  "headline": "Anthropic faces valuation pushback on $1.5T IPO following market rout, WSJ reports",
+  "headline_ko": "앤트로픽, 증시 폭락 뒤 1.5조 달러 IPO 기업가치에 투자자 반발 직면…WSJ 보도",
+  "outlet": "Yahoo Finance",
+  "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-faces-valuation-pushback-1-235917172.html",
+  "summary_ko": "월스트리트저널(WSJ)에 따르면 AI주 중심의 증시 폭락 이후 앤트로픽이 목표로 한 1조5천억 달러 규모의 기업공개(IPO) 기업가치를 두고 투자자들의 반발에 직면했다.",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "앤트로픽"
+  ],
+  "headline_en": "Anthropic faces valuation pushback on $1.5T IPO following market rout, WSJ reports",
+  "summary_en": "According to The Wall Street Journal, Anthropic faces pushback from investors over its targeted $1.5 trillion IPO valuation following the AI-led market rout.",
+  "headline_ja": "アンソロピック、株価暴落後に1.5兆ドルのIPO評価額で投資家の反発に直面…WSJ報道",
+  "summary_ja": "ウォール・ストリート・ジャーナル（WSJ）によると、AI株を中心とする株価暴落の後、アンソロピックは目標とする1兆5000億ドル規模の新規株式公開（IPO）評価額を巡り投資家の反発に直面している。"
+ },
+ {
   "date": "2026-11-05",
   "headline": "한국데이터센터연합회-코트라, AI 데이터센터 해외 투자 유치 나선다",
   "headline_ko": "한국데이터센터연합회-코트라, AI 데이터센터 해외 투자 유치 나선다",
