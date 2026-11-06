@@ -31,6 +31,23 @@
  ],
  "items": [
   {
+   "date": "2026-11-06",
+   "headline": "Trump says Russia-Ukraine deal is near after meeting Putin’s envoy",
+   "headline_ko": "트럼프 \"러시아-우크라이나 합의 임박\"…푸틴 특사 드미트리예프 만나",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians",
+   "summary_ko": "트럼프 대통령은 푸틴 대통령의 특사 키릴 드미트리예프를 만난 뒤 러시아-우크라이나 합의가 가까워졌다고 말했다. 다만 구체적인 내용은 밝히지 않았고, 방미 중인 우크라이나 대표단과는 만나지 않았다.",
+   "topics": [
+    "conflict",
+    "politics"
+   ],
+   "orgs": [],
+   "headline_en": "Trump says Russia-Ukraine deal is near after meeting Putin’s envoy",
+   "summary_en": "President Trump said a Russia-Ukraine deal is close after meeting President Putin's envoy Kirill Dmitriev. He gave no specifics and did not meet the visiting Ukrainian delegation.",
+   "headline_ja": "トランプ氏「ロシア・ウクライナ合意は間近」…プーチン氏特使ドミトリエフ氏と会談",
+   "summary_ja": "トランプ大統領はプーチン大統領の特使キリル・ドミトリエフ氏と会談した後、ロシアとウクライナの合意が近いと述べた。ただし具体的な内容は明らかにせず、訪米中のウクライナ代表団とは会わなかった。"
+  },
+  {
    "date": "2026-11-05",
    "headline": "Four killed in Pangasinan firecracker facility explosion",
    "headline_ko": "필리핀 팡가시난 폭죽 제조시설 폭발…4명 사망",
@@ -202,6 +219,43 @@
    "summary_en": "French unions staged a nationwide day of strikes and protests over wages and living costs, with workers and students taking to the streets together. Authorities deployed some 70,000 police officers and gendarmes.",
    "headline_ja": "フランス全土で労働者・学生が生活費巡りスト・デモ…警察7万人配備",
    "summary_ja": "フランスの労働組合が賃金と生活費を巡って全国規模のストライキとデモを行い、労働者と学生がともに街頭に出た。当局は警察官と憲兵約7万人を配備した。"
+  },
+  {
+   "date": "2026-11-05",
+   "headline": "Paraguay Congress rejects President Pena’s resignation after bank collapse",
+   "headline_ko": "파라과이 의회, 은행 파산 여파로 낸 페냐 대통령 사임안 거부",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/economy/2026/11/5/paraguay-president-pena-resigns-in-wake-of-bank-collapse",
+   "summary_ko": "파라과이 의회가 은행 파산 사태 이후 산티아고 페냐 대통령이 낸 사임안을 거부했다.",
+   "topics": [
+    "politics",
+    "economy"
+   ],
+   "orgs": [
+    "파라과이 의회"
+   ],
+   "headline_en": "Paraguay Congress rejects President Pena’s resignation after bank collapse",
+   "summary_en": "Paraguay's Congress rejected the resignation submitted by President Santiago Pena following the bank collapse.",
+   "headline_ja": "パラグアイ議会、銀行破綻受けたペニャ大統領の辞任を拒否",
+   "summary_ja": "パラグアイ議会は、銀行破綻を受けてサンティアゴ・ペニャ大統領が提出した辞任を拒否した。"
+  },
+  {
+   "date": "2026-11-05",
+   "headline": "Joint List says it will back Eisenkot to form Israel’s next government",
+   "headline_ko": "이스라엘 아랍계 정당 '조인트 리스트', 아이젠코트 지지…67석 확보로 과반 넘어",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/5/joint-list-says-it-will-back-eisenkot-to-form-israels-next-government",
+   "summary_ko": "아랍계 정당 연합 '조인트 리스트'가 가디 아이젠코트의 차기 정부 구성을 지지하겠다고 밝혔다. 이로써 아이젠코트는 의원 67명의 지지를 얻어 크네세트 과반 기준인 61석을 넘게 된다.",
+   "topics": [
+    "politics"
+   ],
+   "orgs": [
+    "조인트 리스트"
+   ],
+   "headline_en": "Joint List says it will back Eisenkot to form Israel’s next government",
+   "summary_en": "The Joint List, an alliance of Arab parties, said it will back Gadi Eisenkot to form Israel's next government. This gives Eisenkot the support of 67 lawmakers, exceeding the 61-seat majority threshold in the Knesset.",
+   "headline_ja": "イスラエルのアラブ系政党「ジョイント・リスト」、アイゼンコット氏支持…67議席で過半数超え",
+   "summary_ja": "アラブ系政党連合「ジョイント・リスト」は、ガディ・アイゼンコット氏による次期政権樹立を支持すると表明した。これによりアイゼンコット氏は議員67人の支持を得て、クネセトの過半数基準である61議席を上回る。"
   },
   {
    "date": "2026-11-04",
