@@ -205,6 +205,24 @@
   "summary_ja": "5日（現地時間）のニューヨーク株式市場でダウは3.44%、S&P500は4.36%、ナスダックは5.52%下落し、ナスダックは調整局面に入った。民主党の規制推進でAI投資が止まりかねないとの懸念から半導体などAI関連株が崩れ、半導体3倍レバレッジETF（SOXL）は39%暴落した。恐怖指数（VIX）は69.48%上昇し28.15となった。"
  },
  {
+  "date": "2026-11-05",
+  "headline": "美민주당 의회 장악에 트럼프미디어 주가 24.5% 폭락 '사상 최저'",
+  "headline_ko": "美민주당 의회 장악에 트럼프미디어 주가 24.5% 폭락 '사상 최저'",
+  "outlet": "뉴스1",
+  "url": "https://www.news1.kr/world/usa-canada/6343956",
+  "summary_ko": "민주당이 중간선거에서 상·하원을 되찾은 다음 날 트럼프미디어(TMTG) 주가가 24.54% 폭락했다. 트럼프 밈코인은 약 20% 떨어졌고 WLFI도 한때 8% 내렸다. 민주당이 트럼프 일가의 사업 거래를 조사하겠다고 예고한 점이 투자자 우려를 키웠다.",
+  "topics": [
+   "markets"
+  ],
+  "orgs": [
+   "트럼프미디어"
+  ],
+  "headline_en": "Trump Media shares plunge 24.5% to record low as Democrats take control of US Congress",
+  "summary_en": "The day after Democrats retook both chambers of Congress in the midterms, Trump Media (TMTG) shares plunged 24.54%. The Trump meme coin fell about 20% and WLFI dropped as much as 8%. Democrats' pledge to investigate the Trump family's business dealings heightened investor concerns.",
+  "headline_ja": "米民主党の議会掌握でトランプ・メディア株24.5%暴落「上場来安値」",
+  "summary_ja": "民主党が中間選挙で上下両院を奪還した翌日、トランプ・メディア（TMTG）株は24.54%暴落した。トランプ・ミームコインは約20%下落し、WLFIも一時8%下げた。民主党がトランプ一家の事業取引を調査すると予告したことが投資家の懸念を強めた。"
+ },
+ {
   "date": "2026-11-04",
   "headline": "Euro zone inflation hits 4% for first time in three years as interest rate hike looms",
   "headline_ko": "유로존 물가상승률 3년 만에 4% 도달, 금리 인상 임박",
