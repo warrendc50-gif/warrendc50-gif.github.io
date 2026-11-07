@@ -891,6 +891,24 @@
   "summary_ja": "現代自動車グループは9兆ウォン規模のセマングムAIバレー事業の中核であるAIデータセンターの建設に着手し、現代自動車・起亜・現代モービス・現代建設・現代オートエバーの投資参加を確定した。11月にはデータセンターの建築・インフラを担うSPCとGPUサービスを担うSPCの2社が発足する。グループはこのデータセンターで自動運転・ロボット・製造AIなどフィジカルAIの中核技術を内製化する計画だ。"
  },
  {
+  "date": "2026-10-30",
+  "headline": "OpenAI cuts its funding round target to $20bn, FT reports",
+  "headline_ko": "오픈AI, 신규 투자 유치 목표 300억→200억 달러로 낮춰…FT 보도",
+  "outlet": "The Next Web",
+  "url": "https://thenextweb.com/news/openai-funding-round-20bn-target-cut-ft",
+  "summary_ko": "파이낸셜타임스(FT)에 따르면 오픈AI가 새 투자 라운드의 목표액을 100억 달러 줄여 200억 달러로 낮췄다. 회사는 투자 후 기업가치 1조2500억 달러를 목표로 하며, 당초에는 1조4천억 달러 가치에 300억 달러를 조달할 계획이었다.",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "오픈AI"
+  ],
+  "headline_en": "OpenAI cuts its funding round target to $20bn, FT reports",
+  "summary_en": "According to the Financial Times, OpenAI reduced the target for its new funding round by $10 billion to $20 billion. The company is seeking a post-money valuation of $1.25 trillion, after initially planning to raise $30 billion at a $1.4 trillion valuation.",
+  "headline_ja": "オープンAI、新たな資金調達目標を300億→200億ドルに引き下げ…FT報道",
+  "summary_ja": "フィナンシャル・タイムズ（FT）によると、オープンAIは新たな資金調達ラウンドの目標額を100億ドル減らし、200億ドルに引き下げた。同社は調達後の企業価値1兆2500億ドルを目指しており、当初は1兆4000億ドルの評価額で300億ドルを調達する計画だった。"
+ },
+ {
   "date": "2026-10-29",
   "headline": "Amazon.com, Inc. - Amazon.com Announces Third Quarter Results",
   "headline_ko": "아마존 3분기 매출 2,019억달러…AWS 39% 성장, 영업이익률 사상 최고",
