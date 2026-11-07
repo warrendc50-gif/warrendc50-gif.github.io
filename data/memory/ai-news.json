@@ -204,6 +204,24 @@
   "summary_ja": "ジーナ・イノホサ・テキサス州知事当選者（民主党）は、住民を保護する法律が整うまでデータセンター関連事業を停止すべきだと述べた。地域住民もデータセンターの運営の可否や方法の決定に参加すべきだと付け加えた。"
  },
  {
+  "date": "2026-11-06",
+  "headline": "Protesters break into Microsoft data centre site in Amsterdam",
+  "headline_ko": "암스테르담 마이크로소프트 AI 데이터센터 부지에 시위대 진입…150~200명 구금",
+  "outlet": "Al Jazeera",
+  "url": "https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam",
+  "summary_ko": "네덜란드 암스테르담 슬로터데이크 지역의 마이크로소프트 데이터센터 건설 부지를 활동가 수백 명이 점거했다. 일부는 크레인에 올라 조명탄을 터뜨리며 경찰과 충돌했고, 경찰은 무단침입 혐의로 150~200명을 구금했다. 주최 측은 공사 중단을 요구하며 부지를 AI용으로 쓰는 데 반대했다.",
+  "topics": [
+   "policy"
+  ],
+  "orgs": [
+   "마이크로소프트"
+  ],
+  "headline_en": "Protesters break into Microsoft data centre site in Amsterdam",
+  "summary_en": "Several hundred activists occupied the construction site of a Microsoft data centre in Amsterdam's Sloterdijk district. Some climbed a crane and set off flares, clashing with police, who detained 150 to 200 people suspected of trespassing. Organisers demanded a halt to construction and objected to the site's intended use for AI.",
+  "headline_ja": "アムステルダムのマイクロソフトAIデータセンター建設地にデモ隊が侵入…150～200人拘束",
+  "summary_ja": "オランダ・アムステルダムのスローテルダイク地区にあるマイクロソフトのデータセンター建設地を、活動家数百人が占拠した。一部はクレーンに登って発炎筒をたき警察と衝突し、警察は不法侵入の疑いで150～200人を拘束した。主催者は工事の中止を求め、建設地をAI用に使うことに反対した。"
+ },
+ {
   "date": "2026-11-05",
   "headline": "한국데이터센터연합회-코트라, AI 데이터센터 해외 투자 유치 나선다",
   "headline_ko": "한국데이터센터연합회-코트라, AI 데이터센터 해외 투자 유치 나선다",
