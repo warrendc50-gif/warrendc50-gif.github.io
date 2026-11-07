@@ -18,22 +18,6 @@
   "summary_ja": "米国でデータセンター規制の動きが相次ぐ中、ホワイトハウスはAI投資に支障はないとの立場を示した。"
  },
  {
-  "date": "2026-11-07",
-  "headline": "How the US midterm elections reflected resistance to data centres",
-  "headline_ko": "미 중간선거에 드러난 데이터센터 반대 여론",
-  "outlet": "Al Jazeera",
-  "url": "https://www.aljazeera.com/economy/2026/11/7/how-the-us-midterm-elections-reflected-resistance-to-data-centres",
-  "summary_ko": "선거일에 데이터센터 관련 주민투표 41건 중 1건을 빼고 모두 데이터센터 개발을 거부하는 결과가 나왔다. 전문가들은 전기요금 부담과 일자리 우려를 반대 이유로 꼽았다. 데이터센터 신규 승인 유예를 내건 지나 이노호사가 텍사스 주지사 선거에서 이겼다.",
-  "topics": [
-   "policy"
-  ],
-  "orgs": [],
-  "headline_en": "How the US midterm elections reflected resistance to data centres",
-  "summary_en": "On Election Day, voters rejected data centre development in all but one of the 41 ballot measures on the issue. Experts cited power bills and job fears as reasons for the opposition. Gina Hinojosa, who called for a moratorium on new data centre approvals, won the Texas governor's race.",
-  "headline_ja": "米中間選挙に表れたデータセンターへの反対",
-  "summary_ja": "選挙日にはデータセンター関連の住民投票41件のうち1件を除くすべてで開発が否決された。専門家は電気料金の負担と雇用への不安を反対の理由に挙げた。データセンター新規承認の一時停止を掲げたジーナ・イノホサ氏がテキサス州知事選に勝利した。"
- },
- {
   "date": "2026-11-06",
   "headline": "美 민주당, 선거 승리 이후 AI 규제 시동…데이터센터 건설 중단 촉구",
   "headline_ko": "美 민주당, 선거 승리 후 AI 규제 시동…일부 \"데이터센터 건설 중단\" 촉구",
@@ -236,6 +220,43 @@
   "summary_en": "Several hundred activists occupied the construction site of a Microsoft data centre in Amsterdam's Sloterdijk district. Some climbed a crane and set off flares, clashing with police, who detained 150 to 200 people suspected of trespassing. Organisers demanded a halt to construction and objected to the site's intended use for AI.",
   "headline_ja": "アムステルダムのマイクロソフトAIデータセンター建設地にデモ隊が侵入…150～200人拘束",
   "summary_ja": "オランダ・アムステルダムのスローテルダイク地区にあるマイクロソフトのデータセンター建設地を、活動家数百人が占拠した。一部はクレーンに登って発炎筒をたき警察と衝突し、警察は不法侵入の疑いで150～200人を拘束した。主催者は工事の中止を求め、建設地をAI用に使うことに反対した。"
+ },
+ {
+  "date": "2026-11-06",
+  "headline": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+  "headline_ko": "오픈AI, 기업가치 1조2500억 달러에 110억 달러 추가 조달…블룸버그 보도",
+  "outlet": "TechCrunch",
+  "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+  "summary_ko": "블룸버그에 따르면 오픈AI가 기업가치를 1조2500억 달러로 평가한 새 투자 라운드에서 지금까지 약 110억 달러를 모았다. 라운드는 아직 마감되지 않았고 총액은 약 200억 달러가 될 수 있다. 앞서 거론된 300억 달러, 1조4000억 달러 목표보다 크게 낮은 수준이다.",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "오픈AI"
+  ],
+  "headline_en": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+  "summary_en": "According to Bloomberg, OpenAI has so far raised about $11 billion in a new funding round that values it at $1.25 trillion. The round has not closed and could total about $20 billion. That is well below the earlier reported goals of $30 billion at a $1.4 trillion valuation.",
+  "headline_ja": "オープンAI、企業価値1兆2500億ドルで110億ドルを追加調達…ブルームバーグ報道",
+  "summary_ja": "ブルームバーグによると、オープンAIは企業価値を1兆2500億ドルと評価する新たな資金調達ラウンドで、これまでに約110億ドルを集めた。ラウンドはまだ締め切られておらず、総額は約200億ドルになる可能性がある。以前伝えられた300億ドル、1兆4000億ドルの目標を大きく下回る水準だ。"
+ },
+ {
+  "date": "2026-11-06",
+  "headline": "Crusoe sells troubled Wyoming data center project to Google",
+  "headline_ko": "크루소, 난항 겪던 와이오밍 데이터센터 프로젝트 구글에 매각",
+  "outlet": "TechCrunch",
+  "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+  "summary_ko": "데이터센터 개발사 크루소가 와이오밍주 남동부의 미완공 데이터센터 프로젝트를 구글에 팔았다고 확인했다. 구글은 크루소 관리 아래 비용과 공사 일정에 우려를 나타낸 뒤 개발을 직접 맡게 됐으며, 인수가는 밝히지 않고 이 캠퍼스에 170억 달러를 투자할 계획이라고 했다. 두 회사는 텍사스 애머릴로 인근 데이터센터 협력은 이어간다.",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "크루소",
+   "구글"
+  ],
+  "headline_en": "Crusoe sells troubled Wyoming data center project to Google",
+  "summary_en": "Data center developer Crusoe confirmed it sold an unfinished data center project in southeastern Wyoming to Google. Google is taking over development after raising concerns about cost and timeline under Crusoe; it did not disclose the price and said it plans to invest $17 billion in the campus. The two companies continue to work together on a data center near Amarillo, Texas.",
+  "headline_ja": "クルーソー、難航していたワイオミングのデータセンター計画をグーグルに売却",
+  "summary_ja": "データセンター開発会社クルーソーは、ワイオミング州南東部の未完成データセンター計画をグーグルに売却したことを確認した。グーグルはクルーソーの管理下でのコストと工期に懸念を示した後、開発を自ら引き継ぐ。買収額は明らかにせず、このキャンパスに170億ドルを投資する計画だという。両社はテキサス州アマリロ近郊のデータセンターでの協力を続ける。"
  },
  {
   "date": "2026-11-05",
