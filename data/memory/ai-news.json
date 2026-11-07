@@ -680,6 +680,24 @@
   "summary_ja": "アンソロピックのClaudeは、ユーザーの支出を分析する「パーソナルファイナンス」ツールを公開した。今週から米国のPro・Max・Ultraプランのユーザー向けにベータ版として提供される。"
  },
  {
+  "date": "2026-11-05",
+  "headline": "Airbnb says it's launching an AI travel agent in the first half of 2027",
+  "headline_ko": "에어비앤비, 2027년 상반기 AI 여행 에이전트 출시",
+  "outlet": "TechCrunch",
+  "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+  "summary_ko": "에어비앤비가 3분기 주주서한에서 AI 여행 에이전트를 2027년 상반기에 일반 소비자에게 출시하겠다고 밝혔다. 에이전트는 여행 계획·비교·예약 관리와 숙박 중 지원을 돕고, 예약 변경·결제 문제·환불·재예약·24시간 안전 지원까지 처리할 수 있다. 브라이언 체스키 CEO는 지도·사진·일정표 등 수백 개의 여행 전용 인터페이스 구성요소를 즉석에서 조합하는 방식이라고 설명했다.",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "에어비앤비"
+  ],
+  "headline_en": "Airbnb says it's launching an AI travel agent in the first half of 2027",
+  "summary_en": "In its Q3 shareholder letter, Airbnb said it will launch its AI travel agent to consumers in the first half of 2027. The agent will help travelers plan trips, compare options, manage bookings and get help during their stay, including reservation changes, payment issues, refunds, rebooking and 24-hour safety support. CEO Brian Chesky said it assembles travel-specific interface components such as maps, photos and itineraries on the fly from a library of hundreds.",
+  "headline_ja": "エアビーアンドビー、2027年上半期にAI旅行エージェントを投入",
+  "summary_ja": "エアビーアンドビーは第3四半期の株主への手紙で、AI旅行エージェントを2027年上半期に一般消費者向けに投入すると明らかにした。エージェントは旅行の計画・比較・予約管理や滞在中の支援を担い、予約変更、支払いの問題、返金、再予約、24時間の安全サポートまで対応できる。ブライアン・チェスキーCEOは、地図・写真・旅程表など数百の旅行専用インターフェース部品をその場で組み合わせる方式だと説明した。"
+ },
+ {
   "date": "2026-11-04",
   "headline": "Qualcomm Announces Fourth Quarter and Fiscal 2026 Results",
   "headline_ko": "퀄컴 4분기 매출 103억 달러…아마존과 AI 데이터센터 협력, 2027년 데이터센터 매출 50억 달러 목표 재확인",
