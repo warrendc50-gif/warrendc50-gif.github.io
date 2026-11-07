@@ -204,6 +204,24 @@
   "summary_ja": "5日の韓国国債3年物利回りは前日比3.6bp低い3.671%、10年物は5.8bp低い3.892%となり、3日連続で低下した。半導体株の投げ売りでKOSPIが5.28%急落すると安全資産に資金が集まり、外国人は国債現物を売って先物を買った。ウォン・ドル相場は昼間取引の終値で1ドル＝1342.1ウォンと、1.1ウォン上昇した。"
  },
  {
+  "date": "2026-11-05",
+  "headline": "가상자산 과세 2029년으로 2년 더 유예…투자 손실은 3년간 이월공제",
+  "headline_ko": "정부, 가상자산 과세 2029년으로 2년 더 유예…투자 손실 3년간 이월공제",
+  "outlet": "뉴스1",
+  "url": "https://www.news1.kr/economy/trend/6344094",
+  "summary_ko": "정부가 2027년 시행 예정이던 가상자산 과세를 2년 미뤄 2029년부터 시행하기로 했다. 네 번째 유예이며, 미국과의 가상자산 과세정보 교환이 2029년부터 시행되는 점을 고려했다. 투자 손실은 3년간 이월공제를 허용하는 방안도 추진한다.",
+  "topics": [
+   "crypto"
+  ],
+  "orgs": [
+   "재정경제부"
+  ],
+  "headline_en": "Government delays crypto tax by two more years to 2029; investment losses can be carried forward for three years",
+  "summary_en": "The government decided to postpone the crypto tax, originally due in 2027, by two years to 2029. It is the fourth delay, taking into account that crypto tax information exchange with the US begins in 2029. It will also push to allow investment losses to be carried forward for three years.",
+  "headline_ja": "政府、暗号資産課税を2029年までさらに2年延期…投資損失は3年間繰越控除",
+  "summary_ja": "政府は2027年に施行予定だった暗号資産課税を2年延期し、2029年から施行することにした。4度目の延期で、米国との暗号資産課税情報の交換が2029年から始まる点を考慮した。投資損失を3年間繰り越して控除できるようにする案も推進する。"
+ },
+ {
   "date": "2026-11-04",
   "headline": "[마감] 코스피, 美 중간선거에 장중 4% 급락 딛고 0.62% 상승…5680선 마감",
   "headline_ko": "코스피, 美 중간선거에 장중 4% 급락 딛고 0.62% 상승…5680선 마감",
