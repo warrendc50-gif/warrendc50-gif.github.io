@@ -31,6 +31,60 @@
  ],
  "items": [
   {
+   "date": "2026-11-07",
+   "headline": "Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in",
+   "headline_ko": "파라과이 상원, 페냐 대통령 파면…체포된 페냐 대신 알리아나 새 대통령 취임",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in",
+   "summary_ko": "우에노은행 붕괴 사태 이후 파라과이 상원의원 44명이 산티아고 페냐 대통령 파면에 찬성했다. 페냐는 체포됐고, 페드로 알리아나가 파라과이의 53번째 대통령으로 취임 선서를 했다.",
+   "topics": [
+    "politics"
+   ],
+   "orgs": [
+    "파라과이 상원"
+   ],
+   "headline_en": "Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in",
+   "summary_en": "Following the collapse of Ueno Bank, 44 of Paraguay's senators voted to remove President Santiago Pena from office. Pena is under arrest, and Pedro Alliana took the oath of office as the country's 53rd president.",
+   "headline_ja": "パラグアイ上院、ペニャ大統領を罷免…逮捕のペニャ氏に代わりアリアナ新大統領が就任",
+   "summary_ja": "ウエノ銀行の破綻を受け、パラグアイ上院議員44人がサンティアゴ・ペニャ大統領の罷免に賛成した。ペニャ氏は逮捕され、ペドロ・アリアナ氏が第53代大統領として就任宣誓を行った。"
+  },
+  {
+   "date": "2026-11-07",
+   "headline": "Trump confirms new US strikes on Iran’s Qeshm Island",
+   "headline_ko": "트럼프, 이란 케슘섬 추가 공습 확인…\"이란과 협상 많이 진전\"",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island",
+   "summary_ko": "트럼프 대통령이 이란 케슘섬에 대한 미군의 공습을 확인하면서 이를 사소한 공격이라고 표현했다. 그는 이란과의 협상에서 '많은 진전'이 있었다고 주장했다.",
+   "topics": [
+    "conflict"
+   ],
+   "orgs": [
+    "미군"
+   ],
+   "headline_en": "Trump confirms new US strikes on Iran’s Qeshm Island",
+   "summary_en": "President Trump confirmed US military strikes on Iran's Qeshm Island, describing them as minor. He claimed Washington has made 'a lot of progress' in talks with Iran.",
+   "headline_ja": "トランプ氏、イラン・ゲシュム島への追加攻撃を確認…「イランとの交渉は大きく進展」",
+   "summary_ja": "トランプ大統領は、イランのゲシュム島に対する米軍の攻撃を確認し、軽微なものだと表現した。イランとの交渉では「大きな進展」があったと主張した。"
+  },
+  {
+   "date": "2026-11-07",
+   "headline": "CDC reports more than 5,000 measles cases, highest number in 35 years",
+   "headline_ko": "美 홍역 환자 올해 5천 명 넘어…35년 만에 최다",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/7/cdc-reports-more-than-5000-measles-cases-highest-number-in-35-years",
+   "summary_ko": "미국 질병통제예방센터(CDC) 자료에 따르면 2026년 들어 미국에서 확인된 홍역 환자가 5,182명에 이르러 35년 만에 가장 많다. 사망자 수를 두고는 연방 당국과 펜실베이니아주 당국의 집계가 엇갈린다.",
+   "topics": [
+    "health"
+   ],
+   "orgs": [
+    "미국 질병통제예방센터"
+   ],
+   "headline_en": "CDC reports more than 5,000 measles cases, highest number in 35 years",
+   "summary_en": "According to CDC data, 5,182 confirmed measles cases have been reported in the US so far in 2026, the highest number in 35 years. Federal and Pennsylvania officials dispute the death count.",
+   "headline_ja": "米国のはしか患者、今年5000人超…35年ぶりの多さ",
+   "summary_ja": "米疾病対策センター（CDC）のデータによると、2026年に入って米国で確認されたはしか患者は5182人に達し、35年ぶりの多さとなった。死者数を巡っては連邦当局とペンシルベニア州当局の集計が食い違っている。"
+  },
+  {
    "date": "2026-11-06",
    "headline": "Trump says Russia-Ukraine deal is near after meeting Putin’s envoy",
    "headline_ko": "트럼프 \"러시아-우크라이나 합의 임박\"…푸틴 특사 드미트리예프 만나",
