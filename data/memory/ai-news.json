@@ -1098,6 +1098,24 @@
   "summary_ja": "フィナンシャル・タイムズ（FT）によると、オープンAIは新たな資金調達ラウンドの目標額を100億ドル減らし、200億ドルに引き下げた。同社は調達後の企業価値1兆2500億ドルを目指しており、当初は1兆4000億ドルの評価額で300億ドルを調達する計画だった。"
  },
  {
+  "date": "2026-10-30",
+  "headline": "MS, AI 투자 위해 34조원 회사채 발행 추진…주문 4배 몰려",
+  "headline_ko": "MS, AI 투자 위해 250억 달러 회사채 발행 추진…주문 1000억 달러 넘게 몰려",
+  "outlet": "뉴스1",
+  "url": "https://www.news1.kr/world/international-economy/6337180",
+  "summary_ko": "마이크로소프트가 AI 인프라 투자 재원으로 약 250억 달러(약 33조5천억 원) 규모의 회사채 발행을 준비하며 9년여 만에 미국 투자등급 채권시장에 복귀한다. 만기 2~40년 최대 10개 종목으로 나눠 발행할 계획이며, 매수 주문은 예정액의 4배가 넘는 1000억 달러를 넘었다.",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "마이크로소프트"
+  ],
+  "headline_en": "Microsoft plans $25bn bond sale to fund AI investment, orders top $100bn",
+  "summary_en": "Microsoft is preparing a bond sale of about $25 billion (about 33.5 trillion won) to fund AI infrastructure, returning to the US investment-grade bond market for the first time in over nine years. It plans to issue up to 10 tranches with maturities of 2 to 40 years, and orders topped $100 billion, more than four times the planned amount.",
+  "headline_ja": "MS、AI投資へ250億ドルの社債発行を計画…注文1000億ドル超",
+  "summary_ja": "マイクロソフトはAIインフラ投資の財源として約250億ドル(約33兆5000億ウォン)規模の社債発行を準備しており、9年余りぶりに米国の投資適格債市場に復帰する。満期2〜40年の最大10銘柄に分けて発行する計画で、買い注文は予定額の4倍を超える1000億ドル超に達した。"
+ },
+ {
   "date": "2026-10-29",
   "headline": "Amazon.com, Inc. - Amazon.com Announces Third Quarter Results",
   "headline_ko": "아마존 3분기 매출 2,019억달러…AWS 39% 성장, 영업이익률 사상 최고",
