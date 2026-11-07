@@ -221,6 +221,27 @@
   "summary_ja": "米国に向かっていた最初のロシア産軽油タンカー3隻のうち、アギオイ・ファネンデス号だけが米国沿岸に向かっており、目的地は「指示待ち」に変わった。レルオ号は公式の目的地をブラジルに変更した。クレムリンはFTの報道を「フェイク」と一蹴し、ペスコフ報道官は「すべての軽油は買い手を見つける」と述べた。専門家は制裁リスク、2022年のロシア産石油輸入禁止法、中間選挙結果による米国の港での差し押さえリスクなどを原因に挙げた。"
  },
  {
+  "date": "2026-11-06",
+  "headline": "Apple, Meta reject OKXICE tokenized stock plans, leaving MSTR, COIN, CRCL as ones to watch",
+  "headline_ko": "애플·메타도 OKX·ICE '토큰화 주식' 거래 거부…대상 기업 90%가 반대",
+  "outlet": "CoinDesk",
+  "url": "https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch",
+  "summary_ko": "애플·메타·팔란티어 등이 OKX와 뉴욕증권거래소 모회사 ICE의 미국 주식 토큰화 거래 계획에 반대 의사를 밝혀, 공개된 반대 기업이 67곳으로 늘었다. 처음 선정된 62개 기업 중 56곳(약 90%)이 반대했고, 반대하지 않은 곳은 스트래티지·코인베이스·서클·로빈후드 등 가상자산 관련 기업이다. 이 서비스는 SEC의 '혁신 면제' 아래 스테이블코인 결제로 토큰화 주식을 24시간 거래하는 방식이며, 기업은 통보 후 30일 안에 거래를 막을 수 있다.",
+  "topics": [
+   "markets"
+  ],
+  "orgs": [
+   "OKX",
+   "ICE",
+   "애플",
+   "메타"
+  ],
+  "headline_en": "Apple, Meta reject OKXICE tokenized stock plans, leaving MSTR, COIN, CRCL as ones to watch",
+  "summary_en": "Apple, Meta, Palantir and others objected to OKX and NYSE parent ICE's plan to trade tokenized US stocks, bringing disclosed objections to 67. Of the 62 companies initially selected, 56 (about 90%) objected; those without a disclosed objection are crypto-linked firms such as Strategy, Coinbase, Circle and Robinhood. The service would offer round-the-clock trading of tokenized stocks settled in stablecoins under the SEC's 'Innovation Exemption', and companies have 30 days after notice to block trading.",
+  "headline_ja": "アップル・メタもOKX・ICEの「トークン化株式」取引を拒否…対象企業の9割が反対",
+  "summary_ja": "アップル、メタ、パランティアなどがOKXとニューヨーク証券取引所の親会社ICEによる米国株のトークン化取引計画に反対を表明し、公表された反対企業は67社に増えた。当初選ばれた62社のうち56社(約9割)が反対し、反対していないのはストラテジー、コインベース、サークル、ロビンフッドなど暗号資産関連企業だ。このサービスはSECの「イノベーション免除」の下でステーブルコイン決済によりトークン化株式を24時間取引するもので、企業は通知から30日以内に取引を阻止できる。"
+ },
+ {
   "date": "2026-11-05",
   "headline": "Gold hits a two-week high as dollar, Treasury yields ease after U.S. midterm elections",
   "headline_ko": "미 중간선거 후 달러·국채금리 하락에 금값 2주 만의 최고",
