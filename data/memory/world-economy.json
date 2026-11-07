@@ -16,6 +16,25 @@
   "summary_ja": "6日（現地時間）のニューヨーク株式市場は、ナスダックが1.09%上昇し、ダウ平均は0.46%下落するまちまちの展開で取引を終えた。民主党の中間選挙勝利後にAI規制懸念で急落していたハイテク株が反発し、エヌビディアやAMDなどAI関連株が上昇、半導体株指数は4.21%上昇した。"
  },
  {
+  "date": "2026-11-07",
+  "headline": "美재무 \"중국에 부산 무역합의 이행 촉구\"…희토류 관련 불만 표출(종합)",
+  "headline_ko": "美재무 \"중국에 부산 무역합의 이행 촉구\"…희토류 관련 불만 표출",
+  "outlet": "뉴스1",
+  "url": "https://www.news1.kr/world/usa-canada/6346271",
+  "summary_ko": "베선트 미 재무장관은 6일(현지시간) X를 통해 중국이 부산 무역합의 약속을 완전하고 즉각적으로 이행하는 것이 중요하다며 최근 중국의 조치에 우려를 나타냈다. 미국 정부 관계자들은 중국이 희토류 약속의 약 3분의 2만 이행했다고 평가했지만, 중국은 이를 부인했다.",
+  "topics": [
+   "trade",
+   "china"
+  ],
+  "orgs": [
+   "미국 재무부"
+  ],
+  "headline_en": "US Treasury Secretary urges China to implement Busan trade deal, voices frustration over rare earths",
+  "summary_en": "US Treasury Secretary Bessent said on X on the 6th (local time) that it is important for China to fully and immediately implement its Busan trade deal commitments, expressing concern about China's recent actions. US officials assessed that China had fulfilled only about two-thirds of its rare earth commitments, which China denied.",
+  "headline_ja": "米財務長官「中国に釜山貿易合意の履行を促す」…レアアースで不満表明",
+  "summary_ja": "ベッセント米財務長官は6日（現地時間）、Xで中国が釜山貿易合意の約束を完全かつ即座に履行することが重要だとし、中国の最近の措置に懸念を示した。米政府関係者は中国がレアアースの約束の約3分の2しか履行していないと評価したが、中国はこれを否定した。"
+ },
+ {
   "date": "2026-11-06",
   "headline": "日증시 6% 폭락·대만 약세장 진입…AI 투매에 亞 '검은 금요일'",
   "headline_ko": "日증시 6% 폭락·대만 약세장 진입…AI 투매에 아시아 '검은 금요일'",
