@@ -18,6 +18,26 @@
   "summary_ja": "米国でデータセンター規制の動きが相次ぐ中、ホワイトハウスはAI投資に支障はないとの立場を示した。"
  },
  {
+  "date": "2026-11-07",
+  "headline": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+  "headline_ko": "\"中 국가안전부, 싱가포르 메가스피드 임원 포섭해 젠슨 황 감시\"…美 정보 메모 보도",
+  "outlet": "TechCrunch",
+  "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+  "summary_ko": "올해 초 돈 미국 정보 기반 메모에 중국 국가안전부가 싱가포르 기업 메가스피드의 임원을 포섭해 엔비디아 젠슨 황 CEO를 감시하게 했다는 주장이 담겼다고 뉴욕타임스가 처음 보도했다. 엔비디아 대변인은 두 사람의 교류가 \"이례적이지 않았다\"며 고객과 기밀 정보를 공유하지 않는다고 밝혔다. 공식 확인된 내용은 아니다.",
+  "topics": [
+   "chips",
+   "policy"
+  ],
+  "orgs": [
+   "엔비디아",
+   "메가스피드"
+  ],
+  "headline_en": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+  "summary_en": "The New York Times first reported that a memo circulated earlier this year, reportedly based on US intelligence, alleged that China's Ministry of State Security recruited an executive at Singapore-based Megaspeed to spy on Nvidia CEO Jensen Huang. An Nvidia spokesperson said the interactions were 'not unusual' and that the company does not share classified information with customers. The claims have not been officially confirmed.",
+  "headline_ja": "「中国国家安全省、シンガポールのメガスピード幹部を取り込みジェンスン・フアン氏を監視」…米情報メモ報道",
+  "summary_ja": "今年初めに出回った米情報に基づくメモに、中国国家安全省がシンガポール企業メガスピードの幹部を取り込み、エヌビディアのジェンスン・フアンCEOを監視させたとの主張が含まれていたと、ニューヨーク・タイムズが最初に報じた。エヌビディアの広報担当者は両者の交流は「珍しいものではなかった」とし、顧客と機密情報は共有していないと述べた。公式には確認されていない。"
+ },
+ {
   "date": "2026-11-06",
   "headline": "美 민주당, 선거 승리 이후 AI 규제 시동…데이터센터 건설 중단 촉구",
   "headline_ko": "美 민주당, 선거 승리 후 AI 규제 시동…일부 \"데이터센터 건설 중단\" 촉구",
