@@ -18,6 +18,22 @@
   "summary_ja": "米国でデータセンター規制の動きが相次ぐ中、ホワイトハウスはAI投資に支障はないとの立場を示した。"
  },
  {
+  "date": "2026-11-07",
+  "headline": "How the US midterm elections reflected resistance to data centres",
+  "headline_ko": "미 중간선거에 드러난 데이터센터 반대 여론",
+  "outlet": "Al Jazeera",
+  "url": "https://www.aljazeera.com/economy/2026/11/7/how-the-us-midterm-elections-reflected-resistance-to-data-centres",
+  "summary_ko": "선거일에 데이터센터 관련 주민투표 41건 중 1건을 빼고 모두 데이터센터 개발을 거부하는 결과가 나왔다. 전문가들은 전기요금 부담과 일자리 우려를 반대 이유로 꼽았다. 데이터센터 신규 승인 유예를 내건 지나 이노호사가 텍사스 주지사 선거에서 이겼다.",
+  "topics": [
+   "policy"
+  ],
+  "orgs": [],
+  "headline_en": "How the US midterm elections reflected resistance to data centres",
+  "summary_en": "On Election Day, voters rejected data centre development in all but one of the 41 ballot measures on the issue. Experts cited power bills and job fears as reasons for the opposition. Gina Hinojosa, who called for a moratorium on new data centre approvals, won the Texas governor's race.",
+  "headline_ja": "米中間選挙に表れたデータセンターへの反対",
+  "summary_ja": "選挙日にはデータセンター関連の住民投票41件のうち1件を除くすべてで開発が否決された。専門家は電気料金の負担と雇用への不安を反対の理由に挙げた。データセンター新規承認の一時停止を掲げたジーナ・イノホサ氏がテキサス州知事選に勝利した。"
+ },
+ {
   "date": "2026-11-06",
   "headline": "美 민주당, 선거 승리 이후 AI 규제 시동…데이터센터 건설 중단 촉구",
   "headline_ko": "美 민주당, 선거 승리 후 AI 규제 시동…일부 \"데이터센터 건설 중단\" 촉구",
