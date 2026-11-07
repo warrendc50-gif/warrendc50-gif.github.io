@@ -429,11 +429,11 @@
   },
   {
    "date": "2026-11-05",
-   "headline": "Paraguay Congress rejects President Pena’s resignation after bank collapse",
-   "headline_ko": "파라과이 의회, 은행 파산 여파로 낸 페냐 대통령 사임안 거부",
-   "outlet": "Al Jazeera",
-   "url": "https://www.aljazeera.com/economy/2026/11/5/paraguay-president-pena-resigns-in-wake-of-bank-collapse",
-   "summary_ko": "파라과이 의회가 은행 파산 사태 이후 산티아고 페냐 대통령이 낸 사임안을 거부했다.",
+   "headline": "Paraguay's president Pena impeached after resigning over banking scandal",
+   "headline_ko": "파라과이 하원, 은행 스캔들 사임 발표 직후 페냐 대통령 탄핵 소추 가결",
+   "outlet": "France 24",
+   "url": "https://www.france24.com/en/americas/20261105-paraguay-s-president-pe%C3%B1a-impeached-moments-after-resigning-amid-banking-scandal",
+   "summary_ko": "파라과이 하원이 산티아고 페냐 대통령이 X에 사임을 발표한 지 몇 분 만에 만장일치로 탄핵 소추안을 가결했다. 의회는 탄핵 절차를 진행하는 동안 사임을 보류했다. 이틀 전 중앙은행이 페냐와 연관된 우에노은행을 압류하면서 약 300만 명의 예금이 동결됐다.",
    "topics": [
     "politics",
     "economy"
@@ -441,10 +441,10 @@
    "orgs": [
     "파라과이 의회"
    ],
-   "headline_en": "Paraguay Congress rejects President Pena’s resignation after bank collapse",
-   "summary_en": "Paraguay's Congress rejected the resignation submitted by President Santiago Pena following the bank collapse.",
-   "headline_ja": "パラグアイ議会、銀行破綻受けたペニャ大統領の辞任を拒否",
-   "summary_ja": "パラグアイ議会は、銀行破綻を受けてサンティアゴ・ペニャ大統領が提出した辞任を拒否した。"
+   "headline_en": "Paraguay's president Pena impeached after resigning over banking scandal",
+   "summary_en": "Paraguay's lower house voted unanimously to impeach President Santiago Pena minutes after he announced his resignation on X. Congress put his resignation on hold while the impeachment process moved forward. Two days earlier, the central bank had seized Pena-linked Ueno Bank, freezing the deposits of some three million people.",
+   "headline_ja": "パラグアイ下院、銀行スキャンダルで辞任表明直後のペニャ大統領を弾劾訴追",
+   "summary_ja": "パラグアイ下院は、サンティアゴ・ペニャ大統領がXで辞任を表明した数分後に、全会一致で弾劾訴追を可決した。議会は弾劾手続きを進める間、辞任を保留した。2日前には中央銀行がペニャ氏と関係のあるウエノ銀行を接収し、約300万人の預金が凍結されていた。"
   },
   {
    "date": "2026-11-05",
