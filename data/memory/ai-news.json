@@ -810,6 +810,43 @@
   "summary_ja": "サムスン、SKハイニックス、LGが9～10日にソウルで開かれるエヌビディアの「AIデー・ソウル」に参加する見通しだ。サムスン電子はエヌビディアとHBM供給や半導体向けAIファクトリーでの協力を進めているという。"
  },
  {
+  "date": "2026-11-03",
+  "headline": "Meta seeks to raise up to $25 billion in debt sale as AI spending jumps",
+  "headline_ko": "메타, AI 지출 급증에 최대 250억 달러 회사채 발행 추진",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/11/03/meta-bond-sale-ai-funding.html",
+  "summary_ko": "관계자들에 따르면 메타가 200억~250억 달러 규모 회사채 발행을 추진하며, 3분의 2는 달러, 3분의 1은 유로로 발행할 예정이다. S&P는 막대한 설비투자와 마이너스 잉여현금흐름을 이유로 메타 신용등급 전망을 AA- '안정적'에서 '부정적'으로 바꿨다. 메타는 4월에도 250억 달러 채권을 발행했고, 올해 설비투자는 최대 1450억 달러에 이를 전망이다.",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "메타",
+   "S&P"
+  ],
+  "headline_en": "Meta seeks to raise up to $25 billion in debt sale as AI spending jumps",
+  "summary_en": "According to people familiar with the matter, Meta is seeking to raise $20 billion to $25 billion in a bond sale, two-thirds in US dollars and one-third in euros. S&P revised Meta's AA- outlook from stable to negative, citing heavy capex and negative free cash flow. Meta also raised $25 billion in bonds in April, and this year's capex is set to reach as much as $145 billion.",
+  "headline_ja": "メタ、AI支出急増で最大250億ドルの社債発行を計画",
+  "summary_ja": "関係者によると、メタは200億〜250億ドル規模の社債発行を計画しており、3分の2をドル建て、3分の1をユーロ建てで発行する予定だ。S&Pは巨額の設備投資とマイナスのフリーキャッシュフローを理由に、メタの格付け見通しをAA-「安定的」から「ネガティブ」に変更した。メタは4月にも250億ドルの社債を発行しており、今年の設備投資は最大1450億ドルに達する見通しだ。"
+ },
+ {
+  "date": "2026-11-03",
+  "headline": "Anthropic is still grappling with the economics of compute",
+  "headline_ko": "앤트로픽, 컴퓨팅 비용이 매출의 58%로 상승…단기 조달 탓에 비용 부담 커져",
+  "outlet": "TechCrunch",
+  "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+  "summary_ko": "앤트로픽의 새 규제 서류에 따르면 컴퓨팅 비용이 매출에서 차지하는 비중이 직전 분기 48%에서 58%로 높아졌고, 분기 컴퓨팅 비용은 약 100억 달러에 달했다. 서류는 50억 달러 규모의 단기 약정 컴퓨팅이 다년 약정보다 훨씬 비싸다고 밝혔다. 수요가 빠르게 늘면서 더 비싼 단기 용량을 사들여야 했다는 뜻이다.",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "앤트로픽"
+  ],
+  "headline_en": "Anthropic is still grappling with the economics of compute",
+  "summary_en": "According to Anthropic's new regulatory filing, compute rose from 48% of revenue in the prior quarter to 58%, with the quarterly compute bill reaching about $10 billion. The filing says $5.0 billion of compute under short-term commitments costs significantly more than compute under multi-year commitments. Rapid demand forced the company to buy more expensive short-term capacity.",
+  "headline_ja": "アンソロピック、計算コストが売上高の58%に上昇…短期調達でコスト負担増",
+  "summary_ja": "アンソロピックの新たな規制当局への提出書類によると、計算コストが売上高に占める割合は前四半期の48%から58%に上昇し、四半期の計算コストは約100億ドルに達した。書類は、50億ドル規模の短期契約の計算資源が複数年契約より大幅に高いとしている。需要の急増で、より高い短期容量を購入せざるを得なかったということだ。"
+ },
+ {
   "date": "2026-11-02",
   "headline": "Apple Reports 4Q 2026 Results: $30.7B Profit on $114.5B Revenue",
   "headline_ko": "애플 2026 회계연도 4분기 실적: 매출 1145억 달러, 순이익 307억 달러",
