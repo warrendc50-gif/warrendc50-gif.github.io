@@ -319,6 +319,24 @@
   "summary_ja": "米中間選挙の結果、データセンター開発への規制が強まり事業の遅れや建設費の上昇につながるとの懸念が高まった。エクイニクスのサイラス・アダグラ・アジア太平洋社長は、同社の企業向けデータセンターは規制の注目を集める大型プロジェクトより概して小さいと述べた。フィッチ・ソリューションズ傘下のBMIは、ハイパースケーラーの開発計画が新知事が建設規制を導入しうる州に集中していると分析した。"
  },
  {
+  "date": "2026-11-06",
+  "headline": "\"엔비디아 AI칩 60만 개 홍콩에 쌓여…中, 대규모 수입 승인 보류\"",
+  "headline_ko": "\"엔비디아 H200 60만 개 홍콩에 대기…中, 대규모 수입 승인 보류\"",
+  "outlet": "뉴스1",
+  "url": "https://www.news1.kr/world/northeast-asia/6344909",
+  "summary_ko": "로이터통신에 따르면 중국이 엔비디아 H200의 대규모 수입 승인을 미루면서 약 60만 개가 홍콩에 쌓여 있다. 기사는 중국이 화웨이 육성과 반도체 자립을 이유로 승인을 늦추고 있다고 설명했다.",
+  "topics": [
+   "chips"
+  ],
+  "orgs": [
+   "엔비디아"
+  ],
+  "headline_en": "\"600,000 Nvidia H200 chips pile up in Hong Kong as China withholds large-scale import approval\"",
+  "summary_en": "According to Reuters, about 600,000 Nvidia H200 chips are piled up in Hong Kong as China delays approval for large-scale imports. The article said China is holding back approval to nurture Huawei and pursue chip self-sufficiency.",
+  "headline_ja": "「エヌビディアH200、60万個が香港で待機…中国が大規模輸入承認を保留」",
+  "summary_ja": "ロイター通信によると、中国がエヌビディアH200の大規模輸入承認を先送りしているため、約60万個が香港に滞留している。記事は、中国がファーウェイの育成と半導体の自立を理由に承認を遅らせていると説明した。"
+ },
+ {
   "date": "2026-11-05",
   "headline": "한국데이터센터연합회-코트라, AI 데이터센터 해외 투자 유치 나선다",
   "headline_ko": "한국데이터센터연합회-코트라, AI 데이터센터 해외 투자 유치 나선다",
