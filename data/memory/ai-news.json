@@ -259,6 +259,46 @@
   "summary_ja": "データセンター開発会社クルーソーは、ワイオミング州南東部の未完成データセンター計画をグーグルに売却したことを確認した。グーグルはクルーソーの管理下でのコストと工期に懸念を示した後、開発を自ら引き継ぐ。買収額は明らかにせず、このキャンパスに170億ドルを投資する計画だという。両社はテキサス州アマリロ近郊のデータセンターでの協力を続ける。"
  },
  {
+  "date": "2026-11-06",
+  "headline": "Microsoft plans to use fewer neoclouds as AI buildout shows signs of strain",
+  "headline_ko": "마이크로소프트, 네오클라우드 협력사 축소 추진…AI 인프라 구축에 균열 조짐",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/11/06/microsoft-moves-to-consolidate-its-relationships-with-neoclouds-in-ai.html",
+  "summary_ko": "마이크로소프트가 협력하는 네오클라우드(GPU 임대 클라우드) 업체 수를 줄이려 하고 있다고 관계자 2명이 밝혔다. 아직 평가 단계로 어느 업체를 뺄지는 정하지 않았다. 마이크로소프트는 최근 몇 년간 코어위브, 네비우스 등 6곳 정도와 계약했으며, 영국에서 엔스케일과 쓰려던 부지 계획은 접었다.",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "마이크로소프트",
+   "코어위브",
+   "네비우스",
+   "엔스케일"
+  ],
+  "headline_en": "Microsoft plans to use fewer neoclouds as AI buildout shows signs of strain",
+  "summary_en": "Microsoft is moving to reduce the number of neocloud (GPU rental cloud) providers it works with, according to two people familiar. It is still in an evaluation stage and has not decided which providers to drop. Microsoft has signed deals with about half a dozen neoclouds in recent years, including CoreWeave and Nebius, and walked away from a site it had planned to use in England with Nscale.",
+  "headline_ja": "マイクロソフト、ネオクラウド提携先の削減へ…AIインフラ構築にほころびの兆し",
+  "summary_ja": "関係者2人によると、マイクロソフトは提携するネオクラウド(GPU貸し出しクラウド)事業者の数を減らそうとしている。まだ評価段階で、どの事業者を外すかは決めていない。マイクロソフトはここ数年でコアウィーブやネビウスなど約6社と契約しており、英国でエヌスケールと使う予定だった用地の計画は取りやめた。"
+ },
+ {
+  "date": "2026-11-06",
+  "headline": "CoreWeave bond yield tops 16% as AI credit stress rises",
+  "headline_ko": "코어위브 회사채 금리 16% 돌파…AI 기업 신용 불안 확대",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+  "summary_ko": "표면금리 9.625%인 코어위브 2032년 만기 회사채의 수익률이 16%를 넘었다. 도이체방크에 따르면 코어위브 5년물 신용부도스와프(CDS) 프리미엄은 목요일 1,289bp를 넘어섰다. 투자자들은 엔비디아·브로드컴 같은 우량 AI 관련 기업의 부도 위험 보험료도 더 높게 매기고 있다.",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "코어위브",
+   "도이체방크"
+  ],
+  "headline_en": "CoreWeave bond yield tops 16% as AI credit stress rises",
+  "summary_en": "The yield on CoreWeave's 2032 bond, which carries a 9.625% coupon, rose above 16%. According to Deutsche Bank, CoreWeave's five-year credit default swaps widened past 1,289 basis points on Thursday. Investors are also charging more to insure even highly rated AI-linked issuers such as Nvidia and Broadcom.",
+  "headline_ja": "コアウィーブ社債利回り16%突破…AI企業の信用不安が拡大",
+  "summary_ja": "表面利率9.625%のコアウィーブ2032年満期社債の利回りが16%を超えた。ドイツ銀行によると、コアウィーブの5年物クレジット・デフォルト・スワップ(CDS)スプレッドは木曜日に1289ベーシスポイントを超えた。投資家はエヌビディアやブロードコムなど高格付けのAI関連企業の保証料も引き上げている。"
+ },
+ {
   "date": "2026-11-05",
   "headline": "한국데이터센터연합회-코트라, AI 데이터센터 해외 투자 유치 나선다",
   "headline_ko": "한국데이터센터연합회-코트라, AI 데이터센터 해외 투자 유치 나선다",
