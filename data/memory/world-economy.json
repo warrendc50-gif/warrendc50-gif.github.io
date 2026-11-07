@@ -261,6 +261,23 @@
   "summary_ja": "アップル、メタ、パランティアなどがOKXとニューヨーク証券取引所の親会社ICEによる米国株のトークン化取引計画に反対を表明し、公表された反対企業は67社に増えた。当初選ばれた62社のうち56社(約9割)が反対し、反対していないのはストラテジー、コインベース、サークル、ロビンフッドなど暗号資産関連企業だ。このサービスはSECの「イノベーション免除」の下でステーブルコイン決済によりトークン化株式を24時間取引するもので、企業は通知から30日以内に取引を阻止できる。"
  },
  {
+  "date": "2026-11-06",
+  "headline": "中, 1~9월 '반도체 장비 핵심' 희토류 소재 대일 수출 98% 급감",
+  "headline_ko": "中, 반도체 장비 핵심 희토류 '산화이트륨' 대일 수출 98% 급감",
+  "outlet": "뉴스1",
+  "url": "https://www.news1.kr/world/northeast-asia/6344786",
+  "summary_ko": "중국이 일본에 공급하는 반도체 제조장비용 핵심 희토류 소재 산화이트륨의 1~9월 수출량이 887톤에서 18톤으로 지난해 같은 기간보다 98% 급감했다. 같은 기간 한국·독일행 수출은 늘었다. 중국은 다카이치 총리의 대만 발언에 반발해 군민 양용 품목의 대일 수출 통제를 강화해 왔다.",
+  "topics": [
+   "china",
+   "trade"
+  ],
+  "orgs": [],
+  "headline_en": "China's exports to Japan of a key rare-earth material for chipmaking equipment plunge 98% in January–September",
+  "summary_en": "China's exports to Japan of yttrium oxide, a key rare-earth material for semiconductor manufacturing equipment, fell 98% year on year in January–September, from 887 tonnes to 18 tonnes. Exports to South Korea and Germany rose over the same period. China has tightened export controls on dual-use items to Japan in response to Prime Minister Takaichi's remarks on Taiwan.",
+  "headline_ja": "中国、半導体装置の要となるレアアース「酸化イットリウム」の対日輸出98%急減",
+  "summary_ja": "中国が日本に供給する半導体製造装置用の主要レアアース素材、酸化イットリウムの1〜9月の輸出量は887トンから18トンへと前年同期比98%急減した。同期間の韓国・ドイツ向け輸出は増えた。中国は高市首相の台湾発言に反発し、軍民両用品目の対日輸出管理を強化してきた。"
+ },
+ {
   "date": "2026-11-05",
   "headline": "Gold hits a two-week high as dollar, Treasury yields ease after U.S. midterm elections",
   "headline_ko": "미 중간선거 후 달러·국채금리 하락에 금값 2주 만의 최고",
@@ -555,6 +572,23 @@
   "summary_en": "The S&P 500 closed up 0.4% at 7,568.92 and the Nasdaq rose 0.8% to 25,372.01, while the Dow slipped 0.4% to 51,786.72. Apple fell, but Nvidia and other AI-related stocks supported the market.",
   "headline_ja": "11月3日(火)NY株式市場終値:エヌビディアなどAI株に支えられS&P500が0.4%上昇",
   "summary_ja": "S&P500は0.4%高の7,568.92、ナスダックは0.8%高の25,372.01で取引を終え、ダウは0.4%安の51,786.72だった。アップルは下落したが、エヌビディアなどAI関連株が相場を支えた。"
+ },
+ {
+  "date": "2026-11-03",
+  "headline": "금값 25% 하락에 중앙은행 매입 급증…2024년 말 이후 최대",
+  "headline_ko": "금값 25% 하락에 중앙은행 매입 급증…3분기 321톤, 2024년 말 이후 최대",
+  "outlet": "뉴스1",
+  "url": "https://www.news1.kr/world/international-economy/6341582",
+  "summary_ko": "이란 전쟁 이후 금값이 약 25% 떨어지자 세계 중앙은행들이 저가 매수에 나서 3분기 금 순매입량이 321톤으로 2024년 말 이후 가장 많았다. 올해 누적 매입량은 675톤이며, 3분기에는 중국이 63톤, 폴란드가 41톤을 사들였다.",
+  "topics": [
+   "centralbank",
+   "markets"
+  ],
+  "orgs": [],
+  "headline_en": "Central bank gold buying surges as prices drop 25%, the most since late 2024",
+  "summary_en": "With gold prices down about 25% since the Iran war, the world's central banks bought the dip, with net purchases of 321 tonnes in the third quarter, the most since late 2024. Purchases so far this year total 675 tonnes; in the third quarter China bought 63 tonnes and Poland 41 tonnes.",
+  "headline_ja": "金価格25%下落で中央銀行の購入急増…第3四半期321トン、2024年末以来最大",
+  "summary_ja": "イラン戦争以降、金価格が約25%下落すると世界の中央銀行が押し目買いに動き、第3四半期の金の純購入量は321トンと2024年末以来最大となった。今年の累計購入量は675トンで、第3四半期には中国が63トン、ポーランドが41トンを購入した。"
  },
  {
   "date": "2026-11-02",
