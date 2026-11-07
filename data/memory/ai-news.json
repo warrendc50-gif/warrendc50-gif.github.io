@@ -299,6 +299,26 @@
   "summary_ja": "表面利率9.625%のコアウィーブ2032年満期社債の利回りが16%を超えた。ドイツ銀行によると、コアウィーブの5年物クレジット・デフォルト・スワップ(CDS)スプレッドは木曜日に1289ベーシスポイントを超えた。投資家はエヌビディアやブロードコムなど高格付けのAI関連企業の保証料も引き上げている。"
  },
  {
+  "date": "2026-11-06",
+  "headline": "Equinix points to smaller facilities as scrutiny of U.S. data center construction grows",
+  "headline_ko": "에퀴닉스 \"우리 데이터센터는 소규모\"…美 데이터센터 규제 강화 우려 속 차별화 강조",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/11/06/equinix-us-data-center-growth-asia.html",
+  "summary_ko": "미 중간선거 결과로 데이터센터 개발 규제가 강화돼 사업이 지연되고 건설비가 오를 수 있다는 우려가 커졌다. 에퀴닉스의 사이러스 아다그라 아시아태평양 사장은 자사 기업용 데이터센터가 규제 대상으로 주목받는 대형 프로젝트보다 대체로 작다고 밝혔다. 피치 솔루션스 계열 BMI는 하이퍼스케일러의 개발 계획이 새 주지사들이 건설 규제를 도입할 수 있는 주에 몰려 있다고 분석했다.",
+  "topics": [
+   "business",
+   "policy"
+  ],
+  "orgs": [
+   "에퀴닉스",
+   "BMI"
+  ],
+  "headline_en": "Equinix points to smaller facilities as scrutiny of U.S. data center construction grows",
+  "summary_en": "The US midterm results have heightened concerns that new restrictions on data center development could delay projects and raise construction costs. Equinix Asia-Pacific president Cyrus Adaggra said the firm's enterprise data centers are typically smaller than the projects drawing regulatory scrutiny. BMI, a Fitch Solutions company, found the hyperscaler pipeline is concentrated in states where newly elected governors could impose construction restrictions.",
+  "headline_ja": "エクイニクス「当社のデータセンターは小規模」…米データセンター規制強化懸念の中で差別化を強調",
+  "summary_ja": "米中間選挙の結果、データセンター開発への規制が強まり事業の遅れや建設費の上昇につながるとの懸念が高まった。エクイニクスのサイラス・アダグラ・アジア太平洋社長は、同社の企業向けデータセンターは規制の注目を集める大型プロジェクトより概して小さいと述べた。フィッチ・ソリューションズ傘下のBMIは、ハイパースケーラーの開発計画が新知事が建設規制を導入しうる州に集中していると分析した。"
+ },
+ {
   "date": "2026-11-05",
   "headline": "한국데이터센터연합회-코트라, AI 데이터센터 해외 투자 유치 나선다",
   "headline_ko": "한국데이터센터연합회-코트라, AI 데이터센터 해외 투자 유치 나선다",
