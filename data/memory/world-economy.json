@@ -610,6 +610,25 @@
   "summary_ja": "イラン戦争以降、金価格が約25%下落すると世界の中央銀行が押し目買いに動き、第3四半期の金の純購入量は321トンと2024年末以来最大となった。今年の累計購入量は675トンで、第3四半期には中国が63トン、ポーランドが41トンを購入した。"
  },
  {
+  "date": "2026-11-03",
+  "headline": "中증시 10년래 최악 폭락에 2024년 부양책 재가동…효과는 회의적",
+  "headline_ko": "中 증시 10년 만에 최악 폭락에 2024년 부양책 재가동…효과엔 회의론",
+  "outlet": "뉴스1",
+  "url": "https://www.news1.kr/world/international-economy/6340975",
+  "summary_ko": "CSI300 지수가 10월 8.5% 떨어지며 12주 연속 하락해 약세장에 들어서자 중국 당국이 2024년 증시 위기 때 쓴 유동성 공급 수단을 다시 꺼냈다. 인민은행은 자사주 매입 대출금리를 1.25%에서 1%로 내렸고, 증권감독당국은 자산교환제도(SFISF) 3차 운영 계획을 내놓았다. 시장에서는 '기존 정책 재탕'이라며 효과가 제한적일 것이라는 평가가 나온다.",
+  "topics": [
+   "china",
+   "markets"
+  ],
+  "orgs": [
+   "중국 인민은행"
+  ],
+  "headline_en": "China restarts 2024 stimulus tools after worst stock slump in a decade; effect doubted",
+  "summary_en": "With the CSI300 index falling 8.5% in October and entering a bear market after 12 straight weekly declines, Chinese authorities brought back liquidity tools used in the 2024 stock market crisis. The PBOC cut the lending rate for share buybacks from 1.25% to 1%, and the securities regulator unveiled a third round of its asset swap facility (SFISF). Market watchers call it a rehash of existing policy with limited effect.",
+  "headline_ja": "中国株10年ぶりの最悪の暴落で2024年の景気刺激策を再稼働…効果には懐疑論",
+  "summary_ja": "CSI300指数が10月に8.5%下落し、12週連続の下落で弱気相場入りすると、中国当局は2024年の株式市場危機で使った流動性供給手段を再び持ち出した。人民銀行は自社株買い向け融資金利を1.25%から1%に引き下げ、証券監督当局は資産スワップ制度(SFISF)の第3次運用計画を打ち出した。市場では「既存政策の焼き直し」で効果は限定的との評価が出ている。"
+ },
+ {
   "date": "2026-11-02",
   "headline": "US ISM manufacturing PMI for October 55.5 versus 54.5 estimate",
   "headline_ko": "미국 10월 ISM 제조업지수 55.5, 예상(54.5) 상회",

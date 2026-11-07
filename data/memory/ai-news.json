@@ -925,6 +925,25 @@
   "summary_ja": "アンソロピックの新たな規制当局への提出書類によると、計算コストが売上高に占める割合は前四半期の48%から58%に上昇し、四半期の計算コストは約100億ドルに達した。書類は、50億ドル規模の短期契約の計算資源が複数年契約より大幅に高いとしている。需要の急増で、より高い短期容量を購入せざるを得なかったということだ。"
  },
  {
+  "date": "2026-11-03",
+  "headline": "구글 모회사 알파벳, AI 투자 위해 9조원 채권 발행…수요 3배 몰려",
+  "headline_ko": "알파벳, AI 투자 위해 유로화 회사채 약 60억 유로 발행…주문 2.8배 몰려",
+  "outlet": "뉴스1",
+  "url": "https://www.news1.kr/world/international-economy/6341092",
+  "summary_ko": "구글 모회사 알파벳이 AI 인프라 자금을 마련하려고 유럽 채권시장에서 약 60억 유로(약 9조 원) 규모의 회사채를 발행한다. 주문은 170억 유로를 넘어 모집액의 약 2.8배에 달했고, 조달금은 부채 상환을 포함한 일반 운영 목적에 쓰인다. 주가 하락에도 채권 수요는 견고했다.",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "알파벳",
+   "구글"
+  ],
+  "headline_en": "Alphabet issues about €6bn in euro bonds to fund AI investment, orders 2.8 times the offering",
+  "summary_en": "Google parent Alphabet is issuing about €6 billion (about 9 trillion won) of bonds in the European market to fund AI infrastructure. Orders exceeded €17 billion, about 2.8 times the offering, and proceeds will be used for general purposes including debt repayment. Bond demand held firm despite the share price decline.",
+  "headline_ja": "アルファベット、AI投資へユーロ建て社債約60億ユーロ発行…注文2.8倍",
+  "summary_ja": "グーグルの親会社アルファベットは、AIインフラの資金を調達するため欧州債券市場で約60億ユーロ(約9兆ウォン)規模の社債を発行する。注文は170億ユーロを超え募集額の約2.8倍に達し、調達資金は債務返済を含む一般運営目的に使われる。株価下落にもかかわらず債券需要は堅調だった。"
+ },
+ {
   "date": "2026-11-02",
   "headline": "Apple Reports 4Q 2026 Results: $30.7B Profit on $114.5B Revenue",
   "headline_ko": "애플 2026 회계연도 4분기 실적: 매출 1145억 달러, 순이익 307억 달러",
