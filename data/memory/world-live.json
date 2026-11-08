@@ -1236,6 +1236,26 @@
    "summary_ja": "9月にヘグセス国防長官に対する8件の弾劾訴追条項を提出した共和党のトーマス・マッシー下院議員は、議会が来週再開すれば採決を求めると述べ、複数の共和党関係者は可決を見込んでいる。下院の弾劾は過半数で可能だが、上院で罷免するには67票が必要で、民主党は少なくとも共和党議員11人の同調を要する。トランプ大統領はヘグセス氏の交代を検討していないと述べ、国防総省も支持を表明した。"
   },
   {
+   "date": "2026-11-05",
+   "headline": "US government warns of 'ongoing cyber threat' amid mass hacks of industrial retail and military freezers",
+   "headline_ko": "美 CISA·FBI, 산업용 냉장·냉동 시스템 대규모 해킹에 \"진행 중인 사이버 위협\" 경고",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/",
+   "summary_ko": "CISA와 FBI 등 미 연방기관들은 공동성명에서 해커들이 식료품점·냉장창고 등의 인터넷 연결 냉장·콜드체인 모니터링 시스템을 장악하고 있다며, 온도 조작으로 화재 위험과 재고 손실이 생길 수 있다고 경고했다. 유럽과 영국에서 두 차례 공격으로 최소 십여 개국 냉동고가 피해를 봤고, 국방부는 군 냉동고 해킹을 조사 중이다. 미국은 공식 배후를 지목하지 않았지만 연구자들은 대체로 이란을 지목한다.",
+   "topics": [
+    "economy"
+   ],
+   "orgs": [
+    "CISA",
+    "FBI",
+    "미 국방부"
+   ],
+   "headline_en": "US government warns of 'ongoing cyber threat' amid mass hacks of industrial retail and military freezers",
+   "summary_en": "In a joint statement, CISA, the FBI and other federal agencies warned that hackers are compromising internet-connected refrigeration and cold-chain monitoring systems at grocery stores, cold storage facilities and elsewhere, and that temperature tampering could cause fire hazards and inventory losses. Two waves of attacks in Europe and the UK hit freezers in at least a dozen countries, and the Defense Department is investigating hacks of military freezers. The US has not formally attributed the attacks, though researchers broadly point to Iran.",
+   "headline_ja": "米CISA・FBI、産業用冷蔵・冷凍システムの大規模ハッキングで「継続中のサイバー脅威」を警告",
+   "summary_ja": "CISAとFBIなど米連邦機関は共同声明で、ハッカーが食料品店や冷蔵倉庫などのネット接続型冷蔵・コールドチェーン監視システムを乗っ取っており、温度操作で火災の危険や在庫損失が生じうると警告した。欧州と英国での2度の攻撃で少なくとも十数カ国の冷凍庫が被害を受け、国防総省は軍の冷凍庫へのハッキングを調査中だ。米国は公式に攻撃主体を特定していないが、研究者はおおむねイランを指摘している。"
+  },
+  {
    "date": "2026-11-04",
    "headline": "2026 midterm election results: House, Senate",
    "headline_ko": "2026 미국 중간선거 결과: 민주당, 하원·상원 장악 전망",
@@ -1704,6 +1724,26 @@
    "summary_en": "A day before the midterm elections, President Trump wrote on Truth Social that a deal with Iran could happen and that 'Iran wants a settlement, as soon as possible.' Iranian Foreign Minister Araghchi called the consultations 'very intensive,' and a senior Iranian official said Tehran could reopen the Strait of Hormuz within two days if Washington accepts its demands. Qatar said it remained hopeful of an interim deal.",
    "headline_ja": "トランプ氏「イランとの合意あり得る」…イラン「協議は非常に集中的」、要求受け入れなら2日以内にホルムズ再開",
    "summary_ja": "トランプ大統領は中間選挙の前日、トゥルース・ソーシャルにイランとの合意が実現し得るとし、「イランはできるだけ早い決着を望んでいる」と書き込んだ。イランのアラグチ外相は協議が「非常に集中的」だと述べ、イラン高官は米国が要求を受け入れれば2日以内にホルムズ海峡を再開できると語った。カタールは暫定合意への期待を維持していると表明した。"
+  },
+  {
+   "date": "2026-11-02",
+   "headline": "A fresh wave of cyberattacks has hit Europe's supermarket refrigerators, destroying food across countries",
+   "headline_ko": "유럽 슈퍼마켓 냉장고 겨냥 사이버공격 2차 확산…벨기에·아일랜드 등 식품 폐기",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/02/a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries/",
+   "summary_ko": "벨기에·아일랜드·룩셈부르크·스웨덴 슈퍼마켓 냉장고가 2차 해킹을 당해 온도가 올라가 식품이 상했으며, 아홀드델레이즈와 콜뤼트가 피해를 확인했다. 지난달 프랑스에서도 냉장고 해킹으로 앵테르마르셰 등 수백 개 매장에서 식품이 상했다. 연구자들은 보안 업데이트가 끊긴 덴마크 단포스의 인터넷 연결 장치를 원인으로 지목했다.",
+   "topics": [
+    "economy"
+   ],
+   "orgs": [
+    "아홀드델레이즈",
+    "콜뤼트",
+    "단포스"
+   ],
+   "headline_en": "A fresh wave of cyberattacks has hit Europe's supermarket refrigerators, destroying food across countries",
+   "summary_en": "A second wave of hacks hit supermarket fridges in Belgium, Ireland, Luxembourg and Sweden, raising temperatures and spoiling food; Ahold Delhaize and Colruyt confirmed the hacks. Last month, refrigerator hacks in France spoiled food at hundreds of supermarkets including Intermarché. Researchers pointed to internet-connected units made by Denmark's Danfoss that no longer receive security updates.",
+   "headline_ja": "欧州のスーパーの冷蔵庫狙うサイバー攻撃が再拡大…ベルギー・アイルランドなどで食品廃棄",
+   "summary_ja": "ベルギー、アイルランド、ルクセンブルク、スウェーデンのスーパーの冷蔵庫が2度目のハッキングを受けて温度が上がり食品が傷み、アホールド・デレーズとコリュイトが被害を確認した。先月はフランスでも冷蔵庫のハッキングでアンテルマルシェなど数百店舗の食品が傷んだ。研究者は、セキュリティ更新が途絶えたデンマークのダンフォス製のネット接続機器が原因だと指摘した。"
   },
   {
    "date": "2026-11-01",
