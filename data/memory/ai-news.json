@@ -75,6 +75,46 @@
   "summary_ja": "フィナンシャル・タイムズ（FT）によると、アンソロピックは9月下旬、テキサス州サンアントニオの機器メーカーOnePWRから1.7ギガワット規模の大型ガス発電機を約34億ドルで確保した。同社を買収したわけではないが、発電機の設置に必要なエンジニアリング・建設能力も契約に含まれた。アンソロピックとOnePWRはコメントの要請に応じなかった。"
  },
  {
+  "date": "2026-11-08",
+  "headline": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link",
+  "headline_ko": "젠슨 황, '中 스파이 연루' 보도에 美 의회 여야 동시 압박",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/11/08/jensen-huang-nvidia-china-spy-congress.html",
+  "summary_ko": "하원 외교·중국특위·정보위 공화당 위원장 3명이 젠슨 황 엔비디아 CEO에게 엔비디아 실적 발표 다음 날인 11월 18일 비공개 브리핑을 요청했다. 메가스피드 임원 앨리스 황과의 접촉과 외국 첩보 대응 보안 체계가 대상이다. 민주당 크리스 쿤스 상원의원은 의회가 조사할 것이라고 했고, 엔비디아는 일반적인 고객 미팅이었다고 밝혔다.",
+  "topics": [
+   "chips",
+   "policy"
+  ],
+  "orgs": [
+   "Nvidia",
+   "Congress",
+   "Megaspeed"
+  ],
+  "headline_en": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link",
+  "summary_en": "Three House Republican committee chairs (Foreign Affairs, China Select Committee, Intelligence) asked Nvidia CEO Jensen Huang for a closed-door briefing on Nov. 18, the day after Nvidia's earnings report. They seek information on his contacts with Megaspeed executive Alice Huang and Nvidia's security protocols against foreign espionage. Democratic Sen. Chris Coons said Congress would investigate, while Nvidia said the contacts were ordinary customer meetings.",
+  "headline_ja": "ジェンスン・フアン氏、「中国スパイ関与」報道で米議会の与野党から追及",
+  "summary_ja": "下院外交・中国特別・情報の各委員会の共和党委員長3人が、エヌビディアのジェンスン・フアンCEOに、同社決算発表翌日の11月18日に非公開ブリーフィングを行うよう求めた。メガスピード幹部アリス・フアン氏との接触と外国の諜報活動に対する保安体制が対象だ。民主党のクリス・クーンズ上院議員は議会が調査すると述べ、エヌビディアは通常の顧客との面会だったとしている。"
+ },
+ {
+  "date": "2026-11-08",
+  "headline": "Nvidia opens probe of CEO Huang being targeted by possible Chinese spy",
+  "headline_ko": "엔비디아 이사회, '中 스파이 표적' 의혹 젠슨 황 CEO 독립 조사 착수",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
+  "summary_ko": "엔비디아 이사회가 젠슨 황 CEO가 중국 스파이로 의심되는 인물의 표적이 됐다는 보도와 관련해 독립 조사를 하겠다고 발표했다.",
+  "topics": [
+   "chips",
+   "business"
+  ],
+  "orgs": [
+   "Nvidia"
+  ],
+  "headline_en": "Nvidia opens probe of CEO Huang being targeted by possible Chinese spy",
+  "summary_en": "Nvidia's board announced it will conduct an independent investigation following reports that CEO Jensen Huang was targeted by a possible Chinese spy.",
+  "headline_ja": "エヌビディア取締役会、「中国スパイの標的」疑惑でジェンスン・フアンCEOの独立調査に着手",
+  "summary_ja": "エヌビディアの取締役会は、ジェンスン・フアンCEOが中国のスパイとみられる人物の標的になったとの報道を受け、独立調査を行うと発表した。"
+ },
+ {
   "date": "2026-11-07",
   "headline": "美 데이터센터 규제 봇물…백악관 \"AI 투자 차질 없다\"",
   "headline_ko": "美 데이터센터 규제 봇물…백악관 \"AI 투자 차질 없다\"",
@@ -130,6 +170,25 @@
   "summary_en": "In the midterm elections, voters opposed data-center-related ballot measures in 40 of 41 cases, and more than half of voters in an NBC News exit poll said AI data centers were a major factor in their vote. Anthropic investors now see a valuation target of $1 trillion to $1.5 trillion, down from the $2 trillion floated earlier. Anthropic plans to list on the Nasdaq under the ticker ANT and is expected to start its roadshow next week.",
   "headline_ja": "アンソロピックのIPO、中間選挙で示されたデータセンターへの反発に直面…企業価値目標は1兆～1.5兆ドルに低下",
   "summary_ja": "中間選挙ではデータセンター関連の住民投票41件のうち40件で反対の結果となり、NBCの出口調査では有権者の半数以上がAIデータセンターを投票の主要な要因に挙げた。アンソロピックの投資家は企業価値目標を、これまで取り沙汰された2兆ドルから1兆～1.5兆ドルとみている。アンソロピックはナスダックに「ANT」で上場する予定で、来週ロードショーを始めるとみられる。"
+ },
+ {
+  "date": "2026-11-07",
+  "headline": "Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup Fireworks as CFO",
+  "headline_ko": "메타 최고전략책임자 데이브 웨너, AI 인프라 스타트업 파이어웍스 CFO로 이직",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/11/07/dave-wehner-meta-fireworks-cfo.html",
+  "summary_ko": "메타의 데이브 웨너 최고전략책임자가 회사를 떠나 AI 인프라 스타트업 파이어웍스의 CFO를 맡는다고 X에서 밝혔다. 오픈 모델 중심의 AI 추론·학습 플랫폼인 파이어웍스는 7월 시리즈D 투자에서 175억 달러 가치를 인정받았다. 린 차오 CEO는 웨너가 회사의 재무와 운영 확장을 맡는다고 말했다.",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "Meta",
+   "Fireworks"
+  ],
+  "headline_en": "Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup Fireworks as CFO",
+  "summary_en": "Meta chief strategy officer Dave Wehner announced on X that he is leaving the company to become CFO of AI infrastructure startup Fireworks. Fireworks, an AI inference and model-training platform focused on open models, was valued at $17.5 billion in a Series D round in July. CEO Lin Qiao said Wehner will handle scaling the company's finances and operations.",
+  "headline_ja": "メタの最高戦略責任者デイブ・ウェナー氏、AIインフラ新興企業ファイアワークスのCFOに転身",
+  "summary_ja": "メタのデイブ・ウェナー最高戦略責任者が同社を離れ、AIインフラ新興企業ファイアワークスのCFOに就くとXで明らかにした。オープンモデル中心のAI推論・学習プラットフォームであるファイアワークスは、7月のシリーズD調達で175億ドルの評価を受けた。リン・チャオCEOは、ウェナー氏が財務と事業運営の拡大を担うと述べた。"
  },
  {
   "date": "2026-11-06",
