@@ -32,11 +32,11 @@
  "items": [
   {
    "date": "2026-11-08",
-   "headline": "Iran war live: US moves to block land supply routes; UAE rescues 22 sailors",
-   "headline_ko": "美, 이란 육상 보급로 차단 나서…UAE는 선원 22명 구조",
+   "headline": "Iran war live: IRGC warns of ‘devastating response’ to US-Israeli attack",
+   "headline_ko": "이란 혁명수비대, 미국·이스라엘 공격 시 '파괴적 대응' 경고",
    "outlet": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes",
-   "summary_ko": "이란 혁명수비대는 호르무즈 해협에서 유조선 3척이 공격받아 불이 났다고 밝혔다. 미 중부사령부는 이란 항구 해상 봉쇄를 넓혀 이란의 육상 보급로를 차단하는 계획을 발표했고, 미군 항공기는 오만만에서 세인트키츠 선적 화물선 후다호를 무력화했다. 리야드의 사우디 아람코 건물은 후티 미사일 요격 파편에 파손됐다. UAE는 혁명수비대가 유조선 2척이 기뢰에 부딪혔다고 밝힌 뒤 불이 난 화물선에서 22명을 구조했다고 밝혔다.",
+   "summary_ko": "이란 혁명수비대는 미국·이스라엘이 다시 공격하면 '파괴적 대응'을 하겠다고 경고했다. 이란 혁명수비대는 호르무즈 해협에서 유조선 3척이 공격받아 불이 났다고 밝혔다. 미 중부사령부는 이란 항구 해상 봉쇄를 넓혀 이란의 육상 보급로를 차단하는 계획을 발표했고, 미군 항공기는 오만만에서 세인트키츠 선적 화물선 후다호를 무력화했다. 리야드의 사우디 아람코 건물은 후티 미사일 요격 파편에 파손됐다. UAE는 혁명수비대가 유조선 2척이 기뢰에 부딪혔다고 밝힌 뒤 불이 난 화물선에서 22명을 구조했다고 밝혔다.",
    "topics": [
     "conflict"
    ],
@@ -44,10 +44,10 @@
     "미 중부사령부",
     "이란"
    ],
-   "headline_en": "Iran war live: US moves to block land supply routes; UAE rescues 22 sailors",
-   "summary_en": "Iran's Revolutionary Guard said three tankers were hit and caught fire in the Strait of Hormuz. US Central Command announced a plan to block Iran's land-based supply routes, expanding its naval blockade of Iranian ports, and a US military aircraft disabled the St. Kitts-flagged M/V Huda in the Gulf of Oman. A Saudi Aramco building in Riyadh was damaged by debris from intercepted Houthi missiles. The UAE said it rescued 22 people from a cargo ship that caught fire after the IRGC reported two oil tankers had struck mines.",
-   "headline_ja": "米国がイランの陸上補給路の遮断へ…UAEは船員22人を救助",
-   "summary_ja": "イラン革命防衛隊は、ホルムズ海峡でタンカー3隻が攻撃を受けて火災が起きたと発表した。米中央軍はイラン港湾の海上封鎖を拡大し、イランの陸上補給路を遮断する計画を発表し、米軍機はオマーン湾でセントクリストファー・ネービス船籍の貨物船フダ号を無力化した。リヤドのサウジアラムコの建物は、フーシ派ミサイル迎撃の破片で損傷した。 UAEは、革命防衛隊がタンカー2隻が機雷に触れたと発表した後、火災が起きた貨物船から22人を救助したと明らかにした。"
+   "headline_en": "Iran war live: IRGC warns of ‘devastating response’ to US-Israeli attack",
+   "summary_en": "Iran's Revolutionary Guard warned of a 'devastating response' to any renewed US-Israeli attack. Iran's Revolutionary Guard said three tankers were hit and caught fire in the Strait of Hormuz. US Central Command announced a plan to block Iran's land-based supply routes, expanding its naval blockade of Iranian ports, and a US military aircraft disabled the St. Kitts-flagged M/V Huda in the Gulf of Oman. A Saudi Aramco building in Riyadh was damaged by debris from intercepted Houthi missiles. The UAE said it rescued 22 people from a cargo ship that caught fire after the IRGC reported two oil tankers had struck mines.",
+   "headline_ja": "イラン革命防衛隊、米・イスラエルの攻撃に「壊滅的な対応」を警告",
+   "summary_ja": "イラン革命防衛隊は、米国・イスラエルが再び攻撃すれば「壊滅的な対応」をとると警告した。イラン革命防衛隊は、ホルムズ海峡でタンカー3隻が攻撃を受けて火災が起きたと発表した。米中央軍はイラン港湾の海上封鎖を拡大し、イランの陸上補給路を遮断する計画を発表し、米軍機はオマーン湾でセントクリストファー・ネービス船籍の貨物船フダ号を無力化した。リヤドのサウジアラムコの建物は、フーシ派ミサイル迎撃の破片で損傷した。 UAEは、革命防衛隊がタンカー2隻が機雷に触れたと発表した後、火災が起きた貨物船から22人を救助したと明らかにした。"
   },
   {
    "date": "2026-11-08",
@@ -269,6 +269,25 @@
    "summary_en": "Israel's president formally handed Gadi Eisenkot the task of forming the next government. Defence Minister Israel Katz said the mission against Iran is not finished. In Yemen, at least 33 people were reported killed in Saudi strikes.",
    "headline_ja": "イスラエル大統領、アイゼンコット氏に組閣を正式に委任",
    "summary_ja": "イスラエル大統領がガディ・アイゼンコット氏に次期政府の組閣を正式に委ねた。カッツ国防相はイランに対する任務は終わっていないと述べた。イエメンではサウジの空爆で少なくとも33人が死亡したと報じられた。"
+  },
+  {
+   "date": "2026-11-08",
+   "headline": "이란 혁명수비대, 美 '아이언 게이트 TF' 발표에 \"말장난…경제 봉쇄 못해\"",
+   "headline_ko": "이란 혁명수비대, 美 '아이언 게이트 TF' 발표에 \"말장난…경제 봉쇄 못해\"",
+   "outlet": "뉴스1",
+   "url": "https://www.news1.kr/world/middleeast-africa/6347023",
+   "summary_ko": "이란 혁명수비대 대변인은 미 중부사령부가 이란의 무기·기술 운송을 단속하려고 만든 '아이언 게이트' 태스크포스를 \"말장난\"이라고 일축하며 이란 경제를 봉쇄할 수 없다고 말했다. 대변인은 이란 미사일의 사거리 제한이 풀렸다고도 주장했다.",
+   "topics": [
+    "conflict"
+   ],
+   "orgs": [
+    "IRGC",
+    "CENTCOM"
+   ],
+   "headline_en": "Iran's IRGC calls US 'Iron Gate' task force 'wordplay', says it cannot blockade the economy",
+   "summary_en": "A spokesman for Iran's Revolutionary Guard dismissed the 'Iron Gate' task force, set up by US Central Command to crack down on Iranian weapons and technology shipments, as \"wordplay\" and said it cannot blockade Iran's economy. The spokesman also claimed that range limits on Iran's missiles had been lifted.",
+   "headline_ja": "イラン革命防衛隊、米「アイアンゲートTF」発表に「言葉遊び…経済封鎖はできない」",
+   "summary_ja": "イラン革命防衛隊の報道官は、米中央軍がイランの兵器・技術輸送を取り締まるために設けた「アイアンゲート」タスクフォースを「言葉遊び」と一蹴し、イラン経済を封鎖することはできないと述べた。報道官はイランのミサイルの射程制限が解除されたとも主張した。"
   },
   {
    "date": "2026-11-07",
