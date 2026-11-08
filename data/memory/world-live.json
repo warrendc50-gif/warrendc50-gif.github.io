@@ -311,10 +311,10 @@
   {
    "date": "2026-11-08",
    "headline": "Train crash kills seven, injures dozens near Egypt’s Cairo city",
-   "headline_ko": "이집트 카이로 인근 열차 충돌…최소 7명 사망·112명 부상",
+   "headline_ko": "이집트 카이로 인근 열차 충돌…최소 7명 사망·125명 넘게 부상",
    "outlet": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/2026/11/8/train-crash-kills-four-injures-dozens-near-egypts-cairo-city",
-   "summary_ko": "이집트 기자주 알아야트 지역에서 카이로~아스완 노선 열차가 앞서 가던 열차 뒤를 들이받아 최소 7명이 숨지고 112명 넘게 다쳤다고 이집트 보건부가 밝혔다. 구급차 70여 대가 구조에 투입됐다. 알아야트는 2002년 열차 화재로 370명 넘게 숨진 이집트 최악의 철도 참사가 일어난 곳이다.",
+   "summary_ko": "이집트 기자주 알아야트 지역에서 기자발 파윰행 열차가 카이로~아스완 노선 열차 뒤를 들이받아 최소 7명이 숨지고 125명 넘게 다쳤다고 이집트 보건부가 밝혔다. 구급차 70여 대가 구조에 투입됐다. 알아야트는 2002년 열차 화재로 370명 넘게 숨진 이집트 최악의 철도 참사가 일어난 곳이다.",
    "topics": [
     "accident"
    ],
@@ -322,9 +322,9 @@
     "Egypt Health Ministry"
    ],
    "headline_en": "Train crash kills seven, injures dozens near Egypt’s Cairo city",
-   "summary_en": "A train on the Cairo–Aswan route ran into the back of another train in the al-Ayyat area of Egypt's Giza province, killing at least seven people and injuring more than 112, Egypt's Health Ministry said. More than 70 ambulances were deployed for the rescue. Al-Ayyat was the site of Egypt's worst rail disaster, a 2002 train fire that killed more than 370 people.",
-   "headline_ja": "エジプト・カイロ近郊で列車衝突…少なくとも7人死亡、112人負傷",
-   "summary_ja": "エジプト・ギザ県アルアヤト地区で、カイロ～アスワン線の列車が前を走る列車に追突し、少なくとも7人が死亡、112人以上が負傷したとエジプト保健省が発表した。救急車70台以上が救助に投入された。アルアヤトは2002年の列車火災で370人以上が死亡したエジプト最悪の鉄道事故の現場でもある。"
+   "summary_en": "A train from Giza to Fayoum ran into the back of a Cairo–Aswan train in the al-Ayyat area of Egypt's Giza province, killing at least seven people and injuring more than 125, Egypt's Health Ministry said. More than 70 ambulances were deployed for the rescue. Al-Ayyat was the site of Egypt's worst rail disaster, a 2002 train fire that killed more than 370 people.",
+   "headline_ja": "エジプト・カイロ近郊で列車衝突…少なくとも7人死亡、125人以上負傷",
+   "summary_ja": "エジプト・ギザ県アルアヤト地区で、ギザ発ファイユーム行きの列車がカイロ～アスワン線の列車に追突し、少なくとも7人が死亡、125人以上が負傷したとエジプト保健省が発表した。救急車70台以上が救助に投入された。アルアヤトは2002年の列車火災で370人以上が死亡したエジプト最悪の鉄道事故の現場でもある。"
   },
   {
    "date": "2026-11-08",
@@ -399,6 +399,22 @@
    "summary_en": "More than 200,000 people took to the streets of Amsterdam, according to the Dutch branch of Amnesty International, one of the organisers. Protesters targeted the Dutch government's economic and military ties with Israel, demanding tighter trade restrictions and a halt to arms sales. It was the fourth 'Red Line' rally.",
    "headline_ja": "アムステルダムで20万人超が反イスラエル「レッドライン」デモ",
    "summary_ja": "主催者の一つであるアムネスティ・インターナショナルのオランダ支部によると、20万人を超える人々がアムステルダムの街頭に出た。デモ隊はオランダ政府とイスラエルの経済・軍事関係を問題視し、貿易制限の強化と武器売却の停止を求めた。4回目となる「レッドライン」デモだ。"
+  },
+  {
+   "date": "2026-11-08",
+   "headline": "\"임금 올려라\"\"데이터센터 안돼\"…유럽 전역 시위·파업 물결(종합)",
+   "headline_ko": "\"임금 올려라\"\"데이터센터 안돼\"…유럽 전역 시위·파업 물결",
+   "outlet": "뉴스1",
+   "url": "https://www.news1.kr/world/europe/6346672",
+   "summary_ko": "생활비와 데이터센터 건설에 반대하는 시위와 파업이 유럽 전역으로 번지고 있다. 포르투갈 경찰은 이날 새벽 리스본과 포르투의 주거 시위 농성장을 철거했다.",
+   "topics": [
+    "unrest"
+   ],
+   "orgs": [],
+   "headline_en": "\"Raise wages\", \"No data centres\": wave of protests and strikes across Europe",
+   "summary_en": "Protests and strikes over the cost of living and data-centre construction are spreading across Europe. Portuguese police cleared housing-protest camps in Lisbon and Porto early that morning.",
+   "headline_ja": "「賃金上げろ」「データセンター反対」…欧州全域にデモ・ストの波",
+   "summary_ja": "生活費やデータセンター建設に反対するデモとストライキが欧州全域に広がっている。ポルトガル警察はこの日未明、リスボンとポルトの住宅問題の抗議キャンプを撤去した。"
   },
   {
    "date": "2026-11-07",
