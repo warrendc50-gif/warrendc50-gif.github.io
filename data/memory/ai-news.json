@@ -113,6 +113,25 @@
   "summary_ja": "今年初めに出回った米情報に基づくメモに、中国国家安全省がシンガポール企業メガスピードの幹部を取り込み、エヌビディアのジェンスン・フアンCEOを監視させたとの主張が含まれていたと、ニューヨーク・タイムズが最初に報じた。エヌビディアの広報担当者は両者の交流は「珍しいものではなかった」とし、顧客と機密情報は共有していないと述べた。公式には確認されていない。"
  },
  {
+  "date": "2026-11-07",
+  "headline": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers",
+  "headline_ko": "앤트로픽 IPO, 중간선거서 드러난 데이터센터 반발에 직면…기업가치 목표 1조~1.5조 달러로 낮아져",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
+  "summary_ko": "중간선거에서 데이터센터 관련 주민투표 41건 중 40건이 반대 쪽으로 결론 나고, NBC 출구조사에서 유권자 절반 이상이 AI 데이터센터를 투표의 주요 요인으로 꼽았다. 앤트로픽 투자자들은 기업가치 목표를 그동안 거론된 2조 달러에서 1조~1.5조 달러로 보고 있다. 앤트로픽은 나스닥에 'ANT'로 상장할 예정이며 다음 주 로드쇼를 시작할 것으로 예상된다.",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "Anthropic",
+   "Nasdaq"
+  ],
+  "headline_en": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers",
+  "summary_en": "In the midterm elections, voters opposed data-center-related ballot measures in 40 of 41 cases, and more than half of voters in an NBC News exit poll said AI data centers were a major factor in their vote. Anthropic investors now see a valuation target of $1 trillion to $1.5 trillion, down from the $2 trillion floated earlier. Anthropic plans to list on the Nasdaq under the ticker ANT and is expected to start its roadshow next week.",
+  "headline_ja": "アンソロピックのIPO、中間選挙で示されたデータセンターへの反発に直面…企業価値目標は1兆～1.5兆ドルに低下",
+  "summary_ja": "中間選挙ではデータセンター関連の住民投票41件のうち40件で反対の結果となり、NBCの出口調査では有権者の半数以上がAIデータセンターを投票の主要な要因に挙げた。アンソロピックの投資家は企業価値目標を、これまで取り沙汰された2兆ドルから1兆～1.5兆ドルとみている。アンソロピックはナスダックに「ANT」で上場する予定で、来週ロードショーを始めるとみられる。"
+ },
+ {
   "date": "2026-11-06",
   "headline": "美 민주당, 선거 승리 이후 AI 규제 시동…데이터센터 건설 중단 촉구",
   "headline_ko": "美 민주당, 선거 승리 후 AI 규제 시동…일부 \"데이터센터 건설 중단\" 촉구",
