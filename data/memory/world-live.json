@@ -575,6 +575,24 @@
    "summary_ja": "イエメン当局者はAFPに対し、シリア軍数千人がサウジとイエメンに展開する予定で、すでに数百人がサウジ・イエメン国境の両側に配置されていると述べた。イエメン国防省筋は、第1段階で約3000人、その後最大1万人が展開する可能性があるとした。シリア国営SANA通信は外交筋の話として、ダマスカスは「現時点では」イエメンに部隊を派遣していないと否定した。"
   },
   {
+   "date": "2026-11-07",
+   "headline": "\"후티 '이메일 신청'으로 홍해 바브엘만데브 통항 사실상 통제\"",
+   "headline_ko": "\"후티, '이메일 신청'으로 홍해 바브엘만데브 통항 사실상 통제\"…WSJ 보도",
+   "outlet": "뉴스1",
+   "url": "https://www.news1.kr/world/middleeast-africa/6346535",
+   "summary_ko": "월스트리트저널(WSJ)에 따르면 예멘 후티 반군이 이메일 신청 시스템으로 바브엘만데브 해협을 지나는 선박의 통항을 사실상 통제하고 있다. 후티가 자체 조직을 통해 7일간 유효한 통항 허가를 발급한 사례가 확인됐다. 국제 해사안보 기관들은 해당 조직과의 접촉·등록을 금지하는 지침을 내놓았다.",
+   "topics": [
+    "conflict"
+   ],
+   "orgs": [
+    "후티"
+   ],
+   "headline_en": "\"Houthis effectively control Red Sea's Bab el-Mandeb transits via 'email applications'\" — WSJ",
+   "summary_en": "According to The Wall Street Journal, Yemen's Houthis are effectively controlling ship transits through the Bab el-Mandeb strait via an email application system. Cases were confirmed in which the Houthis issued seven-day transit permits through their own body. International maritime security agencies have issued guidance prohibiting contact with or registration through that body.",
+   "headline_ja": "「フーシ派、『メール申請』で紅海バブ・エル・マンデブ海峡の通航を事実上管理」…WSJ報道",
+   "summary_ja": "ウォール・ストリート・ジャーナル(WSJ)によると、イエメンのフーシ派がメール申請システムでバブ・エル・マンデブ海峡を通る船舶の通航を事実上管理している。フーシ派が独自の組織を通じて7日間有効な通航許可を発行した事例が確認された。国際的な海上保安機関は、その組織との接触・登録を禁じる指針を出した。"
+  },
+  {
    "date": "2026-11-06",
    "headline": "Trump says Russia-Ukraine deal is near after meeting Putin’s envoy",
    "headline_ko": "트럼프 \"러시아-우크라이나 합의 임박\"…푸틴 특사 드미트리예프 만나",
@@ -1348,6 +1366,26 @@
    "summary_en": "In a joint statement, CISA, the FBI and other federal agencies warned that hackers are compromising internet-connected refrigeration and cold-chain monitoring systems at grocery stores, cold storage facilities and elsewhere, and that temperature tampering could cause fire hazards and inventory losses. Two waves of attacks in Europe and the UK hit freezers in at least a dozen countries, and the Defense Department is investigating hacks of military freezers. The US has not formally attributed the attacks, though researchers broadly point to Iran.",
    "headline_ja": "米CISA・FBI、産業用冷蔵・冷凍システムの大規模ハッキングで「継続中のサイバー脅威」を警告",
    "summary_ja": "CISAとFBIなど米連邦機関は共同声明で、ハッカーが食料品店や冷蔵倉庫などのネット接続型冷蔵・コールドチェーン監視システムを乗っ取っており、温度操作で火災の危険や在庫損失が生じうると警告した。欧州と英国での2度の攻撃で少なくとも十数カ国の冷凍庫が被害を受け、国防総省は軍の冷凍庫へのハッキングを調査中だ。米国は公式に攻撃主体を特定していないが、研究者はおおむねイランを指摘している。"
+  },
+  {
+   "date": "2026-11-05",
+   "headline": "\"전쟁 끝내려면 68조 내라\"…후티 반군, 사우디에 종전 청구서 제시",
+   "headline_ko": "후티, 사우디에 종전 대가로 510억 달러(약 68조원) 요구…WSJ 보도",
+   "outlet": "뉴스1",
+   "url": "https://www.news1.kr/world/middleeast-africa/6344674",
+   "summary_ko": "월스트리트저널(WSJ)에 따르면 예멘 후티 반군이 적대 행위를 멈추는 대가로 사우디아라비아에 510억 달러(약 68조원)를 요구했다. 후티는 사우디의 공습과 봉쇄 피해 보상을 요구하며 예멘의 통치 세력으로 공식 인정받으려 하는 것으로 보인다. 사우디는 예멘 내전에서 빠져나갈 방법을 고민 중이지만, 빈 살만 왕세자는 군사적 성과를 내기 전에는 본격 협상을 원하지 않는 것으로 전해졌다.",
+   "topics": [
+    "conflict",
+    "politics"
+   ],
+   "orgs": [
+    "후티",
+    "사우디아라비아"
+   ],
+   "headline_en": "Houthis demand $51bn (about 68 trillion won) from Saudi Arabia to end war — WSJ",
+   "summary_en": "According to The Wall Street Journal, Yemen's Houthis demanded $51 billion (about 68 trillion won) from Saudi Arabia in exchange for ending hostilities. The Houthis seek compensation for damage from Saudi air strikes and blockades and appear to want official recognition as Yemen's governing authority. Saudi Arabia is weighing how to exit the Yemen war, but Crown Prince Mohammed bin Salman reportedly does not want serious negotiations before achieving military gains.",
+   "headline_ja": "フーシ派、サウジに停戦の対価として510億ドル(約68兆ウォン)要求…WSJ報道",
+   "summary_ja": "ウォール・ストリート・ジャーナル(WSJ)によると、イエメンのフーシ派は敵対行為をやめる見返りとしてサウジアラビアに510億ドル(約68兆ウォン)を要求した。フーシ派はサウジの空爆と封鎖による被害の補償を求め、イエメンの統治勢力として公式に認められることを狙っているとみられる。サウジはイエメン内戦から抜け出す方法を模索しているが、ムハンマド皇太子は軍事的成果を上げる前の本格交渉を望んでいないという。"
   },
   {
    "date": "2026-11-04",
