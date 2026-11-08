@@ -1109,6 +1109,25 @@
   "summary_ja": "アブダビの皇太子がオープンAIのサム・アルトマンCEOと会談し、アブダビはオープンAIと主要分野にわたる4件の協定を締結した。"
  },
  {
+  "date": "2026-11-02",
+  "headline": "오픈AI, 드리스콜 전 美육군장관 영입…\"민주적 AI 안보협력 담당\"",
+  "headline_ko": "오픈AI, 드리스콜 전 美육군장관 영입…국가안보 현대화 선임고문",
+  "outlet": "뉴스1",
+  "url": "https://www.news1.kr/world/usa-canada/6341136",
+  "summary_ko": "FT와 블룸버그에 따르면 오픈AI는 2일(현지시간) 댄 드리스콜 전 미국 육군장관을 새로 만든 국가안보 현대화 담당 선임고문으로 영입했다. 드리스콜은 헤그세스 국방장관과 갈등을 빚다 사임했으며, 오픈AI에서 각국 민·관·학계 지도자들과의 협력을 맡는다.",
+  "topics": [
+   "business",
+   "policy"
+  ],
+  "orgs": [
+   "오픈AI"
+  ],
+  "headline_en": "OpenAI hires former US Army Secretary Driscoll as senior adviser on national security modernisation",
+  "summary_en": "According to the FT and Bloomberg, OpenAI on the 2nd (local time) hired former US Army Secretary Dan Driscoll as a senior adviser in a newly created national security modernisation role. Driscoll resigned after clashing with Defense Secretary Hegseth, and at OpenAI will work with government, industry and academic leaders around the world.",
+  "headline_ja": "オープンAI、ドリスコル前米陸軍長官を国家安全保障近代化担当の上級顧問に起用",
+  "summary_ja": "FTとブルームバーグによると、オープンAIは2日(現地時間)、ダン・ドリスコル前米陸軍長官を新設の国家安全保障近代化担当の上級顧問に迎えた。ドリスコル氏はヘグセス国防長官との対立の末に辞任しており、オープンAIでは各国の官民・学界の指導者との協力を担う。"
+ },
+ {
   "date": "2026-10-30",
   "headline": "We've received our first response from the Project Suncatcher prototype satellite.",
   "headline_ko": "구글 '프로젝트 선캐처' 시제품 위성, 궤도 위 TPU에서 첫 AI 응답 수신",
