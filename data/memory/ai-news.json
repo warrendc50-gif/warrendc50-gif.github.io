@@ -357,6 +357,24 @@
   "summary_ja": "ロイター通信によると、中国がエヌビディアH200の大規模輸入承認を先送りしているため、約60万個が香港に滞留している。記事は、中国がファーウェイの育成と半導体の自立を理由に承認を遅らせていると説明した。"
  },
  {
+  "date": "2026-11-06",
+  "headline": "\"韓스타트업, AI 포병기술 우크라 협력사업 중단…北포로 갈등 여파\"",
+  "headline_ko": "\"韓 방산 스타트업, 우크라 AI 포병기술 협력 중단…北포로 갈등 여파\"",
+  "outlet": "뉴스1",
+  "url": "https://www.news1.kr/world/northeast-asia/6344962",
+  "summary_ko": "우크라이나 전장에서 인공지능(AI) 포병 소프트웨어를 시험하던 한국 방산 스타트업 뉴타입인더스트리즈의 활동이 중단됐다. 회사 대표는 젤렌스키 대통령의 북한군 포로 2명 한국 송환 공개를 둘러싼 한·우크라이나 외교 갈등이 주원인이라고 확신하는 것으로 전해졌다. 업무 중단과 외교 갈등의 연관성은 공식 확인되지 않았다.",
+  "topics": [
+   "korea"
+  ],
+  "orgs": [
+   "뉴타입인더스트리즈"
+  ],
+  "headline_en": "\"Korean startup halts AI artillery tech cooperation in Ukraine amid North Korean POW row\"",
+  "summary_en": "Korean defence startup Newtype Industries, which had been testing artificial intelligence (AI) artillery software on Ukraine's battlefield, has halted its activities. The company's CEO reportedly believes the main cause is the Korea–Ukraine diplomatic row over President Zelensky's disclosure of the transfer of two North Korean POWs to South Korea. The link between the halt and the diplomatic row has not been officially confirmed.",
+  "headline_ja": "「韓国の防衛スタートアップ、ウクライナでのAI砲兵技術協力を中断…北朝鮮兵捕虜問題の余波」",
+  "summary_ja": "ウクライナの戦場で人工知能(AI)砲兵ソフトウェアを試験していた韓国の防衛スタートアップ、ニュータイプ・インダストリーズの活動が中断された。同社代表は、ゼレンスキー大統領が北朝鮮兵捕虜2人の韓国送還を公表したことをめぐる韓国・ウクライナの外交対立が主な原因だと確信しているという。業務中断と外交対立の関連は公式には確認されていない。"
+ },
+ {
   "date": "2026-11-05",
   "headline": "한국데이터센터연합회-코트라, AI 데이터센터 해외 투자 유치 나선다",
   "headline_ko": "한국데이터센터연합회-코트라, AI 데이터센터 해외 투자 유치 나선다",
