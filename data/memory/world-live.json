@@ -31,6 +31,25 @@
  ],
  "items": [
   {
+   "date": "2026-11-08",
+   "headline": "Iran war live: Blasts heard in Qeshm; US moves to block land supply routes",
+   "headline_ko": "케슘섬 등 이란 남부서 폭발음…美, 이란 육상 보급로 차단 나서",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes",
+   "summary_ko": "이란 국영매체는 호르무즈 해협의 케슘섬과 자스크·시리크·반다르아바스에서 폭발음이 들렸다고 전했다. 미국은 수개월째 이어온 이란 항구 해상 봉쇄를 넓혀 이란의 육상 보급로를 차단하는 새 계획을 발표했다.",
+   "topics": [
+    "conflict"
+   ],
+   "orgs": [
+    "미 중부사령부",
+    "이란"
+   ],
+   "headline_en": "Iran war live: Blasts heard in Qeshm; US moves to block land supply routes",
+   "summary_en": "Iranian state media reported blasts on Qeshm Island in the Strait of Hormuz and in the cities of Jask, Sirik and Bandar Abbas. The US announced a new plan to block Iran's land-based supply routes, expanding its months-long naval blockade of Iranian ports.",
+   "headline_ja": "ケシュム島などイラン南部で爆発音…米国、イランの陸上補給路の遮断へ",
+   "summary_ja": "イラン国営メディアは、ホルムズ海峡のケシュム島とジャスク、シリク、バンダルアッバスで爆発音が聞こえたと伝えた。米国は数カ月続けてきたイラン港湾の海上封鎖を拡大し、イランの陸上補給路を遮断する新たな計画を発表した。"
+  },
+  {
    "date": "2026-11-07",
    "headline": "Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in",
    "headline_ko": "파라과이 상원, 페냐 대통령 파면…체포된 페냐 대신 알리아나 새 대통령 취임",
