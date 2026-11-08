@@ -35,6 +35,27 @@
   "summary_ja": "エヌビディアのジェンスン・フアンCEOの長女マディソン・フアン シニアディレクターが「エヌビディアAIデー・ソウル2026」出席のための韓国訪問を取り消した。中国の情報機関がアリス・フアン氏を利用して米国のAIチップ情報を得ようとしたとの疑惑が出る中での決定だ。エヌビディアはジェンスン・フアン氏とアリス・フアン氏の関係や米政府のメモに関する質問に答えなかった。"
  },
  {
+  "date": "2026-11-08",
+  "headline": "SKT·LGU+, 3분기 '방긋'…카카오, AI 수익화 사활[뉴스잇(IT)쥬]",
+  "headline_ko": "SKT·LGU+, 3분기 '방긋'…카카오, AI 수익화 사활",
+  "outlet": "뉴스1",
+  "url": "https://www.news1.kr/it-science/cc-newmedia/6346863",
+  "summary_ko": "SK텔레콤과 LG유플러스는 3분기 영업이익이 뚜렷하게 개선됐는데, 해킹 사태와 희망퇴직금에 따른 기저효과가 작용했다. 카카오는 AI 사업 적자가 커지면서 AI 수익화에 사활을 걸고 있다.",
+  "topics": [
+   "korea",
+   "business"
+  ],
+  "orgs": [
+   "SK텔레콤",
+   "LG유플러스",
+   "카카오"
+  ],
+  "headline_en": "SKT and LG U+ smile on Q3 results; Kakao goes all-in on monetising AI",
+  "summary_en": "SK Telecom and LG Uplus posted clearly improved third-quarter operating profits, helped by base effects from the hacking incident and early-retirement payouts. Kakao, whose AI business losses widened, is staking everything on monetising AI.",
+  "headline_ja": "SKT・LGU+、7～9月期は「笑顔」…カカオはAI収益化に社運",
+  "summary_ja": "SKテレコムとLGユープラスは7～9月期の営業利益がはっきり改善し、ハッキング事態と希望退職金による反動効果が働いた。カカオはAI事業の赤字が拡大し、AIの収益化に社運をかけている。"
+ },
+ {
   "date": "2026-11-07",
   "headline": "美 데이터센터 규제 봇물…백악관 \"AI 투자 차질 없다\"",
   "headline_ko": "美 데이터센터 규제 봇물…백악관 \"AI 투자 차질 없다\"",
