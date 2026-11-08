@@ -1,5 +1,37 @@
 [
  {
+  "date": "2026-11-08",
+  "headline": "서울 아파트 매물 석달 새 33%↑…집값 안정으로 이어질까",
+  "headline_ko": "서울 아파트 매물 석달 새 33% 증가…25개 구 모두 늘어",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611080605530182",
+  "summary_ko": "아실 집계에 따르면 서울 아파트 매매 매물은 8만528건으로 8·3 세제개편안 발표일(6만409건)보다 약 33% 늘었고 25개 구 모두에서 증가했다. 9월 서울 아파트 매매 거래량은 1년 전보다 42.4% 줄었다. 11월 첫째 주 서울 아파트값은 0.07% 올랐지만 강남·서초·송파구는 하락했다.",
+  "topics": [
+   "realestate"
+  ],
+  "orgs": [],
+  "headline_en": "Seoul apartment listings up 33% in three months… rising in all 25 districts",
+  "summary_en": "According to Asil, Seoul apartment sale listings stood at 80,528, up about 33% from the day the August 3 tax reform plan was announced (60,409), with increases in all 25 districts. Seoul apartment sales in September fell 42.4% from a year earlier. Seoul apartment prices rose 0.07% in the first week of November, but Gangnam, Seocho and Songpa districts declined.",
+  "headline_ja": "ソウルのマンション売り物件、3カ月で33%増…25区すべてで増加",
+  "summary_ja": "アシルの集計によると、ソウルのマンション売り物件は8万528件で、8・3税制改正案の発表日(6万409件)より約33%増え、25区すべてで増加した。9月のソウルのマンション売買件数は前年同月比42.4%減った。11月第1週のソウルのマンション価格は0.07%上昇したが、江南・瑞草・松坡区は下落した。"
+ },
+ {
+  "date": "2026-11-08",
+  "headline": "외국인 ETF도 결국 팔았다…지난달 마지막주 12주만에 순매도 전환",
+  "headline_ko": "외국인, 국내 ETF 12주 만에 주간 순매도 전환…주식은 닷새간 10조4천억 순매도",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611080620389193",
+  "summary_ko": "외국인은 지난달 26~30일 국내 상장 ETF를 1195억원 순매도해 8월 첫째 주 이후 12주 만에 주간 순매도로 돌아섰다. '검은 금요일'인 6일 ETF를 대거 사들이며 이달 첫째 주는 다시 순매수로 바뀌었다. 주식은 2~6일 5거래일 연속 순매도해 합계 10조4394억원을 팔았다.",
+  "topics": [
+   "stocks"
+  ],
+  "orgs": [],
+  "headline_en": "Foreign investors turn weekly net sellers of Korean ETFs for first time in 12 weeks… sold 10.4 trillion won of stocks in five days",
+  "summary_en": "Foreign investors net sold 119.5 billion won of Korea-listed ETFs from October 26–30, their first weekly net selling in 12 weeks since the first week of August. They bought ETFs heavily on 'Black Friday' the 6th, turning back to net buyers for the first week of this month. In stocks, they were net sellers for five straight sessions from the 2nd to the 6th, selling a combined 10.4394 trillion won.",
+  "headline_ja": "外国人、韓国ETFで12週ぶりに週間売り越し…株式は5日間で10兆4000億ウォン売り越し",
+  "summary_ja": "外国人は先月26〜30日、国内上場ETFを1195億ウォン売り越し、8月第1週以来12週ぶりに週間ベースで売り越しに転じた。「ブラックフライデー」の6日にETFを大量に買い、今月第1週は再び買い越しに戻った。株式は2〜6日に5営業日連続で売り越し、合計10兆4394億ウォンを売った。"
+ },
+ {
   "date": "2026-11-06",
   "headline": "프리장 삼성전자18만원 붕괴…하이닉스도 12%대 급락[종목 NOW]",
   "headline_ko": "美 반도체 폭락 여파…프리마켓서 삼성전자 18만원 붕괴, SK하이닉스 12%대 급락",
