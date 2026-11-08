@@ -16,6 +16,25 @@
   "summary_ja": "AIブームでデータセンターが相次いで建つインドネシア・バタム島で水道が止まり、住民がデータセンター建設と関係があるとして抗議している。地元の水道事業者は長引く干ばつを原因に挙げ、バタム市長はデータセンターやAIが原因ではないと述べた。当局は9月末、開発業者に冷却用の海水淡水化施設を建設するよう求めた。"
  },
  {
+  "date": "2026-11-08",
+  "headline": "\"중국 스파이와 연인 관계?\"…젠슨 황 의혹 속 장녀 한국행 취소",
+  "headline_ko": "\"중국 스파이와 연인 관계?\"…젠슨 황 의혹 속 장녀 한국행 취소",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://fnnews.com/news/202611080941587229",
+  "summary_ko": "젠슨 황 엔비디아 CEO의 장녀 매디슨 황 시니어 디렉터가 '엔비디아 AI 데이 서울 2026' 참석을 위한 한국 방문을 취소했다. 중국 정보기관이 앨리스 황을 이용해 미국 AI 칩 정보를 빼내려 했다는 의혹이 나온 가운데 내려진 결정이다. 엔비디아는 젠슨 황과 앨리스 황의 관계나 미 정부 메모에 관한 질문에 답하지 않았다.",
+  "topics": [
+   "chips",
+   "policy"
+  ],
+  "orgs": [
+   "Nvidia"
+  ],
+  "headline_en": "\"In a relationship with a Chinese spy?\" Jensen Huang's eldest daughter cancels Korea trip amid allegations",
+  "summary_en": "Madison Huang, a senior director at Nvidia and the eldest daughter of CEO Jensen Huang, cancelled her trip to Korea for 'Nvidia AI Day Seoul 2026'. The decision came amid allegations that Chinese intelligence tried to use Alice Huang to obtain US AI chip information. Nvidia did not answer questions about Jensen Huang's relationship with Alice Huang or the US government memo.",
+  "headline_ja": "「中国スパイと交際？」…ジェンスン・フアン氏の疑惑の中、長女が韓国訪問を取り消し",
+  "summary_ja": "エヌビディアのジェンスン・フアンCEOの長女マディソン・フアン シニアディレクターが「エヌビディアAIデー・ソウル2026」出席のための韓国訪問を取り消した。中国の情報機関がアリス・フアン氏を利用して米国のAIチップ情報を得ようとしたとの疑惑が出る中での決定だ。エヌビディアはジェンスン・フアン氏とアリス・フアン氏の関係や米政府のメモに関する質問に答えなかった。"
+ },
+ {
   "date": "2026-11-07",
   "headline": "美 데이터센터 규제 봇물…백악관 \"AI 투자 차질 없다\"",
   "headline_ko": "美 데이터센터 규제 봇물…백악관 \"AI 투자 차질 없다\"",
