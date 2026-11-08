@@ -125,11 +125,11 @@
   },
   {
    "date": "2026-11-08",
-   "headline": "Riyadh financial district targeted, Aramco tower damaged: witnesses",
-   "headline_ko": "\"리야드 금융지구 공격받아 아람코 타워 파손\"…사우디는 후티 미사일 2발 요격 발표",
+   "headline": "Riyadh financial district targeted, Aramco skyscraper damaged",
+   "headline_ko": "리야드 금융지구 공격받아 아람코 고층빌딩 파손…사우디 \"요격 미사일 파편, 인명 피해 없어\"",
    "outlet": "France 24",
    "url": "https://www.france24.com/en/live-news/20261108-riyadh-financial-district-targeted-aramco-tower-damaged-witnesses",
-   "summary_ko": "여러 목격자가 AFP에 사우디 리야드 금융지구가 공격받아 그 안의 아람코 타워가 파손됐다고 전했다. 사우디 주도 연합군은 리야드를 향해 발사된 후티 탄도미사일 2발을 요격해 파괴했다고 밝혔다. 목격자들은 유리가 깨지고 건물 외벽 일부가 손상됐다고 했으며, 킹압둘라 금융지구 근무자들은 일부 기업이 직원을 대피시키고 있다고 전했다.",
+   "summary_ko": "사우디 에너지부는 리야드의 아람코 건물이 공격 대상이 됐으며, 요격된 미사일 파편이 떨어져 건물에 경미한 피해가 났지만 사상자는 없다고 밝혔다. 사우디 주도 연합군은 후티가 쏜 탄도미사일 2발을 요격했다고 발표했다. 킹압둘라 금융지구 근무자들은 일부 기업이 직원을 대피시켰다고 전했다.",
    "topics": [
     "conflict"
    ],
@@ -137,10 +137,10 @@
     "아람코",
     "후티"
    ],
-   "headline_en": "Riyadh financial district targeted, Aramco tower damaged: witnesses",
-   "summary_en": "Multiple witnesses told AFP that Riyadh's financial district was targeted and the Aramco tower in it was damaged. The Saudi-led coalition said it intercepted and destroyed two Houthi ballistic missiles launched toward Riyadh. Witnesses described shattered glass and damage to part of the tower's facade, and people working in the King Abdullah Financial District said some companies were evacuating staff.",
-   "headline_ja": "「リヤドの金融地区が攻撃されアラムコ・タワー損傷」…サウジはフーシ派ミサイル2発迎撃と発表",
-   "summary_ja": "複数の目撃者がAFPに、サウジ・リヤドの金融地区が攻撃され、その中のアラムコ・タワーが損傷したと語った。サウジ主導連合軍はリヤドに向けて発射されたフーシ派の弾道ミサイル2発を迎撃・破壊したと発表した。目撃者はガラスが割れ建物外壁の一部が損傷したと述べ、キング・アブドラ金融地区の勤務者は一部企業が社員を避難させていると伝えた。"
+   "headline_en": "Riyadh financial district targeted, Aramco skyscraper damaged",
+   "summary_en": "Saudi Arabia's energy ministry said an Aramco building in Riyadh was targeted, and falling shrapnel from an intercepted missile caused minor damage to the building with no injuries or fatalities. The Saudi-led coalition said it intercepted two ballistic missiles fired by the Houthis. People working in the King Abdullah Financial District said some companies evacuated staff.",
+   "headline_ja": "リヤドの金融地区が攻撃されアラムコの高層ビル損傷…サウジ「迎撃ミサイルの破片、人的被害なし」",
+   "summary_ja": "サウジのエネルギー省は、リヤドのアラムコの建物が攻撃の標的となり、迎撃されたミサイルの破片が落下して建物に軽微な被害が出たが死傷者はいないと発表した。サウジ主導連合軍はフーシ派が発射した弾道ミサイル2発を迎撃したと発表した。キング・アブドラ金融地区の勤務者は、一部企業が社員を避難させたと伝えた。"
   },
   {
    "date": "2026-11-08",
