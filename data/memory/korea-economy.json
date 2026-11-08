@@ -156,6 +156,26 @@
   "summary_ja": "国内株式市場の急落でKOSPIが1日で6%以上下がり、株価連動証券（ELS）の元本割れ懸念が高まった。ノックイン・バリアにすでに触れた商品の残高は866億ウォンに上る。"
  },
  {
+  "date": "2026-11-07",
+  "headline": "\"롤러코스터 장 지쳤다\"…증시 떠난 돈, 연 4% 은행 예금으로",
+  "headline_ko": "\"롤러코스터 장 지쳤다\"…증시 떠난 돈, 연 4% 은행 예금으로",
+  "outlet": "뉴스1",
+  "url": "https://www.news1.kr/finance/bank/6346007",
+  "summary_ko": "증시 변동에 지친 자금이 은행 예·적금으로 옮겨 가면서 5대 은행 정기예금이 한 달 새 24조4900억원 늘었다. 부산은행 4.20%, SC제일은행 4.05% 등 연 4%대 예금이 나왔고, 적금은 우대조건을 모두 채워야 최고금리를 받을 수 있다.",
+  "topics": [
+   "banks",
+   "rates"
+  ],
+  "orgs": [
+   "부산은행",
+   "SC제일은행"
+  ],
+  "headline_en": "\"Tired of the roller-coaster market\": money leaving stocks flows into 4% bank deposits",
+  "summary_en": "As money worn out by stock-market volatility moves into bank deposits and savings, term deposits at the five major banks rose by 24.49 trillion won in a month. Deposits paying around 4% a year have appeared, such as Busan Bank at 4.20% and SC First Bank at 4.05%, while savings accounts pay their top rates only if all preferential conditions are met.",
+  "headline_ja": "「ジェットコースター相場に疲れた」…株式市場を離れた資金、年4%の銀行預金へ",
+  "summary_ja": "株式市場の変動に疲れた資金が銀行の預金・積立に移り、5大銀行の定期預金は1か月で24兆4900億ウォン増えた。釜山銀行4.20%、SC第一銀行4.05%など年4%台の預金が登場し、積立は優遇条件をすべて満たさないと最高金利を受けられない。"
+ },
+ {
   "date": "2026-11-06",
   "headline": "프리장 삼성전자18만원 붕괴…하이닉스도 12%대 급락[종목 NOW]",
   "headline_ko": "美 반도체 폭락 여파…프리마켓서 삼성전자 18만원 붕괴, SK하이닉스 12%대 급락",

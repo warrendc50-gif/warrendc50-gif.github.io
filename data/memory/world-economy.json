@@ -18,6 +18,26 @@
   "summary_ja": "バンダ・リサーチによると、米国の個人投資家は前日に個別株を2億5700万ドル(約3482億ウォン)売り越し、2020年3月17日以降で5番目に大きい1日の売り越しを記録した。これまで急落局面で押し目買いに動いてきたのとは異なり、今回は個別銘柄の押し目買いが見られなかった。AI・半導体株の急落と中間選挙後のデータセンター規制強化への懸念が売りの背景に挙げられた。"
  },
  {
+  "date": "2026-11-08",
+  "headline": "美 재무부, 北 제재 회피 연루 가상자산 거래소 MEXC 금융망 차단",
+  "headline_ko": "美 재무부, 北 제재 회피 연루 가상자산 거래소 MEXC 금융망 차단",
+  "outlet": "뉴스1",
+  "url": "https://www.news1.kr/nk/society/6346708",
+  "summary_ko": "미 재무부가 북한 제재 회피에 연루된 가상자산 거래소 MEXC의 미국 금융망 접근을 차단하기로 했다. 재무부 산하 금융범죄단속네트워크(FinCEN)는 MEXC가 북한 금융중개인이 약 35만 달러를 받도록 도왔다고 판단했다. 미국 금융기관의 MEXC 거래 금지는 관보 게재 30일 뒤 발효된다.",
+  "topics": [
+   "crisis"
+  ],
+  "orgs": [
+   "US Treasury",
+   "FinCEN",
+   "MEXC"
+  ],
+  "headline_en": "US Treasury cuts crypto exchange MEXC, linked to North Korea sanctions evasion, off from financial system",
+  "summary_en": "The US Treasury decided to cut off crypto exchange MEXC, linked to North Korean sanctions evasion, from the US financial system. Treasury's Financial Crimes Enforcement Network (FinCEN) found that MEXC helped a North Korean financial intermediary receive about $350,000. The ban on US financial institutions dealing with MEXC takes effect 30 days after publication in the Federal Register.",
+  "headline_ja": "米財務省、北朝鮮の制裁逃れに関与した暗号資産取引所MEXCを金融網から遮断",
+  "summary_ja": "米財務省が北朝鮮の制裁逃れに関与した暗号資産取引所MEXCの米金融網へのアクセスを遮断することにした。財務省傘下の金融犯罪取締ネットワーク（FinCEN）は、MEXCが北朝鮮の金融仲介人による約35万ドルの受け取りを助けたと判断した。米金融機関のMEXCとの取引禁止は官報掲載の30日後に発効する。"
+ },
+ {
   "date": "2026-11-07",
   "headline": "[뉴욕마감] 기술주 반등에 혼조 마감…나스닥 1.09%↑",
   "headline_ko": "뉴욕증시, 기술주 반등에 혼조 마감…나스닥 1.09%↑·다우 0.46%↓",
