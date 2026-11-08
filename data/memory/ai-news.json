@@ -1,5 +1,45 @@
 [
  {
+  "date": "2026-11-09",
+  "headline": "젠슨 황, 불륜 인정…엔비디아 이사회, 中 간첩 연루 의혹 독립 조사 착수",
+  "headline_ko": "젠슨 황, 불륜 인정…엔비디아 이사회, 中 간첩 연루 의혹 독립 조사 착수",
+  "outlet": "뉴스1",
+  "url": "https://news1.kr/world/usa-canada/6347038",
+  "summary_ko": "젠슨 황 엔비디아 CEO가 불륜을 인정하고 직원들에게 \"아내와 가족에게 상처를 줬다\"며 사과했으며, 조사 기간에도 CEO직을 유지한다. 엔비디아 이사회는 황 CEO가 첩보 대상이었는지 조사하고, 미 정부는 상대 여성 앨리스 황이 중국 정보기관에 포섭됐을 가능성을 의심하고 있다. 엔비디아는 기밀 유출 증거는 없다고 밝혔다.",
+  "topics": [
+   "chips",
+   "business"
+  ],
+  "orgs": [
+   "Nvidia"
+  ],
+  "headline_en": "Jensen Huang admits affair; Nvidia board opens independent probe into China spy allegations",
+  "summary_en": "Nvidia CEO Jensen Huang admitted to an affair and apologised to employees, saying he had \"hurt my wife and family\", and will remain CEO during the investigation. Nvidia's board is investigating whether Huang was a target of espionage, and the US government suspects the woman, Alice Huang, may have been recruited by Chinese intelligence. Nvidia said there is no evidence of leaked secrets.",
+  "headline_ja": "ジェンスン・フアン氏が不倫認める…エヌビディア取締役会、中国スパイ関与疑惑で独立調査に着手",
+  "summary_ja": "エヌビディアのジェンスン・フアンCEOが不倫を認め、社員に「妻と家族を傷つけた」と謝罪し、調査期間中もCEO職にとどまる。エヌビディア取締役会はフアン氏が諜報の標的だったかを調査し、米政府は相手の女性アリス・フアン氏が中国の情報機関に取り込まれた可能性を疑っている。エヌビディアは機密流出の証拠はないとしている。"
+ },
+ {
+  "date": "2026-11-09",
+  "headline": "AMD·퓨리오사AI·망고부스트, 이기종 AI 인프라 검증…상용화 시험대",
+  "headline_ko": "AMD·퓨리오사AI·망고부스트, 이기종 AI 인프라 검증…상용화 시험대",
+  "outlet": "뉴스1",
+  "url": "https://www.news1.kr/industry/sb-founded/6345905",
+  "summary_ko": "AMD, 퓨리오사AI, 망고부스트가 개방형 이기종 AI 인프라를 함께 설계·검증하는 업무협약을 맺었다. AMD의 CPU·GPU, 퓨리오사AI의 2세대 NPU '레니게이드', 망고부스트의 DPU '부스트X'를 묶어 AI 추론용 구성을 검증하며, 첫 클러스터를 내년 봄 서울에 구축할 계획이다. 상용화에는 통합 성능·안정성 검증과 판매·보증 책임 구조 구체화가 과제로 꼽힌다.",
+  "topics": [
+   "chips",
+   "korea"
+  ],
+  "orgs": [
+   "AMD",
+   "FuriosaAI",
+   "MangoBoost"
+  ],
+  "headline_en": "AMD, FuriosaAI and MangoBoost validate heterogeneous AI infrastructure, facing commercialisation test",
+  "summary_en": "AMD, FuriosaAI and MangoBoost signed an agreement to jointly design and validate open heterogeneous AI infrastructure. They will combine AMD CPUs and GPUs, FuriosaAI's second-generation NPU 'RNGD' and MangoBoost's DPU 'BoostX' to validate configurations for AI inference, with the first cluster planned in Seoul next spring. Commercialisation still requires validating integrated performance and stability and clarifying sales and warranty responsibilities.",
+  "headline_ja": "AMD・フュリオサAI・マンゴーブースト、異種AIインフラを検証…商用化の試金石",
+  "summary_ja": "AMD、フュリオサAI、マンゴーブーストが、オープンな異種AIインフラを共同で設計・検証する業務協約を結んだ。AMDのCPU・GPU、フュリオサAIの第2世代NPU「レネゲード」、マンゴーブーストのDPU「ブーストX」を組み合わせてAI推論向けの構成を検証し、最初のクラスターを来春ソウルに構築する計画だ。商用化には統合性能・安定性の検証と販売・保証責任の具体化が課題とされる。"
+ },
+ {
   "date": "2026-11-08",
   "headline": "Can't cook or shower: Indonesians take aim at data centres",
   "headline_ko": "\"요리도 샤워도 못 해\"…인도네시아 바탐섬 주민들, 데이터센터 반발",
