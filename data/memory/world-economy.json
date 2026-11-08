@@ -1,5 +1,23 @@
 [
  {
+  "date": "2026-11-08",
+  "headline": "폭락장마다 '줍줍'하던 美개미마저 순매도…코로나 이후 5번째 규모",
+  "headline_ko": "급락장마다 사들이던 美 개인투자자마저 순매도…코로나 이후 5번째 규모",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611080500341788",
+  "summary_ko": "반다리서치에 따르면 미국 개인투자자들은 전날 개별 주식을 2억5700만 달러(약 3482억원) 순매도해, 2020년 3월 17일 이후 다섯 번째로 큰 하루 순매도를 기록했다. 그동안 급락장에서 저가 매수에 나서던 모습과 달리 이번에는 개별 종목 저가 매수가 나타나지 않았다. AI·반도체주 급락과 중간선거 후 데이터센터 규제 강화 우려가 매도 배경으로 꼽혔다.",
+  "topics": [
+   "markets"
+  ],
+  "orgs": [
+   "반다리서치"
+  ],
+  "headline_en": "Even US retail investors who bought every dip turn net sellers… fifth-largest since COVID",
+  "summary_en": "According to Vanda Research, US retail investors net sold $257 million (about 348.2 billion won) of individual stocks the previous day, the fifth-largest daily net selling since March 17, 2020. Unlike past sell-offs when they bought the dip, no dip-buying in individual stocks appeared this time. The plunge in AI and chip stocks and fears of tighter data center regulation after the midterms were cited as reasons.",
+  "headline_ja": "急落局面で買い続けた米個人投資家も売り越し…コロナ以降5番目の規模",
+  "summary_ja": "バンダ・リサーチによると、米国の個人投資家は前日に個別株を2億5700万ドル(約3482億ウォン)売り越し、2020年3月17日以降で5番目に大きい1日の売り越しを記録した。これまで急落局面で押し目買いに動いてきたのとは異なり、今回は個別銘柄の押し目買いが見られなかった。AI・半導体株の急落と中間選挙後のデータセンター規制強化への懸念が売りの背景に挙げられた。"
+ },
+ {
   "date": "2026-11-07",
   "headline": "[뉴욕마감] 기술주 반등에 혼조 마감…나스닥 1.09%↑",
   "headline_ko": "뉴욕증시, 기술주 반등에 혼조 마감…나스닥 1.09%↑·다우 0.46%↓",
