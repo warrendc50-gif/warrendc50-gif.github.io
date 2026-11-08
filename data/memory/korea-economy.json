@@ -85,6 +85,25 @@
   "summary_ja": "金融監督院と金融投資協会は、9日から来年1月31日まで証券会社の信用供与担保比率維持義務（140%以上）を免除する。6日にKOSPIが5000を割り込んだ後、緊急市場状況点検会議で議論された安定措置で、証券会社が担保維持比率を柔軟に定め、反対売買による変動性拡大を防ぐ狙いだ。政府は変動性がさらに高まれば追加措置を講じる方針で、市場では株式市場安定ファンドの稼働と時限的な空売り禁止が取り沙汰されている。"
  },
  {
+  "date": "2026-11-08",
+  "headline": "물가는 3% 육박, 코스피는 5000선 위태…금리 결정 앞둔 한은 딜레마",
+  "headline_ko": "물가는 3% 육박, 코스피는 5000선 위태…금리 결정 앞둔 한은 딜레마",
+  "outlet": "뉴스1",
+  "url": "https://www.news1.kr/economy/trend/6346517",
+  "summary_ko": "한국은행이 11월 기준금리 결정을 앞두고 고심하고 있다. 3분기 GDP 1.0% 성장과 근원물가 2.8%가 인상 압박 요인으로 꼽혀 11월 인상 전망이 여전하다. 다만 6일 코스피가 6.02% 내린 5059.69로 마감하는 등 급락하면서 최종금리 3.5% 전망은 약해졌다.",
+  "topics": [
+   "rates",
+   "stocks"
+  ],
+  "orgs": [
+   "한국은행"
+  ],
+  "headline_en": "Inflation near 3%, KOSPI near 5,000: Bank of Korea's dilemma ahead of rate decision",
+  "summary_en": "The Bank of Korea is weighing its November rate decision. Third-quarter GDP growth of 1.0% and core inflation of 2.8% are cited as pressure for a hike, so expectations of a November increase remain. But the KOSPI's slump, including a 6.02% drop to 5,059.69 on the 6th, has weakened the outlook for a 3.5% terminal rate.",
+  "headline_ja": "物価は3%目前、KOSPIは5000割れの危機…利上げ判断を控えた韓銀のジレンマ",
+  "summary_ja": "韓国銀行が11月の政策金利決定を前に苦慮している。7～9月期GDPの1.0%成長とコア物価2.8%が利上げ圧力として挙げられ、11月の利上げ見通しは依然として残る。ただ、6日にKOSPIが6.02%下落の5059.69で引けるなど急落し、最終金利3.5%の見通しは弱まった。"
+ },
+ {
   "date": "2026-11-06",
   "headline": "프리장 삼성전자18만원 붕괴…하이닉스도 12%대 급락[종목 NOW]",
   "headline_ko": "美 반도체 폭락 여파…프리마켓서 삼성전자 18만원 붕괴, SK하이닉스 12%대 급락",
