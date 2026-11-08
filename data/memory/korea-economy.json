@@ -122,6 +122,40 @@
   "summary_ja": "KOSPIは1週間で11.71%急落して5059.69で引け、外国人は10兆3810億ウォンを売り越した。米中間選挙後にAIデータセンター規制強化への懸念が広がって半導体株が揺らぎ、証券業界は投資遅延への懸念が和らげば回復し得るとみた。今週の変数としてはコアウィーブの決算と米国のCPI・PPIが挙げられた。"
  },
  {
+  "date": "2026-11-08",
+  "headline": "미래에셋證도 뚫렸다… 한 달 새 금투업 5곳 해킹 피해",
+  "headline_ko": "미래에셋證도 뚫렸다… 한 달 새 금투업 5곳 해킹 피해",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611081810418615",
+  "summary_ko": "미래에셋증권이 해킹을 당해 고객과 임직원 약 3만9천 명의 정보가 유출됐다. 한 달 사이 해킹 피해를 본 금융투자업체가 5곳으로 늘었다.",
+  "topics": [
+   "stocks"
+  ],
+  "orgs": [
+   "미래에셋증권"
+  ],
+  "headline_en": "Mirae Asset Securities breached too: five financial investment firms hacked in a month",
+  "summary_en": "Mirae Asset Securities was hacked, leaking the information of about 39,000 customers and employees. The number of financial investment firms hit by hacking in a month has risen to five.",
+  "headline_ja": "ミレアセット証券も破られた…1か月で金融投資業5社がハッキング被害",
+  "summary_ja": "ミレアセット証券がハッキングを受け、顧客と役職員約3万9千人の情報が流出した。1か月でハッキング被害を受けた金融投資会社は5社に増えた。"
+ },
+ {
+  "date": "2026-11-08",
+  "headline": "ELS '폭락장 후폭풍'… 866억 원금손실 위기 [ELS 원금손실 공포]",
+  "headline_ko": "ELS '폭락장 후폭풍'… 866억 원금손실 위기",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611081818015063",
+  "summary_ko": "국내 증시 급락으로 코스피가 하루 만에 6% 넘게 떨어지면서 주가연계증권(ELS) 원금손실 우려가 커졌다. 녹인(knock-in) 배리어를 이미 건드린 상품의 잔존금액은 866억원으로 집계됐다.",
+  "topics": [
+   "stocks"
+  ],
+  "orgs": [],
+  "headline_en": "ELS hit by market crash fallout: 86.6 billion won at risk of principal loss",
+  "summary_en": "With the KOSPI dropping more than 6% in a single day amid the domestic market slump, concerns over principal losses on equity-linked securities (ELS) have grown. The outstanding balance of products that have already touched their knock-in barrier totals 86.6 billion won.",
+  "headline_ja": "ELSに「暴落相場の余波」…866億ウォンが元本割れの危機",
+  "summary_ja": "国内株式市場の急落でKOSPIが1日で6%以上下がり、株価連動証券（ELS）の元本割れ懸念が高まった。ノックイン・バリアにすでに触れた商品の残高は866億ウォンに上る。"
+ },
+ {
   "date": "2026-11-06",
   "headline": "프리장 삼성전자18만원 붕괴…하이닉스도 12%대 급락[종목 NOW]",
   "headline_ko": "美 반도체 폭락 여파…프리마켓서 삼성전자 18만원 붕괴, SK하이닉스 12%대 급락",
