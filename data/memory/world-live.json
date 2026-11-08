@@ -32,11 +32,11 @@
  "items": [
   {
    "date": "2026-11-08",
-   "headline": "Iran war live: Blasts heard in Qeshm; US moves to block land supply routes",
-   "headline_ko": "케슘섬 등 이란 남부서 폭발음…美, 이란 육상 보급로 차단 나서",
+   "headline": "Iran war live: US moves to block land supply routes; UAE rescues 22 sailors",
+   "headline_ko": "美, 이란 육상 보급로 차단 나서…UAE, 화재 화물선 선원 22명 구조",
    "outlet": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes",
-   "summary_ko": "이란 국영매체는 호르무즈 해협의 케슘섬과 자스크·시리크·반다르아바스에서 폭발음이 들렸다고 전했다. 미국은 수개월째 이어온 이란 항구 해상 봉쇄를 넓혀 이란의 육상 보급로를 차단하는 새 계획을 발표했다.",
+   "summary_ko": "미 중부사령부는 이란 항구 해상 봉쇄를 넓혀 이란의 육상 보급로를 차단하는 새 태스크포스를 꾸렸다. 이란 국영매체는 케슘섬과 자스크·시리크·반다르아바스에서 폭발음이 들렸다고 전했다. UAE는 불이 난 화물선에서 22명을 구조했다고 밝혔다.",
    "topics": [
     "conflict"
    ],
@@ -44,10 +44,29 @@
     "미 중부사령부",
     "이란"
    ],
-   "headline_en": "Iran war live: Blasts heard in Qeshm; US moves to block land supply routes",
-   "summary_en": "Iranian state media reported blasts on Qeshm Island in the Strait of Hormuz and in the cities of Jask, Sirik and Bandar Abbas. The US announced a new plan to block Iran's land-based supply routes, expanding its months-long naval blockade of Iranian ports.",
-   "headline_ja": "ケシュム島などイラン南部で爆発音…米国、イランの陸上補給路の遮断へ",
-   "summary_ja": "イラン国営メディアは、ホルムズ海峡のケシュム島とジャスク、シリク、バンダルアッバスで爆発音が聞こえたと伝えた。米国は数カ月続けてきたイラン港湾の海上封鎖を拡大し、イランの陸上補給路を遮断する新たな計画を発表した。"
+   "headline_en": "Iran war live: US moves to block land supply routes; UAE rescues 22 sailors",
+   "summary_en": "US Central Command set up a new task force to block Iran's land-based supply routes, expanding its naval blockade of Iranian ports. Iranian state media reported blasts on Qeshm Island and in Jask, Sirik and Bandar Abbas. The UAE said it rescued 22 people from a cargo ship that caught fire.",
+   "headline_ja": "米国、イランの陸上補給路の遮断へ…UAE、火災の貨物船から船員22人を救助",
+   "summary_ja": "米中央軍はイラン港湾の海上封鎖を拡大し、イランの陸上補給路を遮断する新たな任務部隊を編成した。イラン国営メディアは、ケシュム島とジャスク、シリク、バンダルアッバスで爆発音が聞こえたと伝えた。UAEは火災が起きた貨物船から22人を救助したと発表した。"
+  },
+  {
+   "date": "2026-11-08",
+   "headline": "Canary Islands’ El Hierro declares emergency amid migrant, refugee influx",
+   "headline_ko": "스페인 카나리아제도 엘이에로섬, 이주민 급증에 비상사태 선포",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/8/canary-islands-el-hierro-declares-emergency-amid-migrant-refugee-influx",
+   "summary_ko": "스페인 카나리아제도 엘이에로섬 정부가 이주민 보트 도착이 급증하자 비상사태를 선포하고 중앙정부에 지원을 요청했다. 11월 들어 약 30척의 보트로 3,300명 넘게 도착했으며, 섬 인구는 약 1만1,400명이다. 페르난도 클라비호 카나리아 자치정부 수반은 상황이 \"전혀 지속 불가능하다\"고 말했다.",
+   "topics": [
+    "politics"
+   ],
+   "orgs": [
+    "엘이에로섬 정부",
+    "스페인 정부"
+   ],
+   "headline_en": "Canary Islands’ El Hierro declares emergency amid migrant, refugee influx",
+   "summary_en": "The government of El Hierro in Spain's Canary Islands declared an emergency and asked Madrid for help after a surge in migrant boat arrivals. More than 3,300 people have arrived in about 30 boats since the start of November, on an island of about 11,400 residents. Regional leader Fernando Clavijo called the situation 'absolutely unsustainable'.",
+   "headline_ja": "スペイン・カナリア諸島のエル・イエロ島、移民急増で非常事態を宣言",
+   "summary_ja": "スペイン・カナリア諸島のエル・イエロ島政府は、移民ボートの到着急増を受けて非常事態を宣言し、中央政府に支援を要請した。11月に入り約30隻のボートで3300人以上が到着しており、島の人口は約1万1400人だ。カナリア自治州政府のフェルナンド・クラビホ首班は状況を「全く持続不可能」と述べた。"
   },
   {
    "date": "2026-11-07",
