@@ -66,6 +66,25 @@
   "summary_ja": "国内株式市場の急落と米国株の下落が重なり、9日に発表される国内ETFの純資産総額は395兆ウォン前後と推定され、4月14日以来初めて400兆ウォンを下回る見通しだ。6月22日の最高値(532兆9746億ウォン)と比べると4カ月半で約138兆ウォンが消えた。個人投資家は今年6日までにETFを82兆3726億ウォン買い越した。"
  },
  {
+  "date": "2026-11-08",
+  "headline": "'반대매매 급증' 급한불 끄는 당국.. '신용공여 140%룰' 9일부터 면제",
+  "headline_ko": "'반대매매 급증' 급한불 끄는 당국.. '신용공여 140%룰' 9일부터 면제",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611081807583882",
+  "summary_ko": "금융감독원과 금융투자협회가 9일부터 내년 1월 31일까지 증권사의 신용공여 담보비율 유지의무(140% 이상)를 면제한다. 6일 코스피 5000선이 무너진 뒤 긴급 시장상황점검회의에서 논의된 안정조치로, 증권사가 담보유지비율을 탄력적으로 정해 반대매매에 따른 변동성 확대를 막으려는 것이다. 정부는 변동성이 더 커지면 추가 조치를 내놓을 방침이고, 시장에서는 증안펀드 가동과 한시적 공매도 금지가 거론된다.",
+  "topics": [
+   "stocks"
+  ],
+  "orgs": [
+   "금융감독원",
+   "금융투자협회"
+  ],
+  "headline_en": "Regulators move to stem surge in forced liquidations, waive 140% margin rule from the 9th",
+  "summary_en": "The Financial Supervisory Service and the Korea Financial Investment Association will waive brokerages' obligation to maintain a collateral ratio (at least 140%) on margin loans from the 9th until January 31 next year. The stabilisation step, discussed at an emergency market meeting after the KOSPI fell below 5,000 on the 6th, lets brokerages set maintenance ratios flexibly to keep forced liquidations from amplifying volatility. The government plans further measures if volatility grows, and the market is discussing activating a stock-market stabilisation fund and a temporary short-selling ban.",
+  "headline_ja": "「反対売買急増」で当局が火消し…「信用供与140%ルール」を9日から免除",
+  "summary_ja": "金融監督院と金融投資協会は、9日から来年1月31日まで証券会社の信用供与担保比率維持義務（140%以上）を免除する。6日にKOSPIが5000を割り込んだ後、緊急市場状況点検会議で議論された安定措置で、証券会社が担保維持比率を柔軟に定め、反対売買による変動性拡大を防ぐ狙いだ。政府は変動性がさらに高まれば追加措置を講じる方針で、市場では株式市場安定ファンドの稼働と時限的な空売り禁止が取り沙汰されている。"
+ },
+ {
   "date": "2026-11-06",
   "headline": "프리장 삼성전자18만원 붕괴…하이닉스도 12%대 급락[종목 NOW]",
   "headline_ko": "美 반도체 폭락 여파…프리마켓서 삼성전자 18만원 붕괴, SK하이닉스 12%대 급락",
