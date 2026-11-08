@@ -670,6 +670,24 @@
   "summary_ja": "サウジアラムコはホルムズ海峡を迂回する東西原油パイプラインの拡張工事に着手した。現在日量700万バレル程度の処理量を1000万バレルまで増やす計画で、海外の原油貯蔵施設と追加の輸出ルートの確保も模索している。"
  },
  {
+  "date": "2026-11-04",
+  "headline": "French bank says cyberattack stole around $100 mn",
+  "headline_ko": "佛 크레디뮈튀엘 아르케아, 사이버 공격으로 약 1억 유로 부정 이체 피해",
+  "outlet": "France 24",
+  "url": "https://www.france24.com/en/live-news/20261104-french-regional-bank-says-cyberattack-caused-fraudulent-transactions",
+  "summary_ko": "프랑스 지역은행 크레디뮈튀엘 아르케아가 사이버 공격으로 약 1억 유로(1억1200만 달러) 규모의 부정 이체가 발생했다고 밝혔다. 공격자는 은행 자체 계좌에 접근해 다른 은행으로 돈을 옮긴 뒤 암호화폐로 바꿨고, 고객 계좌는 피해를 보지 않았으며 일부 자금은 동결됐다. 파리 검찰이 수사에 착수했다.",
+  "topics": [
+   "crisis"
+  ],
+  "orgs": [
+   "Crédit Mutuel Arkéa"
+  ],
+  "headline_en": "French bank says cyberattack stole around $100 mn",
+  "summary_en": "French regional bank Crédit Mutuel Arkéa said a cyberattack led to fraudulent transfers worth around 100 million euros ($112 million). The attackers accessed the bank's own accounts, moved money to other banks and converted it into cryptocurrencies; customer accounts were not affected and part of the funds was blocked. The Paris prosecutor's office opened an investigation.",
+  "headline_ja": "仏クレディ・ミュチュエル・アルケア、サイバー攻撃で約1億ユーロの不正送金被害",
+  "summary_ja": "フランスの地方銀行クレディ・ミュチュエル・アルケアは、サイバー攻撃で約1億ユーロ（1億1200万ドル）規模の不正送金が発生したと明らかにした。攻撃者は銀行自身の口座にアクセスして他行に資金を移し、暗号資産に換えた。顧客口座は被害を受けておらず、資金の一部は凍結された。パリ検察が捜査に着手した。"
+ },
+ {
   "date": "2026-11-03",
   "headline": "RBA lifts interest rates to highest level in 18 years to try to dampen inflation",
   "headline_ko": "호주중앙은행, 인플레이션 억제 위해 기준금리 18년 만의 최고치로 인상",
