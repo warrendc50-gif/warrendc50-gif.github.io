@@ -56,6 +56,25 @@
   "summary_ja": "SKテレコムとLGユープラスは7～9月期の営業利益がはっきり改善し、ハッキング事態と希望退職金による反動効果が働いた。カカオはAI事業の赤字が拡大し、AIの収益化に社運をかけている。"
  },
  {
+  "date": "2026-11-08",
+  "headline": "Anthropic secures $3.4 billion generator deal for AI data centers, FT reports",
+  "headline_ko": "앤트로픽, AI 데이터센터용 34억 달러 규모 발전기 계약…FT 보도",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/11/08/anthropic-generator-deal-ai-data-centers.html",
+  "summary_ko": "파이낸셜타임스(FT)에 따르면 앤트로픽은 9월 말 텍사스 샌안토니오의 장비업체 OnePWR에서 1.7기가와트 규모의 대형 가스 발전기 물량을 약 34억 달러에 확보했다. 회사를 인수한 것은 아니지만 발전기 설치에 필요한 엔지니어링·건설 역량도 계약에 포함됐다. 앤트로픽과 OnePWR는 논평 요청에 답하지 않았다.",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "Anthropic",
+   "OnePWR"
+  ],
+  "headline_en": "Anthropic secures $3.4 billion generator deal for AI data centers, FT reports",
+  "summary_en": "According to the Financial Times, Anthropic secured 1.7 gigawatts of heavy-duty gas-fired generators from OnePWR, an equipment supplier in San Antonio, Texas, in late September for about $3.4 billion. It did not acquire the company, but the deal included the engineering and construction capabilities needed to install the generators. Anthropic and OnePWR did not respond to requests for comment.",
+  "headline_ja": "アンソロピック、AIデータセンター向け34億ドル規模の発電機契約…FT報道",
+  "summary_ja": "フィナンシャル・タイムズ（FT）によると、アンソロピックは9月下旬、テキサス州サンアントニオの機器メーカーOnePWRから1.7ギガワット規模の大型ガス発電機を約34億ドルで確保した。同社を買収したわけではないが、発電機の設置に必要なエンジニアリング・建設能力も契約に含まれた。アンソロピックとOnePWRはコメントの要請に応じなかった。"
+ },
+ {
   "date": "2026-11-07",
   "headline": "美 데이터센터 규제 봇물…백악관 \"AI 투자 차질 없다\"",
   "headline_ko": "美 데이터센터 규제 봇물…백악관 \"AI 투자 차질 없다\"",
