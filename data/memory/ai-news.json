@@ -1,5 +1,21 @@
 [
  {
+  "date": "2026-11-08",
+  "headline": "Can't cook or shower: Indonesians take aim at data centres",
+  "headline_ko": "\"요리도 샤워도 못 해\"…인도네시아 바탐섬 주민들, 데이터센터 반발",
+  "outlet": "France 24",
+  "url": "https://www.france24.com/en/live-news/20261108-can-t-cook-or-shower-indonesians-take-aim-at-data-centres",
+  "summary_ko": "AI 붐으로 데이터센터가 잇따라 들어서는 인도네시아 바탐섬에서 수돗물이 끊기자 주민들이 데이터센터 건설과 관련이 있다며 항의하고 있다. 지역 수도사업자는 긴 가뭄을 원인으로 들었고, 바탐 시장은 데이터센터나 AI 때문이 아니라고 밝혔다. 당국은 9월 말 개발업체들에 냉각용 해수 담수화 시설을 짓도록 했다.",
+  "topics": [
+   "policy"
+  ],
+  "orgs": [],
+  "headline_en": "Can't cook or shower: Indonesians take aim at data centres",
+  "summary_en": "On Indonesia's Batam island, where data centres are springing up to power the AI boom, residents are protesting after taps ran dry, saying the shortages are linked to data centre construction. The local water utility blamed a long drought, and Batam's mayor said the disruption was not caused by data centres or AI. In late September, authorities told developers they must build seawater desalination plants for cooling.",
+  "headline_ja": "「料理もシャワーもできない」…インドネシア・バタム島の住民がデータセンターに反発",
+  "summary_ja": "AIブームでデータセンターが相次いで建つインドネシア・バタム島で水道が止まり、住民がデータセンター建設と関係があるとして抗議している。地元の水道事業者は長引く干ばつを原因に挙げ、バタム市長はデータセンターやAIが原因ではないと述べた。当局は9月末、開発業者に冷却用の海水淡水化施設を建設するよう求めた。"
+ },
+ {
   "date": "2026-11-07",
   "headline": "美 데이터센터 규제 봇물…백악관 \"AI 투자 차질 없다\"",
   "headline_ko": "美 데이터센터 규제 봇물…백악관 \"AI 투자 차질 없다\"",
