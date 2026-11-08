@@ -87,6 +87,24 @@
    "summary_ja": "気象庁によると、8日(日)午前1時4分、静岡県西部の深さ約40キロでマグニチュード5.7の地震が発生し、店舗の窓ガラスが割れ、人々が建物から避難した。共同通信は愛知・静岡両県で20人超が負傷したと伝えた。当局は今後数日間の強い余震の可能性を警告し、一部の在来線が運転を見合わせ、新幹線は速度を落として運行した。"
   },
   {
+   "date": "2026-11-08",
+   "headline": "Drone attack on Colombian army base kills three soldiers and wounds 16",
+   "headline_ko": "콜롬비아 북부 군기지에 드론 공격…군인 3명 사망·16명 부상",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/8/drone-attack-on-colombian-army-base-kills-three-soldiers-and-wounds-16",
+   "summary_ko": "콜롬비아군에 따르면 북부 소도시 산타로사델수르의 군기지가 드론 공격을 받아 군인 3명이 숨지고 최소 16명이 다쳤다. 공격 주체는 밝혀지지 않았으며, 이 지역은 걸프 클랜·민족해방군(ELN)·옛 FARC 분파 등 무장단체들이 오랫동안 다퉈 온 곳이다. 데라에스프리에야 대통령은 책임자들이 '숨을 곳이 없을 것'이라고 말했다.",
+   "topics": [
+    "conflict"
+   ],
+   "orgs": [
+    "콜롬비아군"
+   ],
+   "headline_en": "Drone attack on Colombian army base kills three soldiers and wounds 16",
+   "summary_en": "According to Colombia's armed forces, a drone attack on a military base in Santa Rosa del Sur, a small town in northern Colombia, killed three soldiers and wounded at least 16. No one has claimed responsibility; the area has long been contested by armed groups including the Gulf Clan, the ELN and FARC splinter groups. President de la Espriella said those responsible will have 'nowhere to hide'.",
+   "headline_ja": "コロンビア北部の軍基地にドローン攻撃…兵士3人死亡、16人負傷",
+   "summary_ja": "コロンビア軍によると、北部の小さな町サンタロサ・デル・スルの軍基地がドローン攻撃を受け、兵士3人が死亡、少なくとも16人が負傷した。攻撃主体は明らかになっておらず、この地域はガルフ・クラン、民族解放軍(ELN)、旧FARCの分派など武装勢力が長く争ってきた場所だ。デ・ラ・エスプリエジャ大統領は責任者には「隠れる場所はない」と述べた。"
+  },
+  {
    "date": "2026-11-07",
    "headline": "Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in",
    "headline_ko": "파라과이 상원, 페냐 대통령 파면…체포된 페냐 대신 알리아나 새 대통령 취임",
@@ -258,8 +276,8 @@
   },
   {
    "date": "2026-11-07",
-   "headline": "Two main parties neck and neck after New Zealand vote, near complete count",
-   "headline_ko": "뉴질랜드 총선 95% 개표…국민당·노동당 박빙, 현 연립 1석 차 과반·기회당 7석",
+   "headline": "New Zealand’s governing coalition holds slim majority in preliminary count",
+   "headline_ko": "뉴질랜드 총선 예비 개표서 집권 연립 1석 차 과반…기회당 7석으로 캐스팅보트",
    "outlet": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/2026/11/7/governing-party-leads-in-new-zealands-knife-edge-vote-early-results",
    "summary_ko": "7일 치러진 뉴질랜드 총선에서 95% 개표 기준 럭슨 총리의 중도우파 국민당과 힙킨스 대표의 중도좌파 노동당이 모두 30%에 조금 못 미치는 득표율로 맞섰다. 선거관리위원회 집계상 국민당이 이끄는 현 3당 연립은 단 1석 차 과반이다. 중도 성향 기회당(TOP)은 5% 기준을 넘어 7석으로 의회에 진입해 캐스팅보트를 쥘 수 있지만, 럭슨 총리는 기회당과의 협력을 거듭 배제해 왔다. 정부 구성 시한은 정해져 있지 않다.",
@@ -270,9 +288,9 @@
     "뉴질랜드 국민당",
     "뉴질랜드 노동당"
    ],
-   "headline_en": "Two main parties neck and neck after New Zealand vote, near complete count",
+   "headline_en": "New Zealand’s governing coalition holds slim majority in preliminary count",
    "summary_en": "In New Zealand's November 7 election, with 95% of results counted, Prime Minister Luxon's centre-right National Party and Hipkins' centre-left Labour Party each had just short of 30% of the vote. The Electoral Commission count showed the current National-led three-party coalition with a majority of just one seat. The centrist Opportunity Party will enter parliament with seven seats, potentially becoming a kingmaker, though Luxon has repeatedly ruled out working with it. There is no deadline for forming a government.",
-   "headline_ja": "ニュージーランド総選挙95%開票…国民党と労働党が接戦、現連立は1議席差の過半数・オポチュニティ党7議席",
+   "headline_ja": "ニュージーランド総選挙の速報集計で与党連立が1議席差の過半数…オポチュニティ党7議席でキャスティングボート",
    "summary_ja": "7日に行われたニュージーランド総選挙で、95%開票時点でラクソン首相の中道右派・国民党とヒプキンス党首の中道左派・労働党がいずれも30%弱の得票率で拮抗した。選挙管理委員会の集計では、国民党率いる現在の3党連立はわずか1議席差の過半数だ。中道のオポチュニティ党は5%の基準を超えて7議席で議会入りし、キャスティングボートを握る可能性があるが、ラクソン首相は同党との協力を繰り返し否定してきた。政権樹立の期限は定められていない。"
   },
   {
