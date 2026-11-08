@@ -104,6 +104,24 @@
   "summary_ja": "韓国銀行が11月の政策金利決定を前に苦慮している。7～9月期GDPの1.0%成長とコア物価2.8%が利上げ圧力として挙げられ、11月の利上げ見通しは依然として残る。ただ、6日にKOSPIが6.02%下落の5059.69で引けるなど急落し、最終金利3.5%の見通しは弱まった。"
  },
  {
+  "date": "2026-11-08",
+  "headline": "'블루 쓰나미' 덮친 코스피…5000선 사수, 외국인·AI에 달렸다",
+  "headline_ko": "'블루 쓰나미' 덮친 코스피…5000선 사수, 외국인·AI에 달렸다",
+  "outlet": "뉴스1",
+  "url": "https://www.news1.kr/finance/market-exr/6346081",
+  "summary_ko": "코스피가 한 주간 11.71% 급락해 5059.69로 마감했고, 외국인은 10조3810억원을 순매도했다. 미국 중간선거 이후 AI 데이터센터 규제 강화 우려가 번지며 반도체주가 흔들렸고, 증권가는 투자 지연 우려가 완화되면 회복할 수 있다고 봤다. 이번 주 변수로는 코어위브 실적과 미국 CPI·PPI가 꼽혔다.",
+  "topics": [
+   "stocks"
+  ],
+  "orgs": [
+   "KOSPI"
+  ],
+  "headline_en": "KOSPI hit by 'blue tsunami': holding 5,000 depends on foreign investors and AI",
+  "summary_en": "The KOSPI plunged 11.71% over the week to close at 5,059.69, with foreign investors net selling 10.381 trillion won. Concerns about tighter AI data-centre regulation after the US midterm elections shook chip stocks, and brokerages said shares could recover if worries about investment delays ease. CoreWeave's earnings and US CPI and PPI were cited as this week's key variables.",
+  "headline_ja": "「ブルー津波」がKOSPIを直撃…5000死守は外国人とAI次第",
+  "summary_ja": "KOSPIは1週間で11.71%急落して5059.69で引け、外国人は10兆3810億ウォンを売り越した。米中間選挙後にAIデータセンター規制強化への懸念が広がって半導体株が揺らぎ、証券業界は投資遅延への懸念が和らげば回復し得るとみた。今週の変数としてはコアウィーブの決算と米国のCPI・PPIが挙げられた。"
+ },
+ {
   "date": "2026-11-06",
   "headline": "프리장 삼성전자18만원 붕괴…하이닉스도 12%대 급락[종목 NOW]",
   "headline_ko": "美 반도체 폭락 여파…프리마켓서 삼성전자 18만원 붕괴, SK하이닉스 12%대 급락",
