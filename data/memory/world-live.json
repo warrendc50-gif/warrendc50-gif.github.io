@@ -32,11 +32,11 @@
  "items": [
   {
    "date": "2026-11-08",
-   "headline": "Iran war live: US moves to block land supply routes; UAE rescues 22 sailors",
-   "headline_ko": "美, 이란 육상 보급로 차단 나서…UAE, 화재 화물선 선원 22명 구조",
+   "headline": "Iran war live: Riyadh’s Saudi Aramco tower damaged during attack from Yemen",
+   "headline_ko": "예멘발 공격에 리야드 사우디 아람코 타워 파손…美, 이란 육상 보급로 차단 나서",
    "outlet": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes",
-   "summary_ko": "미 중부사령부는 이란 항구 해상 봉쇄를 넓혀 이란의 육상 보급로를 차단하는 새 태스크포스를 꾸렸다. 이란 국영매체는 케슘섬과 자스크·시리크·반다르아바스에서 폭발음이 들렸다고 전했다. UAE는 불이 난 화물선에서 22명을 구조했다고 밝혔다.",
+   "summary_ko": "사우디 주도 연합군은 후티 탄도미사일을 요격했다고 밝혔으며, 리야드의 사우디 아람코 건물이 떨어진 파편에 맞았다. 미 중부사령부는 이란 항구 해상 봉쇄를 넓혀 이란의 육상 보급로를 차단하는 새 태스크포스를 꾸렸다. 이란 국영매체는 케슘섬과 자스크·시리크·반다르아바스에서 폭발음이 들렸다고 전했고, UAE는 불이 난 화물선에서 22명을 구조했다.",
    "topics": [
     "conflict"
    ],
@@ -44,10 +44,10 @@
     "미 중부사령부",
     "이란"
    ],
-   "headline_en": "Iran war live: US moves to block land supply routes; UAE rescues 22 sailors",
-   "summary_en": "US Central Command set up a new task force to block Iran's land-based supply routes, expanding its naval blockade of Iranian ports. Iranian state media reported blasts on Qeshm Island and in Jask, Sirik and Bandar Abbas. The UAE said it rescued 22 people from a cargo ship that caught fire.",
-   "headline_ja": "米国、イランの陸上補給路の遮断へ…UAE、火災の貨物船から船員22人を救助",
-   "summary_ja": "米中央軍はイラン港湾の海上封鎖を拡大し、イランの陸上補給路を遮断する新たな任務部隊を編成した。イラン国営メディアは、ケシュム島とジャスク、シリク、バンダルアッバスで爆発音が聞こえたと伝えた。UAEは火災が起きた貨物船から22人を救助したと発表した。"
+   "headline_en": "Iran war live: Riyadh’s Saudi Aramco tower damaged during attack from Yemen",
+   "summary_en": "The Saudi-led coalition said it intercepted Houthi ballistic missiles, and a Saudi Aramco building in Riyadh was hit by falling shrapnel. US Central Command set up a new task force to block Iran's land-based supply routes, expanding its naval blockade of Iranian ports. Iranian state media reported blasts on Qeshm Island and in Jask, Sirik and Bandar Abbas, and the UAE rescued 22 people from a cargo ship that caught fire.",
+   "headline_ja": "イエメンからの攻撃でリヤドのサウジアラムコ・タワー損傷…米国、イランの陸上補給路の遮断へ",
+   "summary_ja": "サウジ主導連合軍はフーシ派の弾道ミサイルを迎撃したと発表し、リヤドのサウジアラムコの建物が落下した破片に当たった。米中央軍はイラン港湾の海上封鎖を拡大し、イランの陸上補給路を遮断する新たな任務部隊を編成した。イラン国営メディアはケシュム島とジャスク、シリク、バンダルアッバスで爆発音が聞こえたと伝え、UAEは火災が起きた貨物船から22人を救助した。"
   },
   {
    "date": "2026-11-08",
