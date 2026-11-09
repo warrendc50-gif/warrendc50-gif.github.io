@@ -257,6 +257,23 @@
   "summary_ja": "タイ政府は電力と水の不足への懸念から、9月にデータセンター49事業の建設を中止させ、ほかの117事業の承認判断を保留した。"
  },
  {
+  "date": "2026-11-09",
+  "headline": "금융권 공격한 AI 해킹 도구, 전세계 무더기 노출…결제·게임 겨냥 흔적도",
+  "headline_ko": "금융권 공격한 AI 해킹 도구, 전세계 무더기 노출…결제·게임 겨냥 흔적도",
+  "outlet": "뉴스1",
+  "url": "https://www.news1.kr/it-science/security-hacking/6347482",
+  "summary_ko": "금융권 공격에 쓰인 것으로 지목된 AI 기반 침투테스트 도구 '아르텍스'의 관리 콘솔 1,465곳이 전 세계에 노출됐으며, 이 가운데 한국에서도 21곳이 확인됐다. 결제·게임 분야를 겨냥한 흔적도 나왔다.",
+  "topics": [
+   "korea",
+   "policy"
+  ],
+  "orgs": [],
+  "headline_en": "AI hacking tool used against financial firms found exposed worldwide… traces targeting payments and games",
+  "summary_en": "Management consoles of 'Artex', an AI-based penetration-testing tool identified as having been used in attacks on financial firms, were found exposed at 1,465 locations worldwide, including 21 in Korea. Traces of targeting in payments and gaming were also found.",
+  "headline_ja": "金融業界を攻撃したAIハッキングツール、世界で大量に露出…決済・ゲームを狙った痕跡も",
+  "summary_ja": "金融業界への攻撃に使われたとされるAIベースの侵入テストツール「アルテックス」の管理コンソール1465か所が世界で露出しており、うち韓国でも21か所が確認された。決済・ゲーム分野を狙った痕跡も見つかった。"
+ },
+ {
   "date": "2026-11-08",
   "headline": "Can't cook or shower: Indonesians take aim at data centres",
   "headline_ko": "\"요리도 샤워도 못 해\"…인도네시아 바탐섬 주민들, 데이터센터 반발",
