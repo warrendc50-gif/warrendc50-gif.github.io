@@ -136,6 +136,44 @@
   "summary_ja": "トランプ大統領は8日、フロリダからワシントンに戻る前に記者団に対し、エヌビディアのジェンスン・フアンCEOを立派な人物だと評価し、不倫問題については話をしていないと述べた。"
  },
  {
+  "date": "2026-11-09",
+  "headline": "트럼프 \"AI 위험 관리 가능…안전장치 도입에 거부감 없어\"",
+  "headline_ko": "트럼프 \"AI 위험 관리 가능…안전장치 도입에 거부감 없어\"",
+  "outlet": "뉴스1",
+  "url": "https://www.news1.kr/world/usa-canada/6347317",
+  "summary_ko": "트럼프 대통령은 8일 인공지능이 초래하는 위험은 관리할 수 있다면서도 안전장치 도입에는 열린 태도를 보였다. 민주당과의 협력 가능성도 내비쳤지만, 중국에 뒤처질 정도의 규제는 원하지 않는다고 밝혔다.",
+  "topics": [
+   "policy"
+  ],
+  "orgs": [
+   "White House"
+  ],
+  "headline_en": "Trump: \"AI risks are manageable… no objection to introducing safeguards\"",
+  "summary_en": "President Trump said on the 8th that the risks posed by artificial intelligence can be managed, while showing openness to introducing safeguards. He hinted at possible cooperation with Democrats but said he does not want regulation that would leave the US behind China.",
+  "headline_ja": "トランプ氏「AIのリスクは管理可能…安全装置の導入に抵抗はない」",
+  "summary_ja": "トランプ大統領は8日、人工知能がもたらすリスクは管理できるとしつつ、安全装置の導入には前向きな姿勢を示した。民主党との協力の可能性もにじませたが、中国に後れを取るほどの規制は望まないと述べた。"
+ },
+ {
+  "date": "2026-11-09",
+  "headline": "\"루비오, 5월에 '젠슨 황·中스파이 친밀 관계' 美정부에 극비 보고\"",
+  "headline_ko": "\"루비오, 5월에 '젠슨 황·中스파이 친밀 관계' 美정부에 극비 보고\"",
+  "outlet": "뉴스1",
+  "url": "https://www.news1.kr/world/usa-canada/6347240",
+  "summary_ko": "뉴욕타임스(NYT)에 따르면 마코 루비오 국무장관이 올해 5월 젠슨 황 엔비디아 CEO와 앨리스 황의 관계를 경고하는 메모를 행정부에 전달했다. 미 정보당국은 수집한 기밀정보를 바탕으로 앨리스 황이 중국 국가안전부에 포섭된 것으로 결론 내렸고, 행정부 회람 메모에 '스파이' 평가가 적혀 있었다.",
+  "topics": [
+   "chips",
+   "policy"
+  ],
+  "orgs": [
+   "Nvidia",
+   "State Department"
+  ],
+  "headline_en": "\"Rubio secretly warned US government in May of Jensen Huang's close ties to a Chinese spy\"",
+  "summary_en": "According to The New York Times, Secretary of State Marco Rubio sent a memo to the administration in May this year warning about the relationship between Nvidia CEO Jensen Huang and Alice Huang. US intelligence concluded from collected classified information that Alice Huang had been recruited by China's Ministry of State Security, and a memo circulated in the administration described her as a 'spy'.",
+  "headline_ja": "「ルビオ氏、5月に『ジェンスン・フアン氏と中国スパイの親密関係』を米政府に極秘報告」",
+  "summary_ja": "ニューヨーク・タイムズ（NYT）によると、マルコ・ルビオ国務長官は今年5月、エヌビディアのジェンスン・フアンCEOとアリス・フアン氏の関係を警告するメモを政権に伝えた。米情報当局は収集した機密情報をもとに、アリス・フアン氏が中国国家安全省に取り込まれたと結論づけ、政権内で回覧されたメモに「スパイ」との評価が記されていた。"
+ },
+ {
   "date": "2026-11-08",
   "headline": "Can't cook or shower: Indonesians take aim at data centres",
   "headline_ko": "\"요리도 샤워도 못 해\"…인도네시아 바탐섬 주민들, 데이터센터 반발",
