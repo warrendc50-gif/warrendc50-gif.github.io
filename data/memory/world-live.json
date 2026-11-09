@@ -31,6 +31,27 @@
  ],
  "items": [
   {
+   "date": "2026-11-10",
+   "headline": "佛, 슈퍼마켓 냉장고 해킹 사건 배후로 이란 지목…\"유럽 차원 제재 나설 것\"",
+   "headline_ko": "佛, 슈퍼마켓 냉장고 해킹 사건 배후로 이란 지목…\"유럽 차원 제재 나설 것\"",
+   "outlet": "뉴스1",
+   "url": "https://www.news1.kr/world/europe/6348356",
+   "summary_ko": "바로 프랑스 외무장관이 슈퍼마켓 냉장고 해킹 사건의 배후로 이란 혁명수비대(IRGC)를 지목하고 EU 차원의 제재를 예고했다. 사이버 공격으로 냉장·냉동고 온도가 최대 80도까지 올라 수백 개 매장이 피해를 입었고, 식품을 전량 폐기했으며 일부 화재도 났다.",
+   "topics": [
+    "politics",
+    "terror"
+   ],
+   "orgs": [
+    "French Foreign Ministry",
+    "IRGC",
+    "EU"
+   ],
+   "headline_en": "France names Iran as behind supermarket fridge hacks, says it will push for EU-level sanctions",
+   "summary_en": "French Foreign Minister Barrot named Iran's Revolutionary Guard Corps (IRGC) as being behind the hacking of supermarket refrigerators and signaled EU-level sanctions. The cyberattack raised fridge and freezer temperatures by up to 80 degrees, hitting hundreds of stores, forcing all food to be discarded and reportedly causing some fires.",
+   "headline_ja": "仏、スーパー冷蔵庫ハッキング事件の背後にイランと指摘…「欧州レベルで制裁へ」",
+   "summary_ja": "バロ仏外相は、スーパーの冷蔵庫ハッキング事件の背後にイラン革命防衛隊（IRGC）がいると指摘し、EUレベルの制裁を予告した。サイバー攻撃で冷蔵・冷凍庫の温度が最大80度上昇し、数百店舗が被害を受けて食品を全量廃棄し、一部では火災も起きたとされる。"
+  },
+  {
    "date": "2026-11-09",
    "headline": "트럼프 \"이란과 강력한 합의하면 추가 공격 가능성 극히 낮아\"",
    "headline_ko": "트럼프 \"이란과 강력한 합의하면 추가 공격 가능성 극히 낮아\"",
