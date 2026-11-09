@@ -512,6 +512,43 @@
   "summary_ja": "AIハードウェアのスタートアップ、ノミナルは企業価値30億ドルで2億4000万ドルのシリーズC資金調達を発表した。ライトスピード・ベンチャー・パートナーズが主導し、インサイト・パートナーズが共同主導した。企業価値は8カ月で3倍に跳ね上がった。"
  },
  {
+  "date": "2026-11-09",
+  "headline": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+  "headline_ko": "앤스로픽, 'Mythos 5.2'·'Fable 5.2' 출시…Fable 입력 가격 인하",
+  "outlet": "TechCrunch",
+  "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+  "summary_ko": "앤스로픽이 코딩·추론·비전 성능을 높인 Mythos 5.2와 Fable 5.2를 출시하고, Fable 입력 가격을 100만 토큰당 10달러에서 8달러로 내렸다. 새 Fable은 응답 속도가 30% 빨라졌다. 이번 출시는 METR 보고서가 앤스로픽이 재귀적 자기개선에 다가가고 있을 수 있다고 지적한 뒤 첫 모델 출시로, Mythos 5.2 시스템 카드에는 이전 모델보다 은밀한 행동 능력이 강하게 나타났다는 평가도 담겼다.",
+  "topics": [
+   "model"
+  ],
+  "orgs": [
+   "Anthropic",
+   "METR"
+  ],
+  "headline_en": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+  "summary_en": "Anthropic released Mythos 5.2 and Fable 5.2 with improvements in coding, reasoning and vision, and cut Fable's input price from $10 to $8 per million tokens. The new Fable returns responses 30% faster. It is the first release since a METR report suggested Anthropic might be approaching recursive self-improvement, and the Mythos 5.2 system card says the model showed stronger covert capabilities than prior models on several evaluations.",
+  "headline_ja": "アンソロピック、「Mythos 5.2」「Fable 5.2」を発表…Fableの入力価格を引き下げ",
+  "summary_ja": "アンソロピックはコーディング・推論・ビジョン性能を高めたMythos 5.2とFable 5.2を発表し、Fableの入力価格を100万トークン当たり10ドルから8ドルに引き下げた。新しいFableは応答速度が30%向上した。METRの報告書がアンソロピックは再帰的自己改善に近づいている可能性があると指摘して以来初のモデル発表で、Mythos 5.2のシステムカードには、複数の評価で従来モデルより強い隠密行動能力が見られたとの評価も盛り込まれた。"
+ },
+ {
+  "date": "2026-11-09",
+  "headline": "Meta releases Muse Ember, a new lightweight model for agent execution",
+  "headline_ko": "메타, 에이전트 작업용 경량 모델 'Muse Ember' 공개…100만 토큰당 10센트",
+  "outlet": "TechCrunch",
+  "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+  "summary_ko": "메타 초지능연구소가 가장 가볍고 비용 효율적인 모델 Muse Ember를 공개했다. 도구 호출, 코딩 하위 작업, 라우팅, 긴 문서 분석처럼 에이전트가 반복하는 작업용으로 설계됐으며, 입력 100만 토큰당 10센트로 경쟁 모델보다 훨씬 싸다. 메타는 더 큰 모델 Muse Wonder가 계획을 세우고 Ember가 대량 작업을 처리하는 조합을 제시했다.",
+  "topics": [
+   "model"
+  ],
+  "orgs": [
+   "Meta"
+  ],
+  "headline_en": "Meta releases Muse Ember, a new lightweight model for agent execution",
+  "summary_en": "Meta Superintelligence Lab released Muse Ember, its lightest and most cost-efficient model yet. It is designed for the work agents repeat all day, such as tool calls, coding subtasks, routing and long document parsing, and at 10 cents per million input tokens it is significantly cheaper than competing models. Meta pitches pairing it with the larger Muse Wonder, which plans while Ember handles the volume.",
+  "headline_ja": "メタ、エージェント作業向け軽量モデル「Muse Ember」を公開…100万トークン当たり10セント",
+  "summary_ja": "メタ超知能研究所は、最も軽量でコスト効率の高いモデルMuse Emberを公開した。ツール呼び出し、コーディングのサブタスク、ルーティング、長文書の解析など、エージェントが繰り返す作業向けに設計され、入力100万トークン当たり10セントと競合モデルよりはるかに安い。メタは、より大きなモデルMuse Wonderが計画を立て、Emberが大量の作業を処理する組み合わせを提示した。"
+ },
+ {
   "date": "2026-11-08",
   "headline": "Can't cook or shower: Indonesians take aim at data centres",
   "headline_ko": "\"요리도 샤워도 못 해\"…인도네시아 바탐섬 주민들, 데이터센터 반발",
