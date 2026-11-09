@@ -635,6 +635,44 @@
    "summary_ja": "イラン司法当局は、1月の全国デモで逮捕された若い男性3人をテヘラン近郊の官公庁襲撃などの罪で処刑したと明らかにした。ノルウェーの人権団体ヘンガウによると、イランは今年、1月デモの逮捕者40人を含む政治・宗教囚少なくとも79人を処刑した。10月30日にはテヘランでハロウィンに集まった若者たちを私服の治安要員が解散させた。"
   },
   {
+   "date": "2026-11-09",
+   "headline": "Senegal officials raise migrant boat death toll to 39",
+   "headline_ko": "세네갈 이주민 선박 침몰 사망자 39명으로 늘어",
+   "outlet": "France 24",
+   "url": "https://www.france24.com/en/live-news/20261109-senegal-officials-raise-migrant-boat-death-toll-to-39",
+   "summary_ko": "세네갈 앞바다 이주민 선박 침몰 사망자가 9일(월) 39명으로 늘어 최근 몇 년 새 최악의 이주 참사 가운데 하나가 됐다. 루가주 주지사는 일요일 저녁 35명이던 사망자에 부패가 심한 시신 4구가 추가로 발견됐다고 밝혔다. 희생자들은 주로 티에프와 포투 마을 출신이며, 당국은 금요일 스페인으로 향하던 다른 소형선에서 이주민 142명을 붙잡았다고 밝혔다.",
+   "topics": [
+    "accident"
+   ],
+   "orgs": [
+    "Louga regional government"
+   ],
+   "headline_en": "Senegal officials raise migrant boat death toll to 39",
+   "summary_en": "The death toll from the sinking of a migrant boat off Senegal rose to 39 on Monday the 9th, making it one of the country's deadliest migration tragedies in recent years. The Louga regional governor said four more bodies, in an advanced state of decomposition, were found, adding to the toll of 35 on Sunday evening. The victims were mostly from the villages of Thieppe and Potou, and authorities said they intercepted 142 migrants on Friday aboard another small boat bound for Spain.",
+   "headline_ja": "セネガルの移民船沈没、死者39人に増加",
+   "summary_ja": "セネガル沖での移民船沈没による死者は9日(月)に39人に増え、近年で最悪の移民惨事の一つとなった。ルーガ州知事は、日曜夜に35人だった死者に加え、腐敗の進んだ遺体4体が新たに見つかったと明らかにした。犠牲者は主にティエップとポトゥの村の出身で、当局は金曜日にスペインへ向かっていた別の小型船で移民142人を拘束したと明らかにした。"
+  },
+  {
+   "date": "2026-11-09",
+   "headline": "Sudan teachers go on strike over meagre salaries and dilapidated schools",
+   "headline_ko": "수단 교사들, 쥐꼬리 월급·무너진 학교에 파업",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/economy/2026/11/9/sudan-teachers-go-on-strike-over-meagre-salaries-and-dilapidated-schools",
+   "summary_ko": "수단 교사위원회가 정부에 요구 이행을 압박하기 위해 단계적·간헐적 파업을 벌이고 있다. 최저임금을 1만2000파운드에서 50만파운드로 올리고 7개월 전 내각 결정을 이행하라는 요구이며, 경력 26년의 한 교사는 월급 13만2000파운드(13.20달러)로 며칠밖에 버티지 못한다고 말했다. 유네스코에 따르면 전쟁으로 수단 학교의 약 30%가 파손되거나 문을 닫았다.",
+   "topics": [
+    "unrest",
+    "economy"
+   ],
+   "orgs": [
+    "Sudanese Teachers' Committee",
+    "UNESCO"
+   ],
+   "headline_en": "Sudan teachers go on strike over meagre salaries and dilapidated schools",
+   "summary_en": "The Sudanese Teachers' Committee is holding staggered, intermittent strikes to pressure the government to meet its demands. It wants the minimum wage raised from 12,000 pounds to 500,000 pounds and cabinet decisions from seven months ago implemented, and one teacher with 26 years' experience said her monthly salary of 132,000 pounds ($13.20) lasts only a few days. According to UNESCO, about 30 percent of Sudan's schools have been damaged or closed due to the war.",
+   "headline_ja": "スーダンの教師ら、わずかな給与と荒廃した学校にストライキ",
+   "summary_ja": "スーダン教師委員会は政府に要求の履行を迫るため、段階的・断続的なストライキを行っている。最低賃金を1万2000ポンドから50万ポンドに引き上げ、7カ月前の閣議決定を履行するよう求めており、経験26年のある教師は月給13万2000ポンド（13.20ドル）では数日しかもたないと語った。ユネスコによると、戦争でスーダンの学校の約30%が損壊または閉鎖された。"
+  },
+  {
    "date": "2026-11-08",
    "headline": "Iran war live: Drone hits northern Iraq gasfield, blasts in Iran’s Qeshm",
    "headline_ko": "이라크 북부 가스전 드론 피격…이란 케슘섬서 폭발",
@@ -781,24 +819,6 @@
    "summary_en": "With 99% of votes counted, the ruling ANC had 31% nationally, down about 14 percentage points from the 2021 local elections, while the main opposition Democratic Alliance had 25% and former President Zuma's uMkhonto weSizwe party about 10%. The ANC failed to win an outright majority in any of the eight major metros, including Johannesburg and Pretoria. ANC Secretary-General Fikile Mbalula called the result 'catastrophic', and parties have 14 days to negotiate coalitions.",
    "headline_ja": "南ア地方選99%開票…与党ANCは31%で大敗、8大都市すべてで過半数届かず",
    "summary_ja": "99%開票の結果、与党アフリカ民族会議(ANC)の全国得票率は31%で2021年の地方選より約14ポイント低下し、最大野党の民主同盟(DA)は25%、ズマ前大統領のウムコント・ウェシズウェ党は約10%を獲得した。ANCはヨハネスブルクやプレトリアなど8大都市のいずれでも過半数を得られなかった。フィキレ・ムバルラANC幹事長は結果を「破滅的」と述べ、各党は14日以内に連立交渉を行う必要がある。"
-  },
-  {
-   "date": "2026-11-09",
-   "headline": "Senegal officials raise migrant boat death toll to 39",
-   "headline_ko": "세네갈 이주민 선박 침몰 사망자 39명으로 늘어",
-   "outlet": "France 24",
-   "url": "https://www.france24.com/en/live-news/20261109-senegal-officials-raise-migrant-boat-death-toll-to-39",
-   "summary_ko": "세네갈 앞바다 이주민 선박 침몰 사망자가 9일(월) 39명으로 늘어 최근 몇 년 새 최악의 이주 참사 가운데 하나가 됐다. 루가주 주지사는 일요일 저녁 35명이던 사망자에 부패가 심한 시신 4구가 추가로 발견됐다고 밝혔다. 희생자들은 주로 티에프와 포투 마을 출신이며, 당국은 금요일 스페인으로 향하던 다른 소형선에서 이주민 142명을 붙잡았다고 밝혔다.",
-   "topics": [
-    "accident"
-   ],
-   "orgs": [
-    "Louga regional government"
-   ],
-   "headline_en": "Senegal officials raise migrant boat death toll to 39",
-   "summary_en": "The death toll from the sinking of a migrant boat off Senegal rose to 39 on Monday the 9th, making it one of the country's deadliest migration tragedies in recent years. The Louga regional governor said four more bodies, in an advanced state of decomposition, were found, adding to the toll of 35 on Sunday evening. The victims were mostly from the villages of Thieppe and Potou, and authorities said they intercepted 142 migrants on Friday aboard another small boat bound for Spain.",
-   "headline_ja": "セネガルの移民船沈没、死者39人に増加",
-   "summary_ja": "セネガル沖での移民船沈没による死者は9日(月)に39人に増え、近年で最悪の移民惨事の一つとなった。ルーガ州知事は、日曜夜に35人だった死者に加え、腐敗の進んだ遺体4体が新たに見つかったと明らかにした。犠牲者は主にティエップとポトゥの村の出身で、当局は金曜日にスペインへ向かっていた別の小型船で移民142人を拘束したと明らかにした。"
   },
   {
    "date": "2026-11-08",
