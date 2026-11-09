@@ -181,6 +181,40 @@
   "summary_ja": "KOSPIの急落を受け、証券業界が指数見通しを相次いで引き下げた。ゴールドマン・サックスは12か月目標を1万2000から9000へ25%下げ、大信証券は来年のレンジを5200～8200、KB証券は5100～9000とした。現代自動車証券（6000～1万500）とユアンタ証券（6000～1万）は上限を1万前後に維持した。"
  },
  {
+  "date": "2026-11-09",
+  "headline": "코스피, 0.81% 하락한 5018.85 마감…코스닥 0.82%↓(2보)",
+  "headline_ko": "코스피, 0.81% 하락한 5018.85 마감…코스닥 0.82%↓",
+  "outlet": "뉴스1",
+  "url": "https://www.news1.kr/finance/market-exr/6347932",
+  "summary_ko": "9일 코스피는 전 거래일보다 40.84포인트(0.81%) 내린 5018.85에 거래를 마쳤다. 장중 한때 5150선을 회복하기도 했지만 하락으로 마감했고, 코스닥도 5.30포인트(0.82%) 내렸다.",
+  "topics": [
+   "stocks"
+  ],
+  "orgs": [
+   "KOSPI"
+  ],
+  "headline_en": "KOSPI closes down 0.81% at 5,018.85; KOSDAQ down 0.82%",
+  "summary_en": "On the 9th the KOSPI closed 40.84 points (0.81%) lower at 5,018.85. It briefly recovered to the 5,150 level intraday but ended lower, and the KOSDAQ also fell 5.30 points (0.82%).",
+  "headline_ja": "KOSPI、0.81%安の5018.85で引け…KOSDAQは0.82%安",
+  "summary_ja": "9日のKOSPIは前営業日比40.84ポイント（0.81%）安の5018.85で取引を終えた。取引時間中に一時5150台を回復したが下落で引け、KOSDAQも5.30ポイント（0.82%）下げた。"
+ },
+ {
+  "date": "2026-11-09",
+  "headline": "원·달러 환율 9.5원 내린 1347.1원",
+  "headline_ko": "원·달러 환율 9.5원 내린 1347.1원",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611091533408579",
+  "summary_ko": "9일 서울 외환시장에서 원·달러 환율은 오후 3시 30분 기준 전 거래일 주간 종가보다 9.5원 내린 1347.1원을 기록했다.",
+  "topics": [
+   "fx"
+  ],
+  "orgs": [],
+  "headline_en": "Won-dollar rate falls 9.5 won to 1,347.1",
+  "summary_en": "In the Seoul foreign exchange market on the 9th, the won-dollar rate stood at 1,347.1 won as of 3:30 p.m., down 9.5 won from the previous session's daytime close.",
+  "headline_ja": "ウォン・ドル相場、9.5ウォン安の1347.1ウォン",
+  "summary_ja": "9日のソウル外国為替市場でウォン・ドル相場は午後3時30分時点で前営業日の昼間終値より9.5ウォン下げ、1347.1ウォンとなった。"
+ },
+ {
   "date": "2026-11-08",
   "headline": "서울 아파트 매물 석달 새 33%↑…집값 안정으로 이어질까",
   "headline_ko": "서울 아파트 매물 석달 새 33% 증가…25개 구 모두 늘어",
