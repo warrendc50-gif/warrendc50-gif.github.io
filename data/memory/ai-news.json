@@ -40,6 +40,25 @@
   "summary_ja": "AMD、フュリオサAI、マンゴーブーストが、オープンな異種AIインフラを共同で設計・検証する業務協約を結んだ。AMDのCPU・GPU、フュリオサAIの第2世代NPU「レネゲード」、マンゴーブーストのDPU「ブーストX」を組み合わせてAI推論向けの構成を検証し、最初のクラスターを来春ソウルに構築する計画だ。商用化には統合性能・安定性の検証と販売・保証責任の具体化が課題とされる。"
  },
  {
+  "date": "2026-11-09",
+  "headline": "\"몇 달 내 납품해달라\" 머스크 조달팀, 日 극비 찾아 긴급 주문",
+  "headline_ko": "\"몇 달 내 납품해달라\" 머스크 조달팀, 日 극비 찾아 긴급 주문",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611090902383508",
+  "summary_ko": "닛케이에 따르면 일론 머스크의 초대형 반도체 생산 프로젝트 '테라팹'의 조달 담당자들이 이달 초 일본을 찾아 현지 장비업체들과 회의를 열고 2028년 하반기 양산 목표에 맞춘 장비 도입을 조율했다. 일부 업체는 몇 달 뒤를 납기로 지정받았다고 밝혔다. 일본 업계는 대형 고객을 반기면서도 양산 경험이 없는 머스크의 공격적인 일정에 부담을 느끼고 있다.",
+  "topics": [
+   "chips"
+  ],
+  "orgs": [
+   "Terafab",
+   "Nikkei"
+  ],
+  "headline_en": "\"Deliver within months\": Musk's procurement team quietly visits Japan with urgent orders",
+  "summary_en": "According to Nikkei, procurement staff for Elon Musk's giant chipmaking project 'Terafab' visited Japan early this month, meeting local equipment suppliers to coordinate tool deliveries for a target of mass production in the second half of 2028. Some suppliers said they were given delivery deadlines just months away. Japanese firms welcome a big new customer but are uneasy about the aggressive schedule from Musk, who has no chip mass-production experience.",
+  "headline_ja": "「数か月以内に納品を」マスク氏の調達チーム、日本を極秘訪問し緊急発注",
+  "summary_ja": "日経によると、イーロン・マスク氏の巨大半導体生産プロジェクト「テラファブ」の調達担当者らが今月初めに来日し、現地の装置メーカーと会合を開いて、2028年後半の量産開始目標に合わせた装置導入を調整した。一部のメーカーは数か月後を納期に指定されたという。日本の業界は大口顧客の登場を歓迎しつつも、量産経験のないマスク氏の攻撃的な日程に負担を感じている。"
+ },
+ {
   "date": "2026-11-08",
   "headline": "Can't cook or shower: Indonesians take aim at data centres",
   "headline_ko": "\"요리도 샤워도 못 해\"…인도네시아 바탐섬 주민들, 데이터센터 반발",
