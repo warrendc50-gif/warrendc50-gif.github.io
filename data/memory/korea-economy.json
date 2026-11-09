@@ -1,5 +1,23 @@
 [
  {
+  "date": "2026-11-09",
+  "headline": "[속보] 코스피 25.49p(0.50%) 내린 5034.20 출발…코스닥은 638.82",
+  "headline_ko": "코스피 0.50% 내린 5034.20 출발…코스닥은 638.82",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611090855226187",
+  "summary_ko": "9일 코스피는 전 거래일보다 25.49포인트(0.50%) 내린 5034.20에 거래를 시작했다. 코스닥은 0.85% 내린 638.82에 개장했다.",
+  "topics": [
+   "stocks"
+  ],
+  "orgs": [
+   "KOSPI"
+  ],
+  "headline_en": "KOSPI opens down 0.50% at 5,034.20; KOSDAQ at 638.82",
+  "summary_en": "On the 9th the KOSPI opened 25.49 points (0.50%) lower than the previous session at 5,034.20. The KOSDAQ opened 0.85% lower at 638.82.",
+  "headline_ja": "KOSPI、0.50%安の5034.20で寄り付き…KOSDAQは638.82",
+  "summary_ja": "9日のKOSPIは前営業日比25.49ポイント（0.50%）安の5034.20で取引を始めた。KOSDAQは0.85%安の638.82で寄り付いた。"
+ },
+ {
   "date": "2026-11-08",
   "headline": "서울 아파트 매물 석달 새 33%↑…집값 안정으로 이어질까",
   "headline_ko": "서울 아파트 매물 석달 새 33% 증가…25개 구 모두 늘어",
