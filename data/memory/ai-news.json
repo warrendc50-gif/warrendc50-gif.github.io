@@ -77,6 +77,45 @@
   "summary_ja": "中国官製メディアの環球時報は、米国のデータセンター規制の可能性に触れ、「米国のデータを中国で計算する」案を提案し、中国のインフラ活用を促した。同紙はこの構想が現実とは隔たりがあるとしつつも、AI分野の協力拡大は可能で必要だと強調した。"
  },
  {
+  "date": "2026-11-09",
+  "headline": "8주 만에 성능 70%↑…LG AI연구원, 'K-엑사원 2.5' 무료 개방",
+  "headline_ko": "8주 만에 성능 70%↑…LG AI연구원, 'K-엑사원 2.5' 무료 개방",
+  "outlet": "뉴스1",
+  "url": "https://news1.kr/industry/general-industry/6347154",
+  "summary_ko": "LG AI연구원이 9일 'K-엑사원 2.5' API를 개발자와 기업 누구나 쓸 수 있도록 전면 무료로 개방했다. 8주 만에 종합 성능을 70% 이상 끌어올렸다고 설명했으며, 내년 1월까지 프런티어급 3차 모델을 완성하는 것이 목표다.",
+  "topics": [
+   "model",
+   "korea"
+  ],
+  "orgs": [
+   "LG AI연구원"
+  ],
+  "headline_en": "Performance up 70% in 8 weeks: LG AI Research opens 'K-EXAONE 2.5' for free",
+  "summary_en": "On the 9th LG AI Research made the 'K-EXAONE 2.5' API fully free for any developer or company. It said overall performance improved by more than 70% in eight weeks, and it aims to complete a frontier-class third model by January next year.",
+  "headline_ja": "8週間で性能70%向上…LG AI研究院、「K-EXAONE 2.5」を無料公開",
+  "summary_ja": "LG AI研究院は9日、「K-EXAONE 2.5」のAPIを開発者や企業の誰もが使えるよう全面無料で公開した。8週間で総合性能を70%以上高めたと説明し、来年1月までにフロンティア級の第3モデルを完成させることを目標としている。"
+ },
+ {
+  "date": "2026-11-09",
+  "headline": "젠슨 황 불륜 상대 다닌 싱가포르 기업, 엔비디아칩 밀반출 의혹",
+  "headline_ko": "젠슨 황 불륜 상대 다닌 싱가포르 기업, 엔비디아칩 밀반출 의혹",
+  "outlet": "뉴스1",
+  "url": "https://www.news1.kr/world/international-economy/6347042",
+  "summary_ko": "동남아 최대 엔비디아 고객사인 싱가포르 기업 메가스피드가 미국의 대중 수출통제 위반 의혹으로 조사를 받고 있다. 이 회사는 최소 13만6000개의 GPU를 들여왔는데 확인된 수량과 약 5만 개 차이가 나 미국과 싱가포르가 재고 차이를 조사 중이다. 엔비디아는 중국으로 밀반출된 증거를 발견하지 못했다고 밝혔다.",
+  "topics": [
+   "chips",
+   "policy"
+  ],
+  "orgs": [
+   "Nvidia",
+   "Megaspeed"
+  ],
+  "headline_en": "Singapore firm where Jensen Huang's affair partner worked faces Nvidia chip smuggling suspicions",
+  "summary_en": "Singapore's Megaspeed, Nvidia's largest customer in Southeast Asia, is under investigation on suspicion of violating US export controls on China. It imported at least 136,000 GPUs, and with a gap of about 50,000 from the verified count, the US and Singapore are investigating the inventory discrepancy. Nvidia said it has found no evidence of smuggling to China.",
+  "headline_ja": "ジェンスン・フアン氏の不倫相手が勤めたシンガポール企業、エヌビディア製チップ密輸疑惑",
+  "summary_ja": "東南アジア最大のエヌビディア顧客であるシンガポール企業メガスピードが、米国の対中輸出規制違反の疑いで調査を受けている。同社は少なくとも13万6000個のGPUを輸入したが、確認された数量と約5万個の差があり、米国とシンガポールが在庫の差を調べている。エヌビディアは中国への密輸の証拠は見つかっていないとしている。"
+ },
+ {
   "date": "2026-11-08",
   "headline": "Can't cook or shower: Indonesians take aim at data centres",
   "headline_ko": "\"요리도 샤워도 못 해\"…인도네시아 바탐섬 주민들, 데이터센터 반발",
