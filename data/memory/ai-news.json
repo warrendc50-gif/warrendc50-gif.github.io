@@ -1,5 +1,25 @@
 [
  {
+  "date": "2026-11-10",
+  "headline": "美 워런, 빅테크·월가 전방위 조사 예고…中 AI 반도체도 규제",
+  "headline_ko": "美 워런, 빅테크·월가 전방위 조사 예고…中 AI 반도체도 규제",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611100516239610",
+  "summary_ko": "상원 은행위원장을 맡을 예정인 엘리자베스 워런 의원이 중국행 첨단 AI 반도체 수출 통제 강화와 예측시장 규제를 추진할 계획이다. 워런 측은 빅테크 CEO, 트럼프 행정부 당국자, 월가 경영진에게 관련 문서 보존을 요청하며 공격적인 감독·조사 계획을 준비하고 있다고 밝혔다. 기사는 대중 AI 반도체 규제가 강화되면 엔비디아 등 미국 반도체 기업이 추가 압박을 받을 수 있다고 전했다.",
+  "topics": [
+   "policy",
+   "chips"
+  ],
+  "orgs": [
+   "US Senate",
+   "Nvidia"
+  ],
+  "headline_en": "Warren signals sweeping probes of Big Tech and Wall Street, tighter rules on AI chips to China",
+  "summary_en": "Sen. Elizabeth Warren, set to chair the Senate Banking Committee, plans to tighten export controls on advanced AI chips to China and push for prediction-market regulation. Her office said she is preparing an aggressive oversight and investigation plan and has asked Big Tech CEOs, Trump administration officials and Wall Street executives to preserve relevant documents. The article says tighter China AI-chip rules could put additional pressure on US chipmakers such as Nvidia.",
+  "headline_ja": "米ウォーレン氏、ビッグテック・ウォール街を全面調査へ…中国向けAI半導体も規制",
+  "summary_ja": "上院銀行委員長に就く予定のエリザベス・ウォーレン議員は、中国向け先端AI半導体の輸出規制強化と予測市場の規制を推進する計画だ。ウォーレン氏側は、ビッグテックのCEO、トランプ政権当局者、ウォール街の経営陣に関連文書の保存を求め、積極的な監督・調査計画を準備していると明らかにした。記事は、対中AI半導体規制が強化されればエヌビディアなど米半導体企業が追加の圧力を受ける可能性があると伝えた。"
+ },
+ {
   "date": "2026-11-09",
   "headline": "젠슨 황, 불륜 인정…엔비디아 이사회, 中 간첩 연루 의혹 독립 조사 착수",
   "headline_ko": "젠슨 황, 불륜 인정…엔비디아 이사회, 中 간첩 연루 의혹 독립 조사 착수",
