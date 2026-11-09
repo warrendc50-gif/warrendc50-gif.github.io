@@ -413,6 +413,46 @@
   "summary_ja": "中国外務省の報道官は、エヌビディアのジェンスン・フアンCEOの恋人アリス・フアン氏が中国の情報機関のために活動していたとのニューヨーク・タイムズの報道を「何の根拠もない完全なねつ造」と否定した。アリス・フアン氏はシンガポールの技術企業メガスピードの幹部で、米当局は同社がエヌビディアのAI半導体を中国に迂回供給したかも調べてきた。トランプ大統領はAPEC首脳会議にフアン氏を同行させる計画を維持する意向を示した。"
  },
  {
+  "date": "2026-11-09",
+  "headline": "Meta expands Instagram's AI age-guessing tech globally",
+  "headline_ko": "메타, 인스타그램 AI 연령 추정 기술 전 세계로 확대",
+  "outlet": "TechCrunch",
+  "url": "https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally/",
+  "summary_ko": "메타가 인스타그램의 AI 연령 추정 기술을 전 세계로 확대해, 성인 생일을 입력한 사용자라도 10대로 의심되면 찾아낸다고 밝혔다. 생일 축하나 학년 언급 같은 프로필 신호와 키·골격 같은 시각적 단서를 분석한다. 스레드에도 연내 비슷한 전 세계 적용이 예정돼 있다.",
+  "topics": [
+   "policy",
+   "business"
+  ],
+  "orgs": [
+   "Meta",
+   "Instagram"
+  ],
+  "headline_en": "Meta expands Instagram's AI age-guessing tech globally",
+  "summary_en": "Meta said it is expanding Instagram's AI age-estimation technology worldwide to find users it suspects are teens, even if they entered an adult birthday. It analyzes profile signals such as birthday celebrations or mentions of school grades, and visual cues such as height or bone structure. A similar global rollout is planned for Threads later this year.",
+  "headline_ja": "メタ、インスタグラムのAI年齢推定技術を全世界に拡大",
+  "summary_ja": "メタはインスタグラムのAI年齢推定技術を全世界に拡大し、大人の誕生日を入力したユーザーでも10代と疑われれば見つけ出すと発表した。誕生日のお祝いや学年への言及といったプロフィールのシグナルと、身長や骨格などの視覚的手がかりを分析する。スレッズにも年内に同様の全世界展開が予定されている。"
+ },
+ {
+  "date": "2026-11-09",
+  "headline": "Waymo robotaxis kept illegally passing school buses after software fix, feds say",
+  "headline_ko": "美 당국 \"웨이모 로보택시, 소프트웨어 수정 후에도 스쿨버스 불법 추월 계속\"",
+  "outlet": "TechCrunch",
+  "url": "https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say",
+  "summary_ko": "미국 도로교통안전국(NHTSA)은 11월 6일 문서에서 웨이모 로보택시가 정차한 스쿨버스를 지나친 사례 대부분이 이를 고치려는 소프트웨어 업데이트 이후에 일어났다고 밝혔다. NHTSA 결함조사국은 조치가 충분했는지 평가하는 리콜 조사에 착수했다. 오스틴 교육구는 이런 사례가 최소 5건 있었다고 보고했다.",
+  "topics": [
+   "policy",
+   "business"
+  ],
+  "orgs": [
+   "Waymo",
+   "NHTSA"
+  ],
+  "headline_en": "Waymo robotaxis kept illegally passing school buses after software fix, feds say",
+  "summary_en": "The US National Highway Traffic Safety Administration (NHTSA) said in a November 6 filing that most reported incidents of Waymo robotaxis passing stopped school buses occurred after a software update meant to fix the problem. NHTSA's Office of Defects Investigation opened a recall query to assess whether the remedy was adequate. The Austin school district reported at least five such incidents.",
+  "headline_ja": "米当局「ウェイモのロボタクシー、ソフト修正後もスクールバスの違法追い越し続く」",
+  "summary_ja": "米国道路交通安全局（NHTSA）は11月6日の文書で、ウェイモのロボタクシーが停車中のスクールバスを追い越した事例の大半が、問題を修正するためのソフトウェア更新後に起きたと明らかにした。NHTSA欠陥調査局は対策が十分かを評価するリコール調査に着手した。オースティン教育区はこうした事例が少なくとも5件あったと報告した。"
+ },
+ {
   "date": "2026-11-08",
   "headline": "Can't cook or shower: Indonesians take aim at data centres",
   "headline_ko": "\"요리도 샤워도 못 해\"…인도네시아 바탐섬 주민들, 데이터센터 반발",
