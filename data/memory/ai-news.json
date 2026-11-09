@@ -116,6 +116,26 @@
   "summary_ja": "東南アジア最大のエヌビディア顧客であるシンガポール企業メガスピードが、米国の対中輸出規制違反の疑いで調査を受けている。同社は少なくとも13万6000個のGPUを輸入したが、確認された数量と約5万個の差があり、米国とシンガポールが在庫の差を調べている。エヌビディアは中国への密輸の証拠は見つかっていないとしている。"
  },
  {
+  "date": "2026-11-09",
+  "headline": "[오늘 트럼프는] \"젠슨 황은 훌륭한 사람…'불륜 문제' 대화 안 해\"",
+  "headline_ko": "트럼프 \"젠슨 황은 훌륭한 사람…'불륜 문제' 대화 안 해\"",
+  "outlet": "뉴스1",
+  "url": "https://www.news1.kr/world/usa-canada/6347576",
+  "summary_ko": "트럼프 대통령은 8일 플로리다에서 워싱턴으로 돌아오기 전 기자들에게 젠슨 황 엔비디아 CEO를 훌륭한 사람이라고 평가하고, 불륜 문제에 대해서는 대화를 나누지 않았다고 말했다.",
+  "topics": [
+   "chips",
+   "policy"
+  ],
+  "orgs": [
+   "Nvidia",
+   "White House"
+  ],
+  "headline_en": "Trump: \"Jensen Huang is a great man… didn't talk about the 'affair issue'\"",
+  "summary_en": "Before returning to Washington from Florida on the 8th, President Trump told reporters that Nvidia CEO Jensen Huang is a great man and that he had not talked with him about the affair issue.",
+  "headline_ja": "トランプ氏「ジェンスン・フアン氏は立派な人…『不倫問題』は話していない」",
+  "summary_ja": "トランプ大統領は8日、フロリダからワシントンに戻る前に記者団に対し、エヌビディアのジェンスン・フアンCEOを立派な人物だと評価し、不倫問題については話をしていないと述べた。"
+ },
+ {
   "date": "2026-11-08",
   "headline": "Can't cook or shower: Indonesians take aim at data centres",
   "headline_ko": "\"요리도 샤워도 못 해\"…인도네시아 바탐섬 주민들, 데이터센터 반발",

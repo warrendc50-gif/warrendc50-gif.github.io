@@ -174,6 +174,26 @@
    "summary_ja": "イエメンで24時間に50人以上が死亡し、戦闘再開以降で最悪の水準になったと報じられた。"
   },
   {
+   "date": "2026-11-09",
+   "headline": "\"트럼프, 9일 카타르 총리와 비공개 회담 예정…이란전쟁 논의\"",
+   "headline_ko": "\"트럼프, 9일 카타르 총리와 비공개 회담 예정…이란전쟁 논의\"",
+   "outlet": "뉴스1",
+   "url": "https://www.news1.kr/world/usa-canada/6347524",
+   "summary_ko": "백악관 일정에 따르면 트럼프 대통령은 9일 알사니 카타르 총리와 비공개 회담을 갖고 이란 전쟁을 논의할 예정이다. 카타르는 미국과 이란 사이에서 핵 문제와 종전 협상의 쟁점을 좁히는 핵심 중재자로 평가된다.",
+   "topics": [
+    "conflict",
+    "politics"
+   ],
+   "orgs": [
+    "Qatar",
+    "White House"
+   ],
+   "headline_en": "\"Trump to hold closed-door meeting with Qatar's prime minister on the 9th to discuss Iran war\"",
+   "summary_en": "According to the White House schedule, President Trump will hold a closed-door meeting with Qatari Prime Minister Al Thani on the 9th to discuss the Iran war. Qatar is seen as a key mediator narrowing differences between the US and Iran on nuclear issues and a peace deal.",
+   "headline_ja": "「トランプ氏、9日にカタール首相と非公開会談へ…イラン戦争を協議」",
+   "summary_ja": "ホワイトハウスの日程によると、トランプ大統領は9日、カタールのサーニ首相と非公開で会談し、イラン戦争について協議する予定だ。カタールは米国とイランの間で核問題と和平交渉の争点を狭める中核的な仲介国とされる。"
+  },
+  {
    "date": "2026-11-08",
    "headline": "Iran war live: Drone hits northern Iraq gasfield, blasts in Iran’s Qeshm",
    "headline_ko": "이라크 북부 가스전 드론 피격…이란 케슘섬서 폭발",
@@ -341,21 +361,21 @@
   },
   {
    "date": "2026-11-08",
-   "headline": "At least 21 dead as small boat sinks off Senegal",
-   "headline_ko": "세네갈 해안서 이주민 소형선 침몰…최소 21명 사망",
+   "headline": "At least 34 dead as small boat sinks off Senegal",
+   "headline_ko": "세네갈 해안서 이주민 소형선 침몰…최소 34명 사망",
    "outlet": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/2026/11/8/at-least-21-dead-as-small-boat-sinks-off-senegal",
-   "summary_ko": "7일(토) 세네갈 다카르와 생루이 사이 케베메르주 룸풀 사구 앞바다에서 이주민을 태운 소형선이 뒤집혀 시신 21구가 수습되고 1명이 구조됐다고 세네갈 내무부가 밝혔다. 내무부는 사망자 수가 '잠정'이며 수색이 계속되고 있다고 했다. 현지 일간지 르솔레유는 희생자 대부분이 같은 주의 레오나·티에프 지역 출신이라고 전했다.",
+   "summary_ko": "7일(토) 세네갈 다카르와 생루이 사이 케베메르주 룸풀 사구 앞바다에서 이주민을 태운 소형선이 뒤집혀 최소 34명이 숨졌다고 세네갈 국영 APS통신이 전했고, 인권단체 ADHA도 이를 확인했다. 세네갈 내무부는 1명이 구조됐다고 밝혔다. 현지 일간지 르솔레유는 희생자 대부분이 같은 주의 레오나·티에프 지역 출신이라고 전했다.",
    "topics": [
     "accident"
    ],
    "orgs": [
     "세네갈 내무부"
    ],
-   "headline_en": "At least 21 dead as small boat sinks off Senegal",
-   "summary_en": "Senegal's Interior Ministry said 21 bodies were recovered and one person rescued after a small migrant boat capsized on Saturday the 7th off the Loumpoul dunes in Kebemer department, between Dakar and Saint-Louis. The ministry called the toll provisional and said the search is ongoing. Local newspaper Le Soleil said most of the victims were from the Leona and Thieppe districts in the same department.",
-   "headline_ja": "セネガル沖で移民の小型船が沈没…少なくとも21人死亡",
-   "summary_ja": "セネガル内務省によると、7日(土)、ダカールとサンルイの間のケベメル県ルンプル砂丘沖で移民を乗せた小型船が転覆し、遺体21体が収容され、1人が救助された。内務省は死者数は「暫定」で捜索が続いていると述べた。地元紙ル・ソレイユは、犠牲者の多くが同じ県のレオナとティエップ地区の出身だと伝えた。"
+   "headline_en": "At least 34 dead as small boat sinks off Senegal",
+   "summary_en": "At least 34 people died when a small migrant boat capsized on Saturday the 7th off the Loumpoul dunes in Kebemer department, between Dakar and Saint-Louis, Senegal's APS news agency reported, a toll confirmed by rights group ADHA. Senegal's Interior Ministry said one person was rescued. Local newspaper Le Soleil said most of the victims were from the Leona and Thieppe districts in the same department.",
+   "headline_ja": "セネガル沖で移民の小型船が沈没…少なくとも34人死亡",
+   "summary_ja": "7日(土)、セネガルのダカールとサンルイの間のケベメル県ルンプル砂丘沖で移民を乗せた小型船が転覆し、少なくとも34人が死亡したとセネガル国営APS通信が伝え、人権団体ADHAもこれを確認した。セネガル内務省は1人が救助されたと明らかにした。地元紙ル・ソレイユは、犠牲者の多くが同じ県のレオナとティエップ地区の出身だと伝えた。"
   },
   {
    "date": "2026-11-08",
