@@ -238,6 +238,25 @@
   "summary_ja": "エヌビディアがSKテレコム、リベリオンとNVLinkフュージョンを基盤に協力する。SKTのAIデータセンターでリベリオンの国産NPUとエヌビディアのGPUを連携させる案を進め、科学技術情報通信部は国内企業のAIデータセンター参入が増えると期待した。"
  },
  {
+  "date": "2026-11-09",
+  "headline": "AI 데이터센터 건설 열풍, 동남아도 제동…태국 49개 사업 중단",
+  "headline_ko": "AI 데이터센터 건설 열풍, 동남아도 제동…태국 49개 사업 중단",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://fnnews.com/news/202611091136308705",
+  "summary_ko": "태국 정부가 전력과 물 부족 우려로 9월 데이터센터 49개 사업의 건설을 중단시키고, 다른 117개 사업의 승인 결정을 보류했다.",
+  "topics": [
+   "policy",
+   "business"
+  ],
+  "orgs": [
+   "Thailand"
+  ],
+  "headline_en": "AI data-centre boom hits brakes in Southeast Asia too… Thailand halts 49 projects",
+  "summary_en": "Over concerns about power and water shortages, Thailand's government halted construction of 49 data-centre projects in September and put approval decisions on 117 others on hold.",
+  "headline_ja": "AIデータセンター建設ブーム、東南アジアでも歯止め…タイが49事業を中止",
+  "summary_ja": "タイ政府は電力と水の不足への懸念から、9月にデータセンター49事業の建設を中止させ、ほかの117事業の承認判断を保留した。"
+ },
+ {
   "date": "2026-11-08",
   "headline": "Can't cook or shower: Indonesians take aim at data centres",
   "headline_ko": "\"요리도 샤워도 못 해\"…인도네시아 바탐섬 주민들, 데이터센터 반발",
