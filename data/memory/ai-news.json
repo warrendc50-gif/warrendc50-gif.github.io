@@ -392,6 +392,27 @@
   "summary_ja": "テスラは月曜日午前5時（現地時間）からサンアントニオをロボタクシーの運行都市に加えた。テキサス州で4都市目で、詳細はほとんど明らかにしていない。サンアントニオではウェイモもロボタクシーを運営しており、車両が冠水地域で立ち往生した問題で5か月間停止した後、最近再開した。"
  },
  {
+  "date": "2026-11-09",
+  "headline": "中 \"젠슨 황 연인 간첩설은 날조\"…美 의혹 정면 반박",
+  "headline_ko": "中 \"젠슨 황 연인 간첩설은 날조\"…美 의혹 정면 반박",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611092201078167",
+  "summary_ko": "중국 외교부 대변인은 젠슨 황 엔비디아 CEO의 연인 앨리스 황이 중국 정보기관을 위해 활동했다는 뉴욕타임스 보도 의혹을 \"아무런 근거 없이 완전히 날조된 것\"이라고 부인했다. 앨리스 황은 싱가포르 기술기업 메가스피드 임원이며, 미국 당국은 메가스피드가 엔비디아 AI 반도체를 중국에 우회 공급했는지도 조사해 왔다. 트럼프 대통령은 APEC 정상회의에 황 CEO를 동행시킨다는 계획을 유지할 뜻을 밝혔다.",
+  "topics": [
+   "chips",
+   "policy"
+  ],
+  "orgs": [
+   "Nvidia",
+   "China",
+   "MegaSpeed"
+  ],
+  "headline_en": "China: \"Spy claims about Jensen Huang's lover are fabricated\"… directly rebuts US allegations",
+  "summary_en": "A Chinese foreign ministry spokesperson denied a New York Times report that Alice Huang, the lover of Nvidia CEO Jensen Huang, worked for Chinese intelligence, calling it 'completely fabricated without any basis'. Alice Huang is an executive at Singapore tech firm MegaSpeed, which US authorities have been investigating over whether it diverted Nvidia AI chips to China. President Trump indicated he still plans to bring Huang to the APEC summit.",
+  "headline_ja": "中国「ジェンスン・フアン氏の恋人のスパイ説はねつ造」…米国の疑惑に真っ向反論",
+  "summary_ja": "中国外務省の報道官は、エヌビディアのジェンスン・フアンCEOの恋人アリス・フアン氏が中国の情報機関のために活動していたとのニューヨーク・タイムズの報道を「何の根拠もない完全なねつ造」と否定した。アリス・フアン氏はシンガポールの技術企業メガスピードの幹部で、米当局は同社がエヌビディアのAI半導体を中国に迂回供給したかも調べてきた。トランプ大統領はAPEC首脳会議にフアン氏を同行させる計画を維持する意向を示した。"
+ },
+ {
   "date": "2026-11-08",
   "headline": "Can't cook or shower: Indonesians take aim at data centres",
   "headline_ko": "\"요리도 샤워도 못 해\"…인도네시아 바탐섬 주민들, 데이터센터 반발",
