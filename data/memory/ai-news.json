@@ -589,6 +589,46 @@
   "summary_ja": "トランプ大統領は9日、エヌビディアのジェンスン・フアンCEOと話をし、フアン氏は不倫相手が中国のスパイだとは「全く知らなかった」と否定したと明らかにした。トランプ氏は、エヌビディア取締役会の独立調査につながった疑惑に「驚いた」とし、フアン氏は「大いに苦しんでいる」と述べた。記事は、トランプ氏がアリス・フアン氏のスパイ疑惑を最近になって知ったとの趣旨で話したと伝えた。"
  },
  {
+  "date": "2026-11-09",
+  "headline": "The race is on to sue Nvidia",
+  "headline_ko": "엔비디아 상대 주주 소송 경쟁 시작…로젠 \"집단소송 준비\"",
+  "outlet": "TechCrunch",
+  "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+  "summary_ko": "엔비디아 이사회가 젠슨 황 CEO와 앨리스 황의 관계 조사에 나선 뒤 첫 거래일인 9일 주가가 4% 넘게 떨어지자, 여러 로펌이 엔비디아의 허위·오해 소지 발언 여부 조사에 착수했다. 로젠 로펌은 집단소송을 준비하고 있다고 밝혔다. 스탠퍼드 로스쿨 로버트 바틀릿 교수는 소송 제기에 \"분명히 걸겠다\"며 회사의 이전 발언이 \"명백히 오해를 부르는 발언\"이었다고 말했다.",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "Nvidia",
+   "Rosen Law Firm"
+  ],
+  "headline_en": "The race is on to sue Nvidia",
+  "summary_en": "After Nvidia's stock slid more than 4% on the 9th, the first trading day after its board said it would investigate CEO Jensen Huang's relationship with Alice Huang, several law firms launched investigations into whether Nvidia made false or misleading statements. Rosen Law Firm said it is preparing a class action lawsuit. Stanford Law professor Robert Bartlett said he would \"definitely wager\" there will be a filing, calling the company's earlier statement \"clearly a misleading statement.\"",
+  "headline_ja": "エヌビディア相手の株主訴訟競争が始まる…ローゼン「集団訴訟を準備」",
+  "summary_ja": "エヌビディア取締役会がジェンスン・フアンCEOとアリス・フアン氏の関係の調査に乗り出した後の最初の取引日である9日に株価が4%超下落すると、複数の法律事務所がエヌビディアの虚偽・誤解を招く発言の有無について調査に着手した。ローゼン法律事務所は集団訴訟を準備していると明らかにした。スタンフォード大ロースクールのロバート・バートレット教授は訴訟提起に「必ず賭ける」とし、同社の以前の発言は「明らかに誤解を招く発言」だったと述べた。"
+ },
+ {
+  "date": "2026-11-09",
+  "headline": "A short seller flagged Nvidia CEO's ties to a suspected Chinese spy six months before the scandal",
+  "headline_ko": "공매도 업체 컬퍼, 6개월 전 이미 젠슨 황·中스파이 의혹 인물 관계 지적",
+  "outlet": "TechCrunch",
+  "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+  "summary_ko": "뉴욕의 공매도 업체 컬퍼 리서치는 5월 13일 보고서에서 젠슨 황 CEO와 메가스피드 임원 앨리스 황의 관계가 \"불편할 정도로 가깝다\"고 지적했다. 컬퍼는 메가스피드의 부채·자본 총계가 2023년 말 3300만 달러에서 2024년 말 약 30억 달러로 불었고, 상당 부분이 출처 불명의 환불 가능 예치금이었다고 주장했다. 기사는 컬퍼가 공매도로 이익을 볼 수 있는 입장이고 칩 불법 전용 의혹은 독립적으로 검증되지 않았다고 전했다.",
+  "topics": [
+   "chips",
+   "business"
+  ],
+  "orgs": [
+   "Nvidia",
+   "Culper Research",
+   "Megaspeed"
+  ],
+  "headline_en": "A short seller flagged Nvidia CEO's ties to a suspected Chinese spy six months before the scandal",
+  "summary_en": "New York-based short seller Culper Research, in a May 13 report, called the relationship between CEO Jensen Huang and Megaspeed executive Alice Huang \"uncomfortably close.\" Culper said Megaspeed's total liabilities and equity grew from $33 million at the end of 2023 to around $3 billion by the end of 2024, much of it refundable deposits from an unidentified source. The article notes Culper stood to benefit financially and that its allegations of illegal chip diversion have not been independently verified.",
+  "headline_ja": "空売り業者カルパー、6カ月前にジェンスン・フアン氏と中国スパイ疑惑人物の関係を指摘",
+  "summary_ja": "ニューヨークの空売り業者カルパー・リサーチは5月13日の報告書で、ジェンスン・フアンCEOとメガスピード幹部アリス・フアン氏の関係が「不快なほど近い」と指摘していた。カルパーは、メガスピードの負債・資本合計が2023年末の3300万ドルから2024年末に約30億ドルへ膨らみ、その多くが出所不明の返金可能な預かり金だったと主張した。記事は、カルパーが空売りで利益を得る立場にあり、チップの不正転用疑惑は独自に検証されていないと伝えた。"
+ },
+ {
   "date": "2026-11-08",
   "headline": "Can't cook or shower: Indonesians take aim at data centres",
   "headline_ko": "\"요리도 샤워도 못 해\"…인도네시아 바탐섬 주민들, 데이터센터 반발",
