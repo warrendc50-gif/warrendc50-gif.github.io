@@ -373,6 +373,25 @@
   "summary_ja": "エヌビディア株は9日の取引開始前に約5%下落した。米情報機関が北京に情報を渡してきたとみるメガスピード幹部アリス・フアン氏とジェンスン・フアンCEOの関係について、取締役会が独立取締役と外部弁護士による調査に着手したことを受けたものだ。エヌビディアはフアン氏が中断なくCEOを続けると表明した。"
  },
  {
+  "date": "2026-11-09",
+  "headline": "Tesla expands robotaxi service to San Antonio",
+  "headline_ko": "테슬라, 로보택시 서비스 샌안토니오로 확대…텍사스 네 번째 도시",
+  "outlet": "TechCrunch",
+  "url": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
+  "summary_ko": "테슬라가 월요일 오전 5시(현지시간)부터 샌안토니오를 로보택시 운행 도시에 추가했다. 텍사스주에서 네 번째 도시이며 회사는 세부 내용을 거의 밝히지 않았다. 샌안토니오에서는 웨이모도 로보택시를 운영하고 있으며, 차량이 침수 지역에 갇히는 문제로 5개월간 중단했다가 최근 재개했다.",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "Tesla",
+   "Waymo"
+  ],
+  "headline_en": "Tesla expands robotaxi service to San Antonio",
+  "summary_en": "Tesla added San Antonio as a robotaxi city starting at 5 a.m. local time on Monday, its fourth in Texas, giving few details. Waymo also runs a robotaxi service in San Antonio and recently restarted it after a five-month pause tied to vehicles getting stuck in floodwater.",
+  "headline_ja": "テスラ、ロボタクシーをサンアントニオに拡大…テキサス州で4都市目",
+  "summary_ja": "テスラは月曜日午前5時（現地時間）からサンアントニオをロボタクシーの運行都市に加えた。テキサス州で4都市目で、詳細はほとんど明らかにしていない。サンアントニオではウェイモもロボタクシーを運営しており、車両が冠水地域で立ち往生した問題で5か月間停止した後、最近再開した。"
+ },
+ {
   "date": "2026-11-08",
   "headline": "Can't cook or shower: Indonesians take aim at data centres",
   "headline_ko": "\"요리도 샤워도 못 해\"…인도네시아 바탐섬 주민들, 데이터센터 반발",
