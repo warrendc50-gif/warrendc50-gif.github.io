@@ -73,6 +73,24 @@
   "summary_ja": "米中間選挙後のハイテク株暴落に続き、アジア株式市場が月曜日に反発した。取引序盤に日経平均は約3.45%、台湾加権指数は5.72%、韓国KOSPIは1.68%上昇し、香港ハンセン指数は0.19%高にとどまった。先週木曜日のウォール街では、民主党支配の議会がAIデータセンターの展開を遅らせかねないとの懸念から約2.5兆ドルの時価総額が失われた。"
  },
  {
+  "date": "2026-11-09",
+  "headline": "美 부채한도 상한, 이르면 내년 2월 도달… 월가 \"디폴트 시점 당겨질 수도\"",
+  "headline_ko": "美 부채한도 상한, 이르면 내년 2월 도달… 월가 \"디폴트 시점 당겨질 수도\"",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611091547344129",
+  "summary_ko": "BofA·바클레이스·모건스탠리 전략가들은 재무부의 자금 조달 전망과 현금 잔고를 감안하면 미국 정부 부채가 내년 2월 중순~말 41조1000억 달러 한도에 도달할 수 있다고 분석했다. 현재 한도까지 남은 여유는 8000억 달러 미만이다. 의회가 한도를 올리거나 유예하지 않으면 재무부는 3000억~3500억 달러 규모의 비상 회계 조치로 시간을 벌어야 하며, SMBC 니코증권 등은 X-데이트를 내년 8~11월로 본다.",
+  "topics": [
+   "macro"
+  ],
+  "orgs": [
+   "US Treasury"
+  ],
+  "headline_en": "US could hit debt ceiling as soon as February… Wall Street warns default date may come sooner",
+  "summary_en": "Strategists at BofA, Barclays and Morgan Stanley say that, given Treasury's latest funding outlook and cash balance, US government debt could reach its $41.1 trillion limit in mid-to-late February next year, with less than $800 billion of headroom left. Unless Congress raises or suspends the limit, Treasury would need about $300-350 billion of extraordinary measures to buy time, and SMBC Nikko and others see the X-date between August and November next year.",
+  "headline_ja": "米債務上限、早ければ来年2月に到達…ウォール街「デフォルト時期が早まる恐れ」",
+  "summary_ja": "BofA・バークレイズ・モルガン・スタンレーのストラテジストは、財務省の資金調達見通しと現金残高を踏まえると、米政府債務が来年2月中旬～下旬に41.1兆ドルの上限に達する可能性があると分析した。現在、上限までの余地は8000億ドル未満だ。議会が上限を引き上げるか停止しなければ、財務省は3000億～3500億ドル規模の特別措置で時間を稼ぐ必要があり、SMBC日興証券などはXデートを来年8～11月とみている。"
+ },
+ {
   "date": "2026-11-08",
   "headline": "폭락장마다 '줍줍'하던 美개미마저 순매도…코로나 이후 5번째 규모",
   "headline_ko": "급락장마다 사들이던 美 개인투자자마저 순매도…코로나 이후 5번째 규모",
