@@ -436,6 +436,25 @@
   "summary_ja": "韓国取引所の集計によると、外国人が有価証券市場で約29兆7千億ウォンを売り越す間、個人と機関はそれぞれ約6兆8千億ウォン、9兆9千億ウォンを買い越し、計約16兆8千億ウォンを引き受けた。しかしKOSPIは6971.35から5031.48へ1か月余りで27.83%下落し、押し目買いに動いた投資家は元本割れのリスクにさらされている。個人・機関が引き受けた株は今後の反発時に売り圧力になり得るとの指摘が出ている。"
  },
  {
+  "date": "2026-11-09",
+  "headline": "고금리에 카드사 '빈익빈 부익부'…연체율 격차 3배로 벌어졌다",
+  "headline_ko": "고금리에 카드사 '빈익빈 부익부'…연체율 격차 3배로 벌어졌다",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611092004097881",
+  "summary_ko": "나이스신용평가에 따르면 카드사 7곳의 연체율 표준편차가 2020년 말 0.17%에서 올해 6월 말 0.55%로 3.1배 커졌다. 6월 말 연체율은 우리카드 2.4%, 롯데카드 2.2%, 하나카드 2.0%로 높았고 삼성카드 1.0%, 현대카드 1.1%로 낮았다. 나이스신평은 기준금리가 3.5%를 웃도는 상황이 오래가면 격차가 과거 금리 인상기 수준으로 벌어질 수 있다고 경고했다.",
+  "topics": [
+   "banks",
+   "rates"
+  ],
+  "orgs": [
+   "나이스신용평가"
+  ],
+  "headline_en": "Card firms' rich-get-richer split under high rates: delinquency gap widens threefold",
+  "summary_en": "According to NICE Credit Rating, the standard deviation of delinquency rates across seven card companies rose 3.1-fold, from 0.17% at end-2020 to 0.55% at end-June this year. At end-June, delinquency rates were high at Woori Card (2.4%), Lotte Card (2.2%) and Hana Card (2.0%), and low at Samsung Card (1.0%) and Hyundai Card (1.1%). NICE warned that if the base rate stays above 3.5% for a long time, the gap could widen to levels seen in past rate-hike periods.",
+  "headline_ja": "高金利でカード会社「貧益貧富益富」…延滞率格差3倍に拡大",
+  "summary_ja": "ナイス信用評価によると、カード会社7社の延滞率の標準偏差は2020年末の0.17%から今年6月末には0.55%へと3.1倍に拡大した。6月末の延滞率はウリカード2.4%、ロッテカード2.2%、ハナカード2.0%と高く、サムスンカード1.0%、現代カード1.1%と低かった。ナイス信用評価は、政策金利が3.5%を上回る状況が長引けば、格差が過去の利上げ局面の水準まで広がりうると警告した。"
+ },
+ {
   "date": "2026-11-08",
   "headline": "서울 아파트 매물 석달 새 33%↑…집값 안정으로 이어질까",
   "headline_ko": "서울 아파트 매물 석달 새 33% 증가…25개 구 모두 늘어",
