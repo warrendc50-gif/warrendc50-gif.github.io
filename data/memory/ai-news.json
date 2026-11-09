@@ -569,6 +569,26 @@
   "summary_ja": "メタ超知能研究所は、最も軽量でコスト効率の高いモデルMuse Emberを公開した。ツール呼び出し、コーディングのサブタスク、ルーティング、長文書の解析など、エージェントが繰り返す作業向けに設計され、入力100万トークン当たり10セントと競合モデルよりはるかに安い。メタは、より大きなモデルMuse Wonderが計画を立て、Emberが大量の作業を処理する組み合わせを提示した。"
  },
  {
+  "date": "2026-11-09",
+  "headline": "Trump says Jensen Huang told him Monday he didn't know paramour 'was a spy'",
+  "headline_ko": "트럼프 \"젠슨 황, 불륜 상대가 스파이인 줄 전혀 몰랐다고 말해\"",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/11/09/trump-jensen-huang-nvidia-chinese-spy.html",
+  "summary_ko": "트럼프 대통령은 9일 젠슨 황 엔비디아 CEO와 통화했으며, 황 CEO가 불륜 상대가 중국 스파이라는 사실을 \"전혀 몰랐다\"고 부인했다고 밝혔다. 트럼프는 엔비디아 이사회의 독립 조사로 이어진 의혹에 \"놀랐다\"며 황 CEO가 \"큰 고통을 겪고 있다\"고 말했다. 기사는 트럼프가 앨리스 황의 스파이 의혹을 최근에야 알게 됐다는 취지로 말했다고 전했다.",
+  "topics": [
+   "chips",
+   "business"
+  ],
+  "orgs": [
+   "Nvidia",
+   "White House"
+  ],
+  "headline_en": "Trump says Jensen Huang told him Monday he didn't know paramour 'was a spy'",
+  "summary_en": "President Trump said he spoke with Nvidia CEO Jensen Huang on the 9th and that Huang denied knowing the woman he had an affair with was a Chinese spy, saying he \"had absolutely no idea.\" Trump said he was \"amazed\" by the allegations that led Nvidia's board to open an independent investigation and that Huang is \"suffering greatly.\" The article says Trump suggested he had only recently learned of the allegations that Alice Huang was a spy.",
+  "headline_ja": "トランプ氏「ジェンスン・フアン氏、不倫相手がスパイとは全く知らなかったと話した」",
+  "summary_ja": "トランプ大統領は9日、エヌビディアのジェンスン・フアンCEOと話をし、フアン氏は不倫相手が中国のスパイだとは「全く知らなかった」と否定したと明らかにした。トランプ氏は、エヌビディア取締役会の独立調査につながった疑惑に「驚いた」とし、フアン氏は「大いに苦しんでいる」と述べた。記事は、トランプ氏がアリス・フアン氏のスパイ疑惑を最近になって知ったとの趣旨で話したと伝えた。"
+ },
+ {
   "date": "2026-11-08",
   "headline": "Can't cook or shower: Indonesians take aim at data centres",
   "headline_ko": "\"요리도 샤워도 못 해\"…인도네시아 바탐섬 주민들, 데이터센터 반발",
