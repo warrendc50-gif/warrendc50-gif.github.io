@@ -770,6 +770,41 @@
    "summary_ja": "パラグアイ警察が日曜日、ウエノ銀行破綻の捜査の一環として首都アスンシオン郊外にあるペニャ前大統領の邸宅を家宅捜索したと検察が確認した。起訴状によると、ペニャ氏は2024年に邸宅建設のためウエノ銀行から約50万ドルの融資を2回受けた。ペニャ氏は背任などの罪で軍施設に拘束されており、容疑を否認している。"
   },
   {
+   "date": "2026-11-09",
+   "headline": "More than 50,000 displaced by deadly Ethiopia border clashes",
+   "headline_ko": "에티오피아 국경 유혈 충돌로 5만 명 넘게 피란…케냐 적십자",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/9/more-than-50000-displaced-by-deadly-ethiopia-border-clashes",
+   "summary_ko": "케냐 적십자 지역 책임자는 에티오피아 국경 충돌로 인한 피란민이 약 3만6000명에서 5만 명 이상으로 늘었다고 밝혔다. 충돌은 에티오피아 오로미아주와 소말리주 사이의 오랜 토지·행정 관할 분쟁에서 비롯됐으며, 10월 18일께 분쟁 지역 모얄레에 소말리주 깃발이 게양되면서 격화됐다. 유엔난민기구(UNHCR) 케냐 대표는 가족들이 귀환할 수 있도록 휴전을 촉구했다.",
+   "topics": [
+    "conflict"
+   ],
+   "orgs": [
+    "Kenya Red Cross",
+    "UNHCR"
+   ],
+   "headline_en": "More than 50,000 displaced by deadly Ethiopia border clashes",
+   "summary_en": "A Kenya Red Cross regional head said the number of people displaced by the Ethiopia border clashes has risen from about 36,000 to more than 50,000. The fighting stems from a long-standing land and administrative dispute between Ethiopia's Oromia and Somali regions, and escalated around October 18 when the Somali regional flag was raised in the disputed Moyale area. UNHCR's Kenya representative called for a ceasefire so families can return home.",
+   "headline_ja": "エチオピア国境の衝突で5万人超が避難…ケニア赤十字",
+   "summary_ja": "ケニア赤十字の地域責任者は、エチオピア国境での衝突による避難民が約3万6000人から5万人以上に増えたと明らかにした。衝突はエチオピアのオロミア州とソマリ州の長年の土地・行政管轄紛争に起因し、10月18日ごろ係争地モヤレでソマリ州の旗が掲げられたことで激化した。国連難民高等弁務官事務所（UNHCR）のケニア代表は、家族が帰還できるよう停戦を呼びかけた。"
+  },
+  {
+   "date": "2026-11-09",
+   "headline": "Partial collapse of Pakistan's Tarbela dam causes flood water surge",
+   "headline_ko": "파키스탄 타르벨라 댐 공사 현장 보호벽 일부 붕괴…급류 발생",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/partial-collapse-of-pakistans-tarbela-dam-causes-flood-water-surge",
+   "summary_ko": "파키스탄 카이버파크툰크와주에서 건설 중인 타르벨라 댐 T-5 수력발전 사업 현장의 보호벽이 무너지면서 물이 갑자기 불어났다. 휩쓸려 간 작업자 1명은 이후 구조됐고 사상자는 보고되지 않았다.",
+   "topics": [
+    "accident"
+   ],
+   "orgs": [],
+   "headline_en": "Partial collapse of Pakistan's Tarbela dam causes flood water surge",
+   "summary_en": "A protective barrier collapsed at the partially built Tarbela Dam T-5 hydropower project in Pakistan's Khyber Pakhtunkhwa province, triggering a surge of flood water. A worker who was swept away was later rescued, and no casualties were reported.",
+   "headline_ja": "パキスタン・タルベラダム工事現場の防護壁が一部崩壊…急流発生",
+   "summary_ja": "パキスタンのカイバル・パクトゥンクワ州で建設中のタルベラダムT-5水力発電事業の現場で防護壁が崩れ、水が急激に増えた。流された作業員1人はその後救助され、死傷者は報告されていない。"
+  },
+  {
    "date": "2026-11-08",
    "headline": "Iran war live: Drone hits northern Iraq gasfield, blasts in Iran’s Qeshm",
    "headline_ko": "이라크 북부 가스전 드론 피격…이란 케슘섬서 폭발",
