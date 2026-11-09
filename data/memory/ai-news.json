@@ -353,6 +353,26 @@
   "summary_ja": "アンソロピックは、韓国の企業向けクロードアカウント約100件に関する個人情報の露出を個人情報保護委員会に届け出ており、同委員会が経緯と被害範囲を調べている。外部のセキュリティ企業がアンソロピックの業務用ソフトウェアの脆弱性を突いて内部システムにアクセスし、企業担当者の氏名・メールアドレス、アカウント・組織の識別番号、料金プラン、利用量・支出情報などが露出した可能性がある。アンソロピックは、会話内容やパスワード、決済・口座情報は対象外で、アクセスの遮断と脆弱性の修正を終えたと説明した。"
  },
  {
+  "date": "2026-11-09",
+  "headline": "Nvidia stock falls 5% as scrutiny turns to Jensen Huang’s relationship with alleged Chinese spy",
+  "headline_ko": "엔비디아 주가 5% 하락…젠슨 황 '中 스파이 의혹' 여성과의 관계에 이목",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
+  "summary_ko": "엔비디아 주가가 9일 개장 전 거래에서 약 5% 떨어졌다. 미 정보기관이 중국에 정보를 넘겨온 것으로 보는 메가스피드 임원 앨리스 황과 젠슨 황 CEO의 관계에 대해 이사회가 독립 이사와 외부 변호인을 통한 조사에 착수한 데 따른 것이다. 엔비디아는 황 CEO가 중단 없이 CEO직을 이어간다고 밝혔다.",
+  "topics": [
+   "chips",
+   "business"
+  ],
+  "orgs": [
+   "Nvidia",
+   "MegaSpeed"
+  ],
+  "headline_en": "Nvidia stock falls 5% as scrutiny turns to Jensen Huang’s relationship with alleged Chinese spy",
+  "summary_en": "Nvidia shares fell about 5% in premarket trading on the 9th after the board launched an investigation, overseen by independent directors with outside counsel, into CEO Jensen Huang's relationship with MegaSpeed executive Alice Huang, whom US intelligence says has been passing information to Beijing. Nvidia said Huang will continue as CEO without interruption.",
+  "headline_ja": "エヌビディア株5%安…ジェンスン・フアン氏と「中国スパイ疑惑」女性の関係に注目",
+  "summary_ja": "エヌビディア株は9日の取引開始前に約5%下落した。米情報機関が北京に情報を渡してきたとみるメガスピード幹部アリス・フアン氏とジェンスン・フアンCEOの関係について、取締役会が独立取締役と外部弁護士による調査に着手したことを受けたものだ。エヌビディアはフアン氏が中断なくCEOを続けると表明した。"
+ },
+ {
   "date": "2026-11-08",
   "headline": "Can't cook or shower: Indonesians take aim at data centres",
   "headline_ko": "\"요리도 샤워도 못 해\"…인도네시아 바탐섬 주민들, 데이터센터 반발",
