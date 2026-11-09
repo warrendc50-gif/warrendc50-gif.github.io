@@ -1,5 +1,24 @@
 [
  {
+  "date": "2026-11-09",
+  "headline": "中 10월 생산자물가 '4년여 만에 최고'…소비자물가는 둔화",
+  "headline_ko": "中 10월 생산자물가 '4년여 만에 최고'…소비자물가는 둔화",
+  "outlet": "뉴스1",
+  "url": "https://www.news1.kr/world/northeast-asia/6347577",
+  "summary_ko": "중국의 10월 생산자물가지수(PPI)가 전년 대비 5.7% 올라 4년여 만에 가장 높은 상승률을 기록했다. 에너지 가격과 AI 수요가 생산자물가를 끌어올렸다. 소비자물가(CPI) 상승률은 0.7%로 시장 예상을 밑돌았다.",
+  "topics": [
+   "china",
+   "macro"
+  ],
+  "orgs": [
+   "China"
+  ],
+  "headline_en": "China's October producer prices hit four-year-plus high… consumer inflation slows",
+  "summary_en": "China's October producer price index rose 5.7% year on year, the fastest pace in more than four years, driven by energy prices and AI demand. Consumer price inflation came in at 0.7%, below market expectations.",
+  "headline_ja": "中国10月の生産者物価、4年余りぶり高水準…消費者物価は鈍化",
+  "summary_ja": "中国の10月の生産者物価指数（PPI）は前年比5.7%上昇し、4年余りぶりの高い伸びとなった。エネルギー価格とAI需要が生産者物価を押し上げた。消費者物価（CPI）上昇率は0.7%と市場予想を下回った。"
+ },
+ {
   "date": "2026-11-08",
   "headline": "폭락장마다 '줍줍'하던 美개미마저 순매도…코로나 이후 5번째 규모",
   "headline_ko": "급락장마다 사들이던 美 개인투자자마저 순매도…코로나 이후 5번째 규모",

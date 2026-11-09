@@ -140,6 +140,40 @@
    "summary_ja": "ブルームバーグの報道によると、ウクライナ戦争で死亡したロシア人は約40万人に達した。50代や貧困層、少数民族の被害が増えている。"
   },
   {
+   "date": "2026-11-09",
+   "headline": "트럼프 \"中 APEC서 푸틴·시진핑 만날 것…비핵화·이란 전쟁 논의\"",
+   "headline_ko": "트럼프 \"中 APEC서 푸틴·시진핑 만날 것…비핵화·이란 전쟁 논의\"",
+   "outlet": "뉴스1",
+   "url": "https://www.news1.kr/world/usa-canada/6347405",
+   "summary_ko": "트럼프 대통령은 8일 다음 주 중국 광둥성 선전에서 열리는 APEC 정상회의(18~19일)에서 푸틴 러시아 대통령, 시진핑 중국 국가주석과 만날 수 있다고 밝혔다. 의제로는 비핵화와 이란 전쟁 종식 노력 등이 거론된다. 트럼프는 러시아·우크라이나 종전 합의가 매우 근접했다고도 말했다.",
+   "topics": [
+    "politics"
+   ],
+   "orgs": [
+    "APEC"
+   ],
+   "headline_en": "Trump: \"Will meet Putin and Xi at APEC in China… to discuss denuclearization and the Iran war\"",
+   "summary_en": "President Trump said on the 8th that he may meet Russian President Putin and Chinese President Xi at next week's APEC summit in Shenzhen, Guangdong (18-19th). Denuclearization and efforts to end the Iran war are mentioned as agenda items. Trump also said a Russia-Ukraine peace deal is very close.",
+   "headline_ja": "トランプ氏「中国のAPECでプーチン氏・習氏と会う…非核化・イラン戦争を協議」",
+   "summary_ja": "トランプ大統領は8日、来週中国・広東省深圳で開かれるAPEC首脳会議（18～19日）で、ロシアのプーチン大統領、中国の習近平国家主席と会う可能性があると述べた。議題には非核化やイラン戦争終結への取り組みなどが挙がっている。トランプ氏はロシア・ウクライナの和平合意が非常に近いとも語った。"
+  },
+  {
+   "date": "2026-11-09",
+   "headline": "\"예멘서 24시간 동안 50명 이상 사망…교전 재개 이후 최악 수준\"",
+   "headline_ko": "\"예멘서 24시간 동안 50명 이상 사망…교전 재개 이후 최악 수준\"",
+   "outlet": "뉴스1",
+   "url": "https://www.news1.kr/world/middleeast-africa/6347625",
+   "summary_ko": "예멘에서 24시간 동안 50명 넘게 숨지며 교전이 재개된 이후 최악의 수준을 기록했다는 보도가 나왔다.",
+   "topics": [
+    "conflict"
+   ],
+   "orgs": [],
+   "headline_en": "\"More than 50 killed in Yemen in 24 hours… worst since fighting resumed\"",
+   "summary_en": "More than 50 people were reported killed in Yemen in 24 hours, the worst toll since fighting resumed.",
+   "headline_ja": "「イエメンで24時間に50人以上死亡…戦闘再開以降で最悪」",
+   "summary_ja": "イエメンで24時間に50人以上が死亡し、戦闘再開以降で最悪の水準になったと報じられた。"
+  },
+  {
    "date": "2026-11-08",
    "headline": "Iran war live: Drone hits northern Iraq gasfield, blasts in Iran’s Qeshm",
    "headline_ko": "이라크 북부 가스전 드론 피격…이란 케슘섬서 폭발",
