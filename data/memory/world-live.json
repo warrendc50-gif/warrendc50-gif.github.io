@@ -596,6 +596,45 @@
    "summary_ja": "フランスのルコルニュ首相は、1月予定だった最低賃金の引き上げを12月に前倒しし、1.6%引き上げると明らかにした。月額最低賃金は手取りで24ユーロ増の1,502ユーロとなる。10%引き上げを求めるCGTは「パンくずだ」と批判し、11月17日に新たな抗議行動を呼びかけた。"
   },
   {
+   "date": "2026-11-09",
+   "headline": "Israel's Shin Bet finds no evidence of foreign election meddling: Report",
+   "headline_ko": "이스라엘 신베트, 총선 외부 개입 증거 못 찾아…하레츠 보도",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/9/israels-shin-bet-finds-no-evidence-of-foreign-election-meddling-report",
+   "summary_ko": "하레츠에 따르면 이스라엘 국내정보기관 신베트는 지니 국장과 네타냐후 총리의 주장과 달리 지난달 총선에 외부 개입이 있었다는 증거를 찾지 못했다. 팔레스타인자치정부가 아랍계 정당에 수십만 셰켈을 보냈다는 의혹도 수십 명을 조사했지만 송금 증거가 나오지 않았다. 바하라브미아라 검찰총장도 선거 결과를 바꿀 만한 영향의 증거를 보지 못했다고 말했다.",
+   "topics": [
+    "politics"
+   ],
+   "orgs": [
+    "Shin Bet",
+    "Haaretz"
+   ],
+   "headline_en": "Israel's Shin Bet finds no evidence of foreign election meddling: Report",
+   "summary_en": "According to Haaretz, Israel's domestic security agency Shin Bet has found no evidence of foreign interference in last month's elections, contrary to claims by its chief Zini and Prime Minister Netanyahu. Dozens of people were questioned over allegations that the Palestinian Authority sent several hundred thousand shekels to Arab-led parties, but no evidence of transfers was found. Attorney General Baharav-Miara also said she had seen no evidence of influence that could change the election results.",
+   "headline_ja": "イスラエル・シンベト、総選挙への外部介入の証拠見つからず…ハアレツ報道",
+   "summary_ja": "ハアレツによると、イスラエルの国内情報機関シンベトは、ジニ長官とネタニヤフ首相の主張とは異なり、先月の総選挙に外部介入があった証拠を見つけられなかった。パレスチナ自治政府がアラブ系政党に数十万シェケルを送ったとの疑惑も数十人を聴取したが、送金の証拠は出なかった。バハラブミアラ検事総長も選挙結果を変えうる影響の証拠は見ていないと述べた。"
+  },
+  {
+   "date": "2026-11-09",
+   "headline": "Iran's authorities harden domestic security controls amid US strike threats",
+   "headline_ko": "이란, 美 공습 위협 속 국내 통제 강화…1월 시위 참가자 3명 처형",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/9/irans-authorities-harden-domestic-security-controls-amid-us-strike-threats",
+   "summary_ko": "이란 사법부는 1월 전국 시위 때 체포된 젊은 남성 3명을 테헤란 인근 관공서 공격 등의 혐의로 처형했다고 밝혔다. 노르웨이 인권단체 헹가우에 따르면 이란은 올해 1월 시위 체포자 40명을 포함해 정치·종교 수감자 최소 79명을 처형했다. 10월 30일 테헤란에서는 핼러윈을 맞아 모인 젊은이들을 사복 보안요원들이 해산시켰다.",
+   "topics": [
+    "politics",
+    "unrest"
+   ],
+   "orgs": [
+    "Iranian judiciary",
+    "Hengaw"
+   ],
+   "headline_en": "Iran's authorities harden domestic security controls amid US strike threats",
+   "summary_en": "Iran's judiciary said three young men arrested during nationwide protests in January were executed on charges including attacking government offices near Tehran. According to the Norway-based rights group Hengaw, Iran has executed at least 79 political or religious prisoners this year, including 40 people arrested during the January protests. On October 30 in Tehran, plainclothes security personnel dispersed young people who had gathered for Halloween.",
+   "headline_ja": "イラン、米の空爆威嚇の中で国内統制強化…1月デモ参加者3人を処刑",
+   "summary_ja": "イラン司法当局は、1月の全国デモで逮捕された若い男性3人をテヘラン近郊の官公庁襲撃などの罪で処刑したと明らかにした。ノルウェーの人権団体ヘンガウによると、イランは今年、1月デモの逮捕者40人を含む政治・宗教囚少なくとも79人を処刑した。10月30日にはテヘランでハロウィンに集まった若者たちを私服の治安要員が解散させた。"
+  },
+  {
    "date": "2026-11-08",
    "headline": "Iran war live: Drone hits northern Iraq gasfield, blasts in Iran’s Qeshm",
    "headline_ko": "이라크 북부 가스전 드론 피격…이란 케슘섬서 폭발",
