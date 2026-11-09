@@ -72,6 +72,25 @@
   "summary_ja": "米雇用統計の好調でドルが強含み、9日のドル・ウォン相場は取引序盤に小幅上昇した。午前9時20分時点で1358.05ウォンと1.45ウォン上昇した。"
  },
  {
+  "date": "2026-11-09",
+  "headline": "씨티 \"반도체 꺾이면 금리인상 조기종료…내년 하반기 인하\"",
+  "headline_ko": "씨티 \"반도체 꺾이면 금리인상 조기종료…내년 하반기 인하\"",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611090928491656",
+  "summary_ko": "한국씨티은행 김진욱 이코노미스트는 4분기~내년 1분기 반도체 현물가격과 수출이 예상과 달리 떨어지면 한은이 11월 금리를 0.25%p 올린 연 3.25%에서 인상을 끝내고, 2027년 3·4분기와 2028년 1분기에 0.25%p씩 내려 최종금리가 연 2.50%가 될 수 있다고 밝혔다. 다만 반도체 수출 호조가 이어지면 11월과 내년 2월 0.25%p씩 올려 최종금리 3.50%에 이를 것이라는 기본 전망은 유지했다.",
+  "topics": [
+   "rates"
+  ],
+  "orgs": [
+   "씨티",
+   "한국은행"
+  ],
+  "headline_en": "Citi: \"If chips turn down, rate hikes end early… cuts from second half of next year\"",
+  "summary_en": "Citi Korea economist Kim Jin-wook said that if chip spot prices and exports fall unexpectedly in Q4 to Q1 next year, the Bank of Korea could end hiking after raising rates 0.25 point to 3.25% in November, then cut 0.25 point each in Q3 and Q4 2027 and Q1 2028 to a terminal 2.50%. But Citi kept its base case that, with strong chip exports, the BOK will hike 0.25 point in November and next February to a terminal 3.50%.",
+  "headline_ja": "シティ「半導体が失速すれば利上げ早期終了…来年後半に利下げ」",
+  "summary_ja": "韓国シティ銀行のキム・ジヌク・エコノミストは、10～12月期から来年1～3月期に半導体スポット価格と輸出が予想に反して下落すれば、韓銀は11月に0.25ポイント引き上げて年3.25%とした後に利上げを終え、2027年7～9月期・10～12月期と2028年1～3月期に0.25ポイントずつ引き下げて最終金利が年2.50%になる可能性があると述べた。ただ半導体輸出の好調が続けば、11月と来年2月に0.25ポイントずつ引き上げて最終金利3.50%に達するとの基本見通しは維持した。"
+ },
+ {
   "date": "2026-11-08",
   "headline": "서울 아파트 매물 석달 새 33%↑…집값 안정으로 이어질까",
   "headline_ko": "서울 아파트 매물 석달 새 33% 증가…25개 구 모두 늘어",
