@@ -38,6 +38,24 @@
   "summary_ja": "米国株の反発にもかかわらず、9日のKOSPIは0.50%安の5034.20で始まった後、取引序盤に4990.66まで下げて5000を割り込んだ。外国人は1700億ウォンを売り越し、サムスン電子とSKハイニックスがそろって軟調だった。"
  },
  {
+  "date": "2026-11-09",
+  "headline": "반대매매 폭탄에 삼성전자도 장전 '하한가'…개장 후 보합",
+  "headline_ko": "반대매매 폭탄에 삼성전자도 장전 '하한가'…개장 후 보합",
+  "outlet": "뉴스1",
+  "url": "https://www.news1.kr/finance/general-stock/6347306",
+  "summary_ko": "9일 장 시작 전 담보 부족에 따른 반대매매 물량이 쏟아지면서 삼성전자 등이 장전 하한가에 놓였다. 개장 후 매수세가 들어오며 주요 종목의 낙폭이 줄었다. 정부는 이날부터 내년 1월 31일까지 증권사의 담보비율 유지 의무를 한시적으로 면제했다.",
+  "topics": [
+   "stocks"
+  ],
+  "orgs": [
+   "삼성전자"
+  ],
+  "headline_en": "Forced-liquidation flood puts even Samsung at pre-market lower limit; flat after open",
+  "summary_en": "Before the market opened on the 9th, a flood of forced-liquidation orders due to collateral shortfalls put Samsung Electronics and other stocks at their lower price limit in pre-market. After the open, buying came in and major stocks pared losses. From that day the government temporarily waived brokerages' collateral-ratio maintenance obligation until January 31 next year.",
+  "headline_ja": "反対売買の嵐でサムスン電子も寄り前「ストップ安」…寄り付き後は横ばい",
+  "summary_ja": "9日の取引開始前、担保不足による反対売買が殺到し、サムスン電子などが寄り前にストップ安水準となった。寄り付き後は買いが入り、主要銘柄の下げ幅が縮小した。政府はこの日から来年1月31日まで、証券会社の担保比率維持義務を一時的に免除した。"
+ },
+ {
   "date": "2026-11-08",
   "headline": "서울 아파트 매물 석달 새 33%↑…집값 안정으로 이어질까",
   "headline_ko": "서울 아파트 매물 석달 새 33% 증가…25개 구 모두 늘어",

@@ -59,6 +59,24 @@
   "summary_ja": "日経によると、イーロン・マスク氏の巨大半導体生産プロジェクト「テラファブ」の調達担当者らが今月初めに来日し、現地の装置メーカーと会合を開いて、2028年後半の量産開始目標に合わせた装置導入を調整した。一部のメーカーは数か月後を納期に指定されたという。日本の業界は大口顧客の登場を歓迎しつつも、量産経験のないマスク氏の攻撃的な日程に負担を感じている。"
  },
  {
+  "date": "2026-11-09",
+  "headline": "中관영매체 \"미국 데이터 中서 연산, 농담 아냐\"…선거 뒤 손짓",
+  "headline_ko": "中관영매체 \"미국 데이터 中서 연산, 농담 아냐\"…선거 뒤 손짓",
+  "outlet": "뉴스1",
+  "url": "https://www.news1.kr/world/northeast-asia/6347308",
+  "summary_ko": "중국 관영매체 글로벌타임스가 미국의 데이터센터 규제 가능성을 거론하며 '미국 데이터를 중국에서 연산하는' 방안을 제안하고 중국 인프라 활용을 촉구했다. 매체는 이 구상이 현실과 거리가 있지만 AI 분야 협력 확대는 가능하고 필요하다고 강조했다.",
+  "topics": [
+   "policy"
+  ],
+  "orgs": [
+   "Global Times"
+  ],
+  "headline_en": "Chinese state media: \"Computing US data in China is no joke\" — an overture after the election",
+  "summary_en": "Chinese state outlet Global Times, citing the possibility of US data-centre regulation, proposed 'computing US data in China' and urged use of Chinese infrastructure. It said the idea is far from reality but stressed that expanding AI cooperation is possible and necessary.",
+  "headline_ja": "中国官製メディア「米国のデータを中国で計算、冗談ではない」…選挙後に秋波",
+  "summary_ja": "中国官製メディアの環球時報は、米国のデータセンター規制の可能性に触れ、「米国のデータを中国で計算する」案を提案し、中国のインフラ活用を促した。同紙はこの構想が現実とは隔たりがあるとしつつも、AI分野の協力拡大は可能で必要だと強調した。"
+ },
+ {
   "date": "2026-11-08",
   "headline": "Can't cook or shower: Indonesians take aim at data centres",
   "headline_ko": "\"요리도 샤워도 못 해\"…인도네시아 바탐섬 주민들, 데이터센터 반발",
