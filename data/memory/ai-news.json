@@ -453,6 +453,24 @@
   "summary_ja": "米国道路交通安全局（NHTSA）は11月6日の文書で、ウェイモのロボタクシーが停車中のスクールバスを追い越した事例の大半が、問題を修正するためのソフトウェア更新後に起きたと明らかにした。NHTSA欠陥調査局は対策が十分かを評価するリコール調査に着手した。オースティン教育区はこうした事例が少なくとも5件あったと報告した。"
  },
  {
+  "date": "2026-11-09",
+  "headline": "구글, 보안·대용량 처리 특화 TPU 2종 공개",
+  "headline_ko": "구글, 보안·대용량 처리 특화 TPU 2종 공개",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611091834276432",
+  "summary_ko": "구글이 8세대 TPU 시스템 'TPU 8tx'와 'TPU 8i 맥스'를 공개해 8세대 라인업을 4종으로 늘렸다. TPU 8tx는 민감한 데이터를 다루는 기업·정부기관용으로 하드웨어 기반 보안을 적용했고 지연 시간을 TPU 8t 대비 최대 절반 수준으로 줄였다. TPU 8i 맥스는 TPU 8i 칩 2개를 묶어 연산 성능·SRAM 용량·HBM 대역폭을 각각 2배로 높였으며, 구글은 파이토치 코드를 TPU에서 그대로 돌리는 'TorchTPU'도 오픈소스로 공개했다.",
+  "topics": [
+   "chips"
+  ],
+  "orgs": [
+   "Google"
+  ],
+  "headline_en": "Google unveils two TPUs specialized for security and large-scale processing",
+  "summary_en": "Google unveiled the eighth-generation TPU systems 'TPU 8tx' and 'TPU 8i Max', bringing its eighth-generation lineup to four. TPU 8tx, aimed at enterprises and government agencies handling sensitive data, applies hardware-based security and cuts latency by up to half compared with TPU 8t. TPU 8i Max packages two TPU 8i chips to double compute performance, SRAM capacity and HBM bandwidth, and Google also open-sourced 'TorchTPU' so PyTorch code can run on TPUs as is.",
+  "headline_ja": "グーグル、セキュリティ・大容量処理に特化したTPU2種を公開",
+  "summary_ja": "グーグルは第8世代TPUシステム「TPU 8tx」と「TPU 8i Max」を公開し、第8世代のラインアップを4種に増やした。TPU 8txは機密データを扱う企業・政府機関向けでハードウェアベースのセキュリティを適用し、遅延をTPU 8t比で最大半分に抑えた。TPU 8i MaxはTPU 8iチップ2個を束ねて演算性能・SRAM容量・HBM帯域幅をそれぞれ2倍にし、グーグルはPyTorchのコードをTPUでそのまま動かせる「TorchTPU」もオープンソースで公開した。"
+ },
+ {
   "date": "2026-11-08",
   "headline": "Can't cook or shower: Indonesians take aim at data centres",
   "headline_ko": "\"요리도 샤워도 못 해\"…인도네시아 바탐섬 주민들, 데이터센터 반발",
