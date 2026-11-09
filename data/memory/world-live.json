@@ -86,21 +86,21 @@
   },
   {
    "date": "2026-11-09",
-   "headline": "Iran war live: Trump to talk to Xi, Putin about Tehran, ‘denuclearization’",
-   "headline_ko": "트럼프, 시진핑·푸틴과 이란·'비핵화' 논의 예정",
+   "headline": "Iran war live: Diplomacy intensifies as Qatar PM to meet Trump and Vance",
+   "headline_ko": "카타르 총리, 트럼프·밴스와 회담 예정…이란 외교전 가속",
    "outlet": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq",
-   "summary_ko": "트럼프 대통령은 이란에 대한 미국의 새 육상 봉쇄 '아이언 게이트'가 시행 중이라고 밝히고, 핵 프로그램과 호르무즈 재개방 협상에 진전이 있으면 공격 재개 가능성은 매우 낮다고 말했다. 이라크 쿠르드 지역의 코르모르 가스시설이 드론 공격을 받아 이라크 북부 쿠르드 지역의 70% 넘는 곳에 전기가 끊겼다. 트럼프는 다음 주 APEC 정상회의에서 시진핑 중국 국가주석, 푸틴 러시아 대통령과 만나 이란 전쟁을 논의할 계획이라고 밝혔다.",
+   "summary_ko": "트럼프 대통령은 이란에 대한 미국의 새 육상 봉쇄 '아이언 게이트'가 시행 중이라고 밝히고, 핵 프로그램과 호르무즈 재개방 협상에 진전이 있으면 공격 재개 가능성은 매우 낮다고 말했다. 이라크 쿠르드 지역의 코르모르 가스시설이 드론 공격을 받아 이라크 북부 쿠르드 지역의 70% 넘는 곳에 전기가 끊겼다. 트럼프는 다음 주 APEC 정상회의에서 시진핑 중국 국가주석, 푸틴 러시아 대통령과 만나 이란 전쟁을 논의할 계획이라고 밝혔다. 카타르 총리는 트럼프 대통령, 밴스 부통령과 백악관에서 비공개 회담을 할 예정이다.",
    "topics": [
     "conflict"
    ],
    "orgs": [
     "CENTCOM"
    ],
-   "headline_en": "Iran war live: Trump to talk to Xi, Putin about Tehran, ‘denuclearization’",
-   "summary_en": "President Trump said the new US land blockade on Iran, 'Iron Gate', is in effect, and that renewed strikes are highly unlikely if there is progress in talks on Iran's nuclear programme and reopening the Strait of Hormuz. A drone strike on the Khor Mor gas facility left more than 70% of northern Iraq's Kurdish region without power. Trump said he expects to meet Chinese President Xi Jinping and Russian President Vladimir Putin at next week's APEC summit, where he plans to discuss the war on Iran.",
-   "headline_ja": "トランプ氏、習氏・プーチン氏とイラン・「非核化」を協議へ",
-   "summary_ja": "トランプ大統領は、イランに対する米国の新たな陸上封鎖「アイアンゲート」が実施中だと述べ、核計画とホルムズ海峡再開をめぐる交渉に進展があれば攻撃再開の可能性は非常に低いと語った。イラク・クルド地域のコールモール・ガス施設がドローン攻撃を受け、イラク北部クルド地域の70%以上が停電した。トランプ氏は来週のAPEC首脳会議で中国の習近平国家主席、ロシアのプーチン大統領と会い、イラン戦争について協議する計画だと述べた。"
+   "headline_en": "Iran war live: Diplomacy intensifies as Qatar PM to meet Trump and Vance",
+   "summary_en": "President Trump said the new US land blockade on Iran, 'Iron Gate', is in effect, and that renewed strikes are highly unlikely if there is progress in talks on Iran's nuclear programme and reopening the Strait of Hormuz. A drone strike on the Khor Mor gas facility left more than 70% of northern Iraq's Kurdish region without power. Trump said he expects to meet Chinese President Xi Jinping and Russian President Vladimir Putin at next week's APEC summit, where he plans to discuss the war on Iran. Qatar's prime minister is due to hold closed-door talks with President Trump and Vice President Vance at the White House.",
+   "headline_ja": "カタール首相、トランプ氏・バンス氏と会談へ…イラン外交が活発化",
+   "summary_ja": "トランプ大統領は、イランに対する米国の新たな陸上封鎖「アイアンゲート」が実施中だと述べ、核計画とホルムズ海峡再開をめぐる交渉に進展があれば攻撃再開の可能性は非常に低いと語った。イラク・クルド地域のコールモール・ガス施設がドローン攻撃を受け、イラク北部クルド地域の70%以上が停電した。トランプ氏は来週のAPEC首脳会議で中国の習近平国家主席、ロシアのプーチン大統領と会い、イラン戦争について協議する計画だと述べた。カタール首相はホワイトハウスでトランプ大統領、バンス副大統領と非公開で会談する予定だ。"
   },
   {
    "date": "2026-11-09",
@@ -443,6 +443,25 @@
    "summary_en": "At two days of G7 foreign ministers' talks in Paris, European countries are set to press the US on a fair peace settlement for Ukraine and on Iran. The meeting coincides with US-mediated talks in Abu Dhabi, and Paris is worried Kyiv could be pressed into disadvantageous terms. Secretary of State Marco Rubio is due to attend both days, unlike the March meeting.",
    "headline_ja": "パリでG7外相会合…欧州、米国にウクライナ和平・イラン問題で圧力へ",
    "summary_ja": "パリで2日間開かれるG7外相会合で、欧州諸国はウクライナの公正な和平合意とイラン問題をめぐり米国に圧力をかける見通しだ。会合は米国が仲介するアブダビ交渉と重なり、フランスはウクライナが不利な条件を押し付けられることを懸念している。ルビオ国務長官は3月の会合と異なり2日間とも出席する。"
+  },
+  {
+   "date": "2026-11-09",
+   "headline": "美국무 \"10~11일 아부다비 3자 협상서 우크라 종전 진전 기대\"",
+   "headline_ko": "美국무 \"10~11일 아부다비 3자 협상서 우크라 종전 진전 기대\"",
+   "outlet": "뉴스1",
+   "url": "https://www.news1.kr/world/europe/6347948",
+   "summary_ko": "루비오 미국 국무장관은 10~11일 아랍에미리트 아부다비에서 열리는 미국·러시아·우크라이나 3자 종전협상에서 일정한 진전이 이뤄질 수 있다고 말했다. 핵심 쟁점은 전후 우크라이나와 유럽의 안보체제다.",
+   "topics": [
+    "conflict",
+    "politics"
+   ],
+   "orgs": [
+    "State Department"
+   ],
+   "headline_en": "US Secretary of State: \"Hope for progress toward ending Ukraine war at Abu Dhabi trilateral talks on 10th-11th\"",
+   "summary_en": "US Secretary of State Rubio said some progress could be made at the US-Russia-Ukraine trilateral peace talks in Abu Dhabi, UAE, on the 10th and 11th. The key issue is the post-war security framework for Ukraine and Europe.",
+   "headline_ja": "米国務長官「10～11日のアブダビ3者交渉でウクライナ終戦の進展に期待」",
+   "summary_ja": "ルビオ米国務長官は、10～11日にアラブ首長国連邦アブダビで開かれる米国・ロシア・ウクライナの3者和平交渉で一定の進展があり得ると述べた。主な争点は戦後のウクライナと欧州の安全保障体制だ。"
   },
   {
    "date": "2026-11-08",
