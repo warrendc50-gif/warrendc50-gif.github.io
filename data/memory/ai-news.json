@@ -471,6 +471,27 @@
   "summary_ja": "グーグルは第8世代TPUシステム「TPU 8tx」と「TPU 8i Max」を公開し、第8世代のラインアップを4種に増やした。TPU 8txは機密データを扱う企業・政府機関向けでハードウェアベースのセキュリティを適用し、遅延をTPU 8t比で最大半分に抑えた。TPU 8i MaxはTPU 8iチップ2個を束ねて演算性能・SRAM容量・HBM帯域幅をそれぞれ2倍にし、グーグルはPyTorchのコードをTPUでそのまま動かせる「TorchTPU」もオープンソースで公開した。"
  },
  {
+  "date": "2026-11-09",
+  "headline": "Japan's semiconductor materials giant is born: Mitsui Chemicals to acquire JSR for 16 trillion won",
+  "headline_ko": "日 반도체 소재 공룡 탄생…미쓰이화학, JSR 16조원에 인수",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://en.fnnews.com/news/202611091159388314",
+  "summary_ko": "미쓰이화학이 일본정책투자은행(DBJ)과 함께 총 1조8400억엔(약 15조7504억원)을 들여 반도체 소재 기업 JSR을 인수한다. 주식 매입가는 1조3921억엔으로 이 중 DBJ가 2000억엔을 내며, 인수는 2027회계연도 하반기 완료가 목표다. 소식이 알려진 4일 미쓰이화학 주가는 장중 14% 떨어져 약 7개월 만의 최저치를 기록했다.",
+  "topics": [
+   "chips",
+   "business"
+  ],
+  "orgs": [
+   "Mitsui Chemicals",
+   "JSR",
+   "Development Bank of Japan"
+  ],
+  "headline_en": "Japan's semiconductor materials giant is born: Mitsui Chemicals to acquire JSR for 16 trillion won",
+  "summary_en": "Mitsui Chemicals, together with the Development Bank of Japan (DBJ), will acquire semiconductor materials maker JSR for a total investment of 1.84 trillion yen (about 15.75 trillion won). The share purchase price is 1.3921 trillion yen, of which DBJ will contribute 200 billion yen, and the deal is targeted for completion in the second half of fiscal 2027. On the 4th, when the news broke, Mitsui Chemicals shares fell 14% intraday to their lowest level in about seven months.",
+  "headline_ja": "日本に半導体素材の巨大企業誕生…三井化学、JSRを16兆ウォンで買収",
+  "summary_ja": "三井化学は日本政策投資銀行（DBJ）と共に総額1兆8400億円（約15兆7504億ウォン）を投じて半導体素材企業JSRを買収する。株式取得価格は1兆3921億円で、このうちDBJが2000億円を拠出し、買収は2027年度下期の完了を目指す。報道が出た4日、三井化学の株価は取引時間中に14%下落し、約7カ月ぶりの安値を付けた。"
+ },
+ {
   "date": "2026-11-08",
   "headline": "Can't cook or shower: Indonesians take aim at data centres",
   "headline_ko": "\"요리도 샤워도 못 해\"…인도네시아 바탐섬 주민들, 데이터센터 반발",
