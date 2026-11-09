@@ -174,6 +174,49 @@
   "summary_ja": "ニューヨーク・タイムズ（NYT）によると、マルコ・ルビオ国務長官は今年5月、エヌビディアのジェンスン・フアンCEOとアリス・フアン氏の関係を警告するメモを政権に伝えた。米情報当局は収集した機密情報をもとに、アリス・フアン氏が中国国家安全省に取り込まれたと結論づけ、政権内で回覧されたメモに「スパイ」との評価が記されていた。"
  },
  {
+  "date": "2026-11-09",
+  "headline": "엔비디아, 두산·현대·LG·SK에 '하트\"…\"韓 피지컬AI 핵심 역할\"",
+  "headline_ko": "엔비디아, 두산·현대·LG·SK에 '하트'…\"韓 피지컬AI 핵심 역할\"",
+  "outlet": "뉴스1",
+  "url": "https://www.news1.kr/it-science/internet-platform/6347649",
+  "summary_ko": "엔비디아가 9일 서울 코엑스에서 열린 '엔비디아 AI 데이 서울 2026'에서 두산 연마로봇, 현대차 범용로봇의 시뮬레이션 협력 등 한국 기업과의 피지컬 AI 협력 사례를 공개했다. 디푸 탈라 엔비디아 로보틱스·에지 AI 부사장은 기조발표에서 한국이 앞으로 10년 동안 피지컬 AI 발전에 핵심 역할을 할 것이라고 말했다.",
+  "topics": [
+   "korea",
+   "chips"
+  ],
+  "orgs": [
+   "Nvidia",
+   "두산",
+   "현대차",
+   "LG",
+   "SK"
+  ],
+  "headline_en": "Nvidia shows 'love' to Doosan, Hyundai, LG and SK: \"Korea key to physical AI\"",
+  "summary_en": "At 'Nvidia AI Day Seoul 2026' at COEX in Seoul on the 9th, Nvidia presented physical AI collaborations with Korean companies, including simulation work on Doosan's grinding robots and Hyundai's general-purpose robots. Deepu Talla, Nvidia's vice president of robotics and edge AI, said in a keynote that Korea will play a key role in physical AI over the next decade.",
+  "headline_ja": "エヌビディア、斗山・現代・LG・SKに「ハート」…「韓国はフィジカルAIの中核」",
+  "summary_ja": "エヌビディアは9日、ソウル・COEXで開かれた「エヌビディアAIデー・ソウル2026」で、斗山の研磨ロボットや現代自動車の汎用ロボットのシミュレーション協力など、韓国企業とのフィジカルAI協力事例を公開した。エヌビディアのディープー・タラ ロボティクス・エッジAI担当副社長は基調講演で、韓国が今後10年間フィジカルAIの発展で中核的な役割を果たすと述べた。"
+ },
+ {
+  "date": "2026-11-09",
+  "headline": "카카오모빌리티, 엔비디아와 레벨4 자율주행 맞손",
+  "headline_ko": "카카오모빌리티, 엔비디아와 레벨4 자율주행 맞손",
+  "outlet": "뉴스1",
+  "url": "https://www.news1.kr/it-science/internet-platform/6347658",
+  "summary_ko": "카카오모빌리티와 엔비디아가 9일 서울에서 자율주행 기술 협력을 위한 업무협약을 맺었다. 엔비디아의 컴퓨팅·최적화 기술로 완전 자율주행 직전 단계인 레벨4 자율주행 기술을 고도화하고, 글로벌 자율주행 시장 진출 가능성도 타진한다.",
+  "topics": [
+   "korea",
+   "business"
+  ],
+  "orgs": [
+   "카카오모빌리티",
+   "Nvidia"
+  ],
+  "headline_en": "Kakao Mobility teams up with Nvidia on Level 4 autonomous driving",
+  "summary_en": "Kakao Mobility and Nvidia signed a memorandum of understanding on autonomous-driving technology cooperation in Seoul on the 9th. They will use Nvidia's computing and optimisation technology to advance Level 4 autonomous driving, the stage just before full autonomy, and explore entering the global autonomous-driving market.",
+  "headline_ja": "カカオモビリティ、エヌビディアとレベル4自動運転で提携",
+  "summary_ja": "カカオモビリティとエヌビディアは9日、ソウルで自動運転技術協力に関する業務協約を結んだ。エヌビディアのコンピューティング・最適化技術で完全自動運転の一歩手前であるレベル4自動運転技術を高度化し、グローバル自動運転市場への進出の可能性も探る。"
+ },
+ {
   "date": "2026-11-08",
   "headline": "Can't cook or shower: Indonesians take aim at data centres",
   "headline_ko": "\"요리도 샤워도 못 해\"…인도네시아 바탐섬 주민들, 데이터센터 반발",
