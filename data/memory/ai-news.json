@@ -333,6 +333,26 @@
   "summary_ja": "キム・ジョングァン産業通商部長官は9日、国会の産業通商資源中小ベンチャー企業委員会に出席し、米中競争の構図を考えればAI投資は構造的に拡大せざるを得ず、今がむしろ投資の好機だと述べた。主要な民主党当選者がデータセンターの許認可制限を公約した米中間選挙の余波を注視しているとも明らかにした。"
  },
  {
+  "date": "2026-11-09",
+  "headline": "앤트로픽 '클로드'도 털렸다…국내 기업 100여곳 정보 유출",
+  "headline_ko": "앤트로픽 '클로드'도 털렸다…국내 기업 100여곳 정보 유출",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611092019124236",
+  "summary_ko": "앤트로픽이 국내 기업용 클로드 계정 100여개와 관련된 개인정보 노출 사실을 개인정보보호위원회에 신고했으며, 개인정보위가 경위와 피해 범위를 살펴보고 있다. 외부 보안업체가 앤트로픽의 업무용 소프트웨어 취약점을 통해 내부 시스템에 접근하면서 기업 담당자 이름·이메일, 계정·조직 식별번호, 요금제, 사용량·지출 정보 등이 노출됐을 가능성이 제기됐다. 앤트로픽은 대화 내용과 비밀번호, 결제·계좌 정보는 대상이 아니며 접근 차단과 취약점 보완을 마쳤다고 설명했다.",
+  "topics": [
+   "korea",
+   "business"
+  ],
+  "orgs": [
+   "Anthropic",
+   "개인정보보호위원회"
+  ],
+  "headline_en": "Anthropic's Claude breached too… data of about 100 Korean companies exposed",
+  "summary_en": "Anthropic reported to Korea's Personal Information Protection Commission that personal information tied to about 100 Korean enterprise Claude accounts was exposed, and the commission is examining how it happened and its scope. An outside security firm accessed Anthropic's internal systems through a vulnerability in business software it uses, possibly exposing company contacts' names and emails, account and organisation IDs, pricing plans, and usage and spending data. Anthropic said conversation content, passwords and payment or bank details were not affected, and that it has blocked the access and patched the vulnerability.",
+  "headline_ja": "アンソロピック「クロード」も被害…韓国企業約100社の情報流出",
+  "summary_ja": "アンソロピックは、韓国の企業向けクロードアカウント約100件に関する個人情報の露出を個人情報保護委員会に届け出ており、同委員会が経緯と被害範囲を調べている。外部のセキュリティ企業がアンソロピックの業務用ソフトウェアの脆弱性を突いて内部システムにアクセスし、企業担当者の氏名・メールアドレス、アカウント・組織の識別番号、料金プラン、利用量・支出情報などが露出した可能性がある。アンソロピックは、会話内容やパスワード、決済・口座情報は対象外で、アクセスの遮断と脆弱性の修正を終えたと説明した。"
+ },
+ {
   "date": "2026-11-08",
   "headline": "Can't cook or shower: Indonesians take aim at data centres",
   "headline_ko": "\"요리도 샤워도 못 해\"…인도네시아 바탐섬 주민들, 데이터센터 반발",
