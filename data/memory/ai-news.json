@@ -314,6 +314,25 @@
   "summary_ja": "モチーフテクノロジーズが次世代大規模言語モデル「モチーフ4」の開発に着手し、エヌビディアがブリッジ投資ラウンドに参加する予定だ。同社は来年1～3月期に開発を終えてモデルの重みを公開する計画だ。"
  },
  {
+  "date": "2026-11-09",
+  "headline": "김정관 산업부 장관 \"AI 투자 구조적으로 확대될 것…오히려 투자 적기\"",
+  "headline_ko": "김정관 산업부 장관 \"AI 투자 구조적으로 확대될 것…오히려 투자 적기\"",
+  "outlet": "뉴스1",
+  "url": "https://www.news1.kr/economy/trend/6348209",
+  "summary_ko": "김정관 산업통상부 장관은 9일 국회 산업통상자원중소벤처기업위원회에 출석해 미·중 경쟁 구도를 고려하면 AI 투자는 구조적으로 확대될 수밖에 없다며 지금이 오히려 투자 적기라고 말했다. 그는 주요 민주당 당선인들이 데이터센터 인허가 제한을 공약한 미국 중간선거의 여파를 예의주시하고 있다고 밝혔다.",
+  "topics": [
+   "korea",
+   "policy"
+  ],
+  "orgs": [
+   "산업통상부"
+  ],
+  "headline_en": "Industry Minister Kim Jung-kwan: \"AI investment will expand structurally… now is actually a good time to invest\"",
+  "summary_en": "Appearing before the National Assembly's trade and industry committee on the 9th, Minister of Trade and Industry Kim Jung-kwan said that given US-China competition, AI investment can only expand structurally and that now is actually a good time to invest. He said he is closely watching the fallout from the US midterms, where key Democratic winners pledged to restrict data-centre permits.",
+  "headline_ja": "キム・ジョングァン産業相「AI投資は構造的に拡大…むしろ投資の好機」",
+  "summary_ja": "キム・ジョングァン産業通商部長官は9日、国会の産業通商資源中小ベンチャー企業委員会に出席し、米中競争の構図を考えればAI投資は構造的に拡大せざるを得ず、今がむしろ投資の好機だと述べた。主要な民主党当選者がデータセンターの許認可制限を公約した米中間選挙の余波を注視しているとも明らかにした。"
+ },
+ {
   "date": "2026-11-08",
   "headline": "Can't cook or shower: Indonesians take aim at data centres",
   "headline_ko": "\"요리도 샤워도 못 해\"…인도네시아 바탐섬 주민들, 데이터센터 반발",
