@@ -274,6 +274,46 @@
   "summary_ja": "金融業界への攻撃に使われたとされるAIベースの侵入テストツール「アルテックス」の管理コンソール1465か所が世界で露出しており、うち韓国でも21か所が確認された。決済・ゲーム分野を狙った痕跡も見つかった。"
  },
  {
+  "date": "2026-11-09",
+  "headline": "업스테이지, 엔비디아 투자 유치…'솔라' 고도화 속도",
+  "headline_ko": "업스테이지, 엔비디아 투자 유치…'솔라' 고도화 속도",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611091915255020",
+  "summary_ko": "국내 AI 기업 업스테이지가 진행 중인 시리즈C 2차 투자에서 엔비디아의 투자를 유치한다. 투자 금액은 공개되지 않았다.",
+  "topics": [
+   "korea",
+   "business"
+  ],
+  "orgs": [
+   "업스테이지",
+   "Nvidia"
+  ],
+  "headline_en": "Upstage attracts Nvidia investment, speeds up 'Solar' upgrades",
+  "summary_en": "Korean AI company Upstage is set to receive investment from Nvidia in its ongoing second Series C round. The amount was not disclosed.",
+  "headline_ja": "アップステージ、エヌビディアから出資を獲得…「ソーラー」高度化を加速",
+  "summary_ja": "韓国のAI企業アップステージが、進行中のシリーズC第2回投資でエヌビディアから出資を受ける。投資額は公表されていない。"
+ },
+ {
+  "date": "2026-11-09",
+  "headline": "모티프, 엔비디아 투자 유치…내년 1분기 '모티프4' 공개",
+  "headline_ko": "모티프, 엔비디아 투자 유치…내년 1분기 '모티프4' 공개",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611091912168515",
+  "summary_ko": "모티프테크놀로지스가 차세대 대규모언어모델 '모티프4' 개발에 착수했으며, 엔비디아가 브릿지 투자 라운드에 참여할 예정이다. 회사는 내년 1분기 개발을 마치고 모델 가중치를 공개할 계획이다.",
+  "topics": [
+   "korea",
+   "model"
+  ],
+  "orgs": [
+   "모티프테크놀로지스",
+   "Nvidia"
+  ],
+  "headline_en": "Motif attracts Nvidia investment… to unveil 'Motif 4' in Q1 next year",
+  "summary_en": "Motif Technologies has begun developing its next-generation large language model 'Motif 4', with Nvidia expected to join its bridge funding round. The company plans to finish development and release the model weights in the first quarter of next year.",
+  "headline_ja": "モチーフ、エヌビディアから出資獲得…来年1～3月期に「モチーフ4」公開",
+  "summary_ja": "モチーフテクノロジーズが次世代大規模言語モデル「モチーフ4」の開発に着手し、エヌビディアがブリッジ投資ラウンドに参加する予定だ。同社は来年1～3月期に開発を終えてモデルの重みを公開する計画だ。"
+ },
+ {
   "date": "2026-11-08",
   "headline": "Can't cook or shower: Indonesians take aim at data centres",
   "headline_ko": "\"요리도 샤워도 못 해\"…인도네시아 바탐섬 주민들, 데이터센터 반발",
