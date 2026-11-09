@@ -217,6 +217,27 @@
   "summary_ja": "カカオモビリティとエヌビディアは9日、ソウルで自動運転技術協力に関する業務協約を結んだ。エヌビディアのコンピューティング・最適化技術で完全自動運転の一歩手前であるレベル4自動運転技術を高度化し、グローバル自動運転市場への進出の可能性も探る。"
  },
  {
+  "date": "2026-11-09",
+  "headline": "엔비디아-SKT-리벨리온, 국산 AI 반도체 글로벌 진출 타진",
+  "headline_ko": "엔비디아-SKT-리벨리온, 국산 AI 반도체 글로벌 진출 타진",
+  "outlet": "뉴스1",
+  "url": "https://www.news1.kr/it-science/internet-platform/6347686",
+  "summary_ko": "엔비디아가 SK텔레콤, 리벨리온과 NV링크 퓨전 기반 협력에 나선다. SKT의 AI 데이터센터에서 리벨리온의 국산 NPU와 엔비디아 GPU를 연계하는 방안을 추진하며, 과기정통부는 국내 기업의 AI 데이터센터 진입이 늘어날 것으로 기대했다.",
+  "topics": [
+   "chips",
+   "korea"
+  ],
+  "orgs": [
+   "Nvidia",
+   "SK텔레콤",
+   "리벨리온"
+  ],
+  "headline_en": "Nvidia, SKT and Rebellions explore taking Korean AI chips global",
+  "summary_en": "Nvidia is partnering with SK Telecom and Rebellions based on NVLink Fusion. They will pursue linking Rebellions' Korean-made NPUs with Nvidia GPUs in SKT's AI data centres, and the Ministry of Science and ICT expects more Korean companies to enter AI data centres.",
+  "headline_ja": "エヌビディア・SKT・リベリオン、国産AI半導体の世界進出を模索",
+  "summary_ja": "エヌビディアがSKテレコム、リベリオンとNVLinkフュージョンを基盤に協力する。SKTのAIデータセンターでリベリオンの国産NPUとエヌビディアのGPUを連携させる案を進め、科学技術情報通信部は国内企業のAIデータセンター参入が増えると期待した。"
+ },
+ {
   "date": "2026-11-08",
   "headline": "Can't cook or shower: Indonesians take aim at data centres",
   "headline_ko": "\"요리도 샤워도 못 해\"…인도네시아 바탐섬 주민들, 데이터센터 반발",
