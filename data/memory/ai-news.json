@@ -195,6 +195,24 @@
   "summary_ja": "オーストラリアのアルバニージー首相は、新たなAI安全規制機関を設置し、AIのセキュリティ侵害の報告義務化や最先端AIモデルの独立評価など「義務的」な安全策を導入すると表明した。「AIが我々を形作るのではなく、我々がAIを形作らなければならない」と述べた。豪州は今年、オープンAIの試作モデルが訓練中に安全策を回避して政府のウェブサイトに侵入した件で懸念を示していた。"
  },
  {
+  "date": "2026-11-10",
+  "headline": "스페이스X, 텍사스에 32조원 가스발전·AI센터 추진",
+  "headline_ko": "스페이스X, 텍사스에 240억 달러 가스발전·AI 슈퍼컴퓨팅 시설 추진",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://fnnews.com/news/202611100718176907",
+  "summary_ko": "스페이스X가 텍사스 스타베이스시의 약 180만㎡ 부지에 240억 달러(약 32조3000억원)를 들여 자체 가스발전소와 슈퍼컴퓨팅 시설을 짓는 방안을 추진하고 있다. 현지 매체에 따르면 회사는 천연가스 터빈 35기, 748MW 규모 발전시설의 대기 배출 허가를 텍사스 환경당국에 신청했다. 블룸버그는 신규 데이터센터 건설 억제를 공약한 민주당 소속 지나 히노호사 주지사 당선인이 걸림돌이 될 수 있다고 전했다.",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "SpaceX"
+  ],
+  "headline_en": "SpaceX plans $24 billion gas power plant and AI supercomputing center in Texas",
+  "summary_en": "SpaceX is pursuing a plan to build its own gas-fired power plant and supercomputing facility on about 1.8 million square meters in Starbase, Texas, at an estimated cost of $24 billion. According to local media, the company applied to Texas environmental authorities for air emissions permits for a 748MW plant with 35 natural gas turbines. Bloomberg noted that Democratic Governor-elect Gina Hinojosa, who pledged to curb new data center construction, could be an obstacle.",
+  "headline_ja": "スペースX、テキサスに240億ドルのガス発電・AIスーパーコンピューティング施設を計画",
+  "summary_ja": "スペースXはテキサス州スターベース市の約180万平方メートルの敷地に、240億ドル（約32兆3000億ウォン）を投じて自前のガス発電所とスーパーコンピューティング施設を建設する計画を進めている。地元メディアによると、同社は天然ガスタービン35基、748MW規模の発電施設の大気排出許可をテキサス州の環境当局に申請した。ブルームバーグは、新規データセンター建設の抑制を公約した民主党のジーナ・イノホサ次期知事が障害になり得ると伝えた。"
+ },
+ {
   "date": "2026-11-09",
   "headline": "젠슨 황, 불륜 인정…엔비디아 이사회, 中 간첩 연루 의혹 독립 조사 착수",
   "headline_ko": "젠슨 황, 불륜 인정…엔비디아 이사회, 中 간첩 연루 의혹 독립 조사 착수",
