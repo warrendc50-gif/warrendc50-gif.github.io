@@ -138,6 +138,25 @@
   "summary_ja": "日本の生成AIスタートアップ、サカナAIは早ければ来年秋の新規株式公開（IPO）を目指し、東京証券取引所と米ナスダックへの同時上場を検討している。同社は来年の年間売上高が今年の予想の約10倍となる300億円を超えるとみている。上場資金は、事前学習から日本で開発する自社AIモデル「サカナ・サワラ」（仮称）に充てる計画だ。"
  },
  {
+  "date": "2026-11-10",
+  "headline": "Qantas to cut 850 jobs as it rushes to keep pace with AI",
+  "headline_ko": "호주 콴타스, AI 도입 가속하며 850명 감원",
+  "outlet": "France 24",
+  "url": "https://www.france24.com/en/live-news/20261110-qantas-to-cut-850-jobs-as-it-rushes-to-keep-pace-with-ai",
+  "summary_ko": "호주 항공사 콴타스가 일부 본사 기능을 인도로 옮기고 인공지능 활용을 가속하면서 2027년 중반부터 약 850개 일자리를 줄인다고 밝혔다. 회사는 컨설팅업체 액센츄어와 백엔드 시스템 개편 계약을 맺었다. 버네사 허드슨 최고경영자는 \"이 분야의 변화 규모와 속도는 전례가 없다\"며 \"제자리에 머무는 것은 선택지가 아니다\"라고 말했다.",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "Qantas",
+   "Accenture"
+  ],
+  "headline_en": "Qantas to cut 850 jobs as it rushes to keep pace with AI",
+  "summary_en": "Australian airline Qantas said it will cut around 850 jobs starting in mid-2027 as it shifts some corporate functions to India and accelerates its use of artificial intelligence. The company signed a deal with consulting firm Accenture to overhaul back-end systems. CEO Vanessa Hudson said \"the scale and speed of change in this space is unprecedented\" and that \"standing still is not an option for us.\"",
+  "headline_ja": "豪カンタス航空、AI導入を加速し850人削減",
+  "summary_ja": "オーストラリアのカンタス航空は、一部の本社機能をインドに移しAIの活用を加速するため、2027年半ばから約850人の雇用を削減すると発表した。同社はコンサルティング会社アクセンチュアとバックエンドシステム刷新の契約を結んだ。バネッサ・ハドソンCEOは「この分野の変化の規模と速さは前例がない」とし、「立ち止まることは選択肢にない」と述べた。"
+ },
+ {
   "date": "2026-11-09",
   "headline": "젠슨 황, 불륜 인정…엔비디아 이사회, 中 간첩 연루 의혹 독립 조사 착수",
   "headline_ko": "젠슨 황, 불륜 인정…엔비디아 이사회, 中 간첩 연루 의혹 독립 조사 착수",
