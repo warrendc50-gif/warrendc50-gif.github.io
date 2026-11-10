@@ -115,23 +115,22 @@
  },
  {
   "date": "2026-11-10",
-  "headline": "S&P 500 futures drop after higher-than-expected CPI reignites inflation concern: Live updates",
-  "headline_ko": "美 10월 CPI 전월比 0.4%↑ 예상 상회…근원 0.3%↑, S&P500 선물 하락",
+  "headline": "CPI inflation report: October 2026",
+  "headline_ko": "美 10월 CPI 전월比 0.4%↑ 예상 상회…근원 0.3%↑",
   "outlet": "CNBC",
-  "url": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html",
-  "summary_ko": "미국의 10월 소비자물가지수(CPI)가 전월 대비 0.4% 올라 다우존스 조사 예상치 0.3%를 웃돌았다. 식품·에너지를 뺀 근원 CPI도 0.3% 올라 예상치 0.2%를 넘었고, 인플레이션 우려가 다시 커지며 S&P500 선물이 하락했다. 10월 CPI는 지난해 정부 셧다운 여파로 공식 전년 대비 상승률이 발표되지 않았다.",
+  "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
+  "summary_ko": "미국의 10월 소비자물가지수(CPI)가 계절조정 기준 전월 대비 0.4% 올라 다우존스 조사 예상치 0.3%를 웃돌았다. 식품·에너지를 뺀 근원 CPI도 0.3% 올라 예상치 0.2%를 넘었다. 지난해 정부 셧다운 여파로 전년 대비 상승률은 발표되지 않았으며, 보고서 발표 뒤 10년물 국채금리는 7bp 넘게 올라 4.938%를 기록했다.",
   "topics": [
    "macro",
-   "fed",
-   "markets"
+   "fed"
   ],
   "orgs": [
    "Bureau of Labor Statistics"
   ],
-  "headline_en": "S&P 500 futures drop after higher-than-expected CPI reignites inflation concern: Live updates",
-  "summary_en": "The US consumer price index rose 0.4% in October from the previous month, above the 0.3% expected by economists polled by Dow Jones. Core CPI, which excludes food and energy, rose 0.3% versus expectations of 0.2%, and S&P 500 futures fell as inflation concerns reignited. Because of last year's government shutdown, no official year-over-year rate was published for October.",
-  "headline_ja": "米10月CPI前月比0.4%上昇で予想上回る…コア0.3%上昇、S&P500先物下落",
-  "summary_ja": "米国の10月の消費者物価指数（CPI）は前月比0.4%上昇し、ダウ・ジョーンズ調査の予想0.3%を上回った。食品・エネルギーを除くコアCPIも0.3%上昇と予想の0.2%を上回り、インフレ懸念が再燃してS&P500先物が下落した。10月のCPIは昨年の政府閉鎖の影響で、公式の前年比上昇率は公表されなかった。"
+  "headline_en": "CPI inflation report: October 2026",
+  "summary_en": "The US consumer price index rose a seasonally adjusted 0.4% in October from the previous month, above the 0.3% expected by economists polled by Dow Jones. Core CPI, which excludes food and energy, rose 0.3% versus a forecast of 0.2%. No year-over-year rate was published because of last year's government shutdown, and the 10-year Treasury yield rose more than 7 basis points to 4.938% after the report.",
+  "headline_ja": "米10月CPI前月比0.4%上昇で予想上回る…コア0.3%上昇",
+  "summary_ja": "米国の10月の消費者物価指数（CPI）は季節調整済みで前月比0.4%上昇し、ダウ・ジョーンズ調査の予想0.3%を上回った。食品・エネルギーを除くコアCPIも0.3%上昇と予想の0.2%を上回った。昨年の政府閉鎖の影響で前年比上昇率は公表されず、発表後に10年債利回りは7bp超上昇し4.938%となった。"
  },
  {
   "date": "2026-11-09",
