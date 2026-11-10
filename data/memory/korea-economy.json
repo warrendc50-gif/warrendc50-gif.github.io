@@ -19,21 +19,19 @@
  },
  {
   "date": "2026-11-10",
-  "headline": "중동 긴장 완화에 달러·원 하락 출발…장 초반 1345원대",
-  "headline_ko": "중동 긴장 완화에 달러·원 5.6원 내린 1341.5원 출발",
+  "headline": "[달러·원] 환율 9.6원 내린 1337.5원 (15:30 기준)",
+  "headline_ko": "달러·원 환율 9.6원 내린 1337.5원 마감",
   "outlet": "뉴스1",
-  "url": "https://www.news1.kr/finance/market-exr/6348621",
-  "summary_ko": "달러·원 환율이 10일 전 거래일보다 5.6원 내린 1341.5원에 출발했다. 중동 긴장 완화와 유가 급락, 기술주 반등에 달러가 약세를 보였다. KB국민은행은 1333~1345원 범위를 전망했으며, 외국인 환헤지 수요가 하락 폭을 제한할 변수로 꼽혔다.",
+  "url": "https://www.news1.kr/finance/market-exr/6349300",
+  "summary_ko": "10일 서울 외환시장에서 달러·원 환율이 오후 3시 30분 기준 전 거래일보다 9.6원 내린 1337.5원을 기록했다.",
   "topics": [
    "fx"
   ],
-  "orgs": [
-   "KB국민은행"
-  ],
-  "headline_en": "Won opens stronger at 1,341.5 per dollar as Middle East tensions ease",
-  "summary_en": "The won-dollar rate opened at 1,341.5 won on the 10th, down 5.6 won from the previous session. The dollar weakened as Middle East tensions eased, oil prices plunged and tech stocks rebounded. KB Kookmin Bank forecast a range of 1,333 to 1,345 won, with foreign investors' currency hedging demand seen as a factor limiting the decline.",
-  "headline_ja": "中東緊張緩和でドル・ウォン5.6ウォン安の1341.5ウォンで始まる",
-  "summary_ja": "ドル・ウォン相場は10日、前営業日比5.6ウォン安の1341.5ウォンで始まった。中東の緊張緩和と原油価格の急落、ハイテク株の反発でドルが弱含んだ。KB国民銀行は1333〜1345ウォンのレンジを予想し、外国人の為替ヘッジ需要が下落幅を抑える要因に挙げられた。"
+  "orgs": [],
+  "headline_en": "Won closes at 1,337.5 per dollar, down 9.6 won",
+  "summary_en": "In the Seoul foreign exchange market on the 10th, the won-dollar rate stood at 1,337.5 won as of 3:30 p.m., down 9.6 won from the previous session.",
+  "headline_ja": "ドル・ウォン相場、9.6ウォン安の1337.5ウォンで引け",
+  "summary_ja": "10日のソウル外国為替市場で、ドル・ウォン相場は午後3時30分時点で前営業日比9.6ウォン安の1337.5ウォンとなった。"
  },
  {
   "date": "2026-11-10",
@@ -126,6 +124,24 @@
   "summary_en": "Foreign investors turned net buyers of Korean bonds in October, purchasing 8.452 trillion won. The buying was driven by cross-currency swap arbitrage and inflows related to the World Government Bond Index (WGBI). Treasury yields fell across 3-, 10- and 30-year maturities that month, with the 3-year down 29.6 basis points and the 10-year down 39.9 basis points.",
   "headline_ja": "外国人、10月に韓国債券8.5兆ウォン買い越しに転換…国債利回り一斉低下",
   "summary_ja": "外国人は10月に韓国債券を8兆4520億ウォン買い越し、買いに転じた。通貨スワップ（CRS）裁定取引と世界国債インデックス（WGBI）関連資金の流入によるものだ。同月の国債利回りは3年物が29.6bp、10年物が39.9bp低下するなど、3・10・30年物が一斉に下がった。"
+ },
+ {
+  "date": "2026-11-10",
+  "headline": "코스피, 4.39% 상승한 5239.13 마감…코스닥 4.48%↑(2보)",
+  "headline_ko": "코스피, 4.39% 상승한 5239.13 마감…코스닥 4.48%↑",
+  "outlet": "뉴스1",
+  "url": "https://www.news1.kr/finance/market-exr/6349305",
+  "summary_ko": "코스피가 10일 전 거래일보다 220.28포인트(4.39%) 오른 5239.13에 거래를 마쳤다. 코스닥은 28.64포인트(4.48%) 오른 667.61로 마감했다.",
+  "topics": [
+   "stocks"
+  ],
+  "orgs": [
+   "KRX"
+  ],
+  "headline_en": "KOSPI closes up 4.39% at 5,239.13; KOSDAQ up 4.48%",
+  "summary_en": "The KOSPI closed at 5,239.13 on the 10th, up 220.28 points (4.39%) from the previous session. The KOSDAQ ended up 28.64 points (4.48%) at 667.61.",
+  "headline_ja": "KOSPI、4.39%高の5239.13で引け…KOSDAQも4.48%高",
+  "summary_ja": "KOSPIは10日、前営業日比220.28ポイント（4.39%）高の5239.13で取引を終えた。KOSDAQは28.64ポイント（4.48%）高の667.61で引けた。"
  },
  {
   "date": "2026-11-09",
