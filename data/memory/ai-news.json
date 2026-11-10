@@ -119,6 +119,25 @@
   "summary_ja": "ゴールドマン・サックスのデービッド・ソロモンCEOは9日のCNBCのインタビューで、AIインフラと関連技術への投資需要は依然として強いと述べた。ここ数週間、ゴールドマンはAI関連の資本市場取引に非常に活発に関わっており、この流れは続くとみていると明らかにした。政治環境の変化で調整が一部起きていることは認めつつ、AIが長期的に生産性を高めるとの確信は揺るがないと語った。"
  },
  {
+  "date": "2026-11-10",
+  "headline": "日 사카나AI, 내년 가을 IPO 추진…미·일 동시상장 검토",
+  "headline_ko": "日 사카나AI, 내년 가을 IPO 추진…미·일 동시상장 검토",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611101125232641",
+  "summary_ko": "일본 생성형 AI 스타트업 사카나AI가 이르면 내년 가을 기업공개를 추진하며 도쿄증권거래소와 미국 나스닥 동시 상장을 검토하고 있다. 회사는 내년 연간 매출이 올해 예상치의 약 10배인 300억엔을 넘을 것으로 보고 있다. 상장 자금은 사전학습부터 일본에서 개발하는 자체 AI 모델 '사카나 사와라'(가칭)에 쓸 계획이다.",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "Sakana AI",
+   "Goldman Sachs"
+  ],
+  "headline_en": "Japan's Sakana AI eyes IPO next autumn, considers dual US-Japan listing",
+  "summary_en": "Japanese generative AI startup Sakana AI is pursuing an IPO as early as next autumn and is considering a simultaneous listing on the Tokyo Stock Exchange and the US Nasdaq. The company expects next year's annualized revenue to exceed 30 billion yen, about 10 times this year's projection. It plans to use the proceeds for its own AI model, 'Sakana Sawara' (tentative name), developed in Japan from pretraining onward.",
+  "headline_ja": "日本のサカナAI、来秋のIPOを目指す…日米同時上場を検討",
+  "summary_ja": "日本の生成AIスタートアップ、サカナAIは早ければ来年秋の新規株式公開（IPO）を目指し、東京証券取引所と米ナスダックへの同時上場を検討している。同社は来年の年間売上高が今年の予想の約10倍となる300億円を超えるとみている。上場資金は、事前学習から日本で開発する自社AIモデル「サカナ・サワラ」（仮称）に充てる計画だ。"
+ },
+ {
   "date": "2026-11-09",
   "headline": "젠슨 황, 불륜 인정…엔비디아 이사회, 中 간첩 연루 의혹 독립 조사 착수",
   "headline_ko": "젠슨 황, 불륜 인정…엔비디아 이사회, 中 간첩 연루 의혹 독립 조사 착수",
