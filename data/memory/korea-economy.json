@@ -1,5 +1,23 @@
 [
  {
+  "date": "2026-11-11",
+  "headline": "[속보] 10월 취업자 13.9만명 증가... 청년은 48개월 연속 감소",
+  "headline_ko": "10월 취업자 13.9만명 증가…청년 취업자는 48개월 연속 감소",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611110759337885",
+  "summary_ko": "국가데이터처가 11일 발표한 10월 고용동향에 따르면 취업자는 2917만9000명으로 1년 전보다 13만9000명 늘어 5개월 연속 증가했다. 청년층(15~29세) 취업자는 19만6000명 줄어 48개월 연속 감소했고, 청년 고용률은 42.9%로 1.7%p 떨어졌다. 보건·사회복지서비스업(24만9000명)은 늘었지만 숙박·음식점업은 13만7000명 줄어 2021년 2월 이후 가장 크게 감소했다.",
+  "topics": [
+   "global"
+  ],
+  "orgs": [
+   "국가데이터처"
+  ],
+  "headline_en": "October employment up 139,000... youth jobs fall for 48th straight month",
+  "summary_en": "According to the October employment trends released by Statistics Korea (National Data Agency) on the 11th, the number of employed was 29.179 million, up 139,000 from a year earlier, rising for a fifth straight month. Youth (ages 15-29) employment fell by 196,000, declining for the 48th consecutive month, and the youth employment rate dropped 1.7 percentage points to 42.9%. Health and social welfare services added 249,000 jobs, while accommodation and food services lost 137,000, the largest drop since February 2021.",
+  "headline_ja": "10月の就業者13.9万人増…若者の就業者は48カ月連続減少",
+  "summary_ja": "韓国国家データ処が11日に発表した10月の雇用動向によると、就業者は2917万9000人で前年同月比13万9000人増え、5カ月連続で増加した。若年層(15~29歳)の就業者は19万6000人減り48カ月連続で減少し、若年層の雇用率は1.7ポイント低下の42.9%となった。保健・社会福祉サービス業(24万9000人)は増えたが、宿泊・飲食店業は13万7000人減り、2021年2月以来の大幅な減少となった。"
+ },
+ {
   "date": "2026-11-10",
   "headline": "\"오늘은 빨간날\"…코스피, 반도체 저가매수 속 3%대 반등 [fn오전시황]",
   "headline_ko": "코스피, 반도체 저가매수에 3%대 반등…코스피·코스닥 매수 사이드카",
