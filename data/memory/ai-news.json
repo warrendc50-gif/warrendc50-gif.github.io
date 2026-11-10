@@ -20,6 +20,26 @@
   "summary_ja": "上院銀行委員長に就く予定のエリザベス・ウォーレン議員は、中国向け先端AI半導体の輸出規制強化と予測市場の規制を推進する計画だ。ウォーレン氏側は、ビッグテックのCEO、トランプ政権当局者、ウォール街の経営陣に関連文書の保存を求め、積極的な監督・調査計画を準備していると明らかにした。記事は、対中AI半導体規制が強化されればエヌビディアなど米半導体企業が追加の圧力を受ける可能性があると伝えた。"
  },
  {
+  "date": "2026-11-10",
+  "headline": "엔비디아 美주주들, 젠슨 황에 소송…\"주가 급락 손해배상하라\"",
+  "headline_ko": "엔비디아 美주주들, 젠슨 황에 집단소송…\"주가 급락 손해배상하라\"",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611100910004700",
+  "summary_ko": "엔비디아 주주들이 로젠 로펌을 통해 9일 캘리포니아주 연방북부지법에 엔비디아와 젠슨 황 CEO를 상대로 연방 증권법 위반 손해배상 소송을 냈다. 원고들은 황 CEO가 중국 정보요원으로 의심받는 앨리스 황과의 관계, 그가 일했던 메가스피드 관련 안보 위험을 숨겨 주가 급락으로 큰 손실을 봤다고 주장했다. 엔비디아 주가는 9일 4.27% 내린 178.67달러로 마감해 시가총액 1900억 달러가 사라졌다.",
+  "topics": [
+   "business",
+   "chips"
+  ],
+  "orgs": [
+   "Nvidia",
+   "Rosen Law Firm"
+  ],
+  "headline_en": "Nvidia shareholders sue Jensen Huang, seek damages for stock plunge",
+  "summary_en": "Nvidia shareholders, through Rosen Law Firm, filed a damages suit for federal securities law violations against Nvidia and CEO Jensen Huang in the US District Court for the Northern District of California on the 9th. The plaintiffs allege that Huang concealed his relationship with Alice Huang, a woman suspected of being a Chinese intelligence agent, and national security risks related to Megaspeed, where she worked, causing heavy losses when the stock plunged. Nvidia shares closed down 4.27% at $178.67 on the 9th, wiping $190 billion off its market value.",
+  "headline_ja": "エヌビディア米株主、ジェンスン・フアン氏を集団提訴…「株価急落の損害賠償を」",
+  "summary_ja": "エヌビディアの株主らはローゼン法律事務所を通じ、9日にカリフォルニア州北部連邦地裁でエヌビディアとジェンスン・フアンCEOを相手取り、連邦証券法違反による損害賠償訴訟を起こした。原告らは、フアン氏が中国の情報要員と疑われるアリス・フアン氏との関係や、同氏が勤務していたメガスピードに関連する安全保障上のリスクを隠し、株価急落で大きな損失を被ったと主張した。エヌビディア株は9日に4.27%安の178.67ドルで引け、時価総額1900億ドルが消失した。"
+ },
+ {
   "date": "2026-11-09",
   "headline": "젠슨 황, 불륜 인정…엔비디아 이사회, 中 간첩 연루 의혹 독립 조사 착수",
   "headline_ko": "젠슨 황, 불륜 인정…엔비디아 이사회, 中 간첩 연루 의혹 독립 조사 착수",
