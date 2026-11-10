@@ -36,6 +36,42 @@
   "summary_ja": "ドル・ウォン相場は10日、前営業日比5.6ウォン安の1341.5ウォンで始まった。中東の緊張緩和と原油価格の急落、ハイテク株の反発でドルが弱含んだ。KB国民銀行は1333〜1345ウォンのレンジを予想し、外国人の為替ヘッジ需要が下落幅を抑える要因に挙げられた。"
  },
  {
+  "date": "2026-11-10",
+  "headline": "금융연 \"내년 성장률 3.1%\"...반도체 호황, 내수 회복으로 확산",
+  "headline_ko": "금융연 \"내년 성장률 3.1%\"…반도체 호황, 내수 회복으로 확산",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611100845025158",
+  "summary_ko": "한국금융연구원은 10일 '2027년 경제 및 금융전망 세미나'에서 실질 GDP 성장률을 올해 3.8%, 내년 3.1%로 전망했다. 민간소비 증가율은 올해 2.0%에서 내년 2.3%로, 건설투자는 0.1%에서 1.6%로 높아지는 반면 설비투자는 7.9%에서 5.4%, 총수출은 9.9%에서 5.2%로 둔화할 것으로 봤다. 경상수지 흑자는 4520억 달러에서 5630억 달러로 늘 것으로 예상했다.",
+  "topics": [
+   "global"
+  ],
+  "orgs": [
+   "한국금융연구원"
+  ],
+  "headline_en": "KIF forecasts 3.1% growth next year as chip boom spreads to domestic demand",
+  "summary_en": "At its 2027 economic and financial outlook seminar on the 10th, the Korea Institute of Finance forecast real GDP growth of 3.8% this year and 3.1% next year. It expects private consumption growth to rise from 2.0% to 2.3% and construction investment from 0.1% to 1.6%, while equipment investment slows from 7.9% to 5.4% and total exports from 9.9% to 5.2%. It projects the current account surplus to grow from $452 billion to $563 billion.",
+  "headline_ja": "金融研「来年の成長率3.1%」…半導体好況が内需回復に波及",
+  "summary_ja": "韓国金融研究院は10日の「2027年経済・金融展望セミナー」で、実質GDP成長率を今年3.8%、来年3.1%と予測した。民間消費の伸び率は今年の2.0%から来年2.3%に、建設投資は0.1%から1.6%に高まる一方、設備投資は7.9%から5.4%、総輸出は9.9%から5.2%に鈍化するとみた。経常収支の黒字は4520億ドルから5630億ドルに拡大すると予想した。"
+ },
+ {
+  "date": "2026-11-10",
+  "headline": "비트코인, 美 물가지표 앞두고 관망세…7만4000달러선 [크립토브리핑]",
+  "headline_ko": "비트코인, 美 물가지표 앞두고 관망세…7만4000달러선",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611101049484195",
+  "summary_ko": "비트코인이 10일 오전 7만4000달러선에서 24시간 전보다 0.16% 오른 채 거래되고 있다. 시장은 한국시간 오후 10시 30분께 발표될 미국 10월 소비자물가지수(CPI)를 주시하고 있으며, 이란 전쟁에 따른 에너지 공급 차질과 관세 부담으로 연준 금리 인상 가능성이 커지고 있다. 가상자산 공포·탐욕 지수는 29로 '공포' 단계다.",
+  "topics": [
+   "crypto"
+  ],
+  "orgs": [
+   "CoinMarketCap"
+  ],
+  "headline_en": "Bitcoin holds near $74,000 ahead of US inflation data",
+  "summary_en": "Bitcoin was trading around $74,000 on the morning of the 10th, up 0.16% over 24 hours. The market is watching the US October consumer price index, due around 10:30 p.m. Korean time, as energy supply disruptions from the Iran war and tariff burdens raise the chance of a Fed rate hike. The Crypto Fear & Greed Index stands at 29, in 'fear' territory.",
+  "headline_ja": "ビットコイン、米物価指標を前に様子見…7万4000ドル台",
+  "summary_ja": "ビットコインは10日午前、7万4000ドル台で24時間前比0.16%高で取引されている。市場は韓国時間午後10時30分ごろに発表される米10月消費者物価指数（CPI）を注視しており、イラン戦争によるエネルギー供給の混乱と関税負担でFRBの利上げの可能性が高まっている。暗号資産の恐怖・強欲指数は29で「恐怖」の段階だ。"
+ },
+ {
   "date": "2026-11-09",
   "headline": "[속보] 코스피 25.49p(0.50%) 내린 5034.20 출발…코스닥은 638.82",
   "headline_ko": "코스피 0.50% 내린 5034.20 출발…코스닥은 638.82",
