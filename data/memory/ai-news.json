@@ -1,5 +1,24 @@
 [
  {
+  "date": "2026-11-11",
+  "headline": "엔비디아 이틀간 주가 9.6% 추락…젠슨황 불륜 사태에 CPI 악재까지",
+  "headline_ko": "엔비디아 이틀간 주가 9.6% 추락…젠슨황 불륜 사태에 CPI 악재까지",
+  "outlet": "뉴스1",
+  "url": "https://www.news1.kr/world/international-economy/6349776",
+  "summary_ko": "엔비디아 주가가 이틀간 9.56% 떨어졌다. 디인포메이션은 젠슨 황 CEO의 불륜 상대인 앨리스 황이 중국에 75억 달러 규모의 반도체 공급을 촉진했을 가능성을 보도했고, 미국 10월 소비자물가지수가 예상을 웃돌며 월러 연준 이사가 0.5%p 인상 검토를 주장한 것도 악재로 작용했다.",
+  "topics": [
+   "chips",
+   "business"
+  ],
+  "orgs": [
+   "Nvidia"
+  ],
+  "headline_en": "Nvidia shares plunge 9.6% in two days as Jensen Huang affair scandal is compounded by CPI",
+  "summary_en": "Nvidia shares fell 9.56% over two days. The Information reported that Alice Huang, the woman with whom CEO Jensen Huang had an affair, may have facilitated $7.5 billion in chip supplies to China, and U.S. October consumer prices topped expectations while Fed Governor Waller argued for considering a 0.5-percentage-point hike, adding to the pressure.",
+  "headline_ja": "エヌビディア株、2日間で9.6%急落…ジェンスン・フアン氏の不倫騒動にCPIの悪材料も",
+  "summary_ja": "エヌビディア株は2日間で9.56%下落した。ジ・インフォメーションは、ジェンスン・フアンCEOの不倫相手アリス・ファン氏が中国への75億ドル規模の半導体供給を仲介した可能性を報じ、米10月の消費者物価指数が予想を上回る中、ウォラーFRB理事が0.5%ポイントの利上げ検討を主張したことも悪材料となった。"
+ },
+ {
   "date": "2026-11-10",
   "headline": "美 워런, 빅테크·월가 전방위 조사 예고…中 AI 반도체도 규제",
   "headline_ko": "美 워런, 빅테크·월가 전방위 조사 예고…中 AI 반도체도 규제",
