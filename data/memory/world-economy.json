@@ -58,6 +58,25 @@
   "summary_ja": "10日のアジア市場では、ソフトバンクグループ株が急騰し、半導体試験装置のアドバンテストも5.41%上昇するなど、ハイテク株がウォール街の反発に追随して上昇した。9日にはナスダックが2.74%、S&P500が2.35%上昇した。先週のハイテク株急落は、中間選挙後のデータセンター規制強化への懸念と結び付けられていた。"
  },
  {
+  "date": "2026-11-10",
+  "headline": "日상반기 경상흑자 17조엔…원유 조달비 증가에 0.4%↓",
+  "headline_ko": "日 상반기 경상흑자 17조엔…원유 조달비 증가에 0.4% 감소",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611101131281149",
+  "summary_ko": "일본 재무성이 10일 발표한 국제수지 잠정치에 따르면 2026회계연도 상반기(4~9월) 경상수지는 17조1482억엔 흑자로 1년 전보다 0.4% 줄었다. 중동 정세 악화로 원유를 다른 공급처에서 확보하는 비용이 커지면서 무역수지는 적자로 돌아섰다.",
+  "topics": [
+   "macro",
+   "energy"
+  ],
+  "orgs": [
+   "Japan Ministry of Finance"
+  ],
+  "headline_en": "Japan's first-half current account surplus at 17 trillion yen, down 0.4% on higher crude costs",
+  "summary_en": "According to preliminary balance-of-payments data released by Japan's Ministry of Finance on the 10th, the current account surplus for the first half of fiscal 2026 (April–September) was 17.1482 trillion yen, down 0.4% from a year earlier. The trade balance swung to a deficit as the worsening Middle East situation raised the cost of securing crude oil from other suppliers.",
+  "headline_ja": "日本の上半期経常黒字17兆円…原油調達費増で0.4%減",
+  "summary_ja": "日本の財務省が10日発表した国際収支の速報値によると、2026年度上半期（4〜9月）の経常収支は17兆1482億円の黒字で、前年同期比0.4%減少した。中東情勢の悪化で原油を他の供給元から確保する費用が膨らみ、貿易収支は赤字に転じた。"
+ },
+ {
   "date": "2026-11-09",
   "headline": "中 10월 생산자물가 '4년여 만에 최고'…소비자물가는 둔화",
   "headline_ko": "中 10월 생산자물가 '4년여 만에 최고'…소비자물가는 둔화",
