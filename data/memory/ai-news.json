@@ -40,6 +40,27 @@
   "summary_ja": "エヌビディアの株主らはローゼン法律事務所を通じ、9日にカリフォルニア州北部連邦地裁でエヌビディアとジェンスン・フアンCEOを相手取り、連邦証券法違反による損害賠償訴訟を起こした。原告らは、フアン氏が中国の情報要員と疑われるアリス・フアン氏との関係や、同氏が勤務していたメガスピードに関連する安全保障上のリスクを隠し、株価急落で大きな損失を被ったと主張した。エヌビディア株は9日に4.27%安の178.67ドルで引け、時価総額1900億ドルが消失した。"
  },
  {
+  "date": "2026-11-10",
+  "headline": "국내 클로드 이용자 1년 새 10배 급증…챗GPT·제미나이 추격",
+  "headline_ko": "국내 클로드 앱 이용자 1년 새 10배 급증…10월 500만명 돌파",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611100846384439",
+  "summary_ko": "와이즈앱·리테일에 따르면 앤스로픽 '클로드' 앱의 10월 국내 월간 이용자 수가 500만명으로 역대 최대를 기록했다. 1년 전 46만명에서 975.6% 늘었고 14개월 연속 증가했다. 챗GPT는 2551만명으로 1위였고 구글 제미나이가 914만명으로 뒤를 이었다.",
+  "topics": [
+   "korea",
+   "business"
+  ],
+  "orgs": [
+   "Anthropic",
+   "OpenAI",
+   "Google"
+  ],
+  "headline_en": "Claude users in Korea up tenfold in a year, chasing ChatGPT and Gemini",
+  "summary_en": "According to WiseApp·Retail, monthly users of Anthropic's Claude app in Korea hit a record 5 million in October. That is up 975.6% from 460,000 a year earlier, marking 14 straight months of growth. ChatGPT ranked first with 25.51 million users, followed by Google Gemini with 9.14 million.",
+  "headline_ja": "韓国のClaudeアプリ利用者、1年で10倍に急増…10月に500万人突破",
+  "summary_ja": "ワイズアップ・リテールによると、アンソロピックの「Claude」アプリの10月の韓国内月間利用者数は500万人と過去最多を記録した。1年前の46万人から975.6%増え、14カ月連続で増加した。ChatGPTは2551万人で1位、グーグルのGeminiが914万人で続いた。"
+ },
+ {
   "date": "2026-11-09",
   "headline": "젠슨 황, 불륜 인정…엔비디아 이사회, 中 간첩 연루 의혹 독립 조사 착수",
   "headline_ko": "젠슨 황, 불륜 인정…엔비디아 이사회, 中 간첩 연루 의혹 독립 조사 착수",
