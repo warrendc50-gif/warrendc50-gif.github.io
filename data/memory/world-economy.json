@@ -149,6 +149,26 @@
   "summary_ja": "イラン戦争の緊張緩和への期待から、ブレント原油は8月以来初めて1バレル90ドルを下回った。米WTI原油は1バレル84.59ドルに下落した。"
  },
  {
+  "date": "2026-11-10",
+  "headline": "U.S. yields jump after hotter-than-expected inflation data",
+  "headline_ko": "美 국채금리, 예상 웃돈 물가에 급등…2년물 '관세 발작' 이후 최대 상승",
+  "outlet": "Reuters (The Globe and Mail)",
+  "url": "https://www.theglobeandmail.com/investing/article-us-yields-jump-after-hotter-than-expected-inflation-data/",
+  "summary_ko": "10월 소비자물가가 0.4%, 근원물가가 0.3% 오르며 예상보다 높게 나오자 미 국채 2년물 금리가 19.28bp 오른 4.74%로 2025년 4월 '관세 발작' 이후 최대 일일 상승폭을 향했고, 10년물도 12.97bp 오른 4.992%를 기록했다. 연방기금 선물은 12월 8~9일 회의에서 29bp 인상을 반영해 50bp 인상 가능성에 대한 베팅이 커졌다. 미 채권시장은 11일 재향군인의 날로 휴장한다.",
+  "topics": [
+   "fed",
+   "markets"
+  ],
+  "orgs": [
+   "Federal Reserve",
+   "US Treasury"
+  ],
+  "headline_en": "U.S. yields jump after hotter-than-expected inflation data",
+  "summary_en": "After October consumer prices rose 0.4% and core prices 0.3%, higher than expected, the U.S. 2-year Treasury yield rose 19.28 basis points to 4.74%, heading for its biggest one-day jump since the April 2025 'tariff tantrum', and the 10-year yield rose 12.97 basis points to 4.992%. Fed funds futures priced in a 29-basis-point hike at the December 8-9 meeting, increasing bets on a 50-basis-point increase. The U.S. bond market is closed on the 11th for Veterans Day.",
+  "headline_ja": "米国債利回り、予想上回る物価で急上昇…2年債は「関税かんしゃく」以来の上げ幅",
+  "summary_ja": "10月の消費者物価が0.4%、コア物価が0.3%上昇と予想を上回ったことを受け、米2年債利回りは19.28bp上昇の4.74%と、2025年4月の「関税かんしゃく」以来最大の1日上昇幅に向かい、10年債利回りも12.97bp上昇の4.992%となった。フェデラルファンド先物は12月8~9日の会合で29bpの利上げを織り込み、50bp利上げへの賭けが強まった。米債券市場は11日、退役軍人の日で休場となる。"
+ },
+ {
   "date": "2026-11-09",
   "headline": "中 10월 생산자물가 '4년여 만에 최고'…소비자물가는 둔화",
   "headline_ko": "中 10월 생산자물가 '4년여 만에 최고'…소비자물가는 둔화",
