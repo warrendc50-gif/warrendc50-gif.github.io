@@ -199,6 +199,25 @@
   "summary_ja": "韓国の金融保安院がハッキング攻撃を受け、金融会社のセキュリティ状況に関する一部情報が流出したことが確認された。金融保安院は9日に流出を確認し、金融委員会など当局に届け出た。ハッキングの対象は金融会社の情報保護管理体制とセキュリティ状況の評価を支援する「情報保護常時評価」サイトで、金融会社が提出したセキュリティ状況の情報の一部が流出した可能性がある。"
  },
  {
+  "date": "2026-11-10",
+  "headline": "BNP파리바 \"11월 3.25%가 금리 정점\"…반도체 낙수효과에 의문",
+  "headline_ko": "BNP파리바 \"한은, 26일 3.25%로 인상…금리 정점\"",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611102025132714",
+  "summary_ko": "BNP파리바는 한국은행이 26일 기준금리를 0.25%포인트 올린 연 3.25%로 결정할 것으로 예상하면서도, 동결을 주장하는 소수의견이 1~2명 나올 만큼 판단이 팽팽할 것으로 내다봤다. 반도체 호황의 낙수효과가 제한적이고 민간소비 회복도 더딜 수 있다며 최종 기준금리 전망치는 3.25%로 유지했다. BNP파리바의 물가 전망치는 한국은행보다 낮다.",
+  "topics": [
+   "rates"
+  ],
+  "orgs": [
+   "BNP Paribas",
+   "한국은행"
+  ],
+  "headline_en": "BNP Paribas: BOK to hike to 3.25% on the 26th, the peak rate",
+  "summary_en": "BNP Paribas expects the Bank of Korea to raise its base rate by 0.25 percentage point to 3.25% on the 26th, but sees a close call with one or two dissenting votes for a hold. It kept its terminal rate forecast at 3.25%, citing limited trickle-down from the chip boom and a possibly slow recovery in private consumption. BNP Paribas's inflation forecast is lower than the Bank of Korea's.",
+  "headline_ja": "BNPパリバ「韓銀、26日に3.25%へ利上げ…金利のピーク」",
+  "summary_ja": "BNPパリバは、韓国銀行が26日に政策金利を0.25%ポイント引き上げ年3.25%とすると予想する一方、据え置きを主張する少数意見が1〜2人出るほど判断は拮抗するとみた。半導体好況の波及効果が限定的で民間消費の回復も遅れる可能性があるとして、最終政策金利の見通しは3.25%に据え置いた。BNPパリバの物価見通しは韓国銀行より低い。"
+ },
+ {
   "date": "2026-11-09",
   "headline": "[속보] 코스피 25.49p(0.50%) 내린 5034.20 출발…코스닥은 638.82",
   "headline_ko": "코스피 0.50% 내린 5034.20 출발…코스닥은 638.82",
