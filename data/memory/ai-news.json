@@ -61,6 +61,46 @@
   "summary_ja": "ワイズアップ・リテールによると、アンソロピックの「Claude」アプリの10月の韓国内月間利用者数は500万人と過去最多を記録した。1年前の46万人から975.6%増え、14カ月連続で増加した。ChatGPTは2551万人で1位、グーグルのGeminiが914万人で続いた。"
  },
  {
+  "date": "2026-11-10",
+  "headline": "WSJ \"앤스로픽 19일 또는 20일 상장…기업 가치에 관심 집중\"",
+  "headline_ko": "WSJ \"앤스로픽 19일 또는 20일 나스닥 상장…티커 'ANT'\"",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611100926453970",
+  "summary_ko": "월스트리트저널(WSJ)에 따르면 앤스로픽은 추수감사절(11월 26일) 전에 기업공개를 마칠 계획이며, 19일 또는 20일 나스닥에 티커 'ANT'로 상장할 예정이다. 기업가치는 1조2500억~1조7500억 달러, 조달 규모는 800억~1000억 달러로 거론되며, 일부 투자자는 1조1000억~1조3000억 달러를 예상한다. S-1 신고서의 의무 대기기간이 10일 끝나 이날부터 로드쇼를 시작할 수 있다.",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "Anthropic",
+   "Nasdaq"
+  ],
+  "headline_en": "WSJ: Anthropic to list on Nasdaq on the 19th or 20th under ticker 'ANT'",
+  "summary_en": "According to The Wall Street Journal, Anthropic plans to complete its IPO before Thanksgiving (Nov. 26) and list on Nasdaq under the ticker 'ANT' on the 19th or 20th. A valuation of $1.25 trillion to $1.75 trillion and a raise of $80 billion to $100 billion are being discussed, while some investors expect $1.1 trillion to $1.3 trillion. The mandatory waiting period for its S-1 filing ends on the 10th, allowing a roadshow to start that day.",
+  "headline_ja": "WSJ「アンソロピック、19日か20日にナスダック上場…ティッカーは『ANT』」",
+  "summary_ja": "ウォール・ストリート・ジャーナル（WSJ）によると、アンソロピックは感謝祭（11月26日）前にIPOを終える計画で、19日か20日にティッカー「ANT」でナスダックに上場する予定だ。企業価値は1兆2500億〜1兆7500億ドル、調達規模は800億〜1000億ドルが取り沙汰され、一部投資家は1兆1000億〜1兆3000億ドルを予想している。S-1届出書の法定待機期間が10日に終わり、同日からロードショーを始められる。"
+ },
+ {
+  "date": "2026-11-10",
+  "headline": "\"엘리스 황, 中 투자자들에 '엔비디아 친분' 과시\"",
+  "headline_ko": "FT \"앨리스 황, 中 투자자들에 '엔비디아 친분' 과시…'GPU 확보 문제없다'\"",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611100937210473",
+  "summary_ko": "파이낸셜타임스(FT)에 따르면 앨리스 황(황러)은 지난해 초 수억 달러 규모의 동남아 데이터센터 프로젝트 투자를 유치하면서 \"GPU 확보에는 아무런 문제가 없다\"고 강조했다. 미 당국은 그가 임원으로 있던 싱가포르 메가스피드가 엔비디아 AI 칩의 중국 밀반입을 도왔는지 조사하고 있으며, 회사 자산은 2024년 한 해 동안 3300만 달러에서 30억 달러로 불었다. 알리바바는 메가스피드 동남아 클라우드 사업의 핵심 고객으로 말레이시아 자회사에 자금을 빌려준 것으로 전해졌다.",
+  "topics": [
+   "chips",
+   "policy"
+  ],
+  "orgs": [
+   "Megaspeed",
+   "Nvidia",
+   "Alibaba"
+  ],
+  "headline_en": "FT: Alice Huang touted Nvidia ties to Chinese investors, said 'no problem securing GPUs'",
+  "summary_en": "According to the Financial Times, Alice Huang (Huang Le) stressed that there was \"no problem securing GPUs\" while seeking investment early last year for a Southeast Asian data center project worth hundreds of millions of dollars. US authorities are investigating whether Singapore's Megaspeed, where she was an executive, helped smuggle Nvidia AI chips into China, and the company's assets grew from $33 million to $3 billion during 2024 alone. Alibaba was reportedly a key customer of Megaspeed's Southeast Asian cloud business and lent money to its Malaysian subsidiary.",
+  "headline_ja": "FT「アリス・フアン氏、中国投資家に『エヌビディアとの親交』誇示…『GPU確保は問題ない』」",
+  "summary_ja": "フィナンシャル・タイムズ（FT）によると、アリス・フアン（黄楽）氏は昨年初め、数億ドル規模の東南アジアのデータセンター事業への投資を募る際、「GPU確保には何の問題もない」と強調した。米当局は、同氏が幹部を務めたシンガポールのメガスピードがエヌビディアのAIチップの中国への密輸を手助けしたかを調べており、同社の資産は2024年の1年間で3300万ドルから30億ドルに膨らんだ。アリババはメガスピードの東南アジアのクラウド事業の主要顧客で、マレーシア子会社に資金を貸し付けたとされる。"
+ },
+ {
   "date": "2026-11-09",
   "headline": "젠슨 황, 불륜 인정…엔비디아 이사회, 中 간첩 연루 의혹 독립 조사 착수",
   "headline_ko": "젠슨 황, 불륜 인정…엔비디아 이사회, 中 간첩 연루 의혹 독립 조사 착수",
