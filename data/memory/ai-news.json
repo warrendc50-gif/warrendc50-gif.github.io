@@ -308,6 +308,26 @@
   "summary_ja": "AIクラウド企業のコアウィーブは10日の取引終了後に決算を発表し、売上高が前年同期の2倍超となる36億6000万ドル、受注残高は約1325億ドルだったと明らかにした。今年の売上高見通しを130億~133億ドルと、従来予想や市場予想を上回る水準に引き上げ、設備投資は370億~390億ドルを見込む。株価は時間外取引で7%超上昇した。"
  },
  {
+  "date": "2026-11-10",
+  "headline": "Microsoft tops Nvidia's market cap for first time since June 2025",
+  "headline_ko": "마이크로소프트, 2025년 6월 이후 처음으로 시가총액에서 엔비디아 추월",
+  "outlet": "Reuters (Global Banking & Finance Review)",
+  "url": "https://www.globalbankingandfinance.com/microsoft-top-nvidias-market-cap-first-time-since-june-2025/",
+  "summary_ko": "10일 장중 마이크로소프트가 엔비디아를 제치고 세계에서 두 번째로 시가총액이 큰 기업이 됐다. 엔비디아 주가는 AI 전망 불확실성과 젠슨 황 CEO가 외국 정보기관 공작의 표적이 됐는지에 대한 조사 여파로 6% 넘게 떨어져 약 167.11달러를 기록했고, 같은 시점 마이크로소프트는 0.4% 내린 543.25달러였다.",
+  "topics": [
+   "chips",
+   "business"
+  ],
+  "orgs": [
+   "Microsoft",
+   "Nvidia"
+  ],
+  "headline_en": "Microsoft tops Nvidia's market cap for first time since June 2025",
+  "summary_en": "During trading on the 10th, Microsoft overtook Nvidia as the world's second-most valuable company. Nvidia shares fell more than 6% to around $167.11 amid AI outlook uncertainty and an investigation into whether CEO Jensen Huang was targeted by a foreign intelligence effort, while Microsoft was down 0.4% at $543.25 at the time.",
+  "headline_ja": "マイクロソフト、2025年6月以来初めて時価総額でエヌビディアを上回る",
+  "summary_ja": "10日の取引中、マイクロソフトがエヌビディアを抜き、世界で2番目に時価総額の大きい企業となった。エヌビディア株はAI見通しの不透明感と、ジェンスン・フアンCEOが外国情報機関の工作の標的になったかどうかをめぐる調査の影響で6%超下落し約167.11ドルとなり、同時点でマイクロソフトは0.4%安の543.25ドルだった。"
+ },
+ {
   "date": "2026-11-09",
   "headline": "젠슨 황, 불륜 인정…엔비디아 이사회, 中 간첩 연루 의혹 독립 조사 착수",
   "headline_ko": "젠슨 황, 불륜 인정…엔비디아 이사회, 中 간첩 연루 의혹 독립 조사 착수",
