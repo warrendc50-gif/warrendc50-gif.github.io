@@ -325,6 +325,43 @@
    "summary_ja": "カタール首相はトランプ大統領との会談から数時間後、パリで開かれたG7会合の関連協議に欧州4カ国の外相、サウジアラビア外相とともに参加した。フランス外務省は、イラン危機とその安全保障・経済的影響が集中的に協議されると説明した。トランプ氏はイラン戦争は軍事的には事実上終わったと述べつつ追加攻撃の可能性も残し、ブレント原油は1バレル90ドルを下回った。"
   },
   {
+   "date": "2026-11-10",
+   "headline": "'러 점령' 우크라 자포리자 원전 직원, 또 드론 공격에 사망",
+   "headline_ko": "'러 점령' 우크라 자포리자 원전 직원, 또 드론 공격에 사망",
+   "outlet": "뉴스1",
+   "url": "https://www.news1.kr/world/europe/6348768",
+   "summary_ko": "국제원자력기구(IAEA)는 러시아가 점령한 우크라이나 자포리자 원전의 직원이 드론 공격으로 숨졌다고 밝혔다. 인근 자포리자 화력발전소 직원 1명도 드론에 숨졌다. IAEA는 공격 주체를 특정하지 않았고, 러시아는 우크라이나 소행이라고 주장했다.",
+   "topics": [
+    "conflict"
+   ],
+   "orgs": [
+    "IAEA"
+   ],
+   "headline_en": "Worker at Russian-occupied Zaporizhzhia nuclear plant killed in another drone attack",
+   "summary_en": "The International Atomic Energy Agency (IAEA) said an employee of the Russian-occupied Zaporizhzhia nuclear plant in Ukraine was killed in a drone attack. An employee of the nearby Zaporizhzhia thermal power plant was also killed by a drone. The IAEA did not identify who carried out the attack, while Russia claimed it was Ukraine.",
+   "headline_ja": "ロシア占領下のザポリージャ原発職員、再びドローン攻撃で死亡",
+   "summary_ja": "国際原子力機関（IAEA）は、ロシアが占領するウクライナのザポリージャ原発の職員がドローン攻撃で死亡したと発表した。近くのザポリージャ火力発電所の職員1人もドローンで死亡した。IAEAは攻撃主体を特定しておらず、ロシアはウクライナの仕業だと主張した。"
+  },
+  {
+   "date": "2026-11-10",
+   "headline": "젤렌스키 \"러, 교량 공격해 드니프로강 따라 우크라 분단 시도\"",
+   "headline_ko": "젤렌스키 \"러, 교량 공격해 드니프로강 따라 우크라 분단 시도\"",
+   "outlet": "뉴스1",
+   "url": "https://www.news1.kr/world/europe/6348580",
+   "summary_ko": "젤렌스키 우크라이나 대통령은 러시아군이 교량과 에너지 시설을 집중 공격해 드니프로강을 따라 우크라이나를 분단하려 한다고 주장했다. 그는 이를 국민의 삶을 최대한 힘들게 하려는 전략이라고 말했다. EU의 추가 지원이 예정돼 있으며 코레츠키 총리가 세부 사항을 조율하고 있다.",
+   "topics": [
+    "conflict"
+   ],
+   "orgs": [
+    "Ukrainian government",
+    "EU"
+   ],
+   "headline_en": "Zelenskyy: Russia attacking bridges to split Ukraine along the Dnipro River",
+   "summary_en": "Ukrainian President Zelenskyy claimed Russian forces are concentrating attacks on bridges and energy facilities in an attempt to divide Ukraine along the Dnipro River. He called it a strategy to make people's lives as hard as possible. Additional EU support is planned, with the prime minister coordinating the details.",
+   "headline_ja": "ゼレンスキー氏「ロシア、橋を攻撃しドニプロ川沿いでウクライナ分断狙う」",
+   "summary_ja": "ウクライナのゼレンスキー大統領は、ロシア軍が橋梁とエネルギー施設に攻撃を集中させ、ドニプロ川に沿ってウクライナを分断しようとしていると主張した。国民の生活をできる限り困難にしようとする戦略だと述べた。EUの追加支援が予定されており、首相が詳細を調整している。"
+  },
+  {
    "date": "2026-11-09",
    "headline": "트럼프 \"이란과 강력한 합의하면 추가 공격 가능성 극히 낮아\"",
    "headline_ko": "트럼프 \"이란과 강력한 합의하면 추가 공격 가능성 극히 낮아\"",
@@ -1095,6 +1132,24 @@
    "summary_en": "Yemen's government forces announced the capture of Houthi-held positions in the southern governorate of Lahj. The Houthis resumed border attacks and are continuing attacks in Taiz, which they have besieged for more than a month.",
    "headline_ja": "イエメン政府軍「ラヒジ州のフーシ派拠点を制圧」…フーシ派は国境攻撃を再開",
    "summary_ja": "イエメン政府軍は南部ラヒジ州のフーシ派拠点を制圧したと発表した。フーシ派は国境攻撃を再開し、1カ月以上包囲しているタイズでも攻撃を続けている。"
+  },
+  {
+   "date": "2026-11-09",
+   "headline": "South Africa detains foreigners suspected of heading to join Russian forces",
+   "headline_ko": "남아공, 러시아군 합류 의심 외국인 9명 공항서 체포",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/9/south-africa-detains-foreigners-suspected-of-heading-to-join-russian-forces",
+   "summary_ko": "남아프리카공화국 경찰이 러시아의 우크라이나 전쟁에 참전하려 한 것으로 의심되는 20~26세 외국인 9명을 요하네스버그 OR 탐보 공항과 인근 호텔에서 체포했다. 이들은 러시아행 항공편 탑승을 준비하던 중이었으며, 외국군사지원규제법 위반 혐의로 법정에 설 예정이다. 우크라이나 외무장관은 2월에 아프리카 36개국 출신 1700명 이상이 러시아 편에서 싸우고 있다고 밝힌 바 있다.",
+   "topics": [
+    "conflict"
+   ],
+   "orgs": [
+    "South African Police Service"
+   ],
+   "headline_en": "South Africa detains foreigners suspected of heading to join Russian forces",
+   "summary_en": "South African police arrested nine foreign nationals aged 20 to 26 at Johannesburg's OR Tambo Airport and a nearby hotel, on suspicion of seeking to travel to fight in Russia's war on Ukraine. They were preparing to board flights to Russia and are expected to face charges under the Regulation of Foreign Military Assistance Act. Ukraine's foreign minister said in February that more than 1,700 people from 36 African nations are fighting for Russia.",
+   "headline_ja": "南アフリカ、ロシア軍合流の疑いで外国人9人を空港で逮捕",
+   "summary_ja": "南アフリカ警察は、ロシアのウクライナ戦争に参戦しようとした疑いで、20〜26歳の外国人9人をヨハネスブルクのORタンボ空港と近くのホテルで逮捕した。9人はロシア行きの便に搭乗しようとしていたところで、外国軍事援助規制法違反の罪で出廷する見通しだ。ウクライナ外相は2月、アフリカ36カ国出身の1700人以上がロシア側で戦っていると明らかにしていた。"
   },
   {
    "date": "2026-11-08",
