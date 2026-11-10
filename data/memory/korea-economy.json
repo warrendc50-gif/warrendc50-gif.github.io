@@ -1,5 +1,23 @@
 [
  {
+  "date": "2026-11-10",
+  "headline": "[속보] 코스피, 4.55% 오른 5247.22…코스닥 3.56% 상승 661.73",
+  "headline_ko": "코스피, 장 초반 4.55% 급등한 5247.22…코스닥 3.56%↑",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611100900386903",
+  "summary_ko": "코스피가 10일 장 초반 4.55% 오른 5247.22를 기록했다. 코스닥은 3.56% 오른 661.73이었다.",
+  "topics": [
+   "stocks"
+  ],
+  "orgs": [
+   "KRX"
+  ],
+  "headline_en": "KOSPI jumps 4.55% to 5,247.22 early; KOSDAQ up 3.56%",
+  "summary_en": "The KOSPI rose 4.55% to 5,247.22 early on the 10th. The KOSDAQ was up 3.56% at 661.73.",
+  "headline_ja": "KOSPI、取引開始直後に4.55%急騰し5247.22…KOSDAQも3.56%高",
+  "summary_ja": "KOSPIは10日の取引開始直後に4.55%上昇し5247.22となった。KOSDAQは3.56%高の661.73だった。"
+ },
+ {
   "date": "2026-11-09",
   "headline": "[속보] 코스피 25.49p(0.50%) 내린 5034.20 출발…코스닥은 638.82",
   "headline_ko": "코스피 0.50% 내린 5034.20 출발…코스닥은 638.82",
