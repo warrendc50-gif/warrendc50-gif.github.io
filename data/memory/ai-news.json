@@ -233,6 +233,44 @@
   "summary_ja": "ドイツの半導体メーカー、インフィニオンは、米国で反発が強まっているもののAIデータセンター建設のペースは落ちないとの見方を示した。同社は9月末までの会計年度の売上高が12%増加し、AIデータセンター需要を背景に今年度の売上高の伸び率は20%に達すると予想した。ヨッヘン・ハーネベックCEOは、米国の反対は「かなり米国中心の話題」だとし、データセンターの拡張は地域的に分散していくと述べた。"
  },
  {
+  "date": "2026-11-10",
+  "headline": "대만 TSMC 10월 매출 24조 육박…月 최고매출 기록 두 달만에 경신",
+  "headline_ko": "대만 TSMC 10월 매출 5868억 대만달러로 사상 최대…\"AI 수요 둔화 조짐 없어\"",
+  "outlet": "뉴스1",
+  "url": "https://www.news1.kr/world/northeast-asia/6349364",
+  "summary_ko": "TSMC의 10월 매출이 5868억 대만달러로 사상 최대를 기록했다. 1년 전보다 59.7%, 전달보다 14.7% 늘었으며 1~10월 누적 매출은 1년 전보다 43.3% 증가했다. 웨이저자 회장은 \"AI 수요가 강세이며 둔화 조짐이 없다\"고 말했다.",
+  "topics": [
+   "chips"
+  ],
+  "orgs": [
+   "TSMC"
+  ],
+  "headline_en": "TSMC October revenue hits record NT$586.8 billion; 'no sign of AI demand slowing'",
+  "summary_en": "TSMC's October revenue reached a record NT$586.8 billion. It rose 59.7% from a year earlier and 14.7% from the previous month, and cumulative January–October revenue was up 43.3% year on year. Chairman C.C. Wei said AI demand is strong with no signs of slowing.",
+  "headline_ja": "台湾TSMC、10月売上高5868億台湾ドルで過去最高…「AI需要に減速の兆しなし」",
+  "summary_ja": "TSMCの10月の売上高は5868億台湾ドルと過去最高を記録した。前年同月比59.7%、前月比14.7%増加し、1〜10月の累計売上高は前年同期比43.3%増えた。魏哲家会長は「AI需要は強く、減速の兆しはない」と述べた。"
+ },
+ {
+  "date": "2026-11-10",
+  "headline": "'젠슨황 불륜' 벌어진 대만, 입국과정 조사…\"미인계 中 전형적 수법\"",
+  "headline_ko": "대만, '젠슨 황 불륜' 앨리스 황 입국 과정 조사…\"안보기관서 조사 중\"",
+  "outlet": "뉴스1",
+  "url": "https://www.news1.kr/world/northeast-asia/6349098",
+  "summary_ko": "대만 정부가 젠슨 황 엔비디아 CEO와 불륜 관계였던 앨리스 황의 입국 과정을 들여다보고 있다. 앨리스 황은 대만에서 젠슨 황과 최소 두 차례 만났으며, 입국 당시 신분은 공개되지 않았고 안보기관이 조사 중이다. 천밍치 차관은 입국 규정은 지켜졌으며 간첩 증거나 조사 권한은 없다고 말했다.",
+  "topics": [
+   "chips",
+   "policy"
+  ],
+  "orgs": [
+   "Taiwan government",
+   "Nvidia"
+  ],
+  "headline_en": "Taiwan probes entry of Alice Huang in Jensen Huang affair; 'security agencies investigating'",
+  "summary_en": "Taiwan's government is looking into how Alice Huang, who had an affair with Nvidia CEO Jensen Huang, entered the country. Alice Huang met Jensen Huang in Taiwan at least twice; her status at the time of entry has not been disclosed, and security agencies are investigating. Deputy Minister Chen Ming-chi said entry rules were followed and that there was no evidence of espionage or authority to investigate.",
+  "headline_ja": "台湾、「ジェンスン・フアン氏不倫」のアリス・フアン氏の入国経緯を調査…「安全保障機関が調査中」",
+  "summary_ja": "台湾政府は、エヌビディアのジェンスン・フアンCEOと不倫関係にあったアリス・フアン氏の入国経緯を調べている。アリス・フアン氏は台湾でフアン氏と少なくとも2回会っており、入国時の身分は公表されておらず、安全保障機関が調査中だ。陳明祺次長は入国規定は守られており、スパイの証拠や調査権限はないと述べた。"
+ },
+ {
   "date": "2026-11-09",
   "headline": "젠슨 황, 불륜 인정…엔비디아 이사회, 中 간첩 연루 의혹 독립 조사 착수",
   "headline_ko": "젠슨 황, 불륜 인정…엔비디아 이사회, 中 간첩 연루 의혹 독립 조사 착수",
