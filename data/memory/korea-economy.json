@@ -144,6 +144,24 @@
   "summary_ja": "KOSPIは10日、前営業日比220.28ポイント（4.39%）高の5239.13で取引を終えた。KOSDAQは28.64ポイント（4.48%）高の667.61で引けた。"
  },
  {
+  "date": "2026-11-10",
+  "headline": "한은 \"반도체 성과급 70조, 물가·소비압력 커져..GDP 기여 0.1%\"",
+  "headline_ko": "한은 \"반도체 성과급 70조, 물가·소비 압력 커져…GDP 기여 0.1%\"",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611101702306933",
+  "summary_ko": "한국은행 금융통화위원회 의사록에 따르면 삼성전자·SK하이닉스 등 대기업 성과급이 올해 말부터 내년 초까지 최대 70조원에 이를 것으로 예상된다. 한은은 성과급이 민간소비를 0.4% 수준 끌어올리지만 실질 GDP 성장 효과는 0.1% 초반에 그칠 것으로 봤다. 한 위원은 성과급이 내년에도 계속 지급되면 근로자들이 이를 항상소득으로 여겨 소비 효과가 추정치를 웃돌 수 있다고 말했다.",
+  "topics": [
+   "rates"
+  ],
+  "orgs": [
+   "한국은행"
+  ],
+  "headline_en": "BOK: 70 trillion won in chip bonuses adds to price and consumption pressure, but only 0.1% to GDP",
+  "summary_en": "According to the minutes of the Bank of Korea's Monetary Policy Board, bonuses at major firms such as Samsung Electronics and SK hynix are expected to reach up to 70 trillion won from late this year to early next year. The BOK estimated the bonuses would lift private consumption by about 0.4% but add only a low 0.1% to real GDP growth. One member said that if the bonuses continue to be paid next year, workers may treat them as permanent income and the consumption effect could exceed the estimate.",
+  "headline_ja": "韓国銀行「半導体の成果給70兆ウォン、物価・消費圧力高まる…GDP寄与は0.1%」",
+  "summary_ja": "韓国銀行の金融通貨委員会の議事録によると、サムスン電子やSKハイニックスなど大企業の成果給は今年末から来年初めにかけて最大70兆ウォンに達すると見込まれる。韓銀は成果給が民間消費を0.4%程度押し上げるものの、実質GDP成長への効果は0.1%台前半にとどまるとみた。ある委員は、成果給が来年も支給され続ければ労働者がこれを恒常所得とみなし、消費効果が推計を上回る可能性があると述べた。"
+ },
+ {
   "date": "2026-11-09",
   "headline": "[속보] 코스피 25.49p(0.50%) 내린 5034.20 출발…코스닥은 638.82",
   "headline_ko": "코스피 0.50% 내린 5034.20 출발…코스닥은 638.82",

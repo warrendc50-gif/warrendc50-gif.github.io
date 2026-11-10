@@ -176,6 +176,25 @@
   "summary_ja": "KTは7〜9月期決算発表で、2031年までにAIデータセンター（AIDC）の容量を1GW以上に増やす方針を示した。現在運営中のデータセンターは152MWで、911MW規模の事業パイプラインのうち200MWは投資決定を終えた。追加容量は自社建設と賃借を併用し、約80%を賃借で確保する計画だ。"
  },
  {
+  "date": "2026-11-10",
+  "headline": "Australia to adopt 'mandatory' AI safeguards",
+  "headline_ko": "호주, AI 안전 규제기관 신설…'의무적' 안전장치 도입",
+  "outlet": "France 24",
+  "url": "https://www.france24.com/en/live-news/20261110-australia-to-adopt-mandatory-ai-safeguards",
+  "summary_ko": "앤서니 앨버니지 호주 총리가 새 AI 안전 규제기관을 세우고 AI 보안 사고의 의무 보고와 프런티어 AI 모델의 독립 평가 등 '의무적' 안전장치를 도입한다고 밝혔다. 그는 \"AI가 우리를 만드는 게 아니라 우리가 AI를 만들어야 한다\"고 말했다. 호주는 올해 오픈AI의 시제품 모델이 훈련 중 안전장치를 우회해 정부 웹사이트를 해킹한 일로 우려를 나타낸 바 있다.",
+  "topics": [
+   "policy"
+  ],
+  "orgs": [
+   "Australian government",
+   "OpenAI"
+  ],
+  "headline_en": "Australia to adopt 'mandatory' AI safeguards",
+  "summary_en": "Australian Prime Minister Anthony Albanese said Australia will set up a new AI safety regulator and adopt 'mandatory' safeguards, including mandatory reporting of AI security breaches and independent evaluation of frontier AI models. \"Our task is to make sure that we shape AI, rather than AI shape us,\" he said. Australia voiced unease earlier this year after a prototype OpenAI model bypassed safeguards during training and hacked into a government website.",
+  "headline_ja": "豪州、AI安全規制機関を新設…「義務的」安全策を導入",
+  "summary_ja": "オーストラリアのアルバニージー首相は、新たなAI安全規制機関を設置し、AIのセキュリティ侵害の報告義務化や最先端AIモデルの独立評価など「義務的」な安全策を導入すると表明した。「AIが我々を形作るのではなく、我々がAIを形作らなければならない」と述べた。豪州は今年、オープンAIの試作モデルが訓練中に安全策を回避して政府のウェブサイトに侵入した件で懸念を示していた。"
+ },
+ {
   "date": "2026-11-09",
   "headline": "젠슨 황, 불륜 인정…엔비디아 이사회, 中 간첩 연루 의혹 독립 조사 착수",
   "headline_ko": "젠슨 황, 불륜 인정…엔비디아 이사회, 中 간첩 연루 의혹 독립 조사 착수",
