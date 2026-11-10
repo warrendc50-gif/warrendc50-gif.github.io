@@ -181,11 +181,11 @@
  },
  {
   "date": "2026-11-10",
-  "headline": "[속보] '금융보안 문지기' 금융보안원도 해킹으로 정보유출",
-  "headline_ko": "'금융보안 문지기' 금융보안원도 해킹으로 정보 유출",
+  "headline": "금융보안원 해킹에 당국 \"관제기관 해킹 엄중 사안, 철저한 점검\"(종합)",
+  "headline_ko": "금융보안원 해킹에 당국 \"관제기관 해킹 엄중 사안, 철저한 점검\"",
   "outlet": "파이낸셜뉴스",
-  "url": "https://fnnews.com/news/202611101957322054",
-  "summary_ko": "금융보안원이 해킹 공격을 받아 금융사 보안상태 관련 일부 정보가 유출된 것으로 확인됐다. 금융보안원은 9일 유출 사실을 확인해 금융위원회 등 당국에 신고했다. 해킹 대상은 금융사의 정보보호 관리체계와 보안상태 평가를 지원하는 '정보보호 상시평가' 사이트로, 금융사가 제출한 보안상태 정보 일부가 유출됐을 가능성이 있다.",
+  "url": "https://www.fnnews.com/news/202611102111324886",
+  "summary_ko": "금융권 보안을 총괄하는 금융보안원이 해킹 공격을 받아 '정보보호 상시평가' 사이트의 금융회사 보안평가 정보 일부가 유출됐고, 9일 이를 확인해 금융위원회에 신고했다. 금융당국은 민감한 개인정보는 유출되지 않은 것으로 안다면서도, 관제기관이 해킹당한 것은 엄중한 사안이라며 철저한 점검과 재발 방지를 요구했다. 금융보안원은 유출 범위를 확인 중이며 회원사에 공격 사실을 알리고 있다.",
   "topics": [
    "banks"
   ],
@@ -193,10 +193,10 @@
    "금융보안원",
    "금융위원회"
   ],
-  "headline_en": "Financial Security Institute, the 'gatekeeper of financial security', also hacked, data leaked",
-  "summary_en": "Korea's Financial Security Institute was hit by a hacking attack, and some information on financial firms' security status was confirmed to have leaked. The institute confirmed the leak on the 9th and reported it to the Financial Services Commission and other authorities. The target was its ongoing information-security assessment site, which supports evaluation of financial firms' security management systems, and some security-status information submitted by financial firms may have been leaked.",
-  "headline_ja": "「金融セキュリティの門番」金融保安院もハッキングで情報流出",
-  "summary_ja": "韓国の金融保安院がハッキング攻撃を受け、金融会社のセキュリティ状況に関する一部情報が流出したことが確認された。金融保安院は9日に流出を確認し、金融委員会など当局に届け出た。ハッキングの対象は金融会社の情報保護管理体制とセキュリティ状況の評価を支援する「情報保護常時評価」サイトで、金融会社が提出したセキュリティ状況の情報の一部が流出した可能性がある。"
+  "headline_en": "Authorities on Financial Security Institute hack: 'grave matter that monitoring body was hacked, thorough inspection needed'",
+  "summary_en": "The Financial Security Institute, which oversees security for Korea's financial sector, was hacked and some financial firms' security assessment information on its ongoing information-security assessment site was leaked; it confirmed the breach on the 9th and reported it to the Financial Services Commission. Financial authorities said sensitive personal information is not believed to have leaked, but called the hacking of the monitoring body a grave matter and demanded a thorough inspection and measures to prevent recurrence. The institute is still checking the scope of the leak and is notifying member firms of the attack.",
+  "headline_ja": "金融保安院ハッキングに当局「監視機関のハッキングは重大事案、徹底点検を」",
+  "summary_ja": "金融業界のセキュリティを統括する金融保安院がハッキング攻撃を受け、「情報保護常時評価」サイトにあった金融会社のセキュリティ評価情報の一部が流出した。同院は9日にこれを確認し、金融委員会に届け出た。金融当局は機微な個人情報は流出していないとしつつも、監視機関がハッキングされたのは重大な事案だとして徹底的な点検と再発防止を求めた。金融保安院は流出範囲を確認中で、会員社に攻撃の事実を通知している。"
  },
  {
   "date": "2026-11-10",
