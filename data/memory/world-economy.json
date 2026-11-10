@@ -77,6 +77,25 @@
   "summary_ja": "日本の財務省が10日発表した国際収支の速報値によると、2026年度上半期（4〜9月）の経常収支は17兆1482億円の黒字で、前年同期比0.4%減少した。中東情勢の悪化で原油を他の供給元から確保する費用が膨らみ、貿易収支は赤字に転じた。"
  },
  {
+  "date": "2026-11-10",
+  "headline": "Gold edges lower as focus shifts to U.S. inflation data",
+  "headline_ko": "금값, 美 물가지표 앞두고 소폭 하락…온스당 4115달러",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/11/10/gold-edges-lower-as-focus-shifts-to-us-inflation-data.html",
+  "summary_ko": "10일 오전 금 현물 가격이 약 0.6% 내린 온스당 4115달러 안팎에 거래됐다. 전날 상승 뒤 차익실현 매물이 나온 가운데 투자자들은 미국 물가지표를 기다리고 있다. CME 페드워치에 따르면 시장은 연준이 12월 금리를 올릴 확률을 84%로 보고 있다.",
+  "topics": [
+   "markets",
+   "fed"
+  ],
+  "orgs": [
+   "CME"
+  ],
+  "headline_en": "Gold edges lower as focus shifts to U.S. inflation data",
+  "summary_en": "Spot gold slipped about 0.6% to roughly $4,115 an ounce on the morning of the 10th. Traders booked profits after the prior session's rally while waiting for US inflation data. According to CME's FedWatch tool, the market sees an 84% chance that the Fed will raise rates in December.",
+  "headline_ja": "金価格、米物価指標を前に小幅安…1オンス4115ドル",
+  "summary_ja": "10日朝、金のスポット価格は約0.6%下落し1オンス4115ドル前後で取引された。前日の上昇を受けた利益確定売りが出る中、投資家は米国の物価指標を待っている。CMEのフェドウオッチによると、市場はFRBが12月に利上げする確率を84%とみている。"
+ },
+ {
   "date": "2026-11-09",
   "headline": "中 10월 생산자물가 '4년여 만에 최고'…소비자물가는 둔화",
   "headline_ko": "中 10월 생산자물가 '4년여 만에 최고'…소비자물가는 둔화",
