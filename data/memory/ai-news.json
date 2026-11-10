@@ -214,11 +214,11 @@
  },
  {
   "date": "2026-11-10",
-  "headline": "S&P 500 futures rise as traders brace for crucial consumer inflation report: Live updates",
-  "headline_ko": "獨 인피니언, 사상 최대 4분기 실적…내년 매출 20% 이상 성장 전망에 주가 4.8%↑",
-  "outlet": "CNBC",
-  "url": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html",
-  "summary_ko": "독일 반도체업체 인피니언이 10일 사상 최대 4분기 실적을 발표하고 2027년 매출이 20% 넘게 늘 것으로 전망하면서 장 초반 주가가 4.8% 올랐다. 회사는 내년 데이터센터 전원공급 관련 매출이 40억 유로에 가까울 것으로 내다봤다. 씨티는 이를 두고 최근 배치 일정 우려에도 AI·데이터센터 수요가 견조하다는 긍정적 신호라고 평가했다.",
+  "headline": "Germany's Infineon says AI data centre buildout won't slow",
+  "headline_ko": "獨 인피니언 \"AI 데이터센터 구축 둔화 없을 것\"…올해 매출 20% 성장 전망",
+  "outlet": "France 24",
+  "url": "https://www.france24.com/en/live-news/20261110-germany-s-infineon-says-ai-data-centre-buildout-won-t-slow",
+  "summary_ko": "독일 반도체업체 인피니언은 미국 내 반발이 커지고 있지만 AI 데이터센터 구축 속도는 줄지 않을 것이라고 밝혔다. 회사는 9월 말 끝난 회계연도 매출이 12% 늘었고, AI 데이터센터 수요에 힘입어 올해 매출 증가율이 20%까지 오를 것으로 내다봤다. 요헨 하네벡 CEO는 미국의 반대가 \"다소 미국 중심적인 주제\"라며 데이터센터 확장은 지역적으로 다변화될 것이라고 말했다.",
   "topics": [
    "chips",
    "business"
@@ -227,10 +227,10 @@
    "Infineon",
    "Citi"
   ],
-  "headline_en": "S&P 500 futures rise as traders brace for crucial consumer inflation report: Live updates",
-  "summary_en": "German chipmaker Infineon posted a record fourth quarter on the 10th and forecast revenue growth of more than 20% in 2027, sending its shares up 4.8% in early trade. It expects revenue from data center power supplies to reach close to 4 billion euros next year. Citi said this provides a positive signal on underlying AI and data center demand despite recent concerns about deployment timelines.",
-  "headline_ja": "独インフィニオン、過去最高の第4四半期決算…来年20%超の増収見通しで株価4.8%高",
-  "summary_ja": "ドイツの半導体メーカー、インフィニオンは10日、過去最高の第4四半期決算を発表し、2027年の売上高が20%超増えるとの見通しを示し、株価は取引開始直後に4.8%上昇した。同社は来年のデータセンター向け電源関連の売上高が40億ユーロ近くに達すると予想した。シティは、最近の導入時期への懸念にもかかわらずAI・データセンター需要が底堅いことを示す前向きなシグナルだと評価した。"
+  "headline_en": "Germany's Infineon says AI data centre buildout won't slow",
+  "summary_en": "German chipmaker Infineon said the rapid buildout of AI data centres would not slow despite growing resistance in the United States. It reported a 12 percent rise in revenue for the fiscal year to end-September and forecast sales growth climbing to 20 percent in the current year on demand from AI data centres. CEO Jochen Hanebeck called the US opposition a 'rather American-centric topic' and said data centre expansion will diversify regionally.",
+  "headline_ja": "独インフィニオン「AIデータセンター建設は減速しない」…今年度20%増収見通し",
+  "summary_ja": "ドイツの半導体メーカー、インフィニオンは、米国で反発が強まっているもののAIデータセンター建設のペースは落ちないとの見方を示した。同社は9月末までの会計年度の売上高が12%増加し、AIデータセンター需要を背景に今年度の売上高の伸び率は20%に達すると予想した。ヨッヘン・ハーネベックCEOは、米国の反対は「かなり米国中心の話題」だとし、データセンターの拡張は地域的に分散していくと述べた。"
  },
  {
   "date": "2026-11-09",
