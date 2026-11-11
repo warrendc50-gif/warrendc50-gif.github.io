@@ -19,6 +19,28 @@
   "summary_ja": "シーメンス・エナジーは11日、2027年度の純利益見通しを約50億ユーロとし、アナリスト平均予想(55億ユーロ)を約10%下回った。2026年度の純利益は前年の16億9000万ユーロから41億3000万ユーロに急増し、配当を1株0.70ユーロから2.30ユーロへ3倍超に引き上げ、2030年度までに最大90億ユーロの自社株買いを約束した。7~9月期の売上高は過去最高の128億3000万ユーロ、受注残高も過去最高の1640億ユーロだった。"
  },
  {
+  "date": "2026-11-11",
+  "headline": "뉴욕증시, 코어위브발 AI 투자심리 회복에 상승 마감…나스닥 1.6%↑",
+  "headline_ko": "뉴욕증시, 코어위브발 AI 투자심리 회복에 상승 마감…나스닥 1.6%↑",
+  "outlet": "뉴스핌",
+  "url": "https://www.newspim.com/news/view/20261112000017",
+  "summary_ko": "11일 뉴욕증시에서 다우지수는 0.49% 오른 52,486.49, S&P500은 1.31% 오른 7,619.38, 나스닥은 1.60% 뛴 25,466.19에 마감했다. 3분기 매출이 예상을 웃돌고 전망을 올린 코어위브가 24.71% 급등했고, 이틀간 시가총액 약 4300억 달러가 증발했던 엔비디아는 2.87% 반등했으며 필라델피아 반도체지수는 5.86% 올랐다. 전날 10월 CPI가 예상을 웃돌면서 시장은 12월 0.25%p 인상을 완전히 반영했고, 채권시장은 재향군인의 날로 휴장했다.",
+  "topics": [
+   "markets",
+   "fed"
+  ],
+  "orgs": [
+   "NYSE",
+   "Nasdaq",
+   "CoreWeave",
+   "Nvidia"
+  ],
+  "headline_en": "Wall Street closes higher as CoreWeave revives AI sentiment... Nasdaq up 1.6%",
+  "summary_en": "On the 11th, the Dow closed up 0.49% at 52,486.49, the S&P 500 up 1.31% at 7,619.38 and the Nasdaq up 1.60% at 25,466.19. CoreWeave jumped 24.71% after third-quarter revenue beat expectations and it raised its outlook, Nvidia rebounded 2.87% after losing about $430 billion in market value over two days, and the Philadelphia Semiconductor index rose 5.86%. After the previous day's hotter-than-expected October CPI, markets fully priced in a 0.25-percentage-point December hike, while the bond market was closed for Veterans Day.",
+  "headline_ja": "NY株式市場、コアウィーブ発のAI投資心理回復で上昇…ナスダック1.6%高",
+  "summary_ja": "11日のNY株式市場は、ダウ平均が0.49%高の52,486.49、S&P500が1.31%高の7,619.38、ナスダックが1.60%高の25,466.19で取引を終えた。7~9月期売上高が予想を上回り見通しを引き上げたコアウィーブが24.71%急騰し、2日間で時価総額約4300億ドルを失っていたエヌビディアは2.87%反発、フィラデルフィア半導体指数は5.86%上昇した。前日の10月CPIが予想を上回ったことで、市場は12月の0.25%ポイント利上げを完全に織り込み、債券市場は退役軍人の日で休場した。"
+ },
+ {
   "date": "2026-11-10",
   "headline": "미·중 '무역 휴전' 쌍끌이 연장…내년 1월까지 관세·제재 유예",
   "headline_ko": "미·중 '무역 휴전' 쌍끌이 연장…내년 1월까지 관세·제재 유예",
