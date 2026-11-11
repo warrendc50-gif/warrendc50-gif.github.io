@@ -56,6 +56,28 @@
   "summary_ja": "韓国関税庁が11日に発表した11月1~10日の暫定輸出入動向によると、輸出は前年同期比111.9%急増の335億ドルとなり、同期間として過去最大を記録した。半導体輸出は331.2%増の166億ドルで輸出全体の49.7%を占め、輸入は45.0%増の247億ドルで、貿易収支は88億ドルの黒字だった。"
  },
  {
+  "date": "2026-11-11",
+  "headline": "[단독] 공정위, 국고채 담합 15곳에 과징금 1조 6266억 부과…미래에셋증권 2148억·NH투자증권 2428억·KB증권 3322억",
+  "headline_ko": "공정위, 국고채 담합 증권사·은행 15곳에 과징금 1조6266억…역대 최대(단독 보도)",
+  "outlet": "알파경제",
+  "url": "https://www.alphabiz.co.kr/news/articleView.html?idxno=197470",
+  "summary_ko": "알파경제는 금융권 등을 인용해 공정거래위원회가 2020년 1월~2023년 6월 국고채 입찰에서 써낼 금리 등 정보를 사전에 주고받은 국고채 전문딜러인 증권사 10곳과 은행 5곳에 총 1조6266억 원의 과징금을 부과한 것으로 전해졌다고 단독 보도했다. 단일 사건 역대 최대였던 퀄컴 과징금(1조311억 원)을 넘는 규모로, KB증권 3322억 원, NH투자증권 2428억 원, 미래에셋증권 2148억 원, 기업은행 1358억 원 등이다. 금융사들은 시장 금리와 수요를 파악하기 위한 통상적 소통이었다고 반박해 왔다.",
+  "topics": [
+   "banks"
+  ],
+  "orgs": [
+   "공정거래위원회",
+   "KB증권",
+   "NH투자증권",
+   "미래에셋증권",
+   "IBK기업은행"
+  ],
+  "headline_en": "[Exclusive] FTC fines 15 firms 1.6266 trillion won for treasury bond collusion... Mirae Asset Securities 214.8 billion, NH Investment & Securities 242.8 billion, KB Securities 332.2 billion",
+  "summary_en": "Citing financial-sector sources, Alpha Economy reported exclusively that the Korea Fair Trade Commission reportedly imposed a total of 1.6266 trillion won in fines on 10 securities firms and 5 banks, all primary dealers, for exchanging information such as the rates they would bid in treasury bond auctions in advance between January 2020 and June 2023. The amount exceeds the previous single-case record set by Qualcomm (1.0311 trillion won), and includes KB Securities at 332.2 billion won, NH Investment & Securities at 242.8 billion won, Mirae Asset Securities at 214.8 billion won and IBK Industrial Bank at 135.8 billion won. The firms have argued it was routine communication to gauge market rates and demand.",
+  "headline_ja": "韓国公取委、国債談合で証券・銀行15社に課徴金1兆6266億ウォン…過去最大(単独報道)",
+  "summary_ja": "アルファ経済は金融業界などを引用し、韓国公正取引委員会が2020年1月~2023年6月に国債入札で提示する金利などの情報を事前にやり取りした国債専門ディーラーの証券会社10社と銀行5行に、計1兆6266億ウォンの課徴金を科したと伝えられると単独で報じた。単一事件で過去最大だったクアルコムへの課徴金(1兆311億ウォン)を上回る規模で、KB証券3322億ウォン、NH投資証券2428億ウォン、未来アセット証券2148億ウォン、企業銀行1358億ウォンなど。金融各社は市場金利と需要を把握するための通常の意思疎通だったと反論してきた。"
+ },
+ {
   "date": "2026-11-10",
   "headline": "\"오늘은 빨간날\"…코스피, 반도체 저가매수 속 3%대 반등 [fn오전시황]",
   "headline_ko": "코스피, 반도체 저가매수에 3%대 반등…코스피·코스닥 매수 사이드카",
