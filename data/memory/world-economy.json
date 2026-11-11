@@ -170,11 +170,11 @@
  },
  {
   "date": "2026-11-10",
-  "headline": "Stocks Drop as Rate-Hike Worries Rise: Stock Market Today",
-  "headline_ko": "뉴욕증시, 예상 웃돈 CPI에 금리 인상 우려로 하락 마감…나스닥 0.7%↓",
-  "outlet": "Kiplinger",
-  "url": "https://www.kiplinger.com/investing/stocks/stocks-drop-as-rate-hike-worries-rise-stock-market-today",
-  "summary_ko": "10일 뉴욕증시에서 다우지수는 0.3% 내린 52,231, S&P500은 0.4% 내린 7,520, 나스닥은 0.7% 내린 25,065로 마감했다. 10월 소비자물가지수가 0.4% 올라 예상치(0.3%)를 웃돌면서 국채금리가 급등하고 12월 금리 인상 가능성이 반영됐다. CEO 관련 조사가 이어진 엔비디아가 가장 큰 하락 요인이었다.",
+  "headline": "Market Review: November 10, 2026",
+  "headline_ko": "뉴욕증시, 엔비디아 이틀째 급락·예상 웃돈 CPI에 하락 마감…나스닥 0.74%↓",
+  "outlet": "Investrade (Hammerstone Markets)",
+  "url": "https://investrade.com/market-review-november-10-2026/",
+  "summary_ko": "10일 뉴욕증시는 다우가 156.43포인트(0.30%) 내린 52,233, S&P500이 28.82포인트(0.38%) 내린 7,521, 나스닥이 87.26포인트(0.74%) 내린 25,065로 마감해 전날 상승분 일부를 반납했다. 최고경영자 논란 속에 엔비디아가 전날 4.27%에 이어 5.53% 떨어져 AI 공급망 종목을 끌어내렸다. 10월 소비자물가지수가 0.4%(예상 0.3%), 근원 0.3%(예상 0.2%) 올라 10년물 국채금리가 5% 위로 다시 올라섰고 12월 공격적 금리 인상 가능성이 커졌다.",
   "topics": [
    "markets",
    "fed"
@@ -184,10 +184,10 @@
    "Nasdaq",
    "Nvidia"
   ],
-  "headline_en": "Stocks Drop as Rate-Hike Worries Rise: Stock Market Today",
-  "summary_en": "On the 10th, the Dow closed down 0.3% at 52,231, the S&P 500 down 0.4% at 7,520 and the Nasdaq down 0.7% at 25,065. October's consumer price index rose 0.4%, above the 0.3% expected, sending Treasury yields sharply higher and leading traders to price in a possible December rate hike. Nvidia, amid an ongoing CEO-related investigation, was the biggest drag.",
-  "headline_ja": "NY株式市場、予想上回るCPIで利上げ懸念強まり下落…ナスダック0.7%安",
-  "summary_ja": "10日のNY株式市場は、ダウ平均が0.3%安の52,231、S&P500が0.4%安の7,520、ナスダックが0.7%安の25,065で取引を終えた。10月の消費者物価指数が0.4%上昇と予想(0.3%)を上回り、国債利回りが急上昇して12月の利上げの可能性が織り込まれた。CEOをめぐる調査が続くエヌビディアが最大の下落要因となった。"
+  "headline_en": "Market Review: November 10, 2026",
+  "summary_en": "On the 10th, the Dow fell 156.43 points (0.30%) to 52,233, the S&P 500 fell 28.82 points (0.38%) to 7,521 and the Nasdaq fell 87.26 points (0.74%) to 25,065, giving back part of the prior day's gains. Nvidia fell 5.53% after a 4.27% drop the previous day amid its CEO controversy, dragging AI supply-chain stocks lower. October CPI rose 0.4% (0.3% expected) and core 0.3% (0.2% expected), pushing the 10-year Treasury yield back above 5% and raising the prospect of aggressive Fed hikes in December.",
+  "headline_ja": "NY株式市場、エヌビディア2日連続急落と予想上回るCPIで下落…ナスダック0.74%安",
+  "summary_ja": "10日のNY株式市場は、ダウが156.43ドル(0.30%)安の52,233、S&P500が28.82ポイント(0.38%)安の7,521、ナスダックが87.26ポイント(0.74%)安の25,065で取引を終え、前日の上昇分の一部を失った。CEOをめぐる騒動の中、エヌビディアが前日の4.27%安に続き5.53%下落し、AIサプライチェーン銘柄を押し下げた。10月の消費者物価指数が0.4%(予想0.3%)、コアが0.3%(予想0.2%)上昇し、10年債利回りが再び5%を上回り、12月の積極的な利上げの可能性が高まった。"
  },
  {
   "date": "2026-11-09",
