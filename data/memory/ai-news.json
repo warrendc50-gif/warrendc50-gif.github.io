@@ -439,6 +439,26 @@
   "summary_ja": "ウォール・ストリート・ジャーナル(WSJ)の報道によると、OpenAIの9月期四半期売上高は前四半期比約50%増の100億ドルだったが、営業損失も101億ドルから109億ドルに拡大した。調整後営業利益率は前四半期の-150%から-109%に改善し、これらの数字は10日に投資家に共有された。グレッグ・ブロックマン社長は、7~9月期に法人向け販売が消費者向け販売を抜いて最大の収入源になったと述べた。"
  },
  {
+  "date": "2026-11-10",
+  "headline": "Nvidia hires law firm Wachtell Lipton to lead Jensen Huang affair probe",
+  "headline_ko": "엔비디아 이사회, 젠슨 황 불륜·기밀 유출 조사에 로펌 '와치텔' 선임",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/11/10/nvidia-wachtell-lipton-huang-affair.html",
+  "summary_ko": "엔비디아 이사회는 10일 젠슨 황 CEO가 중국 정보기관과 연결된 여성과 불륜 관계를 인정한 뒤, 회사 기밀이나 국가안보가 침해됐는지 조사하기 위해 로펌 와치텔 립턴 로젠 앤드 카츠를 선임했다고 밝혔다. 조사는 뉴욕 남부지검 검사장 대행 출신인 준 H. 김 변호사가 이끈다. 이사회는 앞서 국가안보나 엔비디아 기밀이 침해됐다고 볼 이유는 없다고 밝혔으며, 엔비디아 주가는 9일 4% 넘게 떨어진 데 이어 10일에도 6% 하락했다.",
+  "topics": [
+   "chips",
+   "business"
+  ],
+  "orgs": [
+   "Nvidia",
+   "Wachtell, Lipton, Rosen & Katz"
+  ],
+  "headline_en": "Nvidia hires law firm Wachtell Lipton to lead Jensen Huang affair probe",
+  "summary_en": "Nvidia's board said on the 10th that it hired Wachtell, Lipton, Rosen & Katz to investigate CEO Jensen Huang and whether company secrets or national security were compromised, after Huang admitted to an affair with a woman who has been connected to Chinese intelligence. The probe is led by Joon H. Kim, former acting U.S. Attorney for the Southern District of New York. The board had earlier said it had no reason to believe national security or Nvidia secrets were compromised, and the stock fell 6% on the 10th after dropping more than 4% on the 9th.",
+  "headline_ja": "エヌビディア取締役会、ジェンスン・フアン氏の不倫・機密流出調査に法律事務所ワクテルを選任",
+  "summary_ja": "エヌビディア取締役会は10日、ジェンスン・フアンCEOが中国情報機関とつながりのある女性との不倫を認めたことを受け、会社の機密や国家安全保障が侵害されたかを調べるため法律事務所ワクテル・リプトン・ローゼン・アンド・カッツを選任したと明らかにした。調査はニューヨーク南部地区の連邦検事代行を務めたジューン・H・キム弁護士が率いる。取締役会は先に国家安全保障やエヌビディアの機密が侵害されたと考える理由はないとしており、同社株は9日に4%超下落した後、10日も6%下落した。"
+ },
+ {
   "date": "2026-11-09",
   "headline": "젠슨 황, 불륜 인정…엔비디아 이사회, 中 간첩 연루 의혹 독립 조사 착수",
   "headline_ko": "젠슨 황, 불륜 인정…엔비디아 이사회, 中 간첩 연루 의혹 독립 조사 착수",
