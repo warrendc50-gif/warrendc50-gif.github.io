@@ -209,6 +209,24 @@
   "summary_ja": "10日のNY株式市場は、ダウが156.43ドル(0.30%)安の52,233、S&P500が28.82ポイント(0.38%)安の7,521、ナスダックが87.26ポイント(0.74%)安の25,065で取引を終え、前日の上昇分の一部を失った。CEOをめぐる騒動の中、エヌビディアが前日の4.27%安に続き5.53%下落し、AIサプライチェーン銘柄を押し下げた。10月の消費者物価指数が0.4%(予想0.3%)、コアが0.3%(予想0.2%)上昇し、10年債利回りが再び5%を上回り、12月の積極的な利上げの可能性が高まった。"
  },
  {
+  "date": "2026-11-10",
+  "headline": "Jumbo Fed rate-hike warning sends shock waves after inflation surprise",
+  "headline_ko": "로건 댈러스 연은 총재 \"최소 두 차례 추가 인상 필요\"…예상 웃돈 CPI에 '빅스텝' 경고 확산",
+  "outlet": "TheStreet (Yahoo Finance)",
+  "url": "https://finance.yahoo.com/economy/policy/articles/jumbo-fed-rate-hike-warning-015453314.html",
+  "summary_ko": "10월 소비자물가지수가 0.4%로 예상(0.3%)을 웃돈 가운데 로리 로건 댈러스 연은 총재는 10일 \"현재 전망으로 볼 때 연준은 최소 두 차례 더 0.25%p 인상을 해야 한다\"며 이번 겨울에는 가을보다 더 빠르게 움직일 수 있다고 말했다. 월러 이사는 12월 회의에서 0.5%p 인상을 검토해야 한다고 했고, 보먼 부의장은 에너지 시장과 AI 투자 붐이 정책 경로에 대한 견해에 영향을 줄 수 있다고 밝혔다. CME 페드워치는 12월 0.25%p 인상 확률을 90.5%, 0.5%p를 9.5%로 반영했다.",
+  "topics": [
+   "fed"
+  ],
+  "orgs": [
+   "Federal Reserve"
+  ],
+  "headline_en": "Jumbo Fed rate-hike warning sends shock waves after inflation surprise",
+  "summary_en": "With October CPI at 0.4%, above the 0.3% estimate, Dallas Fed President Lorie Logan said on the 10th that \"the FOMC needs to implement at least two more 25-basis-point rate increases\" given the current outlook, adding it may be possible to move more rapidly this winter than this fall. Governor Waller said a 50-basis-point hike should be considered at the December meeting, and Vice Chair Michelle Bowman said developments in energy markets and the AI buildout could influence her views on the policy path. CME FedWatch put a 90.5% probability on a 25-basis-point December hike and 9.5% on 50 basis points.",
+  "headline_ja": "ローガン・ダラス連銀総裁「少なくとも2回の追加利上げが必要」…予想上回るCPIで大幅利上げ警告広がる",
+  "summary_ja": "10月の消費者物価指数が0.4%と予想(0.3%)を上回る中、ローリー・ローガン・ダラス連銀総裁は10日、「現在の見通しからみて、FOMCは少なくともあと2回0.25%ポイントの利上げを実施する必要がある」と述べ、この冬は秋より速く動ける可能性があるとした。ウォラー理事は12月会合で0.5%ポイントの利上げを検討すべきだとし、ボウマン副議長はエネルギー市場とAI投資ブームが政策経路に関する見方に影響し得ると述べた。CMEフェドウォッチは12月の0.25%ポイント利上げ確率を90.5%、0.5%ポイントを9.5%と織り込んだ。"
+ },
+ {
   "date": "2026-11-09",
   "headline": "中 10월 생산자물가 '4년여 만에 최고'…소비자물가는 둔화",
   "headline_ko": "中 10월 생산자물가 '4년여 만에 최고'…소비자물가는 둔화",
