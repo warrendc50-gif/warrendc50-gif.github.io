@@ -23,19 +23,18 @@
   "headline_ko": "코스피, 0.56% 하락한 5209.71에 개장…코스닥은 소폭 상승",
   "outlet": "SBS Biz",
   "url": "https://biz.sbs.co.kr/article/20000345593",
-  "summary_ko": "코스피가 11일 전 거래일보다 0.56% 내린 5209.71에 출발했다. 삼성전자와 SK하이닉스는 1% 안팎으로 밀렸고 시가총액 상위 종목은 혼조세를 보였으며, 코스닥은 소폭 상승했다.",
+  "summary_ko": "코스피가 11일 전 거래일보다 0.56% 내린 5209.71에 개장했고, 코스닥은 소폭 상승했다.",
   "topics": [
    "stocks"
   ],
   "orgs": [
    "KOSPI",
-   "Samsung Electronics",
-   "SK hynix"
+   "KOSDAQ"
   ],
   "headline_en": "KOSPI opens 0.56% lower at 5,209.71... KOSDAQ edges up",
-  "summary_en": "The KOSPI opened on the 11th at 5,209.71, down 0.56% from the previous session. Samsung Electronics and SK hynix slipped about 1%, top market-cap stocks were mixed, and the KOSDAQ edged higher.",
+  "summary_en": "The KOSPI opened on the 11th at 5,209.71, down 0.56% from the previous session, while the KOSDAQ edged higher.",
   "headline_ja": "KOSPI、0.56%安の5209.71で寄り付き…KOSDAQは小幅高",
-  "summary_ja": "KOSPIは11日、前営業日比0.56%安の5209.71で取引を開始した。サムスン電子とSKハイニックスは1%前後下落し、時価総額上位銘柄はまちまちで、KOSDAQは小幅に上昇した。"
+  "summary_ja": "KOSPIは11日、前営業日比0.56%安の5209.71で寄り付き、KOSDAQは小幅に上昇した。"
  },
  {
   "date": "2026-11-11",

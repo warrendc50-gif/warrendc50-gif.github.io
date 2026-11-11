@@ -352,7 +352,7 @@
   "headline_ko": "앤트로픽, '클로드 시트·화이트보드' 출시…회의 도구 '미팅스'도 예고",
   "outlet": "iClarified",
   "url": "https://www.iclarified.com/103419/anthropic-launches-claude-sheets-and-whiteboards-previews-meetings",
-  "summary_ko": "앤트로픽이 10일 팀이 클로드와 함께 스프레드시트를 만들고 공동 편집하는 '클로드 시트'와, 팀의 계획을 일정·마감이 담긴 시각적 작업 공간으로 정리하는 '클로드 화이트보드'를 모든 유료 요금제에 베타로 출시했다. 대시보드였던 '클로드 데이터'는 정식 출시했고, 회의 내용을 계획과 할 일로 바꾸는 '클로드 미팅스'는 곧 나온다고 밝혔다. 이번 출시는 이달 19~20일로 예상되는 앤트로픽 상장을 앞두고 나왔다.",
+  "summary_ko": "앤트로픽이 팀이 클로드와 함께 스프레드시트를 만들고 공동 편집하는 '클로드 시트'와, 공유 보드에 아이디어를 펼쳐 놓고 클로드에게 일정·담당자·날짜로 정리하게 하는 '클로드 화이트보드'를 모든 유료 요금제에서 웹·데스크톱·모바일 베타로 출시했다. 10월 베타였던 대시보드는 '클로드 데이터'로 이름을 바꿔 정식 출시했고, 통화 중 사람과 함께 작업하는 '클로드 미팅스'는 곧 나온다고 밝혔다.",
   "topics": [
    "model"
   ],
@@ -360,9 +360,9 @@
    "Anthropic"
   ],
   "headline_en": "Anthropic Launches Claude Sheets and Whiteboards, Previews Meetings",
-  "summary_en": "On the 10th, Anthropic launched in beta for all paid plans Claude Sheets, which lets teams create and collaboratively edit spreadsheets with Claude, and Claude Whiteboards, which turns a team's plan into an organized visual workspace with timelines and deadlines. It made Claude Data, formerly Dashboards, generally available and said Claude Meetings, which turns meeting discussions into plans and tasks, is coming soon. The launch comes ahead of Anthropic's IPO, expected on the 19th or 20th.",
+  "summary_en": "Anthropic launched in beta on all paid plans, across web, desktop and mobile, Claude Sheets, which lets teams create and collaboratively edit spreadsheets with Claude, and Claude Whiteboards, where a team can lay out ideas on a shared board and ask Claude to organize them into timelines, owners and dates. Claude Dashboards, which entered beta in October, is now generally available as Claude Data, and Claude Meetings, which can work alongside people during calls, is coming soon.",
   "headline_ja": "アンソロピック、「Claude Sheets・Whiteboards」を公開…会議ツール「Meetings」も予告",
-  "summary_ja": "アンソロピックは10日、チームがClaudeと共にスプレッドシートを作成・共同編集できる「Claude Sheets」と、チームの計画を日程や締め切りを含む視覚的な作業スペースに整理する「Claude Whiteboards」を、全有料プラン向けにベータ版で公開した。ダッシュボードだった「Claude Data」は正式公開し、会議内容を計画やタスクに変える「Claude Meetings」は近く提供するとした。今回の公開は、今月19~20日に予想される同社の上場を前に行われた。"
+  "summary_ja": "アンソロピックは、チームがClaudeと共にスプレッドシートを作成・共同編集できる「Claude Sheets」と、共有ボードにアイデアを並べてClaudeに日程・担当者・日付で整理させる「Claude Whiteboards」を、全有料プランでウェブ・デスクトップ・モバイル向けにベータ公開した。10月にベータ版だったダッシュボードは「Claude Data」として正式公開し、通話中に人と共に作業する「Claude Meetings」は近く提供するとした。"
  },
  {
   "date": "2026-11-10",
@@ -370,7 +370,7 @@
   "headline_ko": "구글, '제미나이 4 카본' 정식 공개…AI 울트라 구독자·API에 제공",
   "outlet": "Google Blog",
   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
-  "summary_ko": "구글이 10일 '제미나이 4 카본'을 모든 구글 AI 울트라 구독자에게 안티그래비티, 제미나이 앱, 검색 AI 모드에서 순차 제공하기 시작했다. 개발자에게는 유료 제미나이 API로 입력 100만 토큰당 2달러, 출력 100만 토큰당 10달러의 도입 가격(11월 30일까지)으로 제공한다. 카본은 10월 사이버보안 방어자 대상 제한 프로그램으로 먼저 공개됐다.",
+  "summary_ko": "구글이 10일 '제미나이 4 카본'을 모든 구글 AI 울트라 구독자에게 안티그래비티, 제미나이 앱, 검색 AI 모드에서 순차 제공하기 시작했다. 개발자에게는 유료 제미나이 API로 입력 100만 토큰당 2달러, 출력 100만 토큰당 10달러의 도입 가격에 제공하며, 11월 30일 이후에는 각각 4달러, 20달러가 적용된다. 카본은 2주 전 '페어윈드 프로그램'을 통해 일부 사이버보안 방어자에게 먼저 공개됐다.",
   "topics": [
    "model"
   ],
@@ -378,9 +378,9 @@
    "Google"
   ],
   "headline_en": "Gemini 4 Carbon is now available",
-  "summary_en": "On the 10th, Google began rolling out Gemini 4 Carbon to all Google AI Ultra subscribers in Antigravity, the Gemini app and AI Mode in Search. For developers it is available through the paid Gemini API at an introductory price of $2 per million input tokens and $10 per million output tokens through November 30. Carbon first launched in October through a limited program for cybersecurity defenders.",
+  "summary_en": "On the 10th, Google began rolling out Gemini 4 Carbon to all Google AI Ultra subscribers in Antigravity, the Gemini app and AI Mode in Search. For developers it is available through the paid Gemini API at an introductory price of $2 per million input tokens and $10 per million output tokens, rising to $4 and $20 after November 30. Carbon was released two weeks earlier to a set of cybersecurity defenders via the Fairwind Program.",
   "headline_ja": "グーグル、「Gemini 4 Carbon」を一般公開…AI Ultra契約者とAPIに提供",
-  "summary_ja": "グーグルは10日、「Gemini 4 Carbon」をすべてのGoogle AI Ultra契約者向けに、Antigravity、Geminiアプリ、検索のAIモードで順次提供し始めた。開発者には有料のGemini APIで、入力100万トークン当たり2ドル、出力100万トークン当たり10ドルの導入価格(11月30日まで)で提供する。Carbonは10月にサイバーセキュリティ防御者向けの限定プログラムで先行公開されていた。"
+  "summary_ja": "グーグルは10日、「Gemini 4 Carbon」をすべてのGoogle AI Ultra契約者向けに、Antigravity、Geminiアプリ、検索のAIモードで順次提供し始めた。開発者には有料のGemini APIで入力100万トークン当たり2ドル、出力100万トークン当たり10ドルの導入価格で提供し、11月30日以降はそれぞれ4ドル、20ドルとなる。Carbonは2週間前に「Fairwind Program」を通じて一部のサイバーセキュリティ防御者に先行公開されていた。"
  },
  {
   "date": "2026-11-10",

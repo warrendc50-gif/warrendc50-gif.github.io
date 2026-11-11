@@ -78,11 +78,11 @@
  },
  {
   "date": "2026-11-10",
-  "headline": "Gold falls more than 2% as CPI tops forecasts, lifting dollar and yields",
-  "headline_ko": "금값, 예상 웃돈 CPI에 2% 넘게 급락…달러·금리 상승",
+  "headline": "Gold falls as CPI tops forecasts, lifting dollar and yields",
+  "headline_ko": "금값, 예상 웃돈 CPI에 3% 가까이 급락…달러·금리 상승",
   "outlet": "CNBC",
   "url": "https://www.cnbc.com/2026/11/10/gold-edges-lower-as-focus-shifts-to-us-inflation-data.html",
-  "summary_ko": "10일 미국 10월 소비자물가지수가 0.4% 올라 예상치(0.3%)를 웃돌자 달러와 국채금리가 오르며 금값이 2% 넘게 떨어졌다. 크리스토퍼 월러 연준 이사가 물가가 높게 나오면 더 공격적인 조치를 지지한다는 신호를 보낸 뒤, 물가 발표 이후 12월 0.5%p 인상에 대한 베팅이 늘어나기 시작했다.",
+  "summary_ko": "10일 미국 10월 소비자물가지수가 0.4% 올라 예상치(0.3%)를 웃돌자 달러와 국채금리가 오르며 금값이 3% 가까이 떨어졌고, 현물 금은 2.8% 내린 온스당 4021.36달러를 기록했다. 물가 발표와, 물가가 너무 높게 나오면 더 공격적인 조치를 지지하겠다고 한 크리스토퍼 월러 연준 이사의 발언 이후 12월 0.5%p 인상 베팅이 늘기 시작했다.",
   "topics": [
    "markets",
    "fed"
@@ -90,10 +90,10 @@
   "orgs": [
    "CME"
   ],
-  "headline_en": "Gold falls more than 2% as CPI tops forecasts, lifting dollar and yields",
-  "summary_en": "On the 10th, gold fell more than 2% as the dollar and Treasury yields rose after U.S. October consumer prices rose 0.4%, above the 0.3% forecast. Bets on a 50-basis-point Fed rate hike in December started to build after the inflation print, after Fed Governor Christopher Waller signaled support for more aggressive action if inflation ran hot.",
-  "headline_ja": "金価格、予想上回るCPIで2%超急落…ドル・金利上昇",
-  "summary_ja": "10日、米10月の消費者物価指数が0.4%上昇と予想(0.3%)を上回ると、ドルと国債利回りが上昇し、金価格は2%超下落した。クリストファー・ウォラーFRB理事が物価が高めに出ればより積極的な措置を支持する姿勢を示した後、物価発表を受けて12月の0.5%ポイント利上げへの賭けが増え始めた。"
+  "headline_en": "Gold falls as CPI tops forecasts, lifting dollar and yields",
+  "summary_en": "On the 10th, gold fell nearly 3% as the dollar and Treasury yields rose after U.S. October consumer prices rose 0.4%, above the 0.3% forecast, with spot gold down 2.8% at $4,021.36 an ounce. Bets on a 50-basis-point Fed rate hike in December started to build after the inflation print and comments by Fed Governor Christopher Waller, who said he would support more aggressive action in the event of a too-hot CPI report.",
+  "headline_ja": "金価格、予想上回るCPIで3%近く急落…ドル・金利上昇",
+  "summary_ja": "10日、米10月の消費者物価指数が0.4%上昇と予想(0.3%)を上回ると、ドルと国債利回りが上昇して金価格は3%近く下落し、現物金は2.8%安の1オンス4021.36ドルとなった。物価発表と、物価が高すぎれば一段と積極的な措置を支持するとしたクリストファー・ウォラーFRB理事の発言を受け、12月の0.5%ポイント利上げへの賭けが増え始めた。"
  },
  {
   "date": "2026-11-10",
