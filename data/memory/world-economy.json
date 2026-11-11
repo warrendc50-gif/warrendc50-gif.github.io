@@ -1,5 +1,24 @@
 [
  {
+  "date": "2026-11-11",
+  "headline": "Siemens Energy’s 2027 profit outlook falls short despite record year",
+  "headline_ko": "지멘스에너지, 사상 최대 실적에도 2027년 순익 전망은 예상 하회",
+  "outlet": "Investing.com",
+  "url": "https://www.investing.com/news/earnings/siemens-energys-2027-profit-outlook-falls-short-despite-record-year-5017771",
+  "summary_ko": "지멘스에너지가 11일 2027회계연도 순이익을 약 50억 유로로 제시해 애널리스트 평균 예상(55억 유로)을 10%가량 밑돌았다. 2026회계연도 순이익은 41억3000만 유로로 전년 16억9000만 유로에서 급증했고, 배당을 주당 0.70유로에서 2.30유로로 세 배 넘게 올리며 2030회계연도까지 최대 90억 유로의 자사주 매입을 약속했다. 7~9월 매출은 사상 최대인 128억3000만 유로, 수주잔고는 1640억 유로로 역시 사상 최대였다.",
+  "topics": [
+   "energy",
+   "markets"
+  ],
+  "orgs": [
+   "Siemens Energy"
+  ],
+  "headline_en": "Siemens Energy’s 2027 profit outlook falls short despite record year",
+  "summary_en": "Siemens Energy on the 11th forecast fiscal 2027 net income of around €5 billion, about 10% short of analysts' average of €5.5 billion. Fiscal 2026 net income jumped to €4.13 billion from €1.69 billion a year earlier, and the company more than tripled its dividend to €2.30 a share from €0.70 and pledged up to €9 billion more in share buybacks through fiscal 2030. July-September revenue hit a record €12.83 billion and the order backlog reached a record €164 billion.",
+  "headline_ja": "シーメンス・エナジー、過去最高の業績も2027年度の純利益見通しは予想下回る",
+  "summary_ja": "シーメンス・エナジーは11日、2027年度の純利益見通しを約50億ユーロとし、アナリスト平均予想(55億ユーロ)を約10%下回った。2026年度の純利益は前年の16億9000万ユーロから41億3000万ユーロに急増し、配当を1株0.70ユーロから2.30ユーロへ3倍超に引き上げ、2030年度までに最大90億ユーロの自社株買いを約束した。7~9月期の売上高は過去最高の128億3000万ユーロ、受注残高も過去最高の1640億ユーロだった。"
+ },
+ {
   "date": "2026-11-10",
   "headline": "미·중 '무역 휴전' 쌍끌이 연장…내년 1월까지 관세·제재 유예",
   "headline_ko": "미·중 '무역 휴전' 쌍끌이 연장…내년 1월까지 관세·제재 유예",
