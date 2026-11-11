@@ -402,6 +402,25 @@
   "summary_ja": "OpenAIは10日、「Businesses in ChatGPT」をベータ公開し、企業が認証済みプロフィールを登録して情報を更新し、ChatGPTが自社にどれだけ言及しているかを確認できるようにした。要件を満たす米国の電子商取引・オンラインサービス企業は顧客対応用の「Business Agent」を公開でき、ChatGPT広告の誘導先としてスポンサーできる。OpenAIは利用者の会話を企業と共有せず、費用を払っても推薦頻度は変わらないとしている。"
  },
  {
+  "date": "2026-11-10",
+  "headline": "SoftBank Group (SFTBY) Posts Q2 Loss After $3.7B Data Center Writedown",
+  "headline_ko": "소프트뱅크그룹, 美 데이터센터 37억 달러 상각에 2분기 70억 달러 순손실",
+  "outlet": "TipRanks",
+  "url": "https://www.tipranks.com/news/softbank-group-sftby-posts-q2-loss-after-3-7b-data-center-writedown",
+  "summary_ko": "소프트뱅크그룹이 오하이오주 파이크카운티 대형 개발을 포함한 미국 데이터센터 사업의 발전설비 확보용 환불 불가 선급금 37억 달러를 상각하면서 2분기 70억 달러의 순손실을 냈다. 2년 만의 첫 순손실로 시장 예상을 크게 밑돌았고, 분기 금융비용은 4620억 엔으로 늘었다. 고토 요시미쓰 CFO는 오하이오 데이터센터 사업을 축소할 계획은 없지만 조달 전략을 포함해 철저히 재검토하고 있다고 밝혔다.",
+  "topics": [
+   "business",
+   "chips"
+  ],
+  "orgs": [
+   "SoftBank Group"
+  ],
+  "headline_en": "SoftBank Group (SFTBY) Posts Q2 Loss After $3.7B Data Center Writedown",
+  "summary_en": "SoftBank Group posted a second-quarter net loss of $7 billion after writing down $3.7 billion in non-refundable advance payments to secure power-generation equipment for U.S. data center projects, including a large-scale development in Pike County, Ohio. It was the company's first net loss in two years and far exceeded analysts' forecasts, while financing costs rose to 462 billion yen in the quarter. CFO Yoshimitsu Goto said there is no plan to downsize the Ohio data-center project but the company is conducting a thorough reassessment, including its procurement strategy.",
+  "headline_ja": "ソフトバンクグループ、米データセンターで37億ドル償却し7~9月期に70億ドルの純損失",
+  "summary_ja": "ソフトバンクグループは、オハイオ州パイク郡の大規模開発を含む米国データセンター事業で発電設備確保のための返金不可の前払金37億ドルを償却し、7~9月期に70億ドルの純損失を計上した。2年ぶりの純損失で市場予想を大きく下回り、四半期の金融費用は4620億円に増えた。後藤芳光CFOはオハイオのデータセンター事業を縮小する計画はないが、調達戦略を含め徹底的に見直しているとした。"
+ },
+ {
   "date": "2026-11-09",
   "headline": "젠슨 황, 불륜 인정…엔비디아 이사회, 中 간첩 연루 의혹 독립 조사 착수",
   "headline_ko": "젠슨 황, 불륜 인정…엔비디아 이사회, 中 간첩 연루 의혹 독립 조사 착수",
