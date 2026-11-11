@@ -1975,6 +1975,26 @@
   "summary_ja": "エアビーアンドビーは第3四半期の株主への手紙で、AI旅行エージェントを2027年上半期に一般消費者向けに投入すると明らかにした。エージェントは旅行の計画・比較・予約管理や滞在中の支援を担い、予約変更、支払いの問題、返金、再予約、24時間の安全サポートまで対応できる。ブライアン・チェスキーCEOは、地図・写真・旅程表など数百の旅行専用インターフェース部品をその場で組み合わせる方式だと説明した。"
  },
  {
+  "date": "2026-11-05",
+  "headline": "Nvidia's Huang is asked to brief Congress on reported Chinese spy relationship",
+  "headline_ko": "美 하원 3개 위원장, 젠슨 황에 '中 스파이 연루 보도' 비공개 브리핑 요구…18일",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/11/05/nvidia-jensen-huang-china-spy-congress.html",
+  "summary_ko": "브라이언 매스트 하원 외교위원장, 존 물레나 중국특위 위원장, 릭 크로퍼드 정보위원장이 젠슨 황 엔비디아 CEO에게 중국 정보기관과 연결된 것으로 알려진 메가스피드 임원 앨리스 황과의 관계 및 회사의 대외 스파이 방어 체계에 대해 11월 18일 비공개 합동 브리핑에 출석해 달라고 요청했다. 이들은 서한에서 \"최근 보도들이 중국의 민감한 미국 기술 접근에 관한 중대한 국가안보 우려를 제기한다\"고 밝혔다. 엔비디아는 지역 클라우드 고객에게는 통상적인 사업 정보만 제공될 뿐 국가안보 관련 정보는 전혀 없다고 밝혔다.",
+  "topics": [
+   "chips",
+   "policy"
+  ],
+  "orgs": [
+   "Nvidia",
+   "US House"
+  ],
+  "headline_en": "Nvidia's Huang is asked to brief Congress on reported Chinese spy relationship",
+  "summary_en": "House Foreign Affairs Chairman Brian Mast, China Select Committee Chairman John Moolenaar and Intelligence Committee Chairman Rick Crawford asked Nvidia CEO Jensen Huang to attend a closed-door joint briefing on Nov. 18 on his interactions with Megaspeed executive Alice Huang, reportedly tied to Chinese intelligence, and Nvidia's security protocols against foreign espionage. Their letter said \"recent reports raise significant national security concerns regarding the PRC's access to sensitive U.S. technology and information.\" Nvidia said its regional cloud customers receive ordinary business information and zero information relevant to national security.",
+  "headline_ja": "米下院3委員長、ジェンスン・フアン氏に「中国スパイ関与報道」で非公開説明を要求…18日",
+  "summary_ja": "ブライアン・マスト下院外交委員長、ジョン・ムーレナー中国特別委員長、リック・クロフォード情報委員長は、エヌビディアのジェンスン・フアンCEOに対し、中国情報機関とつながりがあるとされるメガスピード幹部アリス・ファン氏との関係と、同社の外国スパイ対策について、11月18日の非公開合同説明会への出席を求めた。書簡は「最近の報道は中国による米国の機微な技術・情報へのアクセスをめぐる重大な国家安全保障上の懸念を提起している」とした。エヌビディアは、地域クラウド顧客には通常の業務情報しか提供しておらず、国家安全保障に関わる情報は一切ないと述べた。"
+ },
+ {
   "date": "2026-11-04",
   "headline": "Qualcomm Announces Fourth Quarter and Fiscal 2026 Results",
   "headline_ko": "퀄컴 4분기 매출 103억 달러…아마존과 AI 데이터센터 협력, 2027년 데이터센터 매출 50억 달러 목표 재확인",
