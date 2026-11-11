@@ -383,6 +383,25 @@
   "summary_ja": "グーグルは10日、「Gemini 4 Carbon」をすべてのGoogle AI Ultra契約者向けに、Antigravity、Geminiアプリ、検索のAIモードで順次提供し始めた。開発者には有料のGemini APIで、入力100万トークン当たり2ドル、出力100万トークン当たり10ドルの導入価格(11月30日まで)で提供する。Carbonは10月にサイバーセキュリティ防御者向けの限定プログラムで先行公開されていた。"
  },
  {
+  "date": "2026-11-10",
+  "headline": "Introducing Businesses in ChatGPT",
+  "headline_ko": "오픈AI, '챗GPT 비즈니스' 베타 출시…기업이 프로필 등록하고 고객 응대 에이전트 운영",
+  "outlet": "OpenAI",
+  "url": "https://openai.com/index/introducing-businesses-chatgpt/",
+  "summary_ko": "오픈AI가 10일 기업이 챗GPT에서 자사 프로필을 등록·관리하고 이용자 반응 통계를 볼 수 있는 '비즈니스 허브'와, 고객 질문에 답하는 '비즈니스 에이전트'를 베타로 출시했다. 에이전트는 미국의 일부 전자상거래·온라인 서비스 기업부터 제공되며, 기업은 이를 챗GPT 광고의 연결 대상으로 쓸 수 있다. 오픈AI는 기업이 이용자 대화를 받지 않으며, 비용을 내도 챗GPT의 추천 빈도는 달라지지 않는다고 밝혔다.",
+  "topics": [
+   "model",
+   "business"
+  ],
+  "orgs": [
+   "OpenAI"
+  ],
+  "headline_en": "Introducing Businesses in ChatGPT",
+  "summary_en": "On the 10th, OpenAI launched in beta Business Hub, which lets businesses claim and manage their profiles in ChatGPT and see insights on how people engage with them, and Business Agents, which answer customers' questions. Agents are starting with eligible U.S. ecommerce and online service businesses, and businesses can use them as the destination for ChatGPT Ads. OpenAI said businesses do not receive users' conversations and that paying does not change how often ChatGPT recommends a business.",
+  "headline_ja": "OpenAI、「Businesses in ChatGPT」をベータ公開…企業がプロフィール登録し顧客対応エージェントを運用",
+  "summary_ja": "OpenAIは10日、企業がChatGPT上で自社プロフィールを登録・管理し利用者の反応に関する統計を見られる「Business Hub」と、顧客の質問に答える「Business Agent」をベータ版で公開した。エージェントは米国の一部の電子商取引・オンラインサービス企業から提供され、企業はこれをChatGPT広告の誘導先として使える。OpenAIは企業が利用者の会話を受け取ることはなく、費用を払ってもChatGPTの推薦頻度は変わらないと説明した。"
+ },
+ {
   "date": "2026-11-09",
   "headline": "젠슨 황, 불륜 인정…엔비디아 이사회, 中 간첩 연루 의혹 독립 조사 착수",
   "headline_ko": "젠슨 황, 불륜 인정…엔비디아 이사회, 中 간첩 연루 의혹 독립 조사 착수",
