@@ -19,22 +19,24 @@
  },
  {
   "date": "2026-11-11",
-  "headline": "코스피, 0.56% 하락한 5209.71에 개장…코스닥은 소폭 상승",
-  "headline_ko": "코스피, 0.56% 하락한 5209.71에 개장…코스닥은 소폭 상승",
-  "outlet": "SBS Biz",
-  "url": "https://biz.sbs.co.kr/article/20000345593",
-  "summary_ko": "코스피가 11일 전 거래일보다 0.56% 내린 5209.71에 개장했고, 코스닥은 소폭 상승했다.",
+  "headline": "[마감시황] 코스피, 외국인 ‘사자’에 2%대 상승…5300선 회복",
+  "headline_ko": "코스피, 외국인 매수에 2.60% 올라 5375 마감…코스닥 5.62% 급등해 700선 회복",
+  "outlet": "브릿지경제",
+  "url": "https://www.viva100.com/article/20261111500937",
+  "summary_ko": "코스피가 11일 5209.71로 하락 출발한 뒤 상승 전환해 전 거래일보다 136.23포인트(2.60%) 오른 5375.36에 마감했다. 외국인이 6553억원을 순매수했고 개인과 기관은 각각 7157억원, 4817억원을 순매도했으며, 삼성전자(3.57%)와 SK하이닉스(5.36%)가 함께 올랐다. 코스닥은 5.62% 오른 705.10으로 4일 이후 처음 700선을 회복했고 이틀 연속 매수 사이드카가 발동됐다. 코어위브 실적과 앤트로픽 공모 흥행 기대가 AI 투자 둔화 우려를 덜었다는 풀이다.",
   "topics": [
    "stocks"
   ],
   "orgs": [
    "KOSPI",
-   "KOSDAQ"
+   "KOSDAQ",
+   "Samsung Electronics",
+   "SK hynix"
   ],
-  "headline_en": "KOSPI opens 0.56% lower at 5,209.71... KOSDAQ edges up",
-  "summary_en": "The KOSPI opened on the 11th at 5,209.71, down 0.56% from the previous session, while the KOSDAQ edged higher.",
-  "headline_ja": "KOSPI、0.56%安の5209.71で寄り付き…KOSDAQは小幅高",
-  "summary_ja": "KOSPIは11日、前営業日比0.56%安の5209.71で寄り付き、KOSDAQは小幅に上昇した。"
+  "headline_en": "[Market close] KOSPI rises over 2% on foreign buying... recovers 5,300",
+  "summary_en": "The KOSPI opened lower at 5,209.71 on the 11th, then turned higher to close up 136.23 points (2.60%) at 5,375.36. Foreigners net bought 655.3 billion won while individuals and institutions net sold 715.7 billion and 481.7 billion won, with Samsung Electronics (3.57%) and SK hynix (5.36%) both rising. The KOSDAQ jumped 5.62% to 705.10, its first close above 700 since the 4th, and a buy sidecar was triggered for a second straight day. The article attributes the gains to CoreWeave's results and hopes for Anthropic's IPO easing worries about slowing AI investment.",
+  "headline_ja": "KOSPI、外国人買いで2.60%高の5375で終了…KOSDAQは5.62%急騰し700台回復",
+  "summary_ja": "KOSPIは11日、5209.71と安く始まった後に上昇に転じ、前営業日比136.23ポイント(2.60%)高の5375.36で取引を終えた。外国人が6553億ウォンを買い越し、個人と機関はそれぞれ7157億ウォン、4817億ウォンを売り越し、サムスン電子(3.57%)とSKハイニックス(5.36%)がそろって上昇した。KOSDAQは5.62%高の705.10と4日以来初めて700台を回復し、2日連続で買いサイドカーが発動された。コアウィーブの決算とアンソロピックの公募人気への期待がAI投資鈍化への懸念を和らげたとの見方だ。"
  },
  {
   "date": "2026-11-11",
