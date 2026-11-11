@@ -384,11 +384,11 @@
  },
  {
   "date": "2026-11-10",
-  "headline": "Introducing Businesses in ChatGPT",
+  "headline": "OpenAI lets businesses claim ChatGPT profiles and launch their own agents",
   "headline_ko": "오픈AI, '챗GPT 비즈니스' 베타 출시…기업이 프로필 등록하고 고객 응대 에이전트 운영",
-  "outlet": "OpenAI",
-  "url": "https://openai.com/index/introducing-businesses-chatgpt/",
-  "summary_ko": "오픈AI가 10일 기업이 챗GPT에서 자사 프로필을 등록·관리하고 이용자 반응 통계를 볼 수 있는 '비즈니스 허브'와, 고객 질문에 답하는 '비즈니스 에이전트'를 베타로 출시했다. 에이전트는 미국의 일부 전자상거래·온라인 서비스 기업부터 제공되며, 기업은 이를 챗GPT 광고의 연결 대상으로 쓸 수 있다. 오픈AI는 기업이 이용자 대화를 받지 않으며, 비용을 내도 챗GPT의 추천 빈도는 달라지지 않는다고 밝혔다.",
+  "outlet": "The Next Web",
+  "url": "https://thenextweb.com/news/openai-businesses-in-chatgpt-business-agents",
+  "summary_ko": "오픈AI가 10일 '챗GPT 비즈니스(Businesses in ChatGPT)'를 베타로 출시해 기업이 인증 프로필을 등록하고 정보를 수정하며 챗GPT가 자사를 얼마나 자주 언급하는지 볼 수 있게 했다. 요건을 갖춘 미국 전자상거래·온라인 서비스 기업은 고객 응대용 '비즈니스 에이전트'를 운영할 수 있고, 이를 챗GPT 광고의 연결 대상으로 후원할 수 있다. 오픈AI는 이용자 대화를 기업과 공유하지 않으며, 비용을 내도 추천 빈도는 달라지지 않는다고 밝혔다.",
   "topics": [
    "model",
    "business"
@@ -396,10 +396,10 @@
   "orgs": [
    "OpenAI"
   ],
-  "headline_en": "Introducing Businesses in ChatGPT",
-  "summary_en": "On the 10th, OpenAI launched in beta Business Hub, which lets businesses claim and manage their profiles in ChatGPT and see insights on how people engage with them, and Business Agents, which answer customers' questions. Agents are starting with eligible U.S. ecommerce and online service businesses, and businesses can use them as the destination for ChatGPT Ads. OpenAI said businesses do not receive users' conversations and that paying does not change how often ChatGPT recommends a business.",
-  "headline_ja": "OpenAI、「Businesses in ChatGPT」をベータ公開…企業がプロフィール登録し顧客対応エージェントを運用",
-  "summary_ja": "OpenAIは10日、企業がChatGPT上で自社プロフィールを登録・管理し利用者の反応に関する統計を見られる「Business Hub」と、顧客の質問に答える「Business Agent」をベータ版で公開した。エージェントは米国の一部の電子商取引・オンラインサービス企業から提供され、企業はこれをChatGPT広告の誘導先として使える。OpenAIは企業が利用者の会話を受け取ることはなく、費用を払ってもChatGPTの推薦頻度は変わらないと説明した。"
+  "headline_en": "OpenAI lets businesses claim ChatGPT profiles and launch their own agents",
+  "summary_en": "On the 10th, OpenAI launched Businesses in ChatGPT in beta, letting businesses claim verified profiles, update their details and see how often ChatGPT mentions them. Eligible U.S. ecommerce and online-service firms can launch a Business Agent and sponsor it as the landing spot for ChatGPT Ads. OpenAI says it does not share users' chats with businesses and that paying does not change how often ChatGPT recommends a business.",
+  "headline_ja": "OpenAI、企業がChatGPTのプロフィールを登録し独自エージェントを公開できるように",
+  "summary_ja": "OpenAIは10日、「Businesses in ChatGPT」をベータ公開し、企業が認証済みプロフィールを登録して情報を更新し、ChatGPTが自社にどれだけ言及しているかを確認できるようにした。要件を満たす米国の電子商取引・オンラインサービス企業は顧客対応用の「Business Agent」を公開でき、ChatGPT広告の誘導先としてスポンサーできる。OpenAIは利用者の会話を企業と共有せず、費用を払っても推薦頻度は変わらないとしている。"
  },
  {
   "date": "2026-11-09",
