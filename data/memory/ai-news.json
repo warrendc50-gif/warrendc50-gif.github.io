@@ -1,5 +1,24 @@
 [
  {
+  "date": "2026-11-12",
+  "headline": "[속보] 네이버, 3분기 영업익 4513억원·전년比 20.9%↓…매출은 역대 최대, 물류 자회사 설립 추진",
+  "headline_ko": "네이버, 3분기 매출 역대 최대에도 AI 인프라 투자에 영업익 20.9%↓",
+  "outlet": "헤럴드경제",
+  "url": "https://biz.heraldcorp.com/article/10934420",
+  "summary_ko": "네이버가 12일 3분기 매출이 전년 동기보다 10.7% 늘어난 3조4724억원으로 분기 기준 역대 최대를 기록했지만, AI 인프라 투자 비용이 늘면서 영업이익은 20.9% 줄어든 4513억원이었다고 밝혔다. 최수연 대표는 브룩필드·엔비디아와 함께하는 AI 팩토리 사업에서 약 2조원 규모의 컴퓨팅 서비스 공급 계약을 맺었으며 내년 상반기부터 실적에 반영된다고 말했다. 네이버는 배송 경쟁력 강화를 위해 물류 전문 자회사 설립도 추진한다.",
+  "topics": [
+   "korea",
+   "business"
+  ],
+  "orgs": [
+   "Naver"
+  ],
+  "headline_en": "Naver Q3 operating profit falls 20.9% to 451.3 billion won despite record revenue... plans logistics subsidiary",
+  "summary_en": "Naver said on the 12th that its third-quarter revenue rose 10.7% from a year earlier to a record 3.4724 trillion won, but operating profit fell 20.9% to 451.3 billion won as AI infrastructure investment costs increased. CEO Choi Soo-yeon said the company signed a computing service supply contract worth about 2 trillion won for its AI factory business with Brookfield and Nvidia, which will be reflected in results from the first half of next year. Naver also plans to set up a logistics subsidiary to strengthen delivery.",
+  "headline_ja": "ネイバー、7~9月期売上高過去最高もAIインフラ投資で営業益20.9%減",
+  "summary_ja": "ネイバーは12日、7~9月期の売上高が前年同期比10.7%増の3兆4724億ウォンと四半期として過去最高を記録したが、AIインフラ投資費用の増加で営業利益は20.9%減の4513億ウォンだったと発表した。崔秀姸代表は、ブルックフィールド・エヌビディアと進めるAIファクトリー事業で約2兆ウォン規模のコンピューティングサービス供給契約を結び、来年上半期から業績に反映されると述べた。ネイバーは配送力強化のため物流専門子会社の設立も進める。"
+ },
+ {
   "date": "2026-11-11",
   "headline": "엔비디아 이틀간 주가 9.6% 추락…젠슨황 불륜 사태에 CPI 악재까지",
   "headline_ko": "엔비디아 이틀간 주가 9.6% 추락…젠슨황 불륜 사태에 CPI 악재까지",
