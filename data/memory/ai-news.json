@@ -38,6 +38,28 @@
   "summary_ja": "李在明大統領は12日、忠清南道牙山のサムスン電子温陽キャンパス建設現場で開かれた忠清圏メガプロジェクト着工式に出席した。温陽キャンパスには6兆ウォン規模の先端パッケージング工場が新設され、計40兆ウォン規模の先端装置投資が順次続く予定で、李大統領は温陽キャンパスが「先端HBMパッケージングの中核拠点」へ飛躍すると述べた。サムスン電子の李在鎔会長は、忠清はもちろん湖南・嶺南のメガプロジェクトも積極的に推進すると表明した。"
  },
  {
+  "date": "2026-11-12",
+  "headline": "美민주, 젠슨황·트럼프 접촉 기록 보존 요구…對中수출 조사 착수",
+  "headline_ko": "미 민주당, 젠슨 황·트럼프 접촉 기록 보존 요구…대중 수출 조사 착수",
+  "outlet": "뉴스1",
+  "url": "https://www.news1.kr/world/usa-canada/6351775",
+  "summary_ko": "엘리자베스 워런·크리스 쿤스 상원의원이 백악관·상무부·국무부에 젠슨 황 CEO와 트럼프 대통령의 접촉 기록 등 자료를 보존하라고 요청했다. 내년 상원 핵심 위원장 취임을 앞두고 엔비디아 대중 수출정책 조사를 준비하는 것으로, 공화당도 황 CEO 소환을 압박하고 있다. 간첩·수출통제법 위반 사실은 확인되지 않았다.",
+  "topics": [
+   "policy",
+   "chips"
+  ],
+  "orgs": [
+   "Nvidia",
+   "White House",
+   "US Commerce Department",
+   "US State Department"
+  ],
+  "headline_en": "US Democrats demand preservation of Jensen Huang–Trump contact records, launch probe into China exports",
+  "summary_en": "Senators Elizabeth Warren and Chris Coons asked the White House, Commerce Department and State Department to preserve records including contacts between Nvidia CEO Jensen Huang and President Trump. They are preparing a probe into Nvidia's China export policy ahead of taking key Senate committee chairs next year, while Republicans are also pressing to summon Huang. No espionage or export-control violations have been confirmed.",
+  "headline_ja": "米民主党、ジェンスン・フアン氏とトランプ氏の接触記録の保存を要求…対中輸出の調査に着手",
+  "summary_ja": "エリザベス・ウォーレン、クリス・クーンズ両上院議員が、ホワイトハウス・商務省・国務省に対し、ジェンスン・フアンCEOとトランプ大統領の接触記録などの資料を保存するよう求めた。来年の上院主要委員長就任を前に、エヌビディアの対中輸出政策の調査を準備するもので、共和党もフアンCEOの召喚を迫っている。スパイ行為や輸出管理法違反の事実は確認されていない。"
+ },
+ {
   "date": "2026-11-11",
   "headline": "엔비디아 이틀간 주가 9.6% 추락…젠슨황 불륜 사태에 CPI 악재까지",
   "headline_ko": "엔비디아 이틀간 주가 9.6% 추락…젠슨황 불륜 사태에 CPI 악재까지",
