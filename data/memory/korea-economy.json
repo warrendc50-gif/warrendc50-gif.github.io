@@ -152,6 +152,25 @@
   "summary_ja": "11日のソウル外国為替市場で、ウォン・ドル相場は前営業日比3.9ウォン安(ウォン高)の1333.6ウォンで取引を終えた。前夜の米10月消費者物価指数が予想を上回り6.0ウォン高の1343.5ウォンで始まったが、外資系銀行を通じたドル売りが続いて1340ウォンを割り込み、日中の上昇幅をすべて失った。市場関係者は、海外投資家が既存のロングポジションを解消した後、新たにショートポジションを積み上げたと伝えた。"
  },
  {
+  "date": "2026-11-11",
+  "headline": "은행권 가계대출 잔액 1204조 '역대 최대'..10월 5조원↑",
+  "headline_ko": "은행권 가계대출 잔액 1204조 '역대 최대'…10월 5조원 증가",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611111036038264",
+  "summary_ko": "한국은행 10월 금융시장 동향에 따르면 10월 말 은행 가계대출 잔액은 전월보다 5조원 늘어난 1203조9000억원으로 처음 1200조원을 넘었다(9월 6000억원 증가). 주택담보대출은 집단대출 취급이 늘며 3조3000억원, 신용대출 등 기타대출은 석 달 만에 늘어 1조7000억원 증가했다. 기업대출은 10조2000억원 늘어 두 달 연속 10조원 넘게 증가했다.",
+  "topics": [
+   "banks",
+   "realestate"
+  ],
+  "orgs": [
+   "한국은행"
+  ],
+  "headline_en": "Bank household loan balance hits record 1,204 trillion won; up 5 trillion won in October",
+  "summary_en": "According to the Bank of Korea's October financial market report, banks' household loan balance rose 5 trillion won from the previous month to 1,203.9 trillion won at end-October, topping 1,200 trillion won for the first time (September: up 600 billion won). Mortgage loans rose 3.3 trillion won as group loans increased, and other loans including credit loans rose 1.7 trillion won, their first increase in three months. Corporate loans rose 10.2 trillion won, growing by more than 10 trillion won for a second straight month.",
+  "headline_ja": "銀行の家計向け貸出残高1204兆ウォンで「過去最大」…10月は5兆ウォン増加",
+  "summary_ja": "韓国銀行の10月金融市場動向によると、10月末の銀行の家計向け貸出残高は前月比5兆ウォン増の1203兆9000億ウォンとなり、初めて1200兆ウォンを超えた（9月は6000億ウォン増）。住宅担保ローンは集団融資の取り扱い増加で3兆3000億ウォン、信用貸出などその他貸出は3か月ぶりに増加に転じ1兆7000億ウォン増えた。企業向け貸出は10兆2000億ウォン増え、2か月連続で10兆ウォンを超える増加となった。"
+ },
+ {
   "date": "2026-11-10",
   "headline": "\"오늘은 빨간날\"…코스피, 반도체 저가매수 속 3%대 반등 [fn오전시황]",
   "headline_ko": "코스피, 반도체 저가매수에 3%대 반등…코스피·코스닥 매수 사이드카",
