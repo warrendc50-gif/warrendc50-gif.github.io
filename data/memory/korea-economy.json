@@ -1,5 +1,25 @@
 [
  {
+  "date": "2026-11-12",
+  "headline": "코스피 5385.94 강보합 출발… 삼성전자 1.70%·SK하이닉스 0.39% 상승",
+  "headline_ko": "코스피 5385.94 강보합 출발… 삼성전자 1.70%·SK하이닉스 0.39% 상승",
+  "outlet": "국제뉴스",
+  "url": "https://www.gukjenews.com/news/articleView.html?idxno=3749566",
+  "summary_ko": "코스피가 12일 전 거래일보다 10.58포인트(0.20%) 오른 5385.94로 출발했다. 삼성전자는 1.70%, SK하이닉스는 0.39% 상승하며 거래를 시작했다.",
+  "topics": [
+   "stocks"
+  ],
+  "orgs": [
+   "KOSPI",
+   "Samsung Electronics",
+   "SK hynix"
+  ],
+  "headline_en": "KOSPI opens slightly higher at 5,385.94... Samsung Electronics up 1.70%, SK hynix up 0.39%",
+  "summary_en": "The KOSPI opened on the 12th at 5,385.94, up 10.58 points (0.20%) from the previous session. Samsung Electronics rose 1.70% and SK hynix 0.39% at the start of trading.",
+  "headline_ja": "KOSPI、5385.94で小高く寄り付き…サムスン電子1.70%・SKハイニックス0.39%高",
+  "summary_ja": "KOSPIは12日、前営業日比10.58ポイント(0.20%)高の5385.94で取引を開始した。サムスン電子は1.70%、SKハイニックスは0.39%上昇して取引を始めた。"
+ },
+ {
   "date": "2026-11-11",
   "headline": "[속보] 10월 취업자 13.9만명 증가... 청년은 48개월 연속 감소",
   "headline_ko": "10월 취업자 13.9만명 증가…청년 취업자는 48개월 연속 감소",
@@ -329,6 +349,27 @@
   "summary_en": "BNP Paribas expects the Bank of Korea to raise its base rate by 0.25 percentage point to 3.25% on the 26th, but sees a close call with one or two dissenting votes for a hold. It kept its terminal rate forecast at 3.25%, citing limited trickle-down from the chip boom and a possibly slow recovery in private consumption. BNP Paribas's inflation forecast is lower than the Bank of Korea's.",
   "headline_ja": "BNPパリバ「韓銀、26日に3.25%へ利上げ…金利のピーク」",
   "summary_ja": "BNPパリバは、韓国銀行が26日に政策金利を0.25%ポイント引き上げ年3.25%とすると予想する一方、据え置きを主張する少数意見が1〜2人出るほど判断は拮抗するとみた。半導体好況の波及効果が限定的で民間消費の回復も遅れる可能性があるとして、最終政策金利の見通しは3.25%に据え置いた。BNPパリバの物価見通しは韓国銀行より低い。"
+ },
+ {
+  "date": "2026-11-10",
+  "headline": "삼성화재, 영국 보험사 ‘캐노피우스’ 경영권 확보…2조 2646억원 투자",
+  "headline_ko": "삼성화재, 영국 보험사 ‘캐노피우스’ 경영권 확보…2조 2646억원 투자",
+  "outlet": "주간한국",
+  "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7193062",
+  "summary_ko": "삼성화재가 9일 KKR, 한국투자공사(KIC)와 함께 영국 로이즈 보험사 캐노피우스의 잔여 지분 60%를 인수하는 계약을 맺어 경영권을 확보했다. 삼성화재는 이 중 40.6%를 맡아 지분율이 80.6%로 커지며, 캐노피우스 지주회사 포튜나 탑코 주식을 2조2646억8600만원에 취득한다고 공시했다. KKR과 KIC는 각각 약 12.1%, 7.3%를 인수하며, 이번 거래는 삼성 보험 계열사의 첫 인수·합병이다.",
+  "topics": [
+   "banks"
+  ],
+  "orgs": [
+   "삼성화재",
+   "Canopius",
+   "KKR",
+   "한국투자공사"
+  ],
+  "headline_en": "Samsung Fire secures control of UK insurer Canopius... 2.2646 trillion won investment",
+  "summary_en": "On the 9th, Samsung Fire & Marine signed a deal with KKR and the Korea Investment Corporation (KIC) to acquire the remaining 60% of UK Lloyd's insurer Canopius, securing management control. Samsung Fire takes 40.6% of that, raising its stake to 80.6%, and disclosed it will acquire shares of Canopius holding company Fortuna Topco for 2.2646868 trillion won. KKR and KIC will acquire about 12.1% and 7.3% respectively, and the deal is the first M&A by a Samsung insurance affiliate.",
+  "headline_ja": "サムスン火災、英保険会社「キャノピアス」の経営権取得…2兆2646億ウォン投資",
+  "summary_ja": "サムスン火災海上保険は9日、KKR、韓国投資公社(KIC)と共に英ロイズ保険会社キャノピアスの残り株式60%を取得する契約を結び、経営権を確保した。サムスン火災はこのうち40.6%を引き受けて持ち株比率が80.6%に高まり、キャノピアスの持ち株会社フォルトゥナ・トップコの株式を2兆2646億8600万ウォンで取得すると開示した。KKRとKICはそれぞれ約12.1%、7.3%を取得し、今回の取引はサムスン保険系列会社として初のM&Aとなる。"
  },
  {
   "date": "2026-11-09",
@@ -707,27 +748,6 @@
   "summary_en": "Seocho district on the 9th notified the Banpo Hyundai reconstruction association of a 17.9 billion won reconstruction excess-profit levy. It is an administrative step before final confirmation; Seocho will take objections for 50 days before deciding whether to impose it and the final amount. There are 27 reconstruction sites in the three Gangnam districts past the project-implementation approval stage, and Seocho asked the Land Ministry to reply by the 13th on how to interpret the statute of limitations.",
   "headline_ja": "盤浦ヒュンダイに「再建築超過利益負担金179億ウォン」通知…江南3区・汝矣島で負担金が現実に",
   "summary_ja": "瑞草区は9日、盤浦ヒュンダイ再建築組合に再建築超過利益還収制の負担金179億ウォンを通知した。最終確定前の行政手続きで、瑞草区は50日間組合の異議申し立てを受けた後、賦課の可否と金額を決める。江南3区で事業施行認可後の段階にある再建築事業地は27か所で、瑞草区は消滅時効の解釈問題について国土交通部に13日までの回答を求めた。"
- },
- {
-  "date": "2026-11-10",
-  "headline": "삼성화재, 영국 보험사 ‘캐노피우스’ 경영권 확보…2조 2646억원 투자",
-  "headline_ko": "삼성화재, 영국 보험사 ‘캐노피우스’ 경영권 확보…2조 2646억원 투자",
-  "outlet": "주간한국",
-  "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7193062",
-  "summary_ko": "삼성화재가 9일 KKR, 한국투자공사(KIC)와 함께 영국 로이즈 보험사 캐노피우스의 잔여 지분 60%를 인수하는 계약을 맺어 경영권을 확보했다. 삼성화재는 이 중 40.6%를 맡아 지분율이 80.6%로 커지며, 캐노피우스 지주회사 포튜나 탑코 주식을 2조2646억8600만원에 취득한다고 공시했다. KKR과 KIC는 각각 약 12.1%, 7.3%를 인수하며, 이번 거래는 삼성 보험 계열사의 첫 인수·합병이다.",
-  "topics": [
-   "banks"
-  ],
-  "orgs": [
-   "삼성화재",
-   "Canopius",
-   "KKR",
-   "한국투자공사"
-  ],
-  "headline_en": "Samsung Fire secures control of UK insurer Canopius... 2.2646 trillion won investment",
-  "summary_en": "On the 9th, Samsung Fire & Marine signed a deal with KKR and the Korea Investment Corporation (KIC) to acquire the remaining 60% of UK Lloyd's insurer Canopius, securing management control. Samsung Fire takes 40.6% of that, raising its stake to 80.6%, and disclosed it will acquire shares of Canopius holding company Fortuna Topco for 2.2646868 trillion won. KKR and KIC will acquire about 12.1% and 7.3% respectively, and the deal is the first M&A by a Samsung insurance affiliate.",
-  "headline_ja": "サムスン火災、英保険会社「キャノピアス」の経営権取得…2兆2646億ウォン投資",
-  "summary_ja": "サムスン火災海上保険は9日、KKR、韓国投資公社(KIC)と共に英ロイズ保険会社キャノピアスの残り株式60%を取得する契約を結び、経営権を確保した。サムスン火災はこのうち40.6%を引き受けて持ち株比率が80.6%に高まり、キャノピアスの持ち株会社フォルトゥナ・トップコの株式を2兆2646億8600万ウォンで取得すると開示した。KKRとKICはそれぞれ約12.1%、7.3%を取得し、今回の取引はサムスン保険系列会社として初のM&Aとなる。"
  },
  {
   "date": "2026-11-09",
