@@ -57,6 +57,25 @@
   "summary_ja": "エヌビディア株は2日間で9.56%下落した。ジ・インフォメーションは、ジェンスン・フアンCEOの不倫相手アリス・ファン氏が中国への75億ドル規模の半導体供給を仲介した可能性を報じ、米10月の消費者物価指数が予想を上回る中、ウォラーFRB理事が0.5%ポイントの利上げ検討を主張したことも悪材料となった。"
  },
  {
+  "date": "2026-11-11",
+  "headline": "Nvidia board meets to decide CEO Huang's future as leadership crisis deepens",
+  "headline_ko": "엔비디아 이사회, 젠슨 황 해임 여부 결정 회의…\"사내 임원과도 불륜\" 보도에 주가 시간외 8%↓",
+  "outlet": "Reuters (The Korea Times)",
+  "url": "https://www.koreatimes.co.kr/world/20261112/nvidia-is-preparing-to-oust-ceo-jensen-huang-wsj-reports",
+  "summary_ko": "월스트리트저널(WSJ)이 엔비디아가 젠슨 황 CEO 해임을 준비하고 있다고 처음 보도한 뒤, 엔비디아 이사회가 11일 밤 황 CEO의 거취를 결정하는 회의를 열고 있다고 로이터가 소식통을 인용해 전했다. 이에 앞서 뉴욕타임스는 전·현직 직원 5명을 인용해 황 CEO가 직속 임원인 킴벌리 파월 헬스케어 부사장과도 관계를 맺었다고 보도했다. 엔비디아 주가는 시간외 거래에서 8% 넘게 떨어졌으며, 이사회는 지난 일요일만 해도 황 CEO와 경영진을 신뢰한다고 밝혔었다.",
+  "topics": [
+   "chips",
+   "business"
+  ],
+  "orgs": [
+   "Nvidia"
+  ],
+  "headline_en": "Nvidia board meets to decide CEO Huang's future as leadership crisis deepens",
+  "summary_en": "Nvidia's board is meeting late on the 11th to decide whether to oust CEO Jensen Huang, a source told Reuters, after the Wall Street Journal first reported the company was preparing to fire him. Earlier, the New York Times, citing five people who worked at the company, reported that Huang had also had a relationship with Kimberly Powell, Nvidia's vice president of healthcare. Nvidia shares fell more than 8% in extended trading, a sharp shift from Sunday, when the board expressed confidence in Huang and his leadership team.",
+  "headline_ja": "エヌビディア取締役会、ジェンスン・フアン氏の進退を決める会合…「社内幹部とも不倫」報道で株価時間外8%安",
+  "summary_ja": "ウォール・ストリート・ジャーナル(WSJ)がエヌビディアがジェンスン・フアンCEOの解任を準備していると最初に報じた後、同社取締役会が11日夜、フアン氏の進退を決める会合を開いているとロイターが関係筋の話として伝えた。これに先立ちニューヨーク・タイムズは、元・現職社員5人の話として、フアン氏が直属の幹部キンバリー・パウエル・ヘルスケア担当副社長とも関係を持っていたと報じた。エヌビディア株は時間外取引で8%超下落し、取締役会は先の日曜日にはフアン氏と経営陣を信頼すると表明していた。"
+ },
+ {
   "date": "2026-11-10",
   "headline": "美 워런, 빅테크·월가 전방위 조사 예고…中 AI 반도체도 규제",
   "headline_ko": "美 워런, 빅테크·월가 전방위 조사 예고…中 AI 반도체도 규제",
