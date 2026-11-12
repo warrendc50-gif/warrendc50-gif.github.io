@@ -1,23 +1,22 @@
 [
  {
   "date": "2026-11-12",
-  "headline": "코스피 5385.94 강보합 출발… 삼성전자 1.70%·SK하이닉스 0.39% 상승",
-  "headline_ko": "코스피 5385.94 강보합 출발… 삼성전자 1.70%·SK하이닉스 0.39% 상승",
-  "outlet": "국제뉴스",
-  "url": "https://www.gukjenews.com/news/articleView.html?idxno=3749566",
-  "summary_ko": "코스피가 12일 전 거래일보다 10.58포인트(0.20%) 오른 5385.94로 출발했다. 삼성전자는 1.70%, SK하이닉스는 0.39% 상승하며 거래를 시작했다.",
+  "headline": "[마감시황] 코스피·코스닥 나란히 하락…젠슨 황 리스크에 AI 투자심리 위축",
+  "headline_ko": "코스피·코스닥 나란히 하락…젠슨 황 리스크에 AI 투자심리 위축",
+  "outlet": "뉴스핌",
+  "url": "https://www.newspim.com/news/view/20261112001194",
+  "summary_ko": "12일 코스피는 32.63포인트(0.61%) 내린 5342.73, 코스닥은 8.57포인트(1.22%) 내린 696.53에 마감했다. 젠슨 황 엔비디아 CEO의 사생활 논란과 해임 가능성으로 AI 반도체 투자심리가 위축되고 차익 실현 매물이 나왔으며, 코스피에서 기관이 7643억원을 순매도했다. 원·달러 환율은 2.9원 내린 1330.7원에 주간 거래를 마쳤다.",
   "topics": [
-   "stocks"
+   "stocks",
+   "fx"
   ],
   "orgs": [
-   "KOSPI",
-   "Samsung Electronics",
-   "SK hynix"
+   "한국거래소"
   ],
-  "headline_en": "KOSPI opens slightly higher at 5,385.94... Samsung Electronics up 1.70%, SK hynix up 0.39%",
-  "summary_en": "The KOSPI opened on the 12th at 5,385.94, up 10.58 points (0.20%) from the previous session. Samsung Electronics rose 1.70% and SK hynix 0.39% at the start of trading.",
-  "headline_ja": "KOSPI、5385.94で小高く寄り付き…サムスン電子1.70%・SKハイニックス0.39%高",
-  "summary_ja": "KOSPIは12日、前営業日比10.58ポイント(0.20%)高の5385.94で取引を開始した。サムスン電子は1.70%、SKハイニックスは0.39%上昇して取引を始めた。"
+  "headline_en": "KOSPI and KOSDAQ both fall as Jensen Huang risk dampens AI sentiment",
+  "summary_en": "On the 12th the KOSPI closed down 32.63 points (0.61%) at 5,342.73 and the KOSDAQ fell 8.57 points (1.22%) to 696.53. Sentiment toward AI chip stocks weakened on Nvidia CEO Jensen Huang's private-life controversy and possible dismissal, with profit-taking also emerging, and institutions net sold 764.3 billion won on the KOSPI. The won/dollar rate ended daytime trading down 2.9 won at 1,330.7.",
+  "headline_ja": "KOSPI・KOSDAQそろって下落…ジェンスン・フアン氏リスクでAI投資心理が萎縮",
+  "summary_ja": "12日のKOSPIは32.63ポイント（0.61%）安の5342.73、KOSDAQは8.57ポイント（1.22%）安の696.53で取引を終えた。エヌビディアのジェンスン・フアンCEOの私生活をめぐる論争と解任の可能性でAI半導体への投資心理が萎縮し、利益確定売りも出て、KOSPIでは機関投資家が7643億ウォンを売り越した。ウォン・ドル相場は2.9ウォン安の1330.7ウォンで昼間取引を終えた。"
  },
  {
   "date": "2026-11-12",
