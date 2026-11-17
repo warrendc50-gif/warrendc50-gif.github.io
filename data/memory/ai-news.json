@@ -335,6 +335,24 @@
   "summary_ja": "ウォール・ストリート・ジャーナル(WSJ)がエヌビディアがジェンスン・フアンCEOの解任を準備していると最初に報じた後、同社取締役会が11日夜、フアン氏の進退を決める会合を開いているとロイターが関係筋の話として伝えた。これに先立ちニューヨーク・タイムズは、元・現職社員5人の話として、フアン氏が直属の幹部キンバリー・パウエル・ヘルスケア担当副社長とも関係を持っていたと報じた。エヌビディア株は時間外取引で8%超下落し、取締役会は先の日曜日にはフアン氏と経営陣を信頼すると表明していた。"
  },
  {
+  "date": "2026-11-11",
+  "headline": "Meta taps former AWS executive Dave Brown to lead infrastructure organization",
+  "headline_ko": "메타, 인프라 총괄 자나르단 2027년 퇴임…AWS 출신 데이브 브라운이 맡아",
+  "outlet": "Crypto Briefing",
+  "url": "https://cryptobriefing.com/meta-infrastructure-chief-janardhan-dave-brown/",
+  "summary_ko": "블룸버그에 따르면 2009년부터 메타의 데이터센터·네트워크·자체 칩 등 인프라 구축을 이끈 산토시 자나르단이 2027년 물러난다. 올해 AWS에서 20년 가까이 일하다 합류한 데이브 브라운이 데이터센터와 네트워크 등을 담당하는 인프라 조직을 맡는다. 자나르단이 대니얼 그로스와 공동으로 이끌던 '메타 컴퓨트'도 리더가 바뀌게 되며, 메타의 2026년 설비투자는 1350억~1450억 달러로 예상된다.",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "Meta"
+  ],
+  "headline_en": "Meta taps former AWS executive Dave Brown to lead infrastructure organization",
+  "summary_en": "According to Bloomberg, Santosh Janardhan, who has led Meta's infrastructure buildout including data centers, networks and custom silicon since 2009, will step down in 2027. Dave Brown, who joined Meta this year after nearly 20 years at AWS, will take over the organization responsible for data centers, networks and other critical computing infrastructure. Leadership of Meta Compute, co-led by Janardhan and Daniel Gross, will also change, and Meta's 2026 capital budget is expected to reach $135 billion to $145 billion.",
+  "headline_ja": "メタ、インフラ統括のジャナルダン氏が2027年に退任…AWS出身のデイブ・ブラウン氏が後任",
+  "summary_ja": "ブルームバーグによると、2009年からメタのデータセンター・ネットワーク・自社チップなどインフラ構築を率いてきたサントシュ・ジャナルダン氏が2027年に退任する。今年AWSで20年近く勤めた後に入社したデイブ・ブラウン氏が、データセンターやネットワークなどを担うインフラ組織を引き継ぐ。ジャナルダン氏がダニエル・グロス氏と共同で率いていた「メタ・コンピュート」も指導者が代わり、メタの2026年の設備投資は1350億～1450億ドルと見込まれる。"
+ },
+ {
   "date": "2026-11-10",
   "headline": "美 워런, 빅테크·월가 전방위 조사 예고…中 AI 반도체도 규제",
   "headline_ko": "美 워런, 빅테크·월가 전방위 조사 예고…中 AI 반도체도 규제",
