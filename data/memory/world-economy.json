@@ -55,6 +55,25 @@
   "summary_ja": "中国の10月の小売売上高は前年比0.4%増で、予想（0.8%増）と9月（1.1%増）を下回り、鉱工業生産は4.8%増と予想（5.3%増）と9月（5.5%増）に届かなかった。1～10月の固定資産投資は8.1%減と、予想（7%減）より大きく悪化した。都市部失業率は5.1%に小幅低下した。"
  },
  {
+  "date": "2026-11-16",
+  "headline": "Oil Prices Tumble 3% to Lowest Since Aug. 28 on Supply Glut Outlook",
+  "headline_ko": "국제유가 3% 급락…WTI 85.72달러, 8월 28일 이후 최저",
+  "outlet": "서울경제 (Seoul Economic Daily)",
+  "url": "https://en.sedaily.com/economy/2026/11/17/oil-prices-tumble-3-percent-to-lowest-since-aug-28-on",
+  "summary_ko": "16일 뉴욕상업거래소에서 12월물 WTI는 전 거래일보다 3.21% 내린 배럴당 85.72달러에 마감해 8월 28일 이후 최저를 기록했다. 중동산 원유 수출 회복과 세계 공급 과잉 전망이 주된 요인이었다. 국제에너지기구(IEA)는 이란 전쟁 발발 이후 처음으로 공급이 수요를 넘어섰다며 4분기 하루 170만~200만 배럴의 공급 과잉을 전망했다.",
+  "topics": [
+   "energy"
+  ],
+  "orgs": [
+   "NYMEX",
+   "IEA"
+  ],
+  "headline_en": "Oil Prices Tumble 3% to Lowest Since Aug. 28 on Supply Glut Outlook",
+  "summary_en": "December WTI settled at $85.72 a barrel on the New York Mercantile Exchange on the 16th, down 3.21% from the previous session and the lowest since Aug. 28. The decline was driven mainly by a recovery in Middle East crude exports and forecasts of a global supply glut. The IEA said global supply exceeded demand for the first time since the outbreak of the Iran war and projected a surplus of 1.7 million to 2 million barrels a day in the fourth quarter.",
+  "headline_ja": "原油価格3%急落…WTIは85.72ドル、8月28日以来の安値",
+  "summary_ja": "16日のニューヨーク商業取引所で12月物WTIは前営業日比3.21%安の1バレル85.72ドルで取引を終え、8月28日以来の安値となった。中東産原油の輸出回復と世界的な供給過剰見通しが主な要因だった。国際エネルギー機関（IEA）はイラン戦争勃発後初めて供給が需要を上回ったとし、第4四半期に日量170万～200万バレルの供給過剰を見込んだ。"
+ },
+ {
   "date": "2026-11-13",
   "headline": "Wall Street stocks mostly lower as Nvidia extends slump",
   "headline_ko": "뉴욕증시, 엔비디아 약세 지속에 대체로 하락…10월 생산자물가 연율 6.5%",
