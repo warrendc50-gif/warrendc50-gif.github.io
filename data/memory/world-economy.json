@@ -493,6 +493,24 @@
   "summary_ja": "10月の消費者物価指数が0.4%と予想(0.3%)を上回る中、ローリー・ローガン・ダラス連銀総裁は10日、「現在の見通しからみて、FOMCは少なくともあと2回0.25%ポイントの利上げを実施する必要がある」と述べ、この冬は秋より速く動ける可能性があるとした。ウォラー理事は12月会合で0.5%ポイントの利上げを検討すべきだとし、ボウマン副議長はエネルギー市場とAI投資ブームが政策経路に関する見方に影響し得ると述べた。CMEフェドウォッチは12月の0.25%ポイント利上げ確率を90.5%、0.5%ポイントを9.5%と織り込んだ。"
  },
  {
+  "date": "2026-11-10",
+  "headline": "The U.S. Economy and Considerations for Monetary Policy",
+  "headline_ko": "보먼 연준 부의장 \"물가 압력 지속…2% 목표까지 할 일 남아\"",
+  "outlet": "Federal Reserve",
+  "url": "https://www.federalreserve.gov/newsevents/speech/bowman20261110a.htm",
+  "summary_ko": "미셸 보먼 연준 감독담당 부의장은 미국외교협회 연설에서 인플레이션 압력이 바랐던 것보다 오래 지속되고 확산 조짐을 보인다며, 10월 근원 PCE 물가가 3.3%로 더 올랐을 것으로 추정했다. 그는 실업률이 4.1%로 낮아지는 등 고용시장이 안정됐다며 \"인플레이션 압력이 지속되고 고용 여건이 탄탄해지고 있어 물가를 2%에 가깝게 낮추려면 아직 할 일이 남았다\"고 말했다. 다만 추가 긴축의 이익은 금리에 민감한 부문의 비용과 신중히 따져야 하며 통화정책은 정해진 경로가 없다고 덧붙였다.",
+  "topics": [
+   "fed"
+  ],
+  "orgs": [
+   "Federal Reserve"
+  ],
+  "headline_en": "The U.S. Economy and Considerations for Monetary Policy",
+  "summary_en": "In a speech at the Council on Foreign Relations, Fed Vice Chair for Supervision Michelle Bowman said inflation pressures have persisted longer than hoped and shown signs of broadening, estimating that core PCE inflation likely rose to 3.3% in October. She said the labor market has stabilized, with unemployment edging down to 4.1%, and that \"there is still work to do to bring inflation closer to 2 percent\" as inflation pressures persist and labor conditions firm. She added that the benefit of additional tightening must be weighed against its costs for interest-rate-sensitive sectors and that policy is not on a preset course.",
+  "headline_ja": "ボウマンFRB副議長「物価圧力が持続…2%目標まで課題残る」",
+  "summary_ja": "ミシェル・ボウマンFRB監督担当副議長は外交問題評議会での講演で、インフレ圧力が望んだより長く続き広がりの兆しを見せているとし、10月のコアPCE物価は3.3%に一段と上昇したと推計した。失業率が4.1%に低下するなど労働市場は安定したとし、「インフレ圧力が続き雇用情勢が引き締まりつつあり、物価を2%に近づけるにはまだやるべきことがある」と述べた。ただ追加引き締めの利点は金利に敏感な部門へのコストと慎重に比較すべきで、金融政策は決まった道筋にないと付け加えた。"
+ },
+ {
   "date": "2026-11-09",
   "headline": "中 10월 생산자물가 '4년여 만에 최고'…소비자물가는 둔화",
   "headline_ko": "中 10월 생산자물가 '4년여 만에 최고'…소비자물가는 둔화",
