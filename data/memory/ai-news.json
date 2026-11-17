@@ -140,6 +140,28 @@
   "summary_ja": "スコット・ベッセント財務長官は15日、FOXニュースのインタビューで、エヌビディア取締役会は社外から新CEOを探すべきで「劇的な刷新」が必要だと述べた。「ペーパーカンパニーは明白だった」とし、エヌビディアがそれを迂回路として中国にチップを販売したか、輸出規制順守の文化があったかが核心だと指摘し、「銀行だったら通貨監督庁が入り、経営陣の多くが解任されていただろう」と語った。一方FTは、ジェンスン・フアン氏が側近らと復帰を協議したと報じた。"
  },
  {
+  "date": "2026-11-15",
+  "headline": "How Jensen Huang Built the Backdoor Route That Keeps Beijing in the AI Race",
+  "headline_ko": "WSJ \"젠슨 황, 동남아 데이터센터로 中에 AI 연산 '뒷문' 열어\"…메가스피드 120억 달러어치 칩 주선",
+  "outlet": "The Wall Street Journal (To Vima)",
+  "url": "https://www.tovima.com/wsj/how-jensen-huang-built-the-backdoor-route-that-keeps-beijing-in-the-ai-race/",
+  "summary_ko": "WSJ는 젠슨 황이 아시아 파트너망을 키워 중국 기업들이 동남아 데이터센터에서 엔비디아 칩 연산 능력을 원격으로 빌려 쓰는 '뒷문'을 만들었고, 워싱턴에 이 길을 열어 두도록 강하게 로비했다고 보도했다. WSJ가 본 기록에 따르면 앨리스 황이 운영하는 메가스피드는 2024년 3월~2025년 6월 120억 달러에 가까운 최고급 엔비디아 칩을 중국 기업에 보내도록 주선했으며, 실제 인도 규모는 기록에 나오지 않는다. 엔비디아는 밀수 방지에 힘쓰고 있다고 했고, 메가스피드는 규정 준수를 중시하며 미국 법을 따르겠다고 밝혔다.",
+  "topics": [
+   "chips",
+   "policy"
+  ],
+  "orgs": [
+   "Nvidia",
+   "Megaspeed",
+   "Alibaba",
+   "ByteDance"
+  ],
+  "headline_en": "How Jensen Huang Built the Backdoor Route That Keeps Beijing in the AI Race",
+  "summary_en": "The WSJ reported that Jensen Huang cultivated a network of Asian partners that let Chinese companies remotely rent Nvidia computing power at Southeast Asian data centers, and lobbied Washington hard to keep that backdoor open. Records seen by the Journal show Megaspeed, run by Alice Huang, arranged to send nearly $12 billion of top-end Nvidia chips to Chinese companies between March 2024 and June 2025, though the records don't show how much was actually delivered. Nvidia said it works to prevent smuggling, and Megaspeed said it takes compliance seriously and is committed to following US law.",
+  "headline_ja": "WSJ「ジェンスン・フアン氏、東南アジアのデータセンターで中国にAI計算の『裏口』」…メガスピードが120億ドル分のチップを手配",
+  "summary_ja": "WSJは、ジェンスン・フアン氏がアジアのパートナー網を育て、中国企業が東南アジアのデータセンターでエヌビディアの計算能力を遠隔で借りられる「裏口」を作り、ワシントンにこの道を開けておくよう強くロビー活動したと報じた。WSJが確認した記録によると、アリス・フアン氏が運営するメガスピードは2024年3月～2025年6月に120億ドル近い最上位のエヌビディア製チップを中国企業に送るよう手配したが、実際の納入規模は記録に示されていない。エヌビディアは密輸防止に努めていると述べ、メガスピードは法令順守を重視し米国法に従うとした。"
+ },
+ {
   "date": "2026-11-13",
   "headline": "Former NVIDIA boss Huang, Commerce Secretary Lutnick summoned by Congress",
   "headline_ko": "美상원, 젠슨 황·러트닉 상무장관 청문회 소환…\"불응 시 소환장\"",
