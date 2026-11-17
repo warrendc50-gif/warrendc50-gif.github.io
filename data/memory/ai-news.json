@@ -120,6 +120,26 @@
   "summary_ja": "グーグル脅威インテリジェンスグループ（GTIG）は、前四半期に攻撃者がLLMフレームワークを使い、脆弱性の発見と悪用を人間の介在なしに完全自動化した事例を初めて確認したと明らかにした。3カ月以内に人間の介在がほぼない単純な攻撃が、6カ月以内に高度な完全自律型エージェント攻撃が現れると予測した。北朝鮮系とみられるハッカーが改変したClaude Codeで暗号資産企業を攻撃した事例なども挙げ、こうした攻撃ツールにより防御側のパッチ適用の猶予が大幅に縮まったと警告した。"
  },
  {
+  "date": "2026-11-15",
+  "headline": "Treasury Secretary Scott Bessent says if Nvidia was a bank, 'a lot of the executives would be removed' — while Huang reportedly eyes return",
+  "headline_ko": "베선트 美재무 \"엔비디아가 은행이었다면 경영진 다수 해임됐을 것\"…외부 CEO 영입 촉구",
+  "outlet": "Fortune",
+  "url": "https://fortune.com/2026/11/15/treasury-secretary-scott-bessent-nvidia-jensen-huang-nvidia-china-spy-scandal/",
+  "summary_ko": "스콧 베선트 재무장관은 15일 폭스뉴스 인터뷰에서 엔비디아 이사회가 외부에서 새 CEO를 찾아야 하며 '극적인 쇄신'이 필요하다고 말했다. 그는 \"페이퍼컴퍼니들은 명백했다\"며 엔비디아가 이를 우회로로 삼아 중국에 칩을 팔았는지, 수출 규제 준수 문화가 있었는지가 핵심이라고 지적했고, \"은행이었다면 통화감독청이 들어가 경영진 다수를 해임했을 것\"이라고 했다. 한편 FT는 젠슨 황이 측근들과 복귀를 논의했다고 보도했다.",
+  "topics": [
+   "policy",
+   "chips"
+  ],
+  "orgs": [
+   "Nvidia",
+   "US Treasury"
+  ],
+  "headline_en": "Treasury Secretary Scott Bessent says if Nvidia was a bank, 'a lot of the executives would be removed' — while Huang reportedly eyes return",
+  "summary_en": "In a Fox News interview on the 15th, Treasury Secretary Scott Bessent said Nvidia's board should look outside the company for a new CEO and that it needs a 'dramatic shakeup.' He said \"these shell companies were obvious\" and that the key question is whether Nvidia used them as a workaround to sell chips to China and had a culture of export-control compliance, adding that if it were a bank, \"the OCC would be in there right now and a lot of the executives would be removed.\" Meanwhile, the FT reported that Jensen Huang has discussed a possible return with confidants.",
+  "headline_ja": "ベッセント米財務長官「エヌビディアが銀行なら経営陣の多くが解任されていた」…外部CEO登用を要求",
+  "summary_ja": "スコット・ベッセント財務長官は15日、FOXニュースのインタビューで、エヌビディア取締役会は社外から新CEOを探すべきで「劇的な刷新」が必要だと述べた。「ペーパーカンパニーは明白だった」とし、エヌビディアがそれを迂回路として中国にチップを販売したか、輸出規制順守の文化があったかが核心だと指摘し、「銀行だったら通貨監督庁が入り、経営陣の多くが解任されていただろう」と語った。一方FTは、ジェンスン・フアン氏が側近らと復帰を協議したと報じた。"
+ },
+ {
   "date": "2026-11-13",
   "headline": "Former NVIDIA boss Huang, Commerce Secretary Lutnick summoned by Congress",
   "headline_ko": "美상원, 젠슨 황·러트닉 상무장관 청문회 소환…\"불응 시 소환장\"",
