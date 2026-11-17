@@ -182,6 +182,25 @@
   "summary_ja": "エヌビディアは、ジェンスン・フアン氏が社長・CEO・取締役を即時辞任したと発表した。コレット・クレスCFOが後任決定まで暫定CEOを務め、シノプシスCEO出身のハービー・ジョーンズ氏が同社初の取締役会議長に選任された。取締役会は社内外の候補から正式なCEOを探しており、第3四半期決算は11月17日に発表する。"
  },
  {
+  "date": "2026-11-12",
+  "headline": "Introducing Gemini 4 Hydrogen",
+  "headline_ko": "구글, 에이전트 작업용 '제미나이 4 하이드로젠' 공개…검색·제미나이 앱 전면 적용",
+  "outlet": "Google Blog",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+  "summary_ko": "구글은 일상적인 코딩과 에이전트 작업을 빠르고 효율적으로 처리하는 '제미나이 4 하이드로젠'을 공개했다. 기본 설정에서 아티피셜 애널리시스 지능 지수 51점으로 Argon(50점)을 앞서고, 제미나이 3.8 플래시보다 작업을 2.5배 빠르게 끝낸다고 밝혔다. 제미나이 앱과 구글 검색(전 세계 모든 이용자), AI 스튜디오·API 등에서 바로 쓸 수 있으며, 가격은 입력 100만 토큰당 1.5달러, 출력 7.5달러다.",
+  "topics": [
+   "model"
+  ],
+  "orgs": [
+   "Google",
+   "Google DeepMind"
+  ],
+  "headline_en": "Introducing Gemini 4 Hydrogen",
+  "summary_en": "Google unveiled Gemini 4 Hydrogen, built for fast, efficient everyday coding and agentic workflows. At its default setting it scores 51 on the Artificial Analysis Intelligence Index, ahead of Argon's 50, and finishes tasks 2.5 times faster than Gemini 3.8 Flash, Google said. It is available starting today in the Gemini app, Google Search for all users globally, and AI Studio and the Gemini API, priced at $1.50 per million input tokens and $7.50 per million output tokens.",
+  "headline_ja": "グーグル、エージェント作業向け「Gemini 4 Hydrogen」を公開…検索・Geminiアプリに全面導入",
+  "summary_ja": "グーグルは、日常的なコーディングやエージェント作業を高速かつ効率的にこなす「Gemini 4 Hydrogen」を公開した。標準設定でArtificial Analysis知能指数51点とArgon（50点）を上回り、Gemini 3.8 Flashより2.5倍速く作業を終えるとしている。Geminiアプリ、Google検索（全世界の全利用者）、AI Studio・APIなどで即日利用でき、価格は入力100万トークン当たり1.5ドル、出力7.5ドルだ。"
+ },
+ {
   "date": "2026-11-11",
   "headline": "엔비디아 이틀간 주가 9.6% 추락…젠슨황 불륜 사태에 CPI 악재까지",
   "headline_ko": "엔비디아 이틀간 주가 9.6% 추락…젠슨황 불륜 사태에 CPI 악재까지",
