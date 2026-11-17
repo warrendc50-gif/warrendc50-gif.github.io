@@ -1,5 +1,23 @@
 [
  {
+  "date": "2026-11-16",
+  "headline": "Market Review: November 16, 2026",
+  "headline_ko": "뉴욕증시, AI·반도체 매도에 사흘째 하락…나스닥 2.49%↓",
+  "outlet": "Investrade (Hammerstone Markets)",
+  "url": "https://investrade.com/market-review-november-16-2026/",
+  "summary_ko": "16일 뉴욕증시에서 다우는 1.41%, S&P500은 1.91%, 나스닥은 2.49% 떨어졌고, AI·반도체 집중 매도로 S&P500과 나스닥은 사흘 연속 하락했다. 젠슨 황 CEO 사임 뒤 엔비디아 이사회가 그의 복귀를 검토하지 않는다는 보도가 나왔고, 지난주 물가 지표 이후 12월 연준 금리 인상 기대가 굳어졌다. 투자자들은 화요일 밤 엔비디아 실적을 기다리고 있다.",
+  "topics": [
+   "markets"
+  ],
+  "orgs": [
+   "Nvidia"
+  ],
+  "headline_en": "Market Review: November 16, 2026",
+  "summary_en": "On the 16th the Dow fell 1.41%, the S&P 500 1.91% and the Nasdaq 2.49%, with a concentrated AI and semiconductor selloff sending the S&P 500 and Nasdaq lower for a third straight day. After CEO Jensen Huang's resignation, it was reported that Nvidia's board is not considering bringing him back, and expectations of a December Fed rate hike firmed after last week's inflation data. Investors now await Nvidia's earnings on Tuesday night.",
+  "headline_ja": "NY株式市場、AI・半導体売りで3日続落…ナスダック2.49%安",
+  "summary_ja": "16日のNY株式市場ではダウが1.41%、S&P500が1.91%、ナスダックが2.49%下落し、AI・半導体への集中的な売りでS&P500とナスダックは3日続落した。ジェンスン・フアンCEOの辞任後、エヌビディア取締役会が同氏の復帰を検討していないと報じられ、先週の物価指標を受けて12月のFRB利上げ観測が固まった。投資家は火曜夜のエヌビディア決算を待っている。"
+ },
+ {
   "date": "2026-11-11",
   "headline": "Siemens Energy’s 2027 profit outlook falls short despite record year",
   "headline_ko": "지멘스에너지, 사상 최대 실적에도 2027년 순익 전망은 예상 하회",

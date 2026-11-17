@@ -1,5 +1,24 @@
 [
  {
+  "date": "2026-11-16",
+  "headline": "Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC",
+  "headline_ko": "엔비디아 이사회, 젠슨 황 CEO 복귀 검토 안 해…트럼프 \"복귀 열려 있어\"",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html",
+  "summary_ko": "소식통에 따르면 엔비디아 이사회는 젠슨 황의 CEO 복귀를 검토하지 않으며, 로펌 왁텔 립턴이 이끄는 황의 행위와 국가안보·기밀 침해 여부 조사에 집중하고 있다. 황의 복귀를 요구하는 온라인 청원에는 일론 머스크 등을 포함해 18만 명이 서명했고, 트럼프 대통령도 복귀에 열려 있다고 말했다. 이사회는 CEO 헤드헌팅 업체를 선정 중이다.",
+  "topics": [
+   "business",
+   "chips"
+  ],
+  "orgs": [
+   "Nvidia"
+  ],
+  "headline_en": "Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC",
+  "summary_en": "According to a source, Nvidia's board is not considering bringing Jensen Huang back as CEO and is focused on an investigation led by law firm Wachtell Lipton into his conduct and whether it compromised national security or company secrets. An online petition calling for his reinstatement has drawn 180,000 signatures, including support from Elon Musk, and President Trump said he is open to Huang returning. The board is selecting a search firm for the CEO role.",
+  "headline_ja": "エヌビディア取締役会、ジェンスン・フアン氏のCEO復帰を検討せず…トランプ氏「復帰に前向き」",
+  "summary_ja": "関係者によると、エヌビディア取締役会はジェンスン・フアン氏のCEO復帰を検討しておらず、法律事務所ワクテル・リプトンが主導する同氏の行為と国家安全保障・機密侵害の有無に関する調査に注力している。フアン氏の復帰を求めるオンライン請願にはイーロン・マスク氏らを含む18万人が署名し、トランプ大統領も復帰に前向きだと述べた。取締役会はCEO人材紹介会社を選定中だ。"
+ },
+ {
   "date": "2026-11-12",
   "headline": "[속보] 네이버, 3분기 영업익 4513억원·전년比 20.9%↓…매출은 역대 최대, 물류 자회사 설립 추진",
   "headline_ko": "네이버, 3분기 매출 역대 최대에도 AI 인프라 투자에 영업익 20.9%↓",
@@ -58,6 +77,25 @@
   "summary_en": "Senators Elizabeth Warren and Chris Coons asked the White House, Commerce Department and State Department to preserve records including contacts between Nvidia CEO Jensen Huang and President Trump. They are preparing a probe into Nvidia's China export policy ahead of taking key Senate committee chairs next year, while Republicans are also pressing to summon Huang. No espionage or export-control violations have been confirmed.",
   "headline_ja": "米民主党、ジェンスン・フアン氏とトランプ氏の接触記録の保存を要求…対中輸出の調査に着手",
   "summary_ja": "エリザベス・ウォーレン、クリス・クーンズ両上院議員が、ホワイトハウス・商務省・国務省に対し、ジェンスン・フアンCEOとトランプ大統領の接触記録などの資料を保存するよう求めた。来年の上院主要委員長就任を前に、エヌビディアの対中輸出政策の調査を準備するもので、共和党もフアンCEOの召喚を迫っている。スパイ行為や輸出管理法違反の事実は確認されていない。"
+ },
+ {
+  "date": "2026-11-12",
+  "headline": "NVIDIA Announces CEO Transition",
+  "headline_ko": "엔비디아, 젠슨 황 CEO 사임 발표…콜레트 크레스 CFO 임시 CEO",
+  "outlet": "NVIDIA (SEC 8-K)",
+  "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm",
+  "summary_ko": "엔비디아는 젠슨 황이 사장·CEO·이사직에서 즉시 사임했다고 발표했다. 콜레트 크레스 CFO가 후임이 정해질 때까지 임시 CEO를 맡고, 시놉시스 CEO 출신 하비 존스가 회사 첫 이사회 의장에 선임됐다. 이사회는 내부·외부 후보를 대상으로 정식 CEO 물색에 나섰으며, 3분기 실적은 11월 17일 발표한다.",
+  "topics": [
+   "business",
+   "chips"
+  ],
+  "orgs": [
+   "Nvidia"
+  ],
+  "headline_en": "NVIDIA Announces CEO Transition",
+  "summary_en": "Nvidia announced that Jensen Huang resigned as President, CEO and board member, effective immediately. CFO Colette Kress will serve as interim CEO until a permanent successor is named, and former Synopsys CEO Harvey C. Jones was appointed the company's first-ever board chair. The board is searching for a permanent CEO among internal and external candidates, and third-quarter results will be reported on November 17.",
+  "headline_ja": "エヌビディア、ジェンスン・フアンCEOの辞任を発表…コレット・クレスCFOが暫定CEOに",
+  "summary_ja": "エヌビディアは、ジェンスン・フアン氏が社長・CEO・取締役を即時辞任したと発表した。コレット・クレスCFOが後任決定まで暫定CEOを務め、シノプシスCEO出身のハービー・ジョーンズ氏が同社初の取締役会議長に選任された。取締役会は社内外の候補から正式なCEOを探しており、第3四半期決算は11月17日に発表する。"
  },
  {
   "date": "2026-11-11",

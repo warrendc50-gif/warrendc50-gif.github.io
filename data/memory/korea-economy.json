@@ -1,5 +1,24 @@
 [
  {
+  "date": "2026-11-16",
+  "headline": "외국인·기관 동반 '매도', 코스피 5100선 마감",
+  "headline_ko": "외국인·기관 동반 매도…코스피 3.59% 급락해 5100선 마감",
+  "outlet": "뉴스핌",
+  "url": "https://www.newspim.com/news/view/20261116001160",
+  "summary_ko": "16일 코스피는 외국인과 기관의 동반 매도 속에 전 거래일보다 190.03포인트(3.59%) 내린 5100.50에 마감했다. 코스닥은 34.01포인트(4.86%) 내린 665.65에 거래를 마쳤다. 원·달러 환율은 1.0원 내린 1335.7원에 마감했다.",
+  "topics": [
+   "stocks",
+   "fx"
+  ],
+  "orgs": [
+   "한국거래소"
+  ],
+  "headline_en": "Foreigners and institutions sell together; KOSPI closes in the 5,100 range",
+  "summary_en": "On the 16th the KOSPI fell 190.03 points (3.59%) to close at 5,100.50 amid selling by both foreign and institutional investors. The KOSDAQ ended down 34.01 points (4.86%) at 665.65. The won/dollar rate closed down 1.0 won at 1,335.7.",
+  "headline_ja": "外国人・機関がそろって売り…KOSPI 3.59%急落、5100台で引け",
+  "summary_ja": "16日のKOSPIは外国人と機関投資家がそろって売り越すなか、前営業日比190.03ポイント（3.59%）安の5100.50で取引を終えた。KOSDAQは34.01ポイント（4.86%）安の665.65で引けた。ウォン・ドル相場は1.0ウォン安の1335.7ウォンで取引を終えた。"
+ },
+ {
   "date": "2026-11-12",
   "headline": "[마감시황] 코스피·코스닥 나란히 하락…젠슨 황 리스크에 AI 투자심리 위축",
   "headline_ko": "코스피·코스닥 나란히 하락…젠슨 황 리스크에 AI 투자심리 위축",
