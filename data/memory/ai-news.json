@@ -19,6 +19,26 @@
   "summary_ja": "エヌビディアの第3四半期売上高は1158億ドル、1株利益は2.68ドルで市場予想（売上高1091億5千万ドル、1株利益2.47ドル）を上回り、データセンター売上高は1076億ドルと予想（1018億5千万ドル）を超えた。第4四半期の売上高見通しは1274億～1326億ドルと市場予想（1252億5千万ドル）を上回り、1500億ドル規模の自社株買いも発表した。コレット・クレス暫定CEO体制で初の決算発表で、発表後に株価は上昇した。"
  },
  {
+  "date": "2026-11-17",
+  "headline": "Nvidia faces SEC investigation as crisis deepens following Huang resignation",
+  "headline_ko": "WSJ \"美 SEC, 엔비디아 공시가 투자자 오도했는지 조사\"…젠슨 황 사임 후 위기 심화",
+  "outlet": "Investing.com",
+  "url": "https://www.investing.com/news/stock-market-news/nvidia-faces-sec-investigation-as-crisis-deepens-following-huang-resignation-5033965",
+  "summary_ko": "월스트리트저널은 소식통을 인용해 미 증권거래위원회(SEC)가 엔비디아가 공시로 투자자를 오도했는지 민사 조사를 벌이고 있다고 보도했다. 조사 초점은 정해지지 않았지만 회사 공시에 관한 질문이 포함된다. 엔비디아는 지난해 국제 매출 공시에서 싱가포르 매출 내역을 없앴으며, 법무부는 앨리스 황과 관련한 여러 수사를 이끌고 있다.",
+  "topics": [
+   "policy",
+   "chips"
+  ],
+  "orgs": [
+   "Nvidia",
+   "SEC"
+  ],
+  "headline_en": "Nvidia faces SEC investigation as crisis deepens following Huang resignation",
+  "summary_en": "The Wall Street Journal, citing people familiar with the matter, reported that the Securities and Exchange Commission is conducting a civil investigation into whether Nvidia misled investors through its disclosures. The focus has not been established but includes questions about the company's disclosures. Nvidia changed its international sales disclosures last year, eliminating a breakdown of sales to Singapore, and the Justice Department is leading multiple investigations involving Alice Huang.",
+  "headline_ja": "WSJ「米SEC、エヌビディアの開示が投資家を誤導したか調査」…フアン氏辞任後に危機深まる",
+  "summary_ja": "ウォール・ストリート・ジャーナルは関係者の話として、米証券取引委員会（SEC）がエヌビディアが開示で投資家を誤導したかについて民事調査を行っていると報じた。調査の焦点は定まっていないが、同社の開示に関する問題が含まれる。エヌビディアは昨年、国際売上高の開示でシンガポール向け売上高の内訳をなくしており、司法省はアリス・フアン氏に関わる複数の捜査を主導している。"
+ },
+ {
   "date": "2026-11-16",
   "headline": "Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC",
   "headline_ko": "엔비디아 이사회, 젠슨 황 CEO 복귀 검토 안 해…트럼프 \"복귀 열려 있어\"",
