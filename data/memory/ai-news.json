@@ -103,6 +103,24 @@
   "summary_ja": "オープンAIは、AIエージェント「ドット」が利用者に代わって買い物できる決済機能「ChatGPTウォレット」を、アメリカン・エキスプレス、マスターカード、ビザと共同で開始した。まず米国の18歳以上のPro加入者が利用でき、カード情報の代わりに取引ごとの決済トークンを使い、購入のたびにセキュリティ確認で承認する。オープンAIは当面、取引手数料を取らない。"
  },
  {
+  "date": "2026-11-13",
+  "headline": "Bloomberg: Anthropic IPO six-times oversubscribed",
+  "headline_ko": "블룸버그 \"앤트로픽 IPO 청약 약 6배 초과\"…최대 640억 달러 조달 추진",
+  "outlet": "Silicon Republic",
+  "url": "https://www.siliconrepublic.com/business/bloomberg-anthropic-ipo-six-times-oversubscribed-ai",
+  "summary_ko": "블룸버그는 소식통을 인용해 앤트로픽 IPO에 공모 물량의 약 6배 주문이 몰렸다고 보도했으며, 수요 등 세부 사항은 바뀔 수 있다고 전했다. 앤트로픽은 주당 70~78달러에 약 640억 달러를 조달하려 하며, 구글·엔비디아·AMD·마이크로소프트·TSMC 등의 260억 달러 주식 매입 약정과 합치면 6월 스페이스X 상장 규모를 넘는다. 예상 기업가치는 1조2600억~1조4100억 달러로, 나스닥에 'ANT'로 이달 말 상장할 예정이다.",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "Anthropic"
+  ],
+  "headline_en": "Bloomberg: Anthropic IPO six-times oversubscribed",
+  "summary_en": "Bloomberg, citing people familiar with the matter, reported that Anthropic's IPO is roughly six times oversubscribed, adding that details including demand could still change. Anthropic seeks to raise around $64 billion at $70 to $78 per share, which combined with $26 billion of stock purchase commitments from Google, Nvidia, AMD, Microsoft, TSMC and others would surpass SpaceX's June debut. The prospective valuation is $1.26 trillion to $1.41 trillion, with a Nasdaq listing under 'ANT' expected later this month.",
+  "headline_ja": "ブルームバーグ「アンソロピックIPO、申込み約6倍超過」…最大640億ドル調達目指す",
+  "summary_ja": "ブルームバーグは関係者の話として、アンソロピックのIPOに公募株数の約6倍の注文が集まったと報じ、需要など詳細は変わり得るとした。アンソロピックは1株70～78ドルで約640億ドルの調達を目指し、グーグル、エヌビディア、AMD、マイクロソフト、TSMCなどによる260億ドルの株式購入約束と合わせると6月のスペースX上場規模を上回る。想定企業価値は1兆2600億～1兆4100億ドルで、今月末にナスダックに「ANT」で上場する予定だ。"
+ },
+ {
   "date": "2026-11-12",
   "headline": "[속보] 네이버, 3분기 영업익 4513억원·전년比 20.9%↓…매출은 역대 최대, 물류 자회사 설립 추진",
   "headline_ko": "네이버, 3분기 매출 역대 최대에도 AI 인프라 투자에 영업익 20.9%↓",
