@@ -1,5 +1,25 @@
 [
  {
+  "date": "2026-11-17",
+  "headline": "금융위, 지역 중소기업에 4.5조 저리 대출 지원…1차 공모 실시",
+  "headline_ko": "금융위, 지역 중소·중견기업에 3년간 4.5조 저리 보증부 대출…1차 공모 시작",
+  "outlet": "노컷뉴스",
+  "url": "https://www.nocutnews.co.kr/news/6608023",
+  "summary_ko": "금융위원회는 3년간 4조5천억원 규모의 지역 핵심 중소·중견기업 저리 보증부 대출 사업 1차 공모를 수도권을 뺀 13개 시도를 대상으로 시작했다. 은행이 신용보증기금·기술보증기금에 특별출연하면 신·기보가 약 15배의 협약보증을 공급하는 방식이며, 지자체 평가에 따라 최우수 3곳 3800억원, 우수 5곳 2800억원, 보통 5곳 2400억원을 차등 배정한다. 금융위는 9천여 개 기업이 지원받을 것으로 기대했다.",
+  "topics": [
+   "banks"
+  ],
+  "orgs": [
+   "금융위원회",
+   "신용보증기금",
+   "기술보증기금"
+  ],
+  "headline_en": "FSC to provide 4.5 trillion won in low-rate loans to regional SMEs; first round of applications opens",
+  "summary_en": "The Financial Services Commission opened the first round of a three-year, 4.5 trillion won program of low-rate guaranteed loans for key regional small and mid-sized firms, covering 13 provinces and cities outside the Seoul metropolitan area. Banks make special contributions to the Korea Credit Guarantee Fund and Korea Technology Finance Corporation, which supply about 15 times that in guarantees; based on local government evaluations, the top three regions get 380 billion won each, the next five 280 billion won and the remaining five 240 billion won. The FSC expects about 9,000 firms to receive support.",
+  "headline_ja": "金融委、地方の中小・中堅企業に3年で4.5兆ウォンの低利保証付き融資…第1次公募開始",
+  "summary_ja": "金融委員会は、3年間で4兆5千億ウォン規模となる地方の中核中小・中堅企業向け低利保証付き融資事業の第1次公募を、首都圏を除く13の市・道を対象に開始した。銀行が信用保証基金・技術保証基金に特別拠出し、両基金が約15倍の協約保証を供給する仕組みで、自治体の評価に応じて最優秀3地域に3800億ウォン、優秀5地域に2800億ウォン、普通5地域に2400億ウォンを配分する。金融委は約9千社が支援を受けられると見込んでいる。"
+ },
+ {
   "date": "2026-11-16",
   "headline": "외국인·기관 동반 '매도', 코스피 5100선 마감",
   "headline_ko": "외국인·기관 동반 매도…코스피 3.59% 급락해 5100선 마감",
