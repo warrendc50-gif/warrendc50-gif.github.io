@@ -201,6 +201,24 @@
   "summary_ja": "グーグルは、日常的なコーディングやエージェント作業を高速かつ効率的にこなす「Gemini 4 Hydrogen」を公開した。標準設定でArtificial Analysis知能指数51点とArgon（50点）を上回り、Gemini 3.8 Flashより2.5倍速く作業を終えるとしている。Geminiアプリ、Google検索（全世界の全利用者）、AI Studio・APIなどで即日利用でき、価格は入力100万トークン当たり1.5ドル、出力7.5ドルだ。"
  },
  {
+  "date": "2026-11-12",
+  "headline": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
+  "headline_ko": "마이크로소프트 365 대규모 장애…아웃룩·팀즈·코파일럿 전 세계 먹통",
+  "outlet": "BleepingComputer",
+  "url": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/",
+  "summary_ko": "12일 오후(미 동부시간) 시작된 마이크로소프트 365 장애로 익스체인지 온라인·팀즈·셰어포인트·M365 코파일럿·디펜더 XDR 접속이 끊겼다. 13일 낮 MS는 서비스 전반이 회복되고 있다며 \"사이버 공격이나 AI·에이전트와 무관한 기술 문제\"로, 앞선 네트워크 용량 증설 과정의 문제가 최근 네트워크 변경 뒤 드러난 것이라고 밝혔다. MS는 검토가 끝나면 사고 보고서를 내겠다고 했다.",
+  "topics": [
+   "business"
+  ],
+  "orgs": [
+   "Microsoft"
+  ],
+  "headline_en": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
+  "summary_en": "A Microsoft 365 outage that began on the afternoon of the 12th (US Eastern time) left customers unable to connect to Exchange Online, Teams, SharePoint Online, Microsoft 365 Copilot and Defender XDR. On the 13th Microsoft said it was seeing broad recovery and that it was \"a technical issue not related to cyber or AI / agents,\" introduced by an issue during an earlier network capacity upgrade that surfaced after a recent network change. Microsoft said it will publish a post-incident report once its review is complete.",
+  "headline_ja": "マイクロソフト365で大規模障害…Outlook・Teams・Copilotが世界的に停止",
+  "summary_ja": "12日午後（米東部時間）に始まったマイクロソフト365の障害で、Exchange Online、Teams、SharePoint Online、M365 Copilot、Defender XDRに接続できなくなった。マイクロソフトは13日、サービス全体が回復しつつあるとし、「サイバー攻撃やAI・エージェントとは無関係の技術的問題」で、以前のネットワーク容量増強時の問題が最近のネットワーク変更後に表面化したものだと説明した。同社は調査終了後に事後報告書を公表するとしている。"
+ },
+ {
   "date": "2026-11-11",
   "headline": "엔비디아 이틀간 주가 9.6% 추락…젠슨황 불륜 사태에 CPI 악재까지",
   "headline_ko": "엔비디아 이틀간 주가 9.6% 추락…젠슨황 불륜 사태에 CPI 악재까지",
