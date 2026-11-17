@@ -39,6 +39,27 @@
   "summary_ja": "トランプ政権は16日、中国企業が他国のデータセンターを通じてエヌビディア製など先端チップを利用することを制限する規制を発表した。米国の機微な技術へのアクセス制限が回避されないようにするための措置だと説明した。木曜日に深センで開かれるトランプ・習近平・プーチン3者会談を前に、米中間の緊張要因になりそうだ。"
  },
  {
+  "date": "2026-11-16",
+  "headline": "美 법원, 삼성전자·SK하이닉스·마이크론 'D램 담합 소송 중지 신청' 기각",
+  "headline_ko": "美 법원, 삼성·SK하이닉스·마이크론 'D램 담합' 소송 기각 신청 거부…본안 심리로",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611161746030442",
+  "summary_ko": "미 캘리포니아 북부 연방지법 노엘 와이즈 판사는 14일 삼성전자·SK하이닉스·마이크론이 낸 D램 담합 집단소송 기각 신청을 받아들이지 않았다. 법원은 세 회사가 비슷한 시기에 DDR4 감산을 발표하고 올해 1월 유사한 고객 심사 절차를 도입한 점 등을 들어 개별 기업의 독자적 판단으로만 보기 어렵다고 봤으나, 담합이 실제로 있었다는 판단은 아니다. 세 회사의 답변서 제출 시한은 12월 7일이다.",
+  "topics": [
+   "chips",
+   "policy"
+  ],
+  "orgs": [
+   "Samsung Electronics",
+   "SK hynix",
+   "Micron"
+  ],
+  "headline_en": "US court denies Samsung, SK hynix and Micron's motion to dismiss DRAM collusion suit",
+  "summary_en": "On the 14th Judge Noël Wise of the US District Court for the Northern District of California denied the motion by Samsung Electronics, SK hynix and Micron to dismiss a DRAM collusion class action. The court said the firms' near-simultaneous DDR4 production-cut announcements and similar customer review procedures introduced in January make it hard to view their moves as purely independent business decisions, though this is not a finding that collusion occurred. The companies must file their answers by December 7.",
+  "headline_ja": "米裁判所、サムスン・SKハイニックス・マイクロンの「DRAM談合」訴訟の却下申し立てを退ける…本案審理へ",
+  "summary_ja": "米カリフォルニア北部連邦地裁のノエル・ワイズ判事は14日、サムスン電子・SKハイニックス・マイクロンが出したDRAM談合集団訴訟の却下申し立てを退けた。裁判所は3社がほぼ同時期にDDR4減産を発表し、今年1月に似た顧客審査手続きを導入した点などから、各社の独自の経営判断とだけ見るのは難しいとしたが、談合が実際にあったとの判断ではない。3社の答弁書提出期限は12月7日だ。"
+ },
+ {
   "date": "2026-11-13",
   "headline": "Former NVIDIA boss Huang, Commerce Secretary Lutnick summoned by Congress",
   "headline_ko": "美상원, 젠슨 황·러트닉 상무장관 청문회 소환…\"불응 시 소환장\"",

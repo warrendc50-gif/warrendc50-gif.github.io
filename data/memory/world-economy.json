@@ -36,6 +36,25 @@
   "summary_ja": "内閣府によると、7～9月期の実質GDPは前期比0.02%減、年率0.1%減と4四半期ぶりのマイナスとなり、市場予想（年率0.2%増）を下回った。GDPの約半分を占める個人消費が0.3%減と2四半期連続で減少したことが最大の要因で、輸入は2.5%増えた。設備投資はAI関連投資に支えられ1.6%増加した。"
  },
  {
+  "date": "2026-11-16",
+  "headline": "China's slowdown deepens in October as industrial output, retail sales, investment miss estimates",
+  "headline_ko": "中 10월 소매판매 0.4%·산업생산 4.8%…투자까지 모두 예상 하회",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
+  "summary_ko": "중국 10월 소매판매는 전년 대비 0.4% 늘어 예상(0.8%)과 9월(1.1%)을 밑돌았고, 산업생산은 4.8% 증가로 예상(5.3%)과 9월(5.5%)에 못 미쳤다. 1~10월 고정자산투자는 8.1% 줄어 예상(-7%)보다 크게 악화했다. 도시 실업률은 5.1%로 소폭 낮아졌다.",
+  "topics": [
+   "china",
+   "macro"
+  ],
+  "orgs": [
+   "China National Bureau of Statistics"
+  ],
+  "headline_en": "China's slowdown deepens in October as industrial output, retail sales, investment miss estimates",
+  "summary_en": "China's October retail sales rose 0.4% year on year, below the 0.8% forecast and September's 1.1%, while industrial output grew 4.8%, short of the 5.3% estimate and September's 5.5%. Fixed-asset investment for January–October fell 8.1%, worse than the forecast 7% decline. The urban unemployment rate inched lower to 5.1%.",
+  "headline_ja": "中国10月の小売売上高0.4%増・鉱工業生産4.8%増…投資も含め軒並み予想下回る",
+  "summary_ja": "中国の10月の小売売上高は前年比0.4%増で、予想（0.8%増）と9月（1.1%増）を下回り、鉱工業生産は4.8%増と予想（5.3%増）と9月（5.5%増）に届かなかった。1～10月の固定資産投資は8.1%減と、予想（7%減）より大きく悪化した。都市部失業率は5.1%に小幅低下した。"
+ },
+ {
   "date": "2026-11-13",
   "headline": "Wall Street stocks mostly lower as Nvidia extends slump",
   "headline_ko": "뉴욕증시, 엔비디아 약세 지속에 대체로 하락…10월 생산자물가 연율 6.5%",
