@@ -1,5 +1,24 @@
 [
  {
+  "date": "2026-11-17",
+  "headline": "Nvidia earnings live: Nvidia tops Q3 expectations, offers better-than-anticipated Q4 outlook",
+  "headline_ko": "엔비디아, 젠슨 황 사임 후 첫 실적 예상 상회…3분기 매출 1158억 달러, 1500억 달러 자사주 매입",
+  "outlet": "Yahoo Finance",
+  "url": "https://finance.yahoo.com/technology/live/nvidia-live-updates-interim-ceo-kress-prepares-for-q3-earnings-with-huang-reportedly-planning-comeback-153114076.html",
+  "summary_ko": "엔비디아는 3분기 매출 1158억 달러, 주당순이익 2.68달러로 시장 예상(매출 1091억5천만 달러, 주당순이익 2.47달러)을 웃돌았고, 데이터센터 매출은 1076억 달러로 예상(1018억5천만 달러)을 넘었다. 4분기 매출 전망은 1274억~1326억 달러로 시장 예상(1252억5천만 달러)보다 높았으며, 1500억 달러 규모 자사주 매입도 발표했다. 콜레트 크레스 임시 CEO 체제의 첫 실적 발표로, 발표 뒤 주가는 올랐다.",
+  "topics": [
+   "chips",
+   "business"
+  ],
+  "orgs": [
+   "Nvidia"
+  ],
+  "headline_en": "Nvidia earnings live: Nvidia tops Q3 expectations, offers better-than-anticipated Q4 outlook",
+  "summary_en": "Nvidia reported third-quarter revenue of $115.8 billion and earnings per share of $2.68, beating expectations of $109.15 billion and $2.47, with Data Center revenue of $107.6 billion versus an anticipated $101.85 billion. It guided fourth-quarter revenue to $127.4 billion to $132.6 billion, above the $125.25 billion analysts expected, and announced a $150 billion stock buyback. It was the first report under interim CEO Colette Kress, and the stock rose on the news.",
+  "headline_ja": "エヌビディア、フアン氏辞任後初の決算が予想上回る…7～9月期売上高1158億ドル、1500億ドルの自社株買い",
+  "summary_ja": "エヌビディアの第3四半期売上高は1158億ドル、1株利益は2.68ドルで市場予想（売上高1091億5千万ドル、1株利益2.47ドル）を上回り、データセンター売上高は1076億ドルと予想（1018億5千万ドル）を超えた。第4四半期の売上高見通しは1274億～1326億ドルと市場予想（1252億5千万ドル）を上回り、1500億ドル規模の自社株買いも発表した。コレット・クレス暫定CEO体制で初の決算発表で、発表後に株価は上昇した。"
+ },
+ {
   "date": "2026-11-16",
   "headline": "Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC",
   "headline_ko": "엔비디아 이사회, 젠슨 황 CEO 복귀 검토 안 해…트럼프 \"복귀 열려 있어\"",
