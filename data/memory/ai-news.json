@@ -102,6 +102,24 @@
   "summary_ja": "オープンAIは、アポロ・リサーチ、METR、トランスルース、グッドファイアの独立評価機関4社と契約し、モデルの挙動と安全策の試験的評価を委ねると発表した。評価機関はソースコードやモデルのチェックポイント、訓練データなど内部資源に深くアクセスでき結果を公表できるが、オープンAIは機密情報を伏せる権利を持つ。意見の相違はオープンAIの安全諮問グループが扱い、解決しなければ理事会傘下の独立した安全・セキュリティ委員会に上げられる。"
  },
  {
+  "date": "2026-11-16",
+  "headline": "Google warns that fully-automated AI attacks are coming soon",
+  "headline_ko": "구글 \"사람 개입 없는 완전 자동 AI 해킹, 6개월 안에 등장\"",
+  "outlet": "BleepingComputer",
+  "url": "https://bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon",
+  "summary_ko": "구글 위협인텔리전스그룹(GTIG)은 지난 분기 공격자들이 LLM 프레임워크로 취약점 발견과 악용을 사람 개입 없이 완전 자동화한 사례를 처음 확인했다고 밝혔다. 3개월 안에 사람 개입이 거의 없는 단순 공격이, 6개월 안에 정교한 완전 자율 에이전트 공격이 나타날 것으로 전망했다. 북한 연계 의심 해커가 변조한 클로드 코드로 암호화폐 기업을 공격한 사례 등도 소개했으며, 이런 공격 도구 때문에 방어자가 패치할 시간이 크게 줄었다고 경고했다.",
+  "topics": [
+   "research"
+  ],
+  "orgs": [
+   "Google"
+  ],
+  "headline_en": "Google warns that fully-automated AI attacks are coming soon",
+  "summary_en": "Google Threat Intelligence Group said that in the past quarter it identified, for the first time, threat actors using LLM frameworks to fully automate vulnerability discovery and exploitation without a human in the loop. It expects unsophisticated attacks requiring little to no human interaction within three months and sophisticated, fully autonomous agentic attacks within six months. It cited cases including suspected North Korean hackers using modified Claude Code against crypto firms, and warned such frameworks have dramatically decreased the time defenders have to patch.",
+  "headline_ja": "グーグル「人間が介在しない完全自動のAIハッキング、6カ月以内に出現」",
+  "summary_ja": "グーグル脅威インテリジェンスグループ（GTIG）は、前四半期に攻撃者がLLMフレームワークを使い、脆弱性の発見と悪用を人間の介在なしに完全自動化した事例を初めて確認したと明らかにした。3カ月以内に人間の介在がほぼない単純な攻撃が、6カ月以内に高度な完全自律型エージェント攻撃が現れると予測した。北朝鮮系とみられるハッカーが改変したClaude Codeで暗号資産企業を攻撃した事例なども挙げ、こうした攻撃ツールにより防御側のパッチ適用の猶予が大幅に縮まったと警告した。"
+ },
+ {
   "date": "2026-11-13",
   "headline": "Former NVIDIA boss Huang, Commerce Secretary Lutnick summoned by Congress",
   "headline_ko": "美상원, 젠슨 황·러트닉 상무장관 청문회 소환…\"불응 시 소환장\"",
