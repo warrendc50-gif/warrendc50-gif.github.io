@@ -19,6 +19,26 @@
   "summary_ja": "関係者によると、エヌビディア取締役会はジェンスン・フアン氏のCEO復帰を検討しておらず、法律事務所ワクテル・リプトンが主導する同氏の行為と国家安全保障・機密侵害の有無に関する調査に注力している。フアン氏の復帰を求めるオンライン請願にはイーロン・マスク氏らを含む18万人が署名し、トランプ大統領も復帰に前向きだと述べた。取締役会はCEO人材紹介会社を選定中だ。"
  },
  {
+  "date": "2026-11-16",
+  "headline": "Trump tightens AI chip access before meeting Xi and Putin",
+  "headline_ko": "트럼프 행정부, 해외 데이터센터 통한 中의 첨단 AI칩 이용 제한…시진핑 회담 앞두고",
+  "outlet": "Deseret News",
+  "url": "https://www.deseret.com/u-s-world/2026/11/16/trump-xi-and-putin-set-to-meet-on-the-sidelines-of-apec/",
+  "summary_ko": "트럼프 행정부는 16일 중국 기업이 다른 나라 데이터센터를 통해 엔비디아 칩 등 첨단 칩을 이용하는 것을 제한하는 규제를 발표했다. 민감한 미국 기술 접근 제한이 우회되지 않도록 하려는 조치라고 설명했다. 목요일 선전에서 열리는 트럼프·시진핑·푸틴 3자 회담을 앞두고 미·중 간 긴장 요인이 될 것으로 보인다.",
+  "topics": [
+   "policy",
+   "chips"
+  ],
+  "orgs": [
+   "US Commerce Department",
+   "Nvidia"
+  ],
+  "headline_en": "Trump tightens AI chip access before meeting Xi and Putin",
+  "summary_en": "On the 16th the Trump administration announced restrictions limiting Chinese companies' ability to use advanced chips, including Nvidia's, through data centers in other countries. It said the rule is designed to ensure existing restrictions on access to sensitive American technology cannot be circumvented. The move adds a point of tension between the US and China ahead of Thursday's Trump-Xi-Putin meeting in Shenzhen.",
+  "headline_ja": "トランプ政権、海外データセンター経由の中国による先端AIチップ利用を制限…習近平氏との会談前に",
+  "summary_ja": "トランプ政権は16日、中国企業が他国のデータセンターを通じてエヌビディア製など先端チップを利用することを制限する規制を発表した。米国の機微な技術へのアクセス制限が回避されないようにするための措置だと説明した。木曜日に深センで開かれるトランプ・習近平・プーチン3者会談を前に、米中間の緊張要因になりそうだ。"
+ },
+ {
   "date": "2026-11-12",
   "headline": "[속보] 네이버, 3분기 영업익 4513억원·전년比 20.9%↓…매출은 역대 최대, 물류 자회사 설립 추진",
   "headline_ko": "네이버, 3분기 매출 역대 최대에도 AI 인프라 투자에 영업익 20.9%↓",
