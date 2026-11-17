@@ -39,6 +39,49 @@
   "summary_ja": "トランプ政権は16日、中国企業が他国のデータセンターを通じてエヌビディア製など先端チップを利用することを制限する規制を発表した。米国の機微な技術へのアクセス制限が回避されないようにするための措置だと説明した。木曜日に深センで開かれるトランプ・習近平・プーチン3者会談を前に、米中間の緊張要因になりそうだ。"
  },
  {
+  "date": "2026-11-13",
+  "headline": "Former NVIDIA boss Huang, Commerce Secretary Lutnick summoned by Congress",
+  "headline_ko": "美상원, 젠슨 황·러트닉 상무장관 청문회 소환…\"불응 시 소환장\"",
+  "outlet": "UPI",
+  "url": "https://www.upi.com/Top_News/US/2026/11/13/Congress-summons-Huang-Lutnick/1171794569930/",
+  "summary_ko": "팀 스콧 상원 은행위원장은 젠슨 황 전 엔비디아 CEO에게 12월 3일, 러트닉 상무장관에게 12월 10일 청문회 출석을 요청했으며 황이 협조하지 않으면 소환장을 발부하겠다고 밝혔다. 러트닉 측은 자발적으로 출석하겠다고 했다. 민주당은 엔비디아의 H200 대중 판매 승인 전 상무부의 중국 기업 안보 심사에 대한 조사에 착수했다.",
+  "topics": [
+   "policy",
+   "chips"
+  ],
+  "orgs": [
+   "Nvidia",
+   "US Senate",
+   "US Commerce Department"
+  ],
+  "headline_en": "Former NVIDIA boss Huang, Commerce Secretary Lutnick summoned by Congress",
+  "summary_en": "Senate Banking Committee Chairman Tim Scott asked former Nvidia CEO Jensen Huang to testify on Dec. 3 and Commerce Secretary Howard Lutnick on Dec. 10, threatening a subpoena if Huang does not cooperate. Lutnick's spokesperson said he agreed to appear voluntarily. Democrats launched investigations into the Commerce Department's national security vetting of Chinese businesses before Nvidia was cleared to sell H200 chips to China.",
+  "headline_ja": "米上院、ジェンスン・フアン氏とラトニック商務長官を公聴会に召喚…「応じなければ召喚状」",
+  "summary_ja": "ティム・スコット上院銀行委員長は、ジェンスン・フアン前エヌビディアCEOに12月3日、ラトニック商務長官に12月10日の公聴会出席を求め、フアン氏が協力しなければ召喚状を出すと表明した。ラトニック氏側は自発的に出席すると述べた。民主党は、エヌビディアのH200対中販売承認前の商務省による中国企業の安全保障審査について調査に着手した。"
+ },
+ {
+  "date": "2026-11-13",
+  "headline": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users",
+  "headline_ko": "오픈AI, 'ChatGPT 월렛' 출시…AI 에이전트 '닷'이 사용자 대신 결제",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html",
+  "summary_ko": "오픈AI가 AI 에이전트 '닷'이 사용자 대신 물건을 살 수 있게 하는 결제 기능 'ChatGPT 월렛'을 아메리칸익스프레스·마스터카드·비자와 함께 출시했다. 미국의 18세 이상 프로 구독자부터 쓸 수 있으며, 카드 정보 대신 거래별 결제 토큰을 쓰고 구매마다 보안 확인으로 승인한다. 오픈AI는 당분간 거래 수수료를 받지 않는다.",
+  "topics": [
+   "business",
+   "model"
+  ],
+  "orgs": [
+   "OpenAI",
+   "Visa",
+   "Mastercard",
+   "American Express"
+  ],
+  "headline_en": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users",
+  "summary_en": "OpenAI launched ChatGPT Wallet, a payment feature built with American Express, Mastercard and Visa that lets its 'dots' AI agents make purchases on behalf of users. It is initially available to US Pro subscribers over 18; agents use a transaction-specific payment token instead of card details, and each purchase is approved with a security check. OpenAI is not taking a cut of transactions to start.",
+  "headline_ja": "オープンAI「ChatGPTウォレット」を開始…AIエージェント「ドット」が利用者に代わり決済",
+  "summary_ja": "オープンAIは、AIエージェント「ドット」が利用者に代わって買い物できる決済機能「ChatGPTウォレット」を、アメリカン・エキスプレス、マスターカード、ビザと共同で開始した。まず米国の18歳以上のPro加入者が利用でき、カード情報の代わりに取引ごとの決済トークンを使い、購入のたびにセキュリティ確認で承認する。オープンAIは当面、取引手数料を取らない。"
+ },
+ {
   "date": "2026-11-12",
   "headline": "[속보] 네이버, 3분기 영업익 4513억원·전년比 20.9%↓…매출은 역대 최대, 물류 자회사 설립 추진",
   "headline_ko": "네이버, 3분기 매출 역대 최대에도 AI 인프라 투자에 영업익 20.9%↓",
@@ -614,6 +657,27 @@
   "summary_en": "Republican U.S. Senator Kevin Cramer of the Senate Banking Committee called on Nvidia CEO Jensen Huang to step down after revelations of his affair with a Chinese businesswoman alleged to be a spy for Beijing. \"The potential for extortion is so tremendous that something as sensitive as Nvidia chips, I just think he's got to go,\" Cramer told Politico late on the 10th. Nvidia has said its board has no reason to believe U.S. national security or company secrets were compromised and that Huang has committed to cooperating with an internal review.",
   "headline_ja": "米共和党クレイマー上院議員「ジェンスン・フアン氏は辞任すべき」",
   "summary_ja": "米上院銀行委員会に所属する共和党のケビン・クレイマー上院議員は、中国のスパイと疑われる女性実業家との不倫が明らかになったエヌビディアのジェンスン・フアンCEOに辞任を求めた。同氏は10日夜、ポリティコに「恐喝される可能性があまりに大きく、エヌビディアのチップのような機微な問題では、彼は辞めるべきだと思う」と語った。エヌビディアは、取締役会は国家安全保障や会社の機密が侵害されたと考える理由はなく、フアン氏は社内調査に協力すると約束していると説明している。"
+ },
+ {
+  "date": "2026-11-10",
+  "headline": "TSMC Board of Directors Meeting Resolutions",
+  "headline_ko": "TSMC 이사회, 앤트로픽·오픈AI에 각각 최대 5억 달러 투자 승인",
+  "outlet": "TSMC (SEC 6-K)",
+  "url": "https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000797/tsm-boardx202611xx.htm",
+  "summary_ko": "TSMC 이사회는 앤트로픽 보통주를 IPO 공모가에 최대 5억 달러, 오픈AI 우선주를 최대 5억 달러어치 취득하는 투자를 승인했다. 첨단 공정·패키징 증설 등을 위한 약 409억 달러의 자본 예산과 반도체 생태계 전략 투자회사 설립(최대 5억 달러)도 의결했다. 3분기 매출은 1조4942억 대만달러, 순이익은 7631억 대만달러였다.",
+  "topics": [
+   "chips",
+   "business"
+  ],
+  "orgs": [
+   "TSMC",
+   "Anthropic",
+   "OpenAI"
+  ],
+  "headline_en": "TSMC Board of Directors Meeting Resolutions",
+  "summary_en": "TSMC's board approved investing up to US$500 million to acquire Anthropic common shares at its IPO price and up to US$500 million to acquire OpenAI preferred stock. It also approved about US$40.9 billion in capital appropriations for advanced technology and packaging capacity, and the establishment of a strategic semiconductor investment company (up to US$500 million). Third-quarter revenue was NT$1,494.24 billion and net income NT$763.06 billion.",
+  "headline_ja": "TSMC取締役会、アンソロピックとオープンAIにそれぞれ最大5億ドルの出資を承認",
+  "summary_ja": "TSMC取締役会は、アンソロピックの普通株をIPO価格で最大5億ドル、オープンAIの優先株を最大5億ドル取得する投資を承認した。先端プロセス・パッケージングの増強などに向けた約409億ドルの資本予算と、半導体エコシステムへの戦略投資会社の設立（最大5億ドル）も決議した。第3四半期の売上高は1兆4942億台湾ドル、純利益は7631億台湾ドルだった。"
  },
  {
   "date": "2026-11-09",
