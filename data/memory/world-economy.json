@@ -18,6 +18,24 @@
   "summary_ja": "16日のNY株式市場ではダウが1.41%、S&P500が1.91%、ナスダックが2.49%下落し、AI・半導体への集中的な売りでS&P500とナスダックは3日続落した。ジェンスン・フアンCEOの辞任後、エヌビディア取締役会が同氏の復帰を検討していないと報じられ、先週の物価指標を受けて12月のFRB利上げ観測が固まった。投資家は火曜夜のエヌビディア決算を待っている。"
  },
  {
+  "date": "2026-11-16",
+  "headline": "Japan's GDP Shrinks 0.1% in Third Quarter, First Drop in a Year",
+  "headline_ko": "일본 3분기 GDP 연율 0.1% 감소…1년 만에 첫 역성장",
+  "outlet": "서울경제 (Seoul Economic Daily)",
+  "url": "https://en.sedaily.com/world/2026/11/16/japans-gdp-shrinks-01-percent-in-third-quarter-first-drop",
+  "summary_ko": "일본 내각부에 따르면 3분기 실질 GDP는 전분기 대비 0.02%, 연율 0.1% 줄어 4분기 만에 처음 감소했으며, 시장 예상(연율 0.2% 증가)에 못 미쳤다. GDP의 절반을 차지하는 민간소비가 0.3% 줄어 2분기 연속 감소한 것이 가장 큰 요인이었고, 수입은 2.5% 늘었다. 설비투자는 AI 관련 투자에 힘입어 1.6% 증가했다.",
+  "topics": [
+   "macro"
+  ],
+  "orgs": [
+   "Japan Cabinet Office"
+  ],
+  "headline_en": "Japan's GDP Shrinks 0.1% in Third Quarter, First Drop in a Year",
+  "summary_en": "According to Japan's Cabinet Office, real GDP in the third quarter fell 0.02% from the previous quarter, or 0.1% annualized, the first contraction in four quarters and short of the 0.2% annualized growth forecast. Private consumption, about half of GDP, fell 0.3% for a second straight quarterly decline and was the biggest factor, while imports rose 2.5%. Capital spending rose 1.6%, supported by AI-related investment.",
+  "headline_ja": "日本の7～9月期GDP、年率0.1%減…1年ぶりのマイナス成長",
+  "summary_ja": "内閣府によると、7～9月期の実質GDPは前期比0.02%減、年率0.1%減と4四半期ぶりのマイナスとなり、市場予想（年率0.2%増）を下回った。GDPの約半分を占める個人消費が0.3%減と2四半期連続で減少したことが最大の要因で、輸入は2.5%増えた。設備投資はAI関連投資に支えられ1.6%増加した。"
+ },
+ {
   "date": "2026-11-13",
   "headline": "Wall Street stocks mostly lower as Nvidia extends slump",
   "headline_ko": "뉴욕증시, 엔비디아 약세 지속에 대체로 하락…10월 생산자물가 연율 6.5%",
