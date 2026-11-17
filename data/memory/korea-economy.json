@@ -19,6 +19,25 @@
   "summary_ja": "16日のKOSPIは外国人と機関投資家がそろって売り越すなか、前営業日比190.03ポイント（3.59%）安の5100.50で取引を終えた。KOSDAQは34.01ポイント（4.86%）安の665.65で引けた。ウォン・ドル相場は1.0ウォン安の1335.7ウォンで取引を終えた。"
  },
  {
+  "date": "2026-11-13",
+  "headline": "코스피, 0.98% 내린 5290…코스닥 0.45% 오른 699 마감",
+  "headline_ko": "코스피, 젠슨 황 사임 뒤 상승분 반납…0.98% 내린 5290 마감",
+  "outlet": "한국경제",
+  "url": "https://www.hankyung.com/article/2026111354636",
+  "summary_ko": "13일 코스피는 0.98% 내린 5290.53, 코스닥은 0.45% 오른 699.66에 마감했다. 젠슨 황 엔비디아 CEO 사임 소식 뒤 상승 출발했으나, 엔비디아 사태로 미국의 대중국 수출 규제가 강화될 수 있다는 우려와 반도체 대형주 약세로 상승분을 모두 반납했다. 삼성전자는 0.96%, SK하이닉스는 3.03% 내렸다.",
+  "topics": [
+   "stocks"
+  ],
+  "orgs": [
+   "한국거래소",
+   "Nvidia"
+  ],
+  "headline_en": "KOSPI down 0.98% at 5,290; KOSDAQ up 0.45% at 699",
+  "summary_en": "On the 13th the KOSPI closed down 0.98% at 5,290.53 while the KOSDAQ rose 0.45% to 699.66. The KOSPI opened higher after news of Nvidia CEO Jensen Huang's resignation but gave up all gains on worries that the Nvidia situation could tighten US export controls on China and on weakness in large chip stocks. Samsung Electronics fell 0.96% and SK hynix 3.03%.",
+  "headline_ja": "KOSPI、フアン氏辞任後に上げ幅失う…0.98%安の5290で引け",
+  "summary_ja": "13日のKOSPIは0.98%安の5290.53、KOSDAQは0.45%高の699.66で取引を終えた。エヌビディアのジェンスン・フアンCEO辞任の報を受けて高く始まったが、エヌビディア問題で米国の対中輸出規制が強化されかねないとの懸念と半導体大型株の軟調で上げ幅をすべて失った。サムスン電子は0.96%、SKハイニックスは3.03%下落した。"
+ },
+ {
   "date": "2026-11-12",
   "headline": "[마감시황] 코스피·코스닥 나란히 하락…젠슨 황 리스크에 AI 투자심리 위축",
   "headline_ko": "코스피·코스닥 나란히 하락…젠슨 황 리스크에 AI 투자심리 위축",

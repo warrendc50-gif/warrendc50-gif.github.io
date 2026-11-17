@@ -18,6 +18,26 @@
   "summary_ja": "16日のNY株式市場ではダウが1.41%、S&P500が1.91%、ナスダックが2.49%下落し、AI・半導体への集中的な売りでS&P500とナスダックは3日続落した。ジェンスン・フアンCEOの辞任後、エヌビディア取締役会が同氏の復帰を検討していないと報じられ、先週の物価指標を受けて12月のFRB利上げ観測が固まった。投資家は火曜夜のエヌビディア決算を待っている。"
  },
  {
+  "date": "2026-11-13",
+  "headline": "Wall Street stocks mostly lower as Nvidia extends slump",
+  "headline_ko": "뉴욕증시, 엔비디아 약세 지속에 대체로 하락…10월 생산자물가 연율 6.5%",
+  "outlet": "AFP (Yahoo Finance)",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-stocks-mostly-lower-230704278.html",
+  "summary_ko": "13일 뉴욕증시에서 다우는 0.1% 오른 52,347.55, S&P500은 0.4% 내린 7,561.67, 나스닥은 0.9% 내린 25,136.27에 마감했다. 젠슨 황 CEO가 사임한 엔비디아는 2% 더 떨어졌고 AMD는 8.8%, 브로드컴은 5% 가까이 하락했다. 10월 생산자물가는 전월 대비 0.3%, 연율 6.5%로 2022년 11월 이후 최고였고, 투자자들은 다음 달 연준의 최소 0.25%포인트 인상을 예상하고 있다.",
+  "topics": [
+   "markets",
+   "fed"
+  ],
+  "orgs": [
+   "Nvidia",
+   "Federal Reserve"
+  ],
+  "headline_en": "Wall Street stocks mostly lower as Nvidia extends slump",
+  "summary_en": "On the 13th the Dow rose 0.1% to 52,347.55, while the S&P 500 fell 0.4% to 7,561.67 and the Nasdaq 0.9% to 25,136.27. Nvidia, whose CEO Jensen Huang resigned, dropped another 2%, AMD sank 8.8% and Broadcom fell nearly 5%. October producer prices rose 0.3% on the month and 6.5% on the year, the highest since November 2022, and investors expect the Fed to raise rates by at least a quarter point next month.",
+  "headline_ja": "NY株、エヌビディア安続き大半が下落…10月生産者物価は前年比6.5%",
+  "summary_ja": "13日のNY株式市場では、ダウが0.1%高の52,347.55、S&P500が0.4%安の7,561.67、ナスダックが0.9%安の25,136.27で取引を終えた。ジェンスン・フアンCEOが辞任したエヌビディアはさらに2%下げ、AMDは8.8%、ブロードコムは5%近く下落した。10月の生産者物価は前月比0.3%、前年比6.5%と2022年11月以来の高水準で、投資家は来月のFRBによる少なくとも0.25%ポイントの利上げを予想している。"
+ },
+ {
   "date": "2026-11-11",
   "headline": "Siemens Energy’s 2027 profit outlook falls short despite record year",
   "headline_ko": "지멘스에너지, 사상 최대 실적에도 2027년 순익 전망은 예상 하회",
