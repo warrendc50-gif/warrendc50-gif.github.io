@@ -39,6 +39,25 @@
   "summary_ja": "ウォール・ストリート・ジャーナルは関係者の話として、米証券取引委員会（SEC）がエヌビディアが開示で投資家を誤導したかについて民事調査を行っていると報じた。調査の焦点は定まっていないが、同社の開示に関する問題が含まれる。エヌビディアは昨年、国際売上高の開示でシンガポール向け売上高の内訳をなくしており、司法省はアリス・フアン氏に関わる複数の捜査を主導している。"
  },
  {
+  "date": "2026-11-17",
+  "headline": "Former Nvidia CEO Jensen Huang says he's open to returning in first statement since resignation",
+  "headline_ko": "젠슨 황, 사임 후 첫 성명 \"이사회가 원하면 CEO로 복귀하겠다\"…\"실수 전적으로 책임\"",
+  "outlet": "CNBC",
+  "url": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html",
+  "summary_ko": "젠슨 황 전 엔비디아 CEO는 사임 후 첫 성명에서 \"이사회가 내 복귀가 주주·직원·회사·미국에 최선이라고 판단한다면 영광스럽게 CEO로 돌아가겠다\"고 밝혔다. 그는 \"사생활에서 심각한 실수를 저질렀다\"며 \"실수를 전적으로 책임지고 이사회의 독립 조사에 협조하겠다\"고 했다. CNBC 소식통에 따르면 이사회는 그의 복귀를 검토하지 않고 있으며, 복귀 청원에는 18만 명 넘게 서명했다.",
+  "topics": [
+   "business",
+   "chips"
+  ],
+  "orgs": [
+   "Nvidia"
+  ],
+  "headline_en": "Former Nvidia CEO Jensen Huang says he's open to returning in first statement since resignation",
+  "summary_en": "In his first statement since resigning, former Nvidia CEO Jensen Huang said, \"If the Board of Directors decides that my return is in the best interest of our shareholders, our employees, the company, and America, I would be honored to answer these calls and return as CEO.\" He said he had \"made serious mistakes in my personal life\" and that \"I own my mistakes completely\" and will cooperate with the board's independent investigation. Sources told CNBC the board is not considering bringing him back, while an online petition for his return has more than 180,000 signatures.",
+  "headline_ja": "ジェンスン・フアン氏、辞任後初の声明「取締役会が望めばCEOに復帰」…「過ちは全面的に私の責任」",
+  "summary_ja": "エヌビディアのジェンスン・フアン前CEOは辞任後初の声明で、「取締役会が私の復帰が株主・従業員・会社・米国にとって最善だと判断するなら、光栄にもCEOに戻りたい」と表明した。「私生活で深刻な過ちを犯した」とし、「過ちは全面的に私の責任であり、取締役会の独立調査に協力する」と述べた。CNBCの関係者によると取締役会は同氏の復帰を検討しておらず、復帰を求める請願には18万人超が署名した。"
+ },
+ {
   "date": "2026-11-16",
   "headline": "Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC",
   "headline_ko": "엔비디아 이사회, 젠슨 황 CEO 복귀 검토 안 해…트럼프 \"복귀 열려 있어\"",
