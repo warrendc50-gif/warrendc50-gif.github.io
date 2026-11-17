@@ -39,6 +39,25 @@
   "summary_ja": "17日のKOSPIは132.15ポイント（2.59%）安の4968.35で取引を終え、約9カ月ぶりの安値となり3営業日続落した。外国人が1兆4696億ウォンを売り越し、機関（5981億ウォン）と個人（3921億ウォン）は買い越した。KOSDAQは2.35%安の650.04、ウォン・ドル相場は2.2ウォン上昇の1338.7ウォンで取引を終えた。"
  },
  {
+  "date": "2026-11-17",
+  "headline": "Bitcoin Slides Toward USD 62,000 as ETF Withdrawals and Weak Demand Deepen Market Pressure",
+  "headline_ko": "비트코인, ETF 자금 유출에 6만2천 달러까지 밀려…일주일 새 13% 하락",
+  "outlet": "Analytics Insight",
+  "url": "https://www.analyticsinsight.net/news/bitcoin-slides-toward-usd-62000-as-etf-withdrawals-and-weak-demand-deepen-market-pressure",
+  "summary_ko": "코인게코에 따르면 비트코인은 주말 6만2029달러까지 떨어졌다가 화요일 6만4408달러 부근으로 회복했으며, 코인마켓캡 기준 최근 7일간 13.3% 하락했다. 미국 현물 비트코인 ETF에서는 13일까지 7거래일 연속 약 19억1천만 달러가 빠져나갔고, 연준의 추가 금리 인상 전망 속에 기관 수요도 약해졌다. 분석가들은 6만2천 달러를 지지선으로 보고 있다.",
+  "topics": [
+   "crypto"
+  ],
+  "orgs": [
+   "CoinGecko",
+   "SoSoValue"
+  ],
+  "headline_en": "Bitcoin Slides Toward USD 62,000 as ETF Withdrawals and Weak Demand Deepen Market Pressure",
+  "summary_en": "According to CoinGecko, bitcoin touched $62,029 over the weekend before recovering toward $64,408 on Tuesday, and it has fallen 13.3% over the past seven days per CoinMarketCap. US spot bitcoin ETFs saw seven straight sessions of net withdrawals through November 13 totaling about $1.91 billion, and institutional demand weakened amid expectations of another Fed rate increase. Analysts see $62,000 as support.",
+  "headline_ja": "ビットコイン、ETF資金流出で6万2千ドルまで下落…1週間で13%安",
+  "summary_ja": "コインゲッコーによると、ビットコインは週末に6万2029ドルまで下落した後、火曜日に6万4408ドル付近まで回復し、コインマーケットキャップ基準で過去7日間に13.3%下落した。米国の現物ビットコインETFからは13日まで7営業日連続で約19億1千万ドルが流出し、FRBの追加利上げ観測のなか機関投資家の需要も弱まった。アナリストは6万2千ドルを支持線とみている。"
+ },
+ {
   "date": "2026-11-16",
   "headline": "외국인·기관 동반 '매도', 코스피 5100선 마감",
   "headline_ko": "외국인·기관 동반 매도…코스피 3.59% 급락해 5100선 마감",
