@@ -297,6 +297,25 @@
   "summary_ja": "12日午後（米東部時間）に始まったマイクロソフト365の障害で、Exchange Online、Teams、SharePoint Online、M365 Copilot、Defender XDRに接続できなくなった。マイクロソフトは13日、サービス全体が回復しつつあるとし、「サイバー攻撃やAI・エージェントとは無関係の技術的問題」で、以前のネットワーク容量増強時の問題が最近のネットワーク変更後に表面化したものだと説明した。同社は調査終了後に事後報告書を公表するとしている。"
  },
  {
+  "date": "2026-11-12",
+  "headline": "Chinese AI firms rush to secure Nvidia chip capacity as spy scandal stirs fear of US curbs",
+  "headline_ko": "中 AI 기업들, 해외 엔비디아 연산자원 확보 경쟁…젠슨 황 스캔들發 美 규제 강화 우려",
+  "outlet": "Reuters (The Star)",
+  "url": "https://www.thestar.com.my/business/business-news/2026/11/12/chinese-ai-firms-rush-to-secure-nvidia-chip-capacity-as-spy-scandal-stirs-fear-of-us-curbs",
+  "summary_ko": "소식통 3명에 따르면 중국 AI 기업들이 젠슨 황 스캔들로 미국이 첨단 칩 원격 이용 규제를 강화할 것을 우려해 중국 밖 데이터센터의 엔비디아 연산 능력을 빌리려 하고 있다. 한 대형 중국 클라우드 업체는 해외 용량 확보를 내부 논의했고, 소형 AI 연구소들은 동남아 업체에 접촉하고 있으며, 중국 회색시장에서는 중개상들이 제한된 엔비디아 칩을 비축하기 시작했다. 인민해방군과 연계된 한 중국 대학은 미국 수출 블랙리스트에 올라 있는데도 지난달 H200 칩을 사들인 것으로 조달 기록에 나타났다.",
+  "topics": [
+   "chips",
+   "policy"
+  ],
+  "orgs": [
+   "Nvidia"
+  ],
+  "headline_en": "Chinese AI firms rush to secure Nvidia chip capacity as spy scandal stirs fear of US curbs",
+  "summary_en": "According to three people familiar with the matter, Chinese AI companies are trying to rent Nvidia-powered computing capacity at data centres outside China, fearing the Jensen Huang scandal could spur Washington to tighten restrictions on remote use of advanced chips. A major Chinese cloud provider has discussed locking in overseas capacity, smaller labs are approaching Southeast Asian providers, and traders in China's grey market have started stockpiling restricted Nvidia chips. Procurement records show a Chinese university with deep ties to the PLA bought H200 chips last month despite being on a US export blacklist.",
+  "headline_ja": "中国AI企業、海外のエヌビディア計算資源の確保急ぐ…フアン氏スキャンダルで米規制強化を懸念",
+  "summary_ja": "関係者3人によると、中国のAI企業はジェンスン・フアン氏のスキャンダルを受けて米国が先端チップの遠隔利用規制を強めることを懸念し、中国国外のデータセンターでエヌビディアの計算能力を借りようとしている。ある大手中国クラウド企業は海外容量の確保を社内で協議し、小規模なAIラボは東南アジアの事業者に接触しており、中国の闇市場では仲介業者が規制対象のエヌビディア製チップの備蓄を始めた。人民解放軍とつながりの深い中国の大学が、米国の輸出ブラックリストに載っているにもかかわらず先月H200チップを購入していたことも調達記録で明らかになった。"
+ },
+ {
   "date": "2026-11-11",
   "headline": "엔비디아 이틀간 주가 9.6% 추락…젠슨황 불륜 사태에 CPI 악재까지",
   "headline_ko": "엔비디아 이틀간 주가 9.6% 추락…젠슨황 불륜 사태에 CPI 악재까지",
