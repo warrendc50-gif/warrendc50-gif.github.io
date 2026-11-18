@@ -1,5 +1,44 @@
 [
  {
+  "date": "2026-11-18",
+  "headline": "Microsoft takes on OpenAI and Anthropic with cheaper coding AI",
+  "headline_ko": "마이크로소프트, 저가 코딩 AI 'MAI Code 2' 공개…오픈AI·앤트로픽에 도전",
+  "outlet": "The Daily Star",
+  "url": "https://thedailystar.net/news/technology/news/microsoft-takes-openai-and-anthropic-cheaper-coding-ai-4327026",
+  "summary_ko": "마이크로소프트가 코딩 모델 MAI Code 2와 MAI Code 2 Flash를 내놓았다. 자체 측정 결과 MAI Code 2는 오픈AI GPT-6.1 Sol 성능의 98%를 40% 비용에, 앤트로픽 Claude Opus 5.5 성능의 96%를 5% 비용에 낸다고 밝혔다. 두 모델은 GitHub Copilot에서 쓸 수 있고 Flash는 Microsoft Foundry에서 제한적 미리보기로 제공되며, 기초과학 연구나 아주 긴 에이전트 작업에는 아직 맞춰지지 않았다고 했다.",
+  "topics": [
+   "model",
+   "business"
+  ],
+  "orgs": [
+   "Microsoft",
+   "OpenAI",
+   "Anthropic"
+  ],
+  "headline_en": "Microsoft takes on OpenAI and Anthropic with cheaper coding AI",
+  "summary_en": "Microsoft launched coding models MAI Code 2 and MAI Code 2 Flash. By its own measurements, MAI Code 2 delivers 98% of the performance of OpenAI's GPT-6.1 Sol at 40% of the cost and 96% of Anthropic's Claude Opus 5.5 at 5% of the cost. Both are available in GitHub Copilot and Flash is in limited preview in Microsoft Foundry; Microsoft said they are not yet tuned for fundamental science research or very long-horizon agentic work.",
+  "headline_ja": "マイクロソフト、低価格コーディングAI「MAI Code 2」公開…OpenAI・Anthropicに挑戦",
+  "summary_ja": "マイクロソフトはコーディングモデルMAI Code 2とMAI Code 2 Flashを発表した。自社測定ではMAI Code 2はOpenAIのGPT-6.1 Solの性能の98%を40%のコストで、AnthropicのClaude Opus 5.5の性能の96%を5%のコストで実現するという。両モデルはGitHub Copilotで利用でき、FlashはMicrosoft Foundryで限定プレビュー提供され、基礎科学研究や非常に長いエージェント作業にはまだ調整されていないとした。"
+ },
+ {
+  "date": "2026-11-18",
+  "headline": "OpenAI unveils GPT-6.2 Astra and Sol",
+  "headline_ko": "오픈AI, GPT-6.2 '아스트라'·'솔' 공개",
+  "outlet": "The Neuron",
+  "url": "https://www.theneurondaily.com/p/openai-unveils-gpt-6-2-astra-and-sol",
+  "summary_ko": "오픈AI가 어려운 코딩·연구·문서·스프레드시트 작업용 GPT-6.2 Astra와 일상 업무용으로 더 저렴한 GPT-6.2 Sol을 공개했다. 오픈AI는 Astra가 다단계 전문 업무 테스트에서 이전 모델보다 5.2점 높았고 비용은 3분의 1 미만이라고 밝혔다. 두 모델은 자격이 되는 ChatGPT Work, Codex, API에서 쓸 수 있으며, 일부 사용자는 Astra가 다루기 어렵고 중간에 멈추기도 한다고 평가했다.",
+  "topics": [
+   "model"
+  ],
+  "orgs": [
+   "OpenAI"
+  ],
+  "headline_en": "OpenAI unveils GPT-6.2 Astra and Sol",
+  "summary_en": "OpenAI released GPT-6.2 Astra for tougher coding, research, documents and spreadsheets, and the cheaper GPT-6.2 Sol for everyday work. OpenAI says Astra topped its previous model by 5.2 points on a multistep professional test at less than one-third the cost. Both are available through eligible ChatGPT Work, Codex and API access, and some users said Astra is hard to steer and sometimes stops short.",
+  "headline_ja": "OpenAI、GPT-6.2「Astra」「Sol」を公開",
+  "summary_ja": "OpenAIは難しいコーディング・研究・文書・スプレッドシート作業向けのGPT-6.2 Astraと、日常業務向けでより安価なGPT-6.2 Solを公開した。OpenAIはAstraが多段階の専門業務テストで前モデルより5.2ポイント高く、コストは3分の1未満だとした。両モデルは対象のChatGPT Work、Codex、APIで利用でき、一部ユーザーはAstraは制御しにくく途中で止まることもあると評価した。"
+ },
+ {
   "date": "2026-11-17",
   "headline": "Nvidia earnings live: Nvidia tops Q3 expectations, offers better-than-anticipated Q4 outlook",
   "headline_ko": "엔비디아, 젠슨 황 사임 후 첫 실적 예상 상회…3분기 매출 1158억 달러, 1500억 달러 자사주 매입",
