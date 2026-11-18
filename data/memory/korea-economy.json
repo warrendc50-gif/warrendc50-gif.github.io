@@ -19,6 +19,25 @@
   "summary_ja": "18日のKOSPIは前日比130.34ポイント（2.62%）高の5098.82で寄り付き、午前9時4分に5100台を回復し、KOSDAQも2.29%高の664.93で始まった。エヌビディアが市場予想を上回る第3四半期売上高と第4四半期見通しを示しAI需要への懸念が和らぐと、サムスン電子（3.63%高）やSKハイニックス（5.10%高）など半導体株に買いが集まった。ただ投資心理と需給環境が完全に回復したとは言い難いとの見方も出た。"
  },
  {
+  "date": "2026-11-18",
+  "headline": "3분기 가계빚 2030.5조…증시조정·주택매매 감소에 증가폭 둔화",
+  "headline_ko": "3분기 가계빚 2030.5조 역대 최대…증시 조정·주택거래 감소에 증가폭은 9.8조로 둔화",
+  "outlet": "아시아경제",
+  "url": "https://view.asiae.co.kr/article/2026111811224630087",
+  "summary_ko": "한국은행에 따르면 9월 말 가계신용 잔액은 2030조5000억원으로 역대 최대였지만, 분기 증가액은 9조8000억원으로 전 분기(26조4000억원)보다 크게 줄었다. 증시 조정으로 은행 신용대출과 증권사 신용공여가 줄면서 기타대출이 4조9000억원 감소로 돌아섰고, 주택 거래량과 분양 물량 감소로 주담대 증가세도 둔화했다. 카드 판매신용은 5조원 늘어 133조7000억원이 됐으며, 가계신용은 10분기 연속 증가했다.",
+  "topics": [
+   "banks",
+   "realestate"
+  ],
+  "orgs": [
+   "한국은행"
+  ],
+  "headline_en": "Q3 household debt hits 2,030.5 trillion won; growth slows on stock correction and fewer home sales",
+  "summary_en": "According to the Bank of Korea, household credit stood at a record 2,030.5 trillion won at end-September, but the quarterly increase shrank to 9.8 trillion won from 26.4 trillion won in the previous quarter. Other loans, including credit loans, turned to a 4.9 trillion won decline as bank credit loans and securities firms' margin lending fell amid the stock market correction, while mortgage growth slowed on fewer home transactions and apartment launches. Card-based sales credit rose 5 trillion won to 133.7 trillion won, marking a 10th straight quarter of household credit growth.",
+  "headline_ja": "7～9月期の家計債務2030.5兆ウォンで過去最大…株式調整・住宅取引減で増加幅は9.8兆ウォンに鈍化",
+  "summary_ja": "韓国銀行によると、9月末の家計信用残高は過去最大の2030兆5000億ウォンだったが、四半期の増加額は9兆8000億ウォンと前期（26兆4000億ウォン）から大きく縮小した。株式市場の調整で銀行の信用貸出と証券会社の信用供与が減り、その他貸出は4兆9000億ウォンの減少に転じ、住宅取引量と分譲物量の減少で住宅ローンの伸びも鈍化した。カードの販売信用は5兆ウォン増の133兆7000億ウォンとなり、家計信用は10四半期連続で増加した。"
+ },
+ {
   "date": "2026-11-17",
   "headline": "금융위, 지역 중소기업에 4.5조 저리 대출 지원…1차 공모 실시",
   "headline_ko": "금융위, 지역 중소·중견기업에 3년간 4.5조 저리 보증부 대출…1차 공모 시작",
