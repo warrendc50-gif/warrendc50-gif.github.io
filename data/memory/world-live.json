@@ -112,6 +112,25 @@
    "summary_ja": "湾岸協力会議(GCC)とカタール、UAEはイランによるクウェートとバーレーンへの攻撃を非難した。クウェートはドローン攻撃を「明白な主権侵害」とし、バーレーンはイランの「犯罪的攻撃」だと非難した。イランはクウェートの米軍基地を攻撃したと発表した。イラン軍のアミール・ハタミ総司令官は、3隻目の米空母が地域に到着した後、「敵の動きを綿密に監視している」と述べた。"
   },
   {
+   "date": "2026-11-18",
+   "headline": "Israeli military begins a new thrust in Gaza, kills three people",
+   "headline_ko": "이스라엘군, 가자 중부서 새 진격…공습으로 3명 사망",
+   "outlet": "Reuters (Arab News)",
+   "url": "https://www.arabnews.com/node/3012710/middle-east",
+   "summary_ko": "18일 이스라엘 탱크가 가자지구 중부에서 이스라엘 통제 경계선인 '옐로 라인' 서쪽의 살라후딘 도로로 진입했다고 목격자들이 전했다. 이스라엘군 대변인은 옐로 라인 서쪽 가자 중부에서 '하마스 기반시설'을 겨냥한 작전을 벌이고 있다고 밝혔다. 작전 지역 인근 공습으로 1명, 앞서 데이르알발라와 가자시티 공습으로 2명이 숨졌다.",
+   "topics": [
+    "conflict"
+   ],
+   "orgs": [
+    "Israel Defense Forces",
+    "Hamas"
+   ],
+   "headline_en": "Israeli military begins a new thrust in Gaza, kills three people",
+   "summary_en": "On the 18th Israeli tanks advanced in central Gaza, rolling onto the main Salahudeen road west of the 'Yellow Line' that marks the area under Israeli control, witnesses said. An Israeli military spokesperson said the military was carrying out an operation targeting 'Hamas infrastructure' west of the Yellow Line in central Gaza. An airstrike near the raid killed one person, and earlier strikes in Deir Al-Balah and Gaza City killed two others.",
+   "headline_ja": "イスラエル軍、ガザ中部で新たな進撃…空爆で3人死亡",
+   "summary_ja": "目撃者によると、18日にイスラエル軍の戦車がガザ地区中部で、イスラエル支配地域の境界線「イエローライン」の西側にあるサラフッディーン道路に進入した。イスラエル軍報道官は、イエローライン西側のガザ中部で「ハマスのインフラ」を標的とした作戦を行っていると述べた。作戦地域近くの空爆で1人、それ以前のデイル・アル・バラとガザ市への空爆で2人が死亡した。"
+  },
+  {
    "date": "2026-11-17",
    "headline": "Kyiv bridges attacked in Russian missile strikes overnight; Russia says it downed over 2,000 drones",
    "headline_ko": "러시아 미사일, 키이우 남·북 대교 타격…러 \"우크라 드론 2049대 격추\" 개전 이후 최대",
@@ -208,6 +227,25 @@
    "summary_en": "Sergey Aksyonov, Russia's installed head of Crimea, confirmed the Kerch bridge was attacked overnight for the second time in two days and train and vehicle traffic was suspended, while social media footage showed a section of the bridge collapsed into the water (CNBC could not verify it). Ukrainian weapons maker Fire Point confirmed its role in the attack, following reports that a Flamingo cruise missile was used. President Zelenskyy called it an 'unprecedented operation' weeks in the making, and Russia's transport ministry said rail traffic reopened on one track.",
    "headline_ja": "ウクライナ、クリミア大橋を2日で2度目の攻撃…ゼレンスキー氏「前例のない作戦」",
    "summary_ja": "ロシアが任命したクリミアのアクショーノフ首長は、ケルチ大橋が2日間で2度目となる夜間攻撃を受け、列車・車両の通行が停止したと確認し、SNSの映像には橋の一部区間が海に崩落する様子が映っていた(CNBCは未検証)。ウクライナの兵器メーカー、ファイアポイントは攻撃への関与を認め、フラミンゴ巡航ミサイルが使われたとの報道が出た。ゼレンスキー大統領は数週間かけて準備した「前例のない作戦」と述べ、ロシア運輸省は鉄道の1線で運行を再開したと明らかにした。"
+  },
+  {
+   "date": "2026-11-17",
+   "headline": "Gaza officials say Israeli forces killed 6 in Gaza, including child",
+   "headline_ko": "가자 당국 \"이스라엘군 공격에 6세 아동 포함 6명 사망\"",
+   "outlet": "AFP (Arab News)",
+   "url": "https://arabnews.com/middle-east/gaza-officials-say-israeli-forces-killed-6-in-gaza-including-child-3012515",
+   "summary_ko": "가자 민방위대는 17일 이스라엘군의 공격으로 가자지구 곳곳에서 6세 소년을 포함해 6명이 숨졌다고 밝혔다. 데이르알발라에서 2명, 북부 자발리아 난민촌 인근 드론 폭격으로 2명, 남부에서 2명이 사망했다. 이스라엘군은 '테러리스트 여러 명'을 공격했지만 6세 아동 사망은 '알지 못한다'고 했으며, AFP 집계로는 2025년 10월 휴전 이후 팔레스타인인 1,600명 넘게 숨졌다.",
+   "topics": [
+    "conflict"
+   ],
+   "orgs": [
+    "Israel Defense Forces",
+    "Gaza civil defence"
+   ],
+   "headline_en": "Gaza officials say Israeli forces killed 6 in Gaza, including child",
+   "summary_en": "Gaza's civil defence said Israeli forces killed six people across the Gaza Strip on the 17th, including a six-year-old boy. Two were killed in Deir el-Balah, two in a drone strike near northern Gaza's Jabalia camp and two in southern Gaza. Israel's military said it struck 'several terrorists' and was 'not aware' of any six-year-old killed by its fire; more than 1,600 Palestinians have been killed since the October 2025 ceasefire, according to an AFP tally.",
+   "headline_ja": "ガザ当局「イスラエル軍の攻撃で6歳児含む6人死亡」",
+   "summary_ja": "ガザの民間防衛隊は17日、イスラエル軍の攻撃でガザ地区各地で6歳の少年を含む6人が死亡したと発表した。デイル・アル・バラで2人、北部ジャバリア難民キャンプ付近のドローン爆撃で2人、南部で2人が死亡した。イスラエル軍は「複数のテロリスト」を攻撃したが6歳児の死亡は「把握していない」とし、AFPの集計では2025年10月の停戦以降、パレスチナ人1600人以上が死亡した。"
   },
   {
    "date": "2026-11-16",
