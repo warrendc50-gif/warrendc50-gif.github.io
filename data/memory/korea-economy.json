@@ -1,5 +1,24 @@
 [
  {
+  "date": "2026-11-18",
+  "headline": "[개장시황] 코스피, 엔비디아 훈풍에 2%대 상승 출발…5100선 회복",
+  "headline_ko": "코스피, 엔비디아 호실적에 2%대 상승 출발…하루 만에 5100선 회복",
+  "outlet": "아주경제",
+  "url": "https://www.ajunews.com/view/20261118090637107",
+  "summary_ko": "18일 코스피는 전장보다 130.34포인트(2.62%) 오른 5098.82로 출발해 오전 9시 4분 5100선을 회복했고, 코스닥도 2.29% 오른 664.93에 개장했다. 엔비디아가 시장 예상을 웃돈 3분기 매출과 4분기 전망을 내놓으며 AI 수요 우려가 누그러지자 삼성전자(3.63%)와 SK하이닉스(5.10%) 등 반도체주로 매수세가 몰렸다. 다만 투자심리와 수급 여건이 완전히 회복됐다고 보기는 어렵다는 평가가 나왔다.",
+  "topics": [
+   "stocks"
+  ],
+  "orgs": [
+   "한국거래소",
+   "Nvidia"
+  ],
+  "headline_en": "KOSPI opens up over 2% on Nvidia tailwind, recovers 5,100 level",
+  "summary_en": "On the 18th the KOSPI opened up 130.34 points (2.62%) at 5,098.82 and recovered the 5,100 level by 9:04 a.m., while the KOSDAQ opened 2.29% higher at 664.93. As Nvidia's better-than-expected third-quarter revenue and fourth-quarter outlook eased AI demand concerns, buying flowed into chip stocks such as Samsung Electronics (+3.63%) and SK hynix (+5.10%). Analysts said, however, that sentiment and supply-demand conditions have not fully recovered.",
+  "headline_ja": "KOSPI、エヌビディア好決算で2%超高く寄り付き…1日で5100台回復",
+  "summary_ja": "18日のKOSPIは前日比130.34ポイント（2.62%）高の5098.82で寄り付き、午前9時4分に5100台を回復し、KOSDAQも2.29%高の664.93で始まった。エヌビディアが市場予想を上回る第3四半期売上高と第4四半期見通しを示しAI需要への懸念が和らぐと、サムスン電子（3.63%高）やSKハイニックス（5.10%高）など半導体株に買いが集まった。ただ投資心理と需給環境が完全に回復したとは言い難いとの見方も出た。"
+ },
+ {
   "date": "2026-11-17",
   "headline": "금융위, 지역 중소기업에 4.5조 저리 대출 지원…1차 공모 실시",
   "headline_ko": "금융위, 지역 중소·중견기업에 3년간 4.5조 저리 보증부 대출…1차 공모 시작",
