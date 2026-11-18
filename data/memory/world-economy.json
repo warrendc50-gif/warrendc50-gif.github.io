@@ -19,21 +19,23 @@
  },
  {
   "date": "2026-11-18",
-  "headline": "UK inflation pushed up to 3.6% by rising energy prices",
-  "headline_ko": "영국 10월 물가상승률 3.6%로 상승…연료값이 끌어올려",
-  "outlet": "Drapers",
-  "url": "https://www.drapersonline.com/news/uk-inflation-pushed-up-to-3-6-by-rising-energy-prices",
-  "summary_ko": "영국 통계청(ONS)에 따르면 10월 소비자물가(CPI)는 1년 전보다 3.6% 올라 9월(3.5%)보다 상승폭이 커졌다. 주거비 포함 CPIH는 3.7%, 근원 CPIH는 3.1%였고 서비스 물가(CPIH)는 3.9%로 9월과 비슷했다. ONS는 자동차 연료를 중심으로 한 교통비가 가장 큰 상승 요인이었다고 밝혔다.",
+  "headline": "UK inflation rises to one-year high but markets trim rate hike bets",
+  "headline_ko": "영국 10월 물가 3.6%로 1년 만에 최고…12월 금리인상 베팅은 줄어",
+  "outlet": "Reuters (Investing.com)",
+  "url": "https://www.investing.com/news/economy-news/uk-inflation-rose-to-36-in-october-5034916",
+  "summary_ko": "영국 10월 소비자물가 상승률은 3.6%로 9월(3.5%)보다 올라 1년 만에 가장 높았으며 로이터 전망치와 같았고, 이달 영란은행(BoE) 예측치 3.7%보다는 낮았다. 근원물가(2.8%)와 서비스물가(3.7%)는 그대로였고 연료값 상승과 담뱃세 인상이 주된 상승 요인이었다. 시장은 12월 BoE 금리인상 확률을 90%에서 80%로 낮췄다.",
   "topics": [
+   "centralbank",
    "macro"
   ],
   "orgs": [
-   "ONS"
+   "ONS",
+   "Bank of England"
   ],
-  "headline_en": "UK inflation pushed up to 3.6% by rising energy prices",
-  "summary_en": "According to the Office for National Statistics (ONS), the consumer price index (CPI) rose 3.6% year on year in October, up from 3.5% in September. CPIH, which includes housing costs, was 3.7%, core CPIH was 3.1%, and services inflation (CPIH) was 3.9%, little changed from September. The ONS said transport, led by motor fuels, was the largest upward contributor.",
-  "headline_ja": "英国10月の物価上昇率3.6%に上昇…燃料価格が押し上げ",
-  "summary_ja": "英国家統計局(ONS)によると、10月の消費者物価指数(CPI)は前年比3.6%上昇し、9月(3.5%)から伸びが拡大した。住居費を含むCPIHは3.7%、コアCPIHは3.1%、サービス物価(CPIH)は3.9%で9月とほぼ同じだった。ONSは自動車燃料を中心とする交通費が最大の押し上げ要因だったとした。"
+  "headline_en": "UK inflation rises to one-year high but markets trim rate hike bets",
+  "summary_en": "UK consumer price inflation rose to 3.6% in October from 3.5% in September, a one-year high, matching the Reuters poll and below the Bank of England's (BoE) forecast of 3.7% this month. Core inflation (2.8%) and services inflation (3.7%) held steady, and higher fuel prices and a tobacco tax increase were the main drivers. Markets cut the probability of a December BoE rate hike from 90% to 80%.",
+  "headline_ja": "英国10月の物価3.6%で1年ぶり高水準…12月利上げ観測は後退",
+  "summary_ja": "英国の10月の消費者物価上昇率は3.6%と9月(3.5%)から上昇して1年ぶりの高水準となり、ロイター予想と一致し、今月のイングランド銀行(BoE)予測の3.7%は下回った。コア物価(2.8%)とサービス物価(3.7%)は横ばいで、燃料価格の上昇とたばこ税の引き上げが主な押し上げ要因だった。市場は12月のBoE利上げ確率を90%から80%に引き下げた。"
  },
  {
   "date": "2026-11-18",
