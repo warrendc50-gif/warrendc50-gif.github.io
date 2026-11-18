@@ -18,6 +18,24 @@
   "summary_ja": "18日のアジア株式市場は、エヌビディアの好決算（第3四半期売上高1150億ドル超、純利益653億ドル）にもかかわらず、ジェンスン・フアン氏をめぐるスパイ・スキャンダルへの懸念に押され、序盤の上げ幅を失った。日本時間午前11時30分ごろ、日経225は0.3%安の58,696.54、KOSPIは0.2%安の4,959.83、ハンセン指数は0.5%下落した。SPIアセット・マネジメントのスティーブン・イネス氏は「調査や疑惑は不正の認定ではないが、エヌビディアが決算発表に選んだであろう背景でないのは確かだ」と述べた。"
  },
  {
+  "date": "2026-11-18",
+  "headline": "UK inflation pushed up to 3.6% by rising energy prices",
+  "headline_ko": "영국 10월 물가상승률 3.6%로 상승…연료값이 끌어올려",
+  "outlet": "Drapers",
+  "url": "https://www.drapersonline.com/news/uk-inflation-pushed-up-to-3-6-by-rising-energy-prices",
+  "summary_ko": "영국 통계청(ONS)에 따르면 10월 소비자물가(CPI)는 1년 전보다 3.6% 올라 9월(3.5%)보다 상승폭이 커졌다. 주거비 포함 CPIH는 3.7%, 근원 CPIH는 3.1%였고 서비스 물가(CPIH)는 3.9%로 9월과 비슷했다. ONS는 자동차 연료를 중심으로 한 교통비가 가장 큰 상승 요인이었다고 밝혔다.",
+  "topics": [
+   "macro"
+  ],
+  "orgs": [
+   "ONS"
+  ],
+  "headline_en": "UK inflation pushed up to 3.6% by rising energy prices",
+  "summary_en": "According to the Office for National Statistics (ONS), the consumer price index (CPI) rose 3.6% year on year in October, up from 3.5% in September. CPIH, which includes housing costs, was 3.7%, core CPIH was 3.1%, and services inflation (CPIH) was 3.9%, little changed from September. The ONS said transport, led by motor fuels, was the largest upward contributor.",
+  "headline_ja": "英国10月の物価上昇率3.6%に上昇…燃料価格が押し上げ",
+  "summary_ja": "英国家統計局(ONS)によると、10月の消費者物価指数(CPI)は前年比3.6%上昇し、9月(3.5%)から伸びが拡大した。住居費を含むCPIHは3.7%、コアCPIHは3.1%、サービス物価(CPIH)は3.9%で9月とほぼ同じだった。ONSは自動車燃料を中心とする交通費が最大の押し上げ要因だったとした。"
+ },
+ {
   "date": "2026-11-17",
   "headline": "Japan and ASEAN agree to strengthen supply chains — The Japan Times",
   "headline_ko": "일본·아세안 정상, 에너지·공급망 협력 강화 합의…'경제 회복력' 공동성명 채택",
