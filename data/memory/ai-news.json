@@ -281,6 +281,26 @@
   "summary_ja": "ブルームバーグは関係者の話として、アンソロピックのIPOに公募株数の約6倍の注文が集まったと報じ、需要など詳細は変わり得るとした。アンソロピックは1株70～78ドルで約640億ドルの調達を目指し、グーグル、エヌビディア、AMD、マイクロソフト、TSMCなどによる260億ドルの株式購入約束と合わせると6月のスペースX上場規模を上回る。想定企業価値は1兆2600億～1兆4100億ドルで、今月末にナスダックに「ANT」で上場する予定だ。"
  },
  {
+  "date": "2026-11-13",
+  "headline": "Former Nvidia CEO Jensen Huang to testify to Congress over suspected Chinese spy ties",
+  "headline_ko": "젠슨 황, '中 스파이 의혹' 관련 美하원 증언 합의…\"추수감사절 전 비공개 증언\"",
+  "outlet": "The National News Desk (WJLA)",
+  "url": "https://wjla.com/news/nation-world/former-nvidia-ceo-jensen-huang-to-testify-to-congress-over-suspected-chinese-spy-ties-alice-huang-megaspeed-house-foreign-affairs-committee-extramarital-affairs-national-secuity-concerns-chipmaker-artificial-intelligence",
+  "summary_ko": "브라이언 마스트 하원 외교위원장은 젠슨 황 전 엔비디아 CEO가 추수감사절 전까지 의회에서 증언하기로 합의했다고 밝혔으며, 증언은 비공개로 하되 녹음·기록될 것이라고 했다. 위원장들은 서한에서 \"즉시 다뤄야 할 명백한 국가안보 우려가 있다\"며 AI 감독법·칩 보안법 등의 처리를 촉구했다. 마스트는 \"엔비디아는 미국에 매우 중요한 기업이지만 황은 답해야 할 매우 심각한 질문이 있다\"고 말했다.",
+  "topics": [
+   "policy",
+   "chips"
+  ],
+  "orgs": [
+   "Nvidia",
+   "House Foreign Affairs Committee"
+  ],
+  "headline_en": "Former Nvidia CEO Jensen Huang to testify to Congress over suspected Chinese spy ties",
+  "summary_en": "House Foreign Affairs Committee Chairman Brian Mast said former Nvidia CEO Jensen Huang has agreed to testify before Congress by Thanksgiving, behind closed doors but recorded and transcribed. The chairs' letter said \"there are clear national security concerns that need to be addressed immediately\" and urged passage of the AI OVERWATCH Act, Chip Security Act and other bills. Mast said, \"Nvidia is a very important company to the United States of America... but he has some very serious questions to answer.\"",
+  "headline_ja": "ジェンスン・フアン氏、「中国スパイ疑惑」で米下院での証言に合意…「感謝祭前に非公開で」",
+  "summary_ja": "ブライアン・マスト下院外交委員長は、ジェンスン・フアン前エヌビディアCEOが感謝祭までに議会で証言することに合意したと明らかにし、証言は非公開だが録音・記録されると述べた。委員長らは書簡で「直ちに対処すべき明確な国家安全保障上の懸念がある」とし、AI監督法やチップ安全保障法などの成立を求めた。マスト氏は「エヌビディアは米国にとって非常に重要な企業だが、フアン氏には答えるべき非常に深刻な疑問がある」と語った。"
+ },
+ {
   "date": "2026-11-12",
   "headline": "[속보] 네이버, 3분기 영업익 4513억원·전년比 20.9%↓…매출은 역대 최대, 물류 자회사 설립 추진",
   "headline_ko": "네이버, 3분기 매출 역대 최대에도 AI 인프라 투자에 영업익 20.9%↓",
