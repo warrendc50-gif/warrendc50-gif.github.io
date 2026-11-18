@@ -36,6 +36,25 @@
   "summary_ja": "英国家統計局(ONS)によると、10月の消費者物価指数(CPI)は前年比3.6%上昇し、9月(3.5%)から伸びが拡大した。住居費を含むCPIHは3.7%、コアCPIHは3.1%、サービス物価(CPIH)は3.9%で9月とほぼ同じだった。ONSは自動車燃料を中心とする交通費が最大の押し上げ要因だったとした。"
  },
  {
+  "date": "2026-11-18",
+  "headline": "Japan logs 476.5 bln yen trade deficit in October",
+  "headline_ko": "일본 10월 무역수지 4765억엔 적자…6개월 연속",
+  "outlet": "Xinhua",
+  "url": "https://english.news.cn/asiapacific/20261118/a9e3802d03274a27b6508b13f7aa7ff5/c.html",
+  "summary_ko": "일본 재무성 속보치에 따르면 10월 무역수지는 4765억엔 적자로 6개월 연속 적자를 기록했다. 수출은 20.5% 늘어난 11조7700억엔, 수입은 21.6% 늘어난 12조2500억엔으로 모두 10월 기준 사상 최대였고, 대미 수출은 23.9% 증가했다. 중동 긴장 장기화에 따른 원유 고가가 수입 증가에 영향을 줬으며, 물량 기준 수출은 5.8% 늘고 수입은 0.2% 줄었다.",
+  "topics": [
+   "trade",
+   "macro"
+  ],
+  "orgs": [
+   "Japan Ministry of Finance"
+  ],
+  "headline_en": "Japan logs 476.5 bln yen trade deficit in October",
+  "summary_en": "According to preliminary Ministry of Finance data, Japan posted a trade deficit of 476.5 billion yen in October, its sixth consecutive monthly deficit. Exports rose 20.5% to 11.77 trillion yen and imports rose 21.6% to 12.25 trillion yen, both records for October, and exports to the US increased 23.9%. Persistently high crude oil prices amid prolonged Middle East tensions contributed to import growth; by volume, exports rose 5.8% while imports fell 0.2%.",
+  "headline_ja": "日本の10月貿易収支、4765億円の赤字…6カ月連続",
+  "summary_ja": "財務省の速報値によると、10月の貿易収支は4765億円の赤字で、6カ月連続の赤字となった。輸出は20.5%増の11兆7700億円、輸入は21.6%増の12兆2500億円でいずれも10月として過去最高となり、対米輸出は23.9%増加した。中東の緊張長期化による原油高が輸入増加に影響し、数量ベースでは輸出が5.8%増、輸入は0.2%減だった。"
+ },
+ {
   "date": "2026-11-17",
   "headline": "Japan and ASEAN agree to strengthen supply chains — The Japan Times",
   "headline_ko": "일본·아세안 정상, 에너지·공급망 협력 강화 합의…'경제 회복력' 공동성명 채택",
