@@ -1,5 +1,23 @@
 [
  {
+  "date": "2026-11-18",
+  "headline": "Stocks drop as booming Nvidia results drowned by spy scandal",
+  "headline_ko": "아시아 증시, 엔비디아 호실적에도 하락…'스파이 스캔들' 우려가 압도",
+  "outlet": "AFP (France 24)",
+  "url": "https://www.france24.com/en/live-news/20261118-stocks-drop-as-booming-nvidia-results-drowned-by-spy-scandal",
+  "summary_ko": "18일 아시아 증시는 엔비디아의 호실적(3분기 매출 1150억 달러 이상, 순이익 653억 달러)에도 젠슨 황을 둘러싼 스파이 스캔들 우려에 눌려 장 초반 상승분을 내줬다. 한국시간 오전 11시 30분께 닛케이225는 0.3% 내린 58,696.54, 코스피는 0.2% 내린 4,959.83, 항셍은 0.5% 하락했다. SPI자산운용의 스티븐 이네스는 \"조사와 의혹이 잘못의 확인은 아니지만 엔비디아가 실적 발표에 택했을 배경은 분명 아니다\"라고 말했다.",
+  "topics": [
+   "markets"
+  ],
+  "orgs": [
+   "Nvidia"
+  ],
+  "headline_en": "Stocks drop as booming Nvidia results drowned by spy scandal",
+  "summary_en": "Asian equities on the 18th failed to capitalize on Nvidia's blockbuster results (third-quarter revenue above $115 billion, net profit of $65.3 billion), giving up early gains as concerns over the spy scandal surrounding Jensen Huang weighed. At around 0230 GMT, the Nikkei 225 was down 0.3% at 58,696.54, the Kospi down 0.2% at 4,959.83 and the Hang Seng down 0.5%. Stephen Innes of SPI Asset Management said the investigations and allegations \"aren't findings of wrongdoing, but they certainly aren't the backdrop Nvidia would have chosen for its earnings presentation.\"",
+  "headline_ja": "アジア株、エヌビディア好決算でも下落…「スパイ・スキャンダル」懸念が上回る",
+  "summary_ja": "18日のアジア株式市場は、エヌビディアの好決算（第3四半期売上高1150億ドル超、純利益653億ドル）にもかかわらず、ジェンスン・フアン氏をめぐるスパイ・スキャンダルへの懸念に押され、序盤の上げ幅を失った。日本時間午前11時30分ごろ、日経225は0.3%安の58,696.54、KOSPIは0.2%安の4,959.83、ハンセン指数は0.5%下落した。SPIアセット・マネジメントのスティーブン・イネス氏は「調査や疑惑は不正の認定ではないが、エヌビディアが決算発表に選んだであろう背景でないのは確かだ」と述べた。"
+ },
+ {
   "date": "2026-11-17",
   "headline": "Japan and ASEAN agree to strengthen supply chains — The Japan Times",
   "headline_ko": "일본·아세안 정상, 에너지·공급망 협력 강화 합의…'경제 회복력' 공동성명 채택",
