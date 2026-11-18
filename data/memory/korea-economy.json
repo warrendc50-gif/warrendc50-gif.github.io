@@ -1,22 +1,23 @@
 [
  {
   "date": "2026-11-18",
-  "headline": "[개장시황] 코스피, 엔비디아 훈풍에 2%대 상승 출발…5100선 회복",
-  "headline_ko": "코스피, 엔비디아 호실적에 2%대 상승 출발…하루 만에 5100선 회복",
-  "outlet": "아주경제",
-  "url": "https://www.ajunews.com/view/20261118090637107",
-  "summary_ko": "18일 코스피는 전장보다 130.34포인트(2.62%) 오른 5098.82로 출발해 오전 9시 4분 5100선을 회복했고, 코스닥도 2.29% 오른 664.93에 개장했다. 엔비디아가 시장 예상을 웃돈 3분기 매출과 4분기 전망을 내놓으며 AI 수요 우려가 누그러지자 삼성전자(3.63%)와 SK하이닉스(5.10%) 등 반도체주로 매수세가 몰렸다. 다만 투자심리와 수급 여건이 완전히 회복됐다고 보기는 어렵다는 평가가 나왔다.",
+  "headline": "[마감시황] 엔비디아·기관 매수세…코스피 5000선 탈환",
+  "headline_ko": "[마감시황] 엔비디아·기관 매수세…코스피 5000선 탈환",
+  "outlet": "뉴스핌",
+  "url": "https://www.newspim.com/news/view/20261118001065",
+  "summary_ko": "18일 코스피는 98.96포인트(1.99%) 오른 5067.44, 코스닥은 1.96% 오른 662.81에 마감해 하루 만에 5000선을 되찾았다. 엔비디아 3분기 매출 1158억4000만달러가 예상을 웃돈 가운데 기관이 5492억원을 순매수했고 외국인(3276억원)과 개인(6699억원)은 팔았다. 원·달러 환율은 5.2원 내린 1333.0원이었고, 엔비디아 중국용 호퍼 칩 출하 중단 보도와 앤트로픽 상장은 변수로 꼽혔다.",
   "topics": [
-   "stocks"
+   "stocks",
+   "fx"
   ],
   "orgs": [
    "한국거래소",
    "Nvidia"
   ],
-  "headline_en": "KOSPI opens up over 2% on Nvidia tailwind, recovers 5,100 level",
-  "summary_en": "On the 18th the KOSPI opened up 130.34 points (2.62%) at 5,098.82 and recovered the 5,100 level by 9:04 a.m., while the KOSDAQ opened 2.29% higher at 664.93. As Nvidia's better-than-expected third-quarter revenue and fourth-quarter outlook eased AI demand concerns, buying flowed into chip stocks such as Samsung Electronics (+3.63%) and SK hynix (+5.10%). Analysts said, however, that sentiment and supply-demand conditions have not fully recovered.",
-  "headline_ja": "KOSPI、エヌビディア好決算で2%超高く寄り付き…1日で5100台回復",
-  "summary_ja": "18日のKOSPIは前日比130.34ポイント（2.62%）高の5098.82で寄り付き、午前9時4分に5100台を回復し、KOSDAQも2.29%高の664.93で始まった。エヌビディアが市場予想を上回る第3四半期売上高と第4四半期見通しを示しAI需要への懸念が和らぐと、サムスン電子（3.63%高）やSKハイニックス（5.10%高）など半導体株に買いが集まった。ただ投資心理と需給環境が完全に回復したとは言い難いとの見方も出た。"
+  "headline_en": "[Market close] Nvidia and institutional buying: KOSPI reclaims 5,000",
+  "summary_en": "On the 18th the KOSPI closed up 98.96 points (1.99%) at 5,067.44 and the KOSDAQ rose 1.96% to 662.81, reclaiming the 5,000 level in one day. With Nvidia's Q3 revenue of $115.84 billion beating expectations, institutions were net buyers of 549.2 billion won while foreigners (327.6 billion won) and individuals (669.9 billion won) sold. The won-dollar rate fell 5.2 won to 1,333.0, and reports that Nvidia halted shipments of China-bound Hopper chips and Anthropic's listing were cited as variables.",
+  "headline_ja": "[引け概況] エヌビディア・機関の買い…KOSPI、5000台を奪還",
+  "summary_ja": "18日のKOSPIは98.96ポイント(1.99%)高の5067.44、KOSDAQは1.96%高の662.81で引け、1日で5000台を回復した。エヌビディアの第3四半期売上高1158億4000万ドルが予想を上回る中、機関が5492億ウォンを買い越し、外国人(3276億ウォン)と個人(6699億ウォン)は売り越した。ウォン・ドル相場は5.2ウォン下落の1333.0ウォンで、エヌビディアの中国向けホッパーチップ出荷停止報道とアンソロピックの上場が変数に挙げられた。"
  },
  {
   "date": "2026-11-18",
